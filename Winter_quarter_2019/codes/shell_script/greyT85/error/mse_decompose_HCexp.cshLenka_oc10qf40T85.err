@@ -1,0 +1,57 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 524, in <module>
+    del_m_mmc           =delta_m_mmc(CpT+gZ+Lq)
+TypeError: delta_m_mmc() takes at least 3 arguments (1 given)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 220, in <module>
+    SFC= shflx + lhflx + LW_sfc_up - LW_sfc_dn  + SW_sfc   ## upwards
+ValueError: operands could not be broadcast together with shapes (720,128,256) (0,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 220, in <module>
+    SFC= shflx + lhflx + LW_sfc_up - LW_sfc_dn  + SW_sfc   ## upwards
+ValueError: operands could not be broadcast together with shapes (720,128,256) (0,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 220, in <module>
+    SFC= shflx + lhflx + LW_sfc_up - LW_sfc_dn  + SW_sfc   ## upwards
+ValueError: operands could not be broadcast together with shapes (720,128,256) (0,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 220, in <module>
+    Net_rad=SFC+TOA
+ValueError: operands could not be broadcast together with shapes (720,128,256) (0,128,256) 
+slurmstepd-midway795: error: *** JOB 56729630 ON midway795 CANCELLED AT 2019-01-28T20:27:49 ***

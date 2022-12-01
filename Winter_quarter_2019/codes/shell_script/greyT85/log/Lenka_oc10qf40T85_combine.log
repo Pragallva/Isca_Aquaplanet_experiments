@@ -1,0 +1,2222 @@
+01/30/2019 12:11:49 PM ** INTERPOLATION ** 
+01/30/2019 12:11:49 PM ** INTERPOLATION ** 
+01/30/2019 12:24:18 PM ** INTERPOLATION ** 
+01/30/2019 12:24:21 PM ** INTERPOLATION ** 
+01/30/2019 12:24:23 PM ** INTERPOLATION ** 
+01/30/2019 12:24:25 PM ** INTERPOLATION ** 
+01/30/2019 12:24:27 PM ** INTERPOLATION ** 
+01/30/2019 12:24:28 PM ** INTERPOLATION ** 
+01/30/2019 12:24:30 PM ** INTERPOLATION ** 
+01/30/2019 12:24:32 PM ** INTERPOLATION ** 
+01/30/2019 12:24:34 PM ** INTERPOLATION ** 
+01/30/2019 12:24:35 PM ** INTERPOLATION ** 
+01/30/2019 12:27:47 PM ** INTERPOLATION ** 
+01/30/2019 12:27:49 PM ** INTERPOLATION ** 
+01/30/2019 12:27:51 PM ** INTERPOLATION ** 
+01/30/2019 12:27:53 PM ** INTERPOLATION ** 
+01/30/2019 12:27:54 PM ** INTERPOLATION ** 
+01/30/2019 12:27:56 PM ** INTERPOLATION ** 
+01/30/2019 12:27:58 PM ** INTERPOLATION ** 
+01/30/2019 12:28:00 PM ** INTERPOLATION ** 
+01/30/2019 12:28:01 PM ** INTERPOLATION ** 
+01/30/2019 12:28:03 PM ** INTERPOLATION ** 
+01/30/2019 12:33:23 PM ** INTERPOLATION ** 
+01/30/2019 12:33:35 PM updated  MSE_flux
+01/30/2019 12:33:35 PM updated  KE_flux
+01/30/2019 12:33:35 PM updated  latent_flux
+01/30/2019 12:33:36 PM updated  potential_flux
+01/30/2019 12:33:36 PM updated  dh_by_dt
+01/30/2019 12:33:36 PM updated  sensible_flux
+01/30/2019 12:33:36 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:33:36 PM updated  SE_sensible
+01/30/2019 12:33:36 PM updated  TE_moist
+01/30/2019 12:33:36 PM updated  SE_flux
+01/30/2019 12:33:36 PM updated  SE_pot
+01/30/2019 12:33:36 PM updated  dhdt
+01/30/2019 12:33:36 PM updated  MM_flux
+01/30/2019 12:33:36 PM updated  KE_flux
+01/30/2019 12:33:36 PM updated  MM_pot
+01/30/2019 12:33:36 PM updated  TE_flux
+01/30/2019 12:33:36 PM updated  TE_sensible
+01/30/2019 12:33:36 PM updated  MM_sensible
+01/30/2019 12:33:36 PM updated  SE_moist
+01/30/2019 12:33:36 PM updated  MM_moist
+01/30/2019 12:33:36 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:33:36 PM updated  Net_rad
+01/30/2019 12:33:36 PM updated  TOA_d
+01/30/2019 12:33:36 PM updated  SW_toa_d
+01/30/2019 12:33:36 PM updated  shflx_u
+01/30/2019 12:33:36 PM updated  olr
+01/30/2019 12:33:36 PM updated  precip
+01/30/2019 12:33:36 PM updated  lhflx_u
+01/30/2019 12:33:36 PM updated  SHF
+01/30/2019 12:33:36 PM updated  flux_oceanq
+01/30/2019 12:33:36 PM updated  SFC_u
+01/30/2019 12:33:36 PM updated  SW_sfc_d
+01/30/2019 12:33:36 PM updated  LW_sfc_d
+01/30/2019 12:33:36 PM updated  SWABS
+01/30/2019 12:33:36 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:33:36 PM updated  del_m_mmc_moist
+01/30/2019 12:33:36 PM updated  del_mv_mmc_moist
+01/30/2019 12:33:36 PM updated  del_m_mmc
+01/30/2019 12:33:36 PM updated  MM_flux
+01/30/2019 12:33:36 PM updated  del_mv_mmc
+01/30/2019 12:33:36 PM updated  del_m_mmc_sensible
+01/30/2019 12:33:36 PM updated  del_mv_mmc_sensible
+01/30/2019 12:33:36 PM updated  del_m_mmc_pot
+01/30/2019 12:33:36 PM updated  del_mv_mmc_pot
+01/30/2019 12:33:36 PM updated  del_v_mmc_pot
+01/30/2019 12:33:36 PM updated  del_v_mmc_sensible
+01/30/2019 12:33:36 PM updated  del_v_mmc_moist
+01/30/2019 12:33:36 PM updated  del_v_mmc
+01/30/2019 12:33:36 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:33:37 PM updated  Cp
+01/30/2019 12:33:37 PM updated  g
+01/30/2019 12:33:37 PM updated  temp
+01/30/2019 12:33:37 PM updated  L
+01/30/2019 12:33:37 PM updated  q
+01/30/2019 12:33:37 PM updated  u
+01/30/2019 12:33:37 PM updated  v
+01/30/2019 12:33:37 PM updated  Z
+01/30/2019 12:33:37 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:33:43 PM updated  MSE_flux
+01/30/2019 12:33:43 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:33:43 PM updated  del_m_mmc_moist
+01/30/2019 12:33:43 PM updated  del_mv_mmc_moist
+01/30/2019 12:33:43 PM updated  del_m_mmc
+01/30/2019 12:33:43 PM updated  MM_flux
+01/30/2019 12:33:43 PM updated  del_mv_mmc
+01/30/2019 12:33:43 PM updated  del_m_mmc_sensible
+01/30/2019 12:33:43 PM updated  del_mv_mmc_sensible
+01/30/2019 12:33:43 PM updated  del_m_mmc_pot
+01/30/2019 12:33:43 PM updated  del_mv_mmc_pot
+01/30/2019 12:33:43 PM updated  del_v_mmc_pot
+01/30/2019 12:33:43 PM updated  del_v_mmc_sensible
+01/30/2019 12:33:43 PM updated  del_v_mmc_moist
+01/30/2019 12:33:43 PM updated  del_v_mmc
+01/30/2019 12:33:43 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:33:43 PM updated  EMF
+01/30/2019 12:33:43 PM updated  vert_EKE
+01/30/2019 12:33:43 PM updated  u_sq
+01/30/2019 12:33:43 PM updated  EKE
+01/30/2019 12:33:43 PM updated  lon
+01/30/2019 12:33:43 PM updated  sigma_full
+01/30/2019 12:33:43 PM updated  vert_Zsq
+01/30/2019 12:33:43 PM updated  vert_EMF
+01/30/2019 12:33:43 PM updated  Z_sq
+01/30/2019 12:33:43 PM updated  lat
+01/30/2019 12:33:43 PM updated  v_sq
+01/30/2019 12:33:43 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:33:43 PM updated  SE_sensible
+01/30/2019 12:33:43 PM updated  TE_moist
+01/30/2019 12:33:43 PM updated  SE_flux
+01/30/2019 12:33:43 PM updated  SE_pot
+01/30/2019 12:33:43 PM updated  dhdt
+01/30/2019 12:33:43 PM updated  MM_flux
+01/30/2019 12:33:43 PM updated  KE_flux
+01/30/2019 12:33:43 PM updated  MM_pot
+01/30/2019 12:33:43 PM updated  TE_flux
+01/30/2019 12:33:43 PM updated  TE_sensible
+01/30/2019 12:33:43 PM updated  MM_sensible
+01/30/2019 12:33:43 PM updated  SE_moist
+01/30/2019 12:33:43 PM updated  MM_moist
+01/30/2019 12:33:43 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:33:43 PM Looks great !!
+01/30/2019 12:33:44 PM ** INTERPOLATION ** 
+01/30/2019 12:33:55 PM updated  MSE_flux
+01/30/2019 12:33:56 PM updated  KE_flux
+01/30/2019 12:33:56 PM updated  latent_flux
+01/30/2019 12:33:56 PM updated  potential_flux
+01/30/2019 12:33:56 PM updated  dh_by_dt
+01/30/2019 12:33:56 PM updated  sensible_flux
+01/30/2019 12:33:56 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:33:56 PM updated  SE_sensible
+01/30/2019 12:33:56 PM updated  TE_moist
+01/30/2019 12:33:56 PM updated  SE_flux
+01/30/2019 12:33:56 PM updated  SE_pot
+01/30/2019 12:33:56 PM updated  dhdt
+01/30/2019 12:33:56 PM updated  MM_flux
+01/30/2019 12:33:56 PM updated  KE_flux
+01/30/2019 12:33:56 PM updated  MM_pot
+01/30/2019 12:33:56 PM updated  TE_flux
+01/30/2019 12:33:56 PM updated  TE_sensible
+01/30/2019 12:33:56 PM updated  MM_sensible
+01/30/2019 12:33:56 PM updated  SE_moist
+01/30/2019 12:33:56 PM updated  MM_moist
+01/30/2019 12:33:56 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:33:56 PM updated  Net_rad
+01/30/2019 12:33:56 PM updated  TOA_d
+01/30/2019 12:33:56 PM updated  SW_toa_d
+01/30/2019 12:33:56 PM updated  shflx_u
+01/30/2019 12:33:56 PM updated  olr
+01/30/2019 12:33:56 PM updated  precip
+01/30/2019 12:33:56 PM updated  lhflx_u
+01/30/2019 12:33:56 PM updated  SHF
+01/30/2019 12:33:56 PM updated  flux_oceanq
+01/30/2019 12:33:56 PM updated  SFC_u
+01/30/2019 12:33:56 PM updated  SW_sfc_d
+01/30/2019 12:33:56 PM updated  LW_sfc_d
+01/30/2019 12:33:56 PM updated  SWABS
+01/30/2019 12:33:56 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:33:57 PM updated  del_m_mmc_moist
+01/30/2019 12:33:57 PM updated  del_mv_mmc_moist
+01/30/2019 12:33:57 PM updated  del_m_mmc
+01/30/2019 12:33:57 PM updated  MM_flux
+01/30/2019 12:33:57 PM updated  del_mv_mmc
+01/30/2019 12:33:57 PM updated  del_m_mmc_sensible
+01/30/2019 12:33:57 PM updated  del_mv_mmc_sensible
+01/30/2019 12:33:57 PM updated  del_m_mmc_pot
+01/30/2019 12:33:57 PM updated  del_mv_mmc_pot
+01/30/2019 12:33:57 PM updated  del_v_mmc_pot
+01/30/2019 12:33:57 PM updated  del_v_mmc_sensible
+01/30/2019 12:33:57 PM updated  del_v_mmc_moist
+01/30/2019 12:33:57 PM updated  del_v_mmc
+01/30/2019 12:33:57 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:33:57 PM updated  Cp
+01/30/2019 12:33:57 PM updated  g
+01/30/2019 12:33:57 PM updated  temp
+01/30/2019 12:33:57 PM updated  L
+01/30/2019 12:33:57 PM updated  q
+01/30/2019 12:33:57 PM updated  u
+01/30/2019 12:33:57 PM updated  v
+01/30/2019 12:33:57 PM updated  Z
+01/30/2019 12:33:57 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:34:02 PM updated  MSE_flux
+01/30/2019 12:34:02 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:34:03 PM updated  del_m_mmc_moist
+01/30/2019 12:34:03 PM updated  del_mv_mmc_moist
+01/30/2019 12:34:03 PM updated  del_m_mmc
+01/30/2019 12:34:03 PM updated  MM_flux
+01/30/2019 12:34:03 PM updated  del_mv_mmc
+01/30/2019 12:34:03 PM updated  del_m_mmc_sensible
+01/30/2019 12:34:03 PM updated  del_mv_mmc_sensible
+01/30/2019 12:34:03 PM updated  del_m_mmc_pot
+01/30/2019 12:34:03 PM updated  del_mv_mmc_pot
+01/30/2019 12:34:03 PM updated  del_v_mmc_pot
+01/30/2019 12:34:03 PM updated  del_v_mmc_sensible
+01/30/2019 12:34:03 PM updated  del_v_mmc_moist
+01/30/2019 12:34:03 PM updated  del_v_mmc
+01/30/2019 12:34:03 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:34:03 PM updated  EMF
+01/30/2019 12:34:03 PM updated  vert_EKE
+01/30/2019 12:34:03 PM updated  u_sq
+01/30/2019 12:34:03 PM updated  EKE
+01/30/2019 12:34:03 PM updated  lon
+01/30/2019 12:34:03 PM updated  sigma_full
+01/30/2019 12:34:03 PM updated  vert_Zsq
+01/30/2019 12:34:03 PM updated  vert_EMF
+01/30/2019 12:34:03 PM updated  Z_sq
+01/30/2019 12:34:03 PM updated  lat
+01/30/2019 12:34:03 PM updated  v_sq
+01/30/2019 12:34:03 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:34:03 PM updated  SE_sensible
+01/30/2019 12:34:03 PM updated  TE_moist
+01/30/2019 12:34:03 PM updated  SE_flux
+01/30/2019 12:34:03 PM updated  SE_pot
+01/30/2019 12:34:03 PM updated  dhdt
+01/30/2019 12:34:03 PM updated  MM_flux
+01/30/2019 12:34:03 PM updated  KE_flux
+01/30/2019 12:34:03 PM updated  MM_pot
+01/30/2019 12:34:03 PM updated  TE_flux
+01/30/2019 12:34:03 PM updated  TE_sensible
+01/30/2019 12:34:03 PM updated  MM_sensible
+01/30/2019 12:34:03 PM updated  SE_moist
+01/30/2019 12:34:03 PM updated  MM_moist
+01/30/2019 12:34:03 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:34:03 PM Looks great !!
+01/30/2019 12:34:07 PM ** INTERPOLATION ** 
+01/30/2019 12:34:22 PM updated  MSE_flux
+01/30/2019 12:34:22 PM updated  KE_flux
+01/30/2019 12:34:22 PM updated  latent_flux
+01/30/2019 12:34:23 PM updated  potential_flux
+01/30/2019 12:34:23 PM updated  dh_by_dt
+01/30/2019 12:34:23 PM updated  sensible_flux
+01/30/2019 12:34:23 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:34:23 PM updated  SE_sensible
+01/30/2019 12:34:23 PM updated  TE_moist
+01/30/2019 12:34:23 PM updated  SE_flux
+01/30/2019 12:34:23 PM updated  SE_pot
+01/30/2019 12:34:23 PM updated  dhdt
+01/30/2019 12:34:23 PM updated  MM_flux
+01/30/2019 12:34:23 PM updated  KE_flux
+01/30/2019 12:34:23 PM updated  MM_pot
+01/30/2019 12:34:23 PM updated  TE_flux
+01/30/2019 12:34:23 PM updated  TE_sensible
+01/30/2019 12:34:23 PM updated  MM_sensible
+01/30/2019 12:34:23 PM updated  SE_moist
+01/30/2019 12:34:23 PM updated  MM_moist
+01/30/2019 12:34:23 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:34:23 PM updated  Net_rad
+01/30/2019 12:34:23 PM updated  TOA_d
+01/30/2019 12:34:23 PM updated  SW_toa_d
+01/30/2019 12:34:23 PM updated  shflx_u
+01/30/2019 12:34:23 PM updated  olr
+01/30/2019 12:34:23 PM updated  precip
+01/30/2019 12:34:23 PM updated  lhflx_u
+01/30/2019 12:34:23 PM updated  SHF
+01/30/2019 12:34:23 PM updated  flux_oceanq
+01/30/2019 12:34:23 PM updated  SFC_u
+01/30/2019 12:34:23 PM updated  SW_sfc_d
+01/30/2019 12:34:23 PM updated  LW_sfc_d
+01/30/2019 12:34:23 PM updated  SWABS
+01/30/2019 12:34:23 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:34:23 PM updated  del_m_mmc_moist
+01/30/2019 12:34:23 PM updated  del_mv_mmc_moist
+01/30/2019 12:34:23 PM updated  del_m_mmc
+01/30/2019 12:34:23 PM updated  MM_flux
+01/30/2019 12:34:23 PM updated  del_mv_mmc
+01/30/2019 12:34:23 PM updated  del_m_mmc_sensible
+01/30/2019 12:34:23 PM updated  del_mv_mmc_sensible
+01/30/2019 12:34:23 PM updated  del_m_mmc_pot
+01/30/2019 12:34:23 PM updated  del_mv_mmc_pot
+01/30/2019 12:34:23 PM updated  del_v_mmc_pot
+01/30/2019 12:34:23 PM updated  del_v_mmc_sensible
+01/30/2019 12:34:23 PM updated  del_v_mmc_moist
+01/30/2019 12:34:23 PM updated  del_v_mmc
+01/30/2019 12:34:23 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:34:23 PM updated  Cp
+01/30/2019 12:34:23 PM updated  g
+01/30/2019 12:34:23 PM updated  temp
+01/30/2019 12:34:23 PM updated  L
+01/30/2019 12:34:23 PM updated  q
+01/30/2019 12:34:23 PM updated  u
+01/30/2019 12:34:23 PM updated  v
+01/30/2019 12:34:23 PM updated  Z
+01/30/2019 12:34:23 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:34:30 PM updated  MSE_flux
+01/30/2019 12:34:30 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:34:30 PM updated  del_m_mmc_moist
+01/30/2019 12:34:30 PM updated  del_mv_mmc_moist
+01/30/2019 12:34:30 PM updated  del_m_mmc
+01/30/2019 12:34:30 PM updated  MM_flux
+01/30/2019 12:34:30 PM updated  del_mv_mmc
+01/30/2019 12:34:30 PM updated  del_m_mmc_sensible
+01/30/2019 12:34:30 PM updated  del_mv_mmc_sensible
+01/30/2019 12:34:30 PM updated  del_m_mmc_pot
+01/30/2019 12:34:30 PM updated  del_mv_mmc_pot
+01/30/2019 12:34:30 PM updated  del_v_mmc_pot
+01/30/2019 12:34:30 PM updated  del_v_mmc_sensible
+01/30/2019 12:34:30 PM updated  del_v_mmc_moist
+01/30/2019 12:34:30 PM updated  del_v_mmc
+01/30/2019 12:34:30 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:34:30 PM updated  EMF
+01/30/2019 12:34:30 PM updated  vert_EKE
+01/30/2019 12:34:30 PM updated  u_sq
+01/30/2019 12:34:30 PM updated  EKE
+01/30/2019 12:34:30 PM updated  lon
+01/30/2019 12:34:30 PM updated  sigma_full
+01/30/2019 12:34:30 PM updated  vert_Zsq
+01/30/2019 12:34:30 PM updated  vert_EMF
+01/30/2019 12:34:30 PM updated  Z_sq
+01/30/2019 12:34:30 PM updated  lat
+01/30/2019 12:34:30 PM updated  v_sq
+01/30/2019 12:34:30 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:34:30 PM updated  SE_sensible
+01/30/2019 12:34:30 PM updated  TE_moist
+01/30/2019 12:34:30 PM updated  SE_flux
+01/30/2019 12:34:30 PM updated  SE_pot
+01/30/2019 12:34:30 PM updated  dhdt
+01/30/2019 12:34:30 PM updated  MM_flux
+01/30/2019 12:34:30 PM updated  KE_flux
+01/30/2019 12:34:30 PM updated  MM_pot
+01/30/2019 12:34:30 PM updated  TE_flux
+01/30/2019 12:34:30 PM updated  TE_sensible
+01/30/2019 12:34:30 PM updated  MM_sensible
+01/30/2019 12:34:30 PM updated  SE_moist
+01/30/2019 12:34:30 PM updated  MM_moist
+01/30/2019 12:34:30 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:34:30 PM Looks great !!
+01/30/2019 12:34:31 PM ** INTERPOLATION ** 
+01/30/2019 12:34:42 PM updated  MSE_flux
+01/30/2019 12:34:42 PM updated  KE_flux
+01/30/2019 12:34:42 PM updated  latent_flux
+01/30/2019 12:34:42 PM updated  potential_flux
+01/30/2019 12:34:42 PM updated  dh_by_dt
+01/30/2019 12:34:42 PM updated  sensible_flux
+01/30/2019 12:34:43 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:34:43 PM updated  SE_sensible
+01/30/2019 12:34:43 PM updated  TE_moist
+01/30/2019 12:34:43 PM updated  SE_flux
+01/30/2019 12:34:43 PM updated  SE_pot
+01/30/2019 12:34:43 PM updated  dhdt
+01/30/2019 12:34:43 PM updated  MM_flux
+01/30/2019 12:34:43 PM updated  KE_flux
+01/30/2019 12:34:43 PM updated  MM_pot
+01/30/2019 12:34:43 PM updated  TE_flux
+01/30/2019 12:34:43 PM updated  TE_sensible
+01/30/2019 12:34:43 PM updated  MM_sensible
+01/30/2019 12:34:43 PM updated  SE_moist
+01/30/2019 12:34:43 PM updated  MM_moist
+01/30/2019 12:34:43 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:34:43 PM updated  Net_rad
+01/30/2019 12:34:43 PM updated  TOA_d
+01/30/2019 12:34:43 PM updated  SW_toa_d
+01/30/2019 12:34:43 PM updated  shflx_u
+01/30/2019 12:34:43 PM updated  olr
+01/30/2019 12:34:43 PM updated  precip
+01/30/2019 12:34:43 PM updated  lhflx_u
+01/30/2019 12:34:43 PM updated  SHF
+01/30/2019 12:34:43 PM updated  flux_oceanq
+01/30/2019 12:34:43 PM updated  SFC_u
+01/30/2019 12:34:43 PM updated  SW_sfc_d
+01/30/2019 12:34:43 PM updated  LW_sfc_d
+01/30/2019 12:34:43 PM updated  SWABS
+01/30/2019 12:34:43 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:34:43 PM updated  del_m_mmc_moist
+01/30/2019 12:34:43 PM updated  del_mv_mmc_moist
+01/30/2019 12:34:43 PM updated  del_m_mmc
+01/30/2019 12:34:43 PM updated  MM_flux
+01/30/2019 12:34:43 PM updated  del_mv_mmc
+01/30/2019 12:34:43 PM updated  del_m_mmc_sensible
+01/30/2019 12:34:43 PM updated  del_mv_mmc_sensible
+01/30/2019 12:34:43 PM updated  del_m_mmc_pot
+01/30/2019 12:34:43 PM updated  del_mv_mmc_pot
+01/30/2019 12:34:43 PM updated  del_v_mmc_pot
+01/30/2019 12:34:43 PM updated  del_v_mmc_sensible
+01/30/2019 12:34:43 PM updated  del_v_mmc_moist
+01/30/2019 12:34:43 PM updated  del_v_mmc
+01/30/2019 12:34:43 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:34:43 PM updated  Cp
+01/30/2019 12:34:43 PM updated  g
+01/30/2019 12:34:43 PM updated  temp
+01/30/2019 12:34:43 PM updated  L
+01/30/2019 12:34:43 PM updated  q
+01/30/2019 12:34:43 PM updated  u
+01/30/2019 12:34:43 PM updated  v
+01/30/2019 12:34:43 PM updated  Z
+01/30/2019 12:34:43 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:34:50 PM updated  MSE_flux
+01/30/2019 12:34:50 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:34:50 PM updated  del_m_mmc_moist
+01/30/2019 12:34:50 PM updated  del_mv_mmc_moist
+01/30/2019 12:34:50 PM updated  del_m_mmc
+01/30/2019 12:34:50 PM updated  MM_flux
+01/30/2019 12:34:50 PM updated  del_mv_mmc
+01/30/2019 12:34:50 PM updated  del_m_mmc_sensible
+01/30/2019 12:34:50 PM updated  del_mv_mmc_sensible
+01/30/2019 12:34:50 PM updated  del_m_mmc_pot
+01/30/2019 12:34:50 PM updated  del_mv_mmc_pot
+01/30/2019 12:34:50 PM updated  del_v_mmc_pot
+01/30/2019 12:34:50 PM updated  del_v_mmc_sensible
+01/30/2019 12:34:50 PM updated  del_v_mmc_moist
+01/30/2019 12:34:50 PM updated  del_v_mmc
+01/30/2019 12:34:50 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:34:50 PM updated  EMF
+01/30/2019 12:34:50 PM updated  vert_EKE
+01/30/2019 12:34:50 PM updated  u_sq
+01/30/2019 12:34:50 PM updated  EKE
+01/30/2019 12:34:50 PM updated  lon
+01/30/2019 12:34:50 PM updated  sigma_full
+01/30/2019 12:34:50 PM updated  vert_Zsq
+01/30/2019 12:34:50 PM updated  vert_EMF
+01/30/2019 12:34:50 PM updated  Z_sq
+01/30/2019 12:34:50 PM updated  lat
+01/30/2019 12:34:50 PM updated  v_sq
+01/30/2019 12:34:50 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:34:50 PM updated  SE_sensible
+01/30/2019 12:34:50 PM updated  TE_moist
+01/30/2019 12:34:50 PM updated  SE_flux
+01/30/2019 12:34:50 PM updated  SE_pot
+01/30/2019 12:34:50 PM updated  dhdt
+01/30/2019 12:34:50 PM updated  MM_flux
+01/30/2019 12:34:50 PM updated  KE_flux
+01/30/2019 12:34:50 PM updated  MM_pot
+01/30/2019 12:34:50 PM updated  TE_flux
+01/30/2019 12:34:50 PM updated  TE_sensible
+01/30/2019 12:34:50 PM updated  MM_sensible
+01/30/2019 12:34:50 PM updated  SE_moist
+01/30/2019 12:34:50 PM updated  MM_moist
+01/30/2019 12:34:50 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:34:50 PM Looks great !!
+01/30/2019 12:34:51 PM ** INTERPOLATION ** 
+01/30/2019 12:35:02 PM updated  MSE_flux
+01/30/2019 12:35:02 PM updated  KE_flux
+01/30/2019 12:35:02 PM updated  latent_flux
+01/30/2019 12:35:03 PM updated  potential_flux
+01/30/2019 12:35:03 PM updated  dh_by_dt
+01/30/2019 12:35:03 PM updated  sensible_flux
+01/30/2019 12:35:03 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:35:03 PM updated  SE_sensible
+01/30/2019 12:35:03 PM updated  TE_moist
+01/30/2019 12:35:03 PM updated  SE_flux
+01/30/2019 12:35:03 PM updated  SE_pot
+01/30/2019 12:35:03 PM updated  dhdt
+01/30/2019 12:35:03 PM updated  MM_flux
+01/30/2019 12:35:03 PM updated  KE_flux
+01/30/2019 12:35:03 PM updated  MM_pot
+01/30/2019 12:35:03 PM updated  TE_flux
+01/30/2019 12:35:03 PM updated  TE_sensible
+01/30/2019 12:35:03 PM updated  MM_sensible
+01/30/2019 12:35:03 PM updated  SE_moist
+01/30/2019 12:35:03 PM updated  MM_moist
+01/30/2019 12:35:03 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:35:03 PM updated  Net_rad
+01/30/2019 12:35:03 PM updated  TOA_d
+01/30/2019 12:35:03 PM updated  SW_toa_d
+01/30/2019 12:35:03 PM updated  shflx_u
+01/30/2019 12:35:03 PM updated  olr
+01/30/2019 12:35:03 PM updated  precip
+01/30/2019 12:35:03 PM updated  lhflx_u
+01/30/2019 12:35:03 PM updated  SHF
+01/30/2019 12:35:03 PM updated  flux_oceanq
+01/30/2019 12:35:03 PM updated  SFC_u
+01/30/2019 12:35:03 PM updated  SW_sfc_d
+01/30/2019 12:35:03 PM updated  LW_sfc_d
+01/30/2019 12:35:03 PM updated  SWABS
+01/30/2019 12:35:03 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:35:03 PM updated  del_m_mmc_moist
+01/30/2019 12:35:03 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:03 PM updated  del_m_mmc
+01/30/2019 12:35:03 PM updated  MM_flux
+01/30/2019 12:35:03 PM updated  del_mv_mmc
+01/30/2019 12:35:03 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:03 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:03 PM updated  del_m_mmc_pot
+01/30/2019 12:35:03 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:03 PM updated  del_v_mmc_pot
+01/30/2019 12:35:03 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:03 PM updated  del_v_mmc_moist
+01/30/2019 12:35:03 PM updated  del_v_mmc
+01/30/2019 12:35:03 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:35:03 PM updated  Cp
+01/30/2019 12:35:03 PM updated  g
+01/30/2019 12:35:03 PM updated  temp
+01/30/2019 12:35:03 PM updated  L
+01/30/2019 12:35:03 PM updated  q
+01/30/2019 12:35:03 PM updated  u
+01/30/2019 12:35:03 PM updated  v
+01/30/2019 12:35:03 PM updated  Z
+01/30/2019 12:35:03 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:35:11 PM updated  MSE_flux
+01/30/2019 12:35:11 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:35:11 PM updated  del_m_mmc_moist
+01/30/2019 12:35:11 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:11 PM updated  del_m_mmc
+01/30/2019 12:35:11 PM updated  MM_flux
+01/30/2019 12:35:11 PM updated  del_mv_mmc
+01/30/2019 12:35:11 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:11 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:11 PM updated  del_m_mmc_pot
+01/30/2019 12:35:11 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:11 PM updated  del_v_mmc_pot
+01/30/2019 12:35:11 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:11 PM updated  del_v_mmc_moist
+01/30/2019 12:35:11 PM updated  del_v_mmc
+01/30/2019 12:35:11 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:35:11 PM updated  EMF
+01/30/2019 12:35:11 PM updated  vert_EKE
+01/30/2019 12:35:11 PM updated  u_sq
+01/30/2019 12:35:11 PM updated  EKE
+01/30/2019 12:35:11 PM updated  lon
+01/30/2019 12:35:11 PM updated  sigma_full
+01/30/2019 12:35:11 PM updated  vert_Zsq
+01/30/2019 12:35:11 PM updated  vert_EMF
+01/30/2019 12:35:11 PM updated  Z_sq
+01/30/2019 12:35:11 PM updated  lat
+01/30/2019 12:35:11 PM updated  v_sq
+01/30/2019 12:35:11 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:35:11 PM updated  SE_sensible
+01/30/2019 12:35:11 PM updated  TE_moist
+01/30/2019 12:35:11 PM updated  SE_flux
+01/30/2019 12:35:11 PM updated  SE_pot
+01/30/2019 12:35:11 PM updated  dhdt
+01/30/2019 12:35:11 PM updated  MM_flux
+01/30/2019 12:35:11 PM updated  KE_flux
+01/30/2019 12:35:11 PM updated  MM_pot
+01/30/2019 12:35:11 PM updated  TE_flux
+01/30/2019 12:35:11 PM updated  TE_sensible
+01/30/2019 12:35:11 PM updated  MM_sensible
+01/30/2019 12:35:11 PM updated  SE_moist
+01/30/2019 12:35:11 PM updated  MM_moist
+01/30/2019 12:35:11 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:35:11 PM Looks great !!
+01/30/2019 12:35:12 PM ** INTERPOLATION ** 
+01/30/2019 12:35:24 PM updated  MSE_flux
+01/30/2019 12:35:24 PM updated  KE_flux
+01/30/2019 12:35:24 PM updated  latent_flux
+01/30/2019 12:35:25 PM updated  potential_flux
+01/30/2019 12:35:25 PM updated  dh_by_dt
+01/30/2019 12:35:25 PM updated  sensible_flux
+01/30/2019 12:35:25 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:35:25 PM updated  SE_sensible
+01/30/2019 12:35:25 PM updated  TE_moist
+01/30/2019 12:35:25 PM updated  SE_flux
+01/30/2019 12:35:25 PM updated  SE_pot
+01/30/2019 12:35:25 PM updated  dhdt
+01/30/2019 12:35:25 PM updated  MM_flux
+01/30/2019 12:35:25 PM updated  KE_flux
+01/30/2019 12:35:25 PM updated  MM_pot
+01/30/2019 12:35:25 PM updated  TE_flux
+01/30/2019 12:35:25 PM updated  TE_sensible
+01/30/2019 12:35:25 PM updated  MM_sensible
+01/30/2019 12:35:25 PM updated  SE_moist
+01/30/2019 12:35:25 PM updated  MM_moist
+01/30/2019 12:35:25 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:35:25 PM updated  Net_rad
+01/30/2019 12:35:25 PM updated  TOA_d
+01/30/2019 12:35:25 PM updated  SW_toa_d
+01/30/2019 12:35:25 PM updated  shflx_u
+01/30/2019 12:35:25 PM updated  olr
+01/30/2019 12:35:25 PM updated  precip
+01/30/2019 12:35:25 PM updated  lhflx_u
+01/30/2019 12:35:25 PM updated  SHF
+01/30/2019 12:35:25 PM updated  flux_oceanq
+01/30/2019 12:35:25 PM updated  SFC_u
+01/30/2019 12:35:25 PM updated  SW_sfc_d
+01/30/2019 12:35:25 PM updated  LW_sfc_d
+01/30/2019 12:35:25 PM updated  SWABS
+01/30/2019 12:35:25 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:35:25 PM updated  del_m_mmc_moist
+01/30/2019 12:35:25 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:25 PM updated  del_m_mmc
+01/30/2019 12:35:25 PM updated  MM_flux
+01/30/2019 12:35:25 PM updated  del_mv_mmc
+01/30/2019 12:35:25 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:25 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:25 PM updated  del_m_mmc_pot
+01/30/2019 12:35:25 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:25 PM updated  del_v_mmc_pot
+01/30/2019 12:35:25 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:25 PM updated  del_v_mmc_moist
+01/30/2019 12:35:25 PM updated  del_v_mmc
+01/30/2019 12:35:25 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:35:25 PM updated  Cp
+01/30/2019 12:35:25 PM updated  g
+01/30/2019 12:35:25 PM updated  temp
+01/30/2019 12:35:25 PM updated  L
+01/30/2019 12:35:25 PM updated  q
+01/30/2019 12:35:25 PM updated  u
+01/30/2019 12:35:25 PM updated  v
+01/30/2019 12:35:25 PM updated  Z
+01/30/2019 12:35:25 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:35:32 PM updated  MSE_flux
+01/30/2019 12:35:32 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:35:32 PM updated  del_m_mmc_moist
+01/30/2019 12:35:32 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:32 PM updated  del_m_mmc
+01/30/2019 12:35:32 PM updated  MM_flux
+01/30/2019 12:35:32 PM updated  del_mv_mmc
+01/30/2019 12:35:32 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:32 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:32 PM updated  del_m_mmc_pot
+01/30/2019 12:35:32 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:32 PM updated  del_v_mmc_pot
+01/30/2019 12:35:32 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:32 PM updated  del_v_mmc_moist
+01/30/2019 12:35:32 PM updated  del_v_mmc
+01/30/2019 12:35:32 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:35:32 PM updated  EMF
+01/30/2019 12:35:32 PM updated  vert_EKE
+01/30/2019 12:35:32 PM updated  u_sq
+01/30/2019 12:35:32 PM updated  EKE
+01/30/2019 12:35:32 PM updated  lon
+01/30/2019 12:35:32 PM updated  sigma_full
+01/30/2019 12:35:32 PM updated  vert_Zsq
+01/30/2019 12:35:32 PM updated  vert_EMF
+01/30/2019 12:35:32 PM updated  Z_sq
+01/30/2019 12:35:32 PM updated  lat
+01/30/2019 12:35:32 PM updated  v_sq
+01/30/2019 12:35:32 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:35:33 PM updated  SE_sensible
+01/30/2019 12:35:33 PM updated  TE_moist
+01/30/2019 12:35:33 PM updated  SE_flux
+01/30/2019 12:35:33 PM updated  SE_pot
+01/30/2019 12:35:33 PM updated  dhdt
+01/30/2019 12:35:33 PM updated  MM_flux
+01/30/2019 12:35:33 PM updated  KE_flux
+01/30/2019 12:35:33 PM updated  MM_pot
+01/30/2019 12:35:33 PM updated  TE_flux
+01/30/2019 12:35:33 PM updated  TE_sensible
+01/30/2019 12:35:33 PM updated  MM_sensible
+01/30/2019 12:35:33 PM updated  SE_moist
+01/30/2019 12:35:33 PM updated  MM_moist
+01/30/2019 12:35:33 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:35:33 PM Looks great !!
+01/30/2019 12:35:34 PM ** INTERPOLATION ** 
+01/30/2019 12:35:47 PM updated  MSE_flux
+01/30/2019 12:35:47 PM updated  KE_flux
+01/30/2019 12:35:47 PM updated  latent_flux
+01/30/2019 12:35:48 PM updated  potential_flux
+01/30/2019 12:35:48 PM updated  dh_by_dt
+01/30/2019 12:35:48 PM updated  sensible_flux
+01/30/2019 12:35:48 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:35:48 PM updated  SE_sensible
+01/30/2019 12:35:48 PM updated  TE_moist
+01/30/2019 12:35:48 PM updated  SE_flux
+01/30/2019 12:35:48 PM updated  SE_pot
+01/30/2019 12:35:48 PM updated  dhdt
+01/30/2019 12:35:48 PM updated  MM_flux
+01/30/2019 12:35:48 PM updated  KE_flux
+01/30/2019 12:35:48 PM updated  MM_pot
+01/30/2019 12:35:48 PM updated  TE_flux
+01/30/2019 12:35:48 PM updated  TE_sensible
+01/30/2019 12:35:48 PM updated  MM_sensible
+01/30/2019 12:35:48 PM updated  SE_moist
+01/30/2019 12:35:48 PM updated  MM_moist
+01/30/2019 12:35:48 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:35:48 PM updated  Net_rad
+01/30/2019 12:35:48 PM updated  TOA_d
+01/30/2019 12:35:48 PM updated  SW_toa_d
+01/30/2019 12:35:48 PM updated  shflx_u
+01/30/2019 12:35:48 PM updated  olr
+01/30/2019 12:35:48 PM updated  precip
+01/30/2019 12:35:48 PM updated  lhflx_u
+01/30/2019 12:35:48 PM updated  SHF
+01/30/2019 12:35:48 PM updated  flux_oceanq
+01/30/2019 12:35:48 PM updated  SFC_u
+01/30/2019 12:35:48 PM updated  SW_sfc_d
+01/30/2019 12:35:48 PM updated  LW_sfc_d
+01/30/2019 12:35:48 PM updated  SWABS
+01/30/2019 12:35:48 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:35:48 PM updated  del_m_mmc_moist
+01/30/2019 12:35:48 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:48 PM updated  del_m_mmc
+01/30/2019 12:35:48 PM updated  MM_flux
+01/30/2019 12:35:48 PM updated  del_mv_mmc
+01/30/2019 12:35:48 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:48 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:48 PM updated  del_m_mmc_pot
+01/30/2019 12:35:48 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:48 PM updated  del_v_mmc_pot
+01/30/2019 12:35:48 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:48 PM updated  del_v_mmc_moist
+01/30/2019 12:35:48 PM updated  del_v_mmc
+01/30/2019 12:35:48 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:35:48 PM updated  Cp
+01/30/2019 12:35:48 PM updated  g
+01/30/2019 12:35:48 PM updated  temp
+01/30/2019 12:35:48 PM updated  L
+01/30/2019 12:35:48 PM updated  q
+01/30/2019 12:35:48 PM updated  u
+01/30/2019 12:35:48 PM updated  v
+01/30/2019 12:35:48 PM updated  Z
+01/30/2019 12:35:48 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:35:56 PM updated  MSE_flux
+01/30/2019 12:35:56 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:35:56 PM updated  del_m_mmc_moist
+01/30/2019 12:35:56 PM updated  del_mv_mmc_moist
+01/30/2019 12:35:56 PM updated  del_m_mmc
+01/30/2019 12:35:56 PM updated  MM_flux
+01/30/2019 12:35:56 PM updated  del_mv_mmc
+01/30/2019 12:35:56 PM updated  del_m_mmc_sensible
+01/30/2019 12:35:56 PM updated  del_mv_mmc_sensible
+01/30/2019 12:35:56 PM updated  del_m_mmc_pot
+01/30/2019 12:35:56 PM updated  del_mv_mmc_pot
+01/30/2019 12:35:56 PM updated  del_v_mmc_pot
+01/30/2019 12:35:56 PM updated  del_v_mmc_sensible
+01/30/2019 12:35:56 PM updated  del_v_mmc_moist
+01/30/2019 12:35:56 PM updated  del_v_mmc
+01/30/2019 12:35:56 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:35:56 PM updated  EMF
+01/30/2019 12:35:56 PM updated  vert_EKE
+01/30/2019 12:35:56 PM updated  u_sq
+01/30/2019 12:35:56 PM updated  EKE
+01/30/2019 12:35:56 PM updated  lon
+01/30/2019 12:35:56 PM updated  sigma_full
+01/30/2019 12:35:56 PM updated  vert_Zsq
+01/30/2019 12:35:56 PM updated  vert_EMF
+01/30/2019 12:35:56 PM updated  Z_sq
+01/30/2019 12:35:56 PM updated  lat
+01/30/2019 12:35:56 PM updated  v_sq
+01/30/2019 12:35:56 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:35:56 PM updated  SE_sensible
+01/30/2019 12:35:56 PM updated  TE_moist
+01/30/2019 12:35:56 PM updated  SE_flux
+01/30/2019 12:35:56 PM updated  SE_pot
+01/30/2019 12:35:56 PM updated  dhdt
+01/30/2019 12:35:56 PM updated  MM_flux
+01/30/2019 12:35:56 PM updated  KE_flux
+01/30/2019 12:35:56 PM updated  MM_pot
+01/30/2019 12:35:56 PM updated  TE_flux
+01/30/2019 12:35:56 PM updated  TE_sensible
+01/30/2019 12:35:56 PM updated  MM_sensible
+01/30/2019 12:35:56 PM updated  SE_moist
+01/30/2019 12:35:56 PM updated  MM_moist
+01/30/2019 12:35:56 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:35:56 PM Looks great !!
+01/30/2019 12:35:57 PM ** INTERPOLATION ** 
+01/30/2019 12:36:10 PM updated  MSE_flux
+01/30/2019 12:36:10 PM updated  KE_flux
+01/30/2019 12:36:10 PM updated  latent_flux
+01/30/2019 12:36:10 PM updated  potential_flux
+01/30/2019 12:36:10 PM updated  dh_by_dt
+01/30/2019 12:36:10 PM updated  sensible_flux
+01/30/2019 12:36:11 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:36:11 PM updated  SE_sensible
+01/30/2019 12:36:11 PM updated  TE_moist
+01/30/2019 12:36:11 PM updated  SE_flux
+01/30/2019 12:36:11 PM updated  SE_pot
+01/30/2019 12:36:11 PM updated  dhdt
+01/30/2019 12:36:11 PM updated  MM_flux
+01/30/2019 12:36:11 PM updated  KE_flux
+01/30/2019 12:36:11 PM updated  MM_pot
+01/30/2019 12:36:11 PM updated  TE_flux
+01/30/2019 12:36:11 PM updated  TE_sensible
+01/30/2019 12:36:11 PM updated  MM_sensible
+01/30/2019 12:36:11 PM updated  SE_moist
+01/30/2019 12:36:11 PM updated  MM_moist
+01/30/2019 12:36:11 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:36:11 PM updated  Net_rad
+01/30/2019 12:36:11 PM updated  TOA_d
+01/30/2019 12:36:11 PM updated  SW_toa_d
+01/30/2019 12:36:11 PM updated  shflx_u
+01/30/2019 12:36:11 PM updated  olr
+01/30/2019 12:36:11 PM updated  precip
+01/30/2019 12:36:11 PM updated  lhflx_u
+01/30/2019 12:36:11 PM updated  SHF
+01/30/2019 12:36:11 PM updated  flux_oceanq
+01/30/2019 12:36:11 PM updated  SFC_u
+01/30/2019 12:36:11 PM updated  SW_sfc_d
+01/30/2019 12:36:11 PM updated  LW_sfc_d
+01/30/2019 12:36:11 PM updated  SWABS
+01/30/2019 12:36:11 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:36:11 PM updated  del_m_mmc_moist
+01/30/2019 12:36:11 PM updated  del_mv_mmc_moist
+01/30/2019 12:36:11 PM updated  del_m_mmc
+01/30/2019 12:36:11 PM updated  MM_flux
+01/30/2019 12:36:11 PM updated  del_mv_mmc
+01/30/2019 12:36:11 PM updated  del_m_mmc_sensible
+01/30/2019 12:36:11 PM updated  del_mv_mmc_sensible
+01/30/2019 12:36:11 PM updated  del_m_mmc_pot
+01/30/2019 12:36:11 PM updated  del_mv_mmc_pot
+01/30/2019 12:36:11 PM updated  del_v_mmc_pot
+01/30/2019 12:36:11 PM updated  del_v_mmc_sensible
+01/30/2019 12:36:11 PM updated  del_v_mmc_moist
+01/30/2019 12:36:11 PM updated  del_v_mmc
+01/30/2019 12:36:11 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:36:11 PM updated  Cp
+01/30/2019 12:36:11 PM updated  g
+01/30/2019 12:36:11 PM updated  temp
+01/30/2019 12:36:11 PM updated  L
+01/30/2019 12:36:11 PM updated  q
+01/30/2019 12:36:11 PM updated  u
+01/30/2019 12:36:11 PM updated  v
+01/30/2019 12:36:11 PM updated  Z
+01/30/2019 12:36:11 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:36:19 PM updated  MSE_flux
+01/30/2019 12:36:19 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:36:19 PM updated  del_m_mmc_moist
+01/30/2019 12:36:19 PM updated  del_mv_mmc_moist
+01/30/2019 12:36:19 PM updated  del_m_mmc
+01/30/2019 12:36:19 PM updated  MM_flux
+01/30/2019 12:36:19 PM updated  del_mv_mmc
+01/30/2019 12:36:19 PM updated  del_m_mmc_sensible
+01/30/2019 12:36:19 PM updated  del_mv_mmc_sensible
+01/30/2019 12:36:19 PM updated  del_m_mmc_pot
+01/30/2019 12:36:19 PM updated  del_mv_mmc_pot
+01/30/2019 12:36:19 PM updated  del_v_mmc_pot
+01/30/2019 12:36:19 PM updated  del_v_mmc_sensible
+01/30/2019 12:36:19 PM updated  del_v_mmc_moist
+01/30/2019 12:36:19 PM updated  del_v_mmc
+01/30/2019 12:36:19 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:36:19 PM updated  EMF
+01/30/2019 12:36:19 PM updated  vert_EKE
+01/30/2019 12:36:19 PM updated  u_sq
+01/30/2019 12:36:19 PM updated  EKE
+01/30/2019 12:36:19 PM updated  lon
+01/30/2019 12:36:19 PM updated  sigma_full
+01/30/2019 12:36:19 PM updated  vert_Zsq
+01/30/2019 12:36:19 PM updated  vert_EMF
+01/30/2019 12:36:19 PM updated  Z_sq
+01/30/2019 12:36:19 PM updated  lat
+01/30/2019 12:36:19 PM updated  v_sq
+01/30/2019 12:36:19 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:36:19 PM updated  SE_sensible
+01/30/2019 12:36:19 PM updated  TE_moist
+01/30/2019 12:36:19 PM updated  SE_flux
+01/30/2019 12:36:19 PM updated  SE_pot
+01/30/2019 12:36:19 PM updated  dhdt
+01/30/2019 12:36:19 PM updated  MM_flux
+01/30/2019 12:36:19 PM updated  KE_flux
+01/30/2019 12:36:19 PM updated  MM_pot
+01/30/2019 12:36:19 PM updated  TE_flux
+01/30/2019 12:36:19 PM updated  TE_sensible
+01/30/2019 12:36:19 PM updated  MM_sensible
+01/30/2019 12:36:19 PM updated  SE_moist
+01/30/2019 12:36:19 PM updated  MM_moist
+01/30/2019 12:36:19 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:36:19 PM Looks great !!
+01/30/2019 12:36:20 PM ** INTERPOLATION ** 
+01/30/2019 12:36:33 PM updated  MSE_flux
+01/30/2019 12:36:33 PM updated  KE_flux
+01/30/2019 12:36:33 PM updated  latent_flux
+01/30/2019 12:36:34 PM updated  potential_flux
+01/30/2019 12:36:34 PM updated  dh_by_dt
+01/30/2019 12:36:34 PM updated  sensible_flux
+01/30/2019 12:36:34 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:36:34 PM updated  SE_sensible
+01/30/2019 12:36:34 PM updated  TE_moist
+01/30/2019 12:36:34 PM updated  SE_flux
+01/30/2019 12:36:34 PM updated  SE_pot
+01/30/2019 12:36:34 PM updated  dhdt
+01/30/2019 12:36:34 PM updated  MM_flux
+01/30/2019 12:36:34 PM updated  KE_flux
+01/30/2019 12:36:34 PM updated  MM_pot
+01/30/2019 12:36:34 PM updated  TE_flux
+01/30/2019 12:36:34 PM updated  TE_sensible
+01/30/2019 12:36:34 PM updated  MM_sensible
+01/30/2019 12:36:34 PM updated  SE_moist
+01/30/2019 12:36:34 PM updated  MM_moist
+01/30/2019 12:36:34 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:36:34 PM updated  Net_rad
+01/30/2019 12:36:34 PM updated  TOA_d
+01/30/2019 12:36:34 PM updated  SW_toa_d
+01/30/2019 12:36:34 PM updated  shflx_u
+01/30/2019 12:36:34 PM updated  olr
+01/30/2019 12:36:34 PM updated  precip
+01/30/2019 12:36:34 PM updated  lhflx_u
+01/30/2019 12:36:34 PM updated  SHF
+01/30/2019 12:36:34 PM updated  flux_oceanq
+01/30/2019 12:36:34 PM updated  SFC_u
+01/30/2019 12:36:34 PM updated  SW_sfc_d
+01/30/2019 12:36:34 PM updated  LW_sfc_d
+01/30/2019 12:36:34 PM updated  SWABS
+01/30/2019 12:36:34 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:36:34 PM updated  del_m_mmc_moist
+01/30/2019 12:36:34 PM updated  del_mv_mmc_moist
+01/30/2019 12:36:34 PM updated  del_m_mmc
+01/30/2019 12:36:34 PM updated  MM_flux
+01/30/2019 12:36:34 PM updated  del_mv_mmc
+01/30/2019 12:36:34 PM updated  del_m_mmc_sensible
+01/30/2019 12:36:34 PM updated  del_mv_mmc_sensible
+01/30/2019 12:36:34 PM updated  del_m_mmc_pot
+01/30/2019 12:36:34 PM updated  del_mv_mmc_pot
+01/30/2019 12:36:34 PM updated  del_v_mmc_pot
+01/30/2019 12:36:34 PM updated  del_v_mmc_sensible
+01/30/2019 12:36:34 PM updated  del_v_mmc_moist
+01/30/2019 12:36:34 PM updated  del_v_mmc
+01/30/2019 12:36:34 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:36:34 PM updated  Cp
+01/30/2019 12:36:34 PM updated  g
+01/30/2019 12:36:34 PM updated  temp
+01/30/2019 12:36:34 PM updated  L
+01/30/2019 12:36:34 PM updated  q
+01/30/2019 12:36:34 PM updated  u
+01/30/2019 12:36:34 PM updated  v
+01/30/2019 12:36:34 PM updated  Z
+01/30/2019 12:36:34 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:36:41 PM updated  MSE_flux
+01/30/2019 12:36:41 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:36:41 PM updated  del_m_mmc_moist
+01/30/2019 12:36:41 PM updated  del_mv_mmc_moist
+01/30/2019 12:36:41 PM updated  del_m_mmc
+01/30/2019 12:36:41 PM updated  MM_flux
+01/30/2019 12:36:41 PM updated  del_mv_mmc
+01/30/2019 12:36:41 PM updated  del_m_mmc_sensible
+01/30/2019 12:36:41 PM updated  del_mv_mmc_sensible
+01/30/2019 12:36:41 PM updated  del_m_mmc_pot
+01/30/2019 12:36:41 PM updated  del_mv_mmc_pot
+01/30/2019 12:36:41 PM updated  del_v_mmc_pot
+01/30/2019 12:36:41 PM updated  del_v_mmc_sensible
+01/30/2019 12:36:41 PM updated  del_v_mmc_moist
+01/30/2019 12:36:41 PM updated  del_v_mmc
+01/30/2019 12:36:41 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:36:42 PM updated  EMF
+01/30/2019 12:36:42 PM updated  vert_EKE
+01/30/2019 12:36:42 PM updated  u_sq
+01/30/2019 12:36:42 PM updated  EKE
+01/30/2019 12:36:42 PM updated  lon
+01/30/2019 12:36:42 PM updated  sigma_full
+01/30/2019 12:36:42 PM updated  vert_Zsq
+01/30/2019 12:36:42 PM updated  vert_EMF
+01/30/2019 12:36:42 PM updated  Z_sq
+01/30/2019 12:36:42 PM updated  lat
+01/30/2019 12:36:42 PM updated  v_sq
+01/30/2019 12:36:42 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:36:42 PM updated  SE_sensible
+01/30/2019 12:36:42 PM updated  TE_moist
+01/30/2019 12:36:42 PM updated  SE_flux
+01/30/2019 12:36:42 PM updated  SE_pot
+01/30/2019 12:36:42 PM updated  dhdt
+01/30/2019 12:36:42 PM updated  MM_flux
+01/30/2019 12:36:42 PM updated  KE_flux
+01/30/2019 12:36:42 PM updated  MM_pot
+01/30/2019 12:36:42 PM updated  TE_flux
+01/30/2019 12:36:42 PM updated  TE_sensible
+01/30/2019 12:36:42 PM updated  MM_sensible
+01/30/2019 12:36:42 PM updated  SE_moist
+01/30/2019 12:36:42 PM updated  MM_moist
+01/30/2019 12:36:42 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:36:42 PM Looks great !!
+01/30/2019 12:36:43 PM ** INTERPOLATION ** 
+01/30/2019 12:36:56 PM updated  MSE_flux
+01/30/2019 12:36:56 PM updated  KE_flux
+01/30/2019 12:36:56 PM updated  latent_flux
+01/30/2019 12:36:56 PM updated  potential_flux
+01/30/2019 12:36:56 PM updated  dh_by_dt
+01/30/2019 12:36:57 PM updated  sensible_flux
+01/30/2019 12:36:57 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 12:36:57 PM updated  SE_sensible
+01/30/2019 12:36:57 PM updated  TE_moist
+01/30/2019 12:36:57 PM updated  SE_flux
+01/30/2019 12:36:57 PM updated  SE_pot
+01/30/2019 12:36:57 PM updated  dhdt
+01/30/2019 12:36:57 PM updated  MM_flux
+01/30/2019 12:36:57 PM updated  KE_flux
+01/30/2019 12:36:57 PM updated  MM_pot
+01/30/2019 12:36:57 PM updated  TE_flux
+01/30/2019 12:36:57 PM updated  TE_sensible
+01/30/2019 12:36:57 PM updated  MM_sensible
+01/30/2019 12:36:57 PM updated  SE_moist
+01/30/2019 12:36:57 PM updated  MM_moist
+01/30/2019 12:36:57 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 12:36:57 PM updated  Net_rad
+01/30/2019 12:36:57 PM updated  TOA_d
+01/30/2019 12:36:57 PM updated  SW_toa_d
+01/30/2019 12:36:57 PM updated  shflx_u
+01/30/2019 12:36:57 PM updated  olr
+01/30/2019 12:36:57 PM updated  precip
+01/30/2019 12:36:57 PM updated  lhflx_u
+01/30/2019 12:36:57 PM updated  SHF
+01/30/2019 12:36:57 PM updated  flux_oceanq
+01/30/2019 12:36:57 PM updated  SFC_u
+01/30/2019 12:36:57 PM updated  SW_sfc_d
+01/30/2019 12:36:57 PM updated  LW_sfc_d
+01/30/2019 12:36:57 PM updated  SWABS
+01/30/2019 12:36:57 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 12:36:57 PM updated  del_m_mmc_moist
+01/30/2019 12:36:57 PM updated  del_mv_mmc_moist
+01/30/2019 12:36:57 PM updated  del_m_mmc
+01/30/2019 12:36:57 PM updated  MM_flux
+01/30/2019 12:36:57 PM updated  del_mv_mmc
+01/30/2019 12:36:57 PM updated  del_m_mmc_sensible
+01/30/2019 12:36:57 PM updated  del_mv_mmc_sensible
+01/30/2019 12:36:57 PM updated  del_m_mmc_pot
+01/30/2019 12:36:57 PM updated  del_mv_mmc_pot
+01/30/2019 12:36:57 PM updated  del_v_mmc_pot
+01/30/2019 12:36:57 PM updated  del_v_mmc_sensible
+01/30/2019 12:36:57 PM updated  del_v_mmc_moist
+01/30/2019 12:36:57 PM updated  del_v_mmc
+01/30/2019 12:36:57 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 12:36:57 PM updated  Cp
+01/30/2019 12:36:57 PM updated  g
+01/30/2019 12:36:57 PM updated  temp
+01/30/2019 12:36:57 PM updated  L
+01/30/2019 12:36:57 PM updated  q
+01/30/2019 12:36:57 PM updated  u
+01/30/2019 12:36:57 PM updated  v
+01/30/2019 12:36:57 PM updated  Z
+01/30/2019 12:36:57 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 12:37:05 PM updated  MSE_flux
+01/30/2019 12:37:05 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 12:37:05 PM updated  del_m_mmc_moist
+01/30/2019 12:37:05 PM updated  del_mv_mmc_moist
+01/30/2019 12:37:05 PM updated  del_m_mmc
+01/30/2019 12:37:05 PM updated  MM_flux
+01/30/2019 12:37:05 PM updated  del_mv_mmc
+01/30/2019 12:37:05 PM updated  del_m_mmc_sensible
+01/30/2019 12:37:05 PM updated  del_mv_mmc_sensible
+01/30/2019 12:37:05 PM updated  del_m_mmc_pot
+01/30/2019 12:37:05 PM updated  del_mv_mmc_pot
+01/30/2019 12:37:05 PM updated  del_v_mmc_pot
+01/30/2019 12:37:05 PM updated  del_v_mmc_sensible
+01/30/2019 12:37:05 PM updated  del_v_mmc_moist
+01/30/2019 12:37:05 PM updated  del_v_mmc
+01/30/2019 12:37:05 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 12:37:05 PM updated  EMF
+01/30/2019 12:37:05 PM updated  vert_EKE
+01/30/2019 12:37:05 PM updated  u_sq
+01/30/2019 12:37:05 PM updated  EKE
+01/30/2019 12:37:05 PM updated  lon
+01/30/2019 12:37:05 PM updated  sigma_full
+01/30/2019 12:37:05 PM updated  vert_Zsq
+01/30/2019 12:37:05 PM updated  vert_EMF
+01/30/2019 12:37:05 PM updated  Z_sq
+01/30/2019 12:37:05 PM updated  lat
+01/30/2019 12:37:05 PM updated  v_sq
+01/30/2019 12:37:05 PM ..... combined and saved EKE.hkl ......
+01/30/2019 12:37:06 PM updated  SE_sensible
+01/30/2019 12:37:06 PM updated  TE_moist
+01/30/2019 12:37:06 PM updated  SE_flux
+01/30/2019 12:37:06 PM updated  SE_pot
+01/30/2019 12:37:06 PM updated  dhdt
+01/30/2019 12:37:06 PM updated  MM_flux
+01/30/2019 12:37:06 PM updated  KE_flux
+01/30/2019 12:37:06 PM updated  MM_pot
+01/30/2019 12:37:06 PM updated  TE_flux
+01/30/2019 12:37:06 PM updated  TE_sensible
+01/30/2019 12:37:06 PM updated  MM_sensible
+01/30/2019 12:37:06 PM updated  SE_moist
+01/30/2019 12:37:06 PM updated  MM_moist
+01/30/2019 12:37:06 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 12:37:06 PM Looks great !!
+01/30/2019 12:53:53 PM ** INTERPOLATION ** 
+01/30/2019 12:53:54 PM updated  plevs
+01/30/2019 12:53:54 PM updated  u
+01/30/2019 12:53:54 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:53:54 PM updated  temp
+01/30/2019 12:53:54 PM updated  ht
+01/30/2019 12:53:54 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:53:54 PM Looks great !!
+01/30/2019 12:53:55 PM ** INTERPOLATION ** 
+01/30/2019 12:53:56 PM updated  plevs
+01/30/2019 12:53:56 PM updated  u
+01/30/2019 12:53:56 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:53:56 PM updated  temp
+01/30/2019 12:53:56 PM updated  ht
+01/30/2019 12:53:56 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:53:56 PM Looks great !!
+01/30/2019 12:53:57 PM ** INTERPOLATION ** 
+01/30/2019 12:53:58 PM updated  plevs
+01/30/2019 12:53:58 PM updated  u
+01/30/2019 12:53:58 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:53:58 PM updated  temp
+01/30/2019 12:53:58 PM updated  ht
+01/30/2019 12:53:58 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:53:58 PM Looks great !!
+01/30/2019 12:53:59 PM ** INTERPOLATION ** 
+01/30/2019 12:54:00 PM updated  plevs
+01/30/2019 12:54:00 PM updated  u
+01/30/2019 12:54:00 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:00 PM updated  temp
+01/30/2019 12:54:00 PM updated  ht
+01/30/2019 12:54:00 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:00 PM Looks great !!
+01/30/2019 12:54:00 PM ** INTERPOLATION ** 
+01/30/2019 12:54:01 PM updated  plevs
+01/30/2019 12:54:01 PM updated  u
+01/30/2019 12:54:02 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:02 PM updated  temp
+01/30/2019 12:54:02 PM updated  ht
+01/30/2019 12:54:02 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:02 PM Looks great !!
+01/30/2019 12:54:02 PM ** INTERPOLATION ** 
+01/30/2019 12:54:03 PM updated  plevs
+01/30/2019 12:54:03 PM updated  u
+01/30/2019 12:54:03 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:03 PM updated  temp
+01/30/2019 12:54:03 PM updated  ht
+01/30/2019 12:54:03 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:03 PM Looks great !!
+01/30/2019 12:54:04 PM ** INTERPOLATION ** 
+01/30/2019 12:54:05 PM updated  plevs
+01/30/2019 12:54:05 PM updated  u
+01/30/2019 12:54:05 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:05 PM updated  temp
+01/30/2019 12:54:05 PM updated  ht
+01/30/2019 12:54:05 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:05 PM Looks great !!
+01/30/2019 12:54:06 PM ** INTERPOLATION ** 
+01/30/2019 12:54:07 PM updated  plevs
+01/30/2019 12:54:07 PM updated  u
+01/30/2019 12:54:07 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:07 PM updated  temp
+01/30/2019 12:54:07 PM updated  ht
+01/30/2019 12:54:07 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:07 PM Looks great !!
+01/30/2019 12:54:08 PM ** INTERPOLATION ** 
+01/30/2019 12:54:09 PM updated  plevs
+01/30/2019 12:54:09 PM updated  u
+01/30/2019 12:54:09 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:09 PM updated  temp
+01/30/2019 12:54:09 PM updated  ht
+01/30/2019 12:54:09 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:09 PM Looks great !!
+01/30/2019 12:54:10 PM ** INTERPOLATION ** 
+01/30/2019 12:54:11 PM updated  plevs
+01/30/2019 12:54:11 PM updated  u
+01/30/2019 12:54:11 PM ..... combined and saved u_v.hkl ......
+01/30/2019 12:54:11 PM updated  temp
+01/30/2019 12:54:11 PM updated  ht
+01/30/2019 12:54:11 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 12:54:11 PM Looks great !!
+01/30/2019 01:28:35 PM ** INTERPOLATION ** 
+01/30/2019 01:28:38 PM updated  plevs
+01/30/2019 01:28:38 PM updated  u
+01/30/2019 01:28:38 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:28:38 PM updated  temp
+01/30/2019 01:28:38 PM updated  ht
+01/30/2019 01:28:38 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:28:38 PM Looks great !!
+01/30/2019 01:28:38 PM ** INTERPOLATION ** 
+01/30/2019 01:28:50 PM updated  MSE_flux
+01/30/2019 01:28:50 PM updated  KE_flux
+01/30/2019 01:28:50 PM updated  latent_flux
+01/30/2019 01:28:50 PM updated  potential_flux
+01/30/2019 01:28:50 PM updated  dh_by_dt
+01/30/2019 01:28:50 PM updated  sensible_flux
+01/30/2019 01:28:51 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:28:52 PM updated  SE_sensible
+01/30/2019 01:28:52 PM updated  TE_moist
+01/30/2019 01:28:52 PM updated  SE_flux
+01/30/2019 01:28:52 PM updated  SE_pot
+01/30/2019 01:28:52 PM updated  dhdt
+01/30/2019 01:28:52 PM updated  MM_flux
+01/30/2019 01:28:52 PM updated  KE_flux
+01/30/2019 01:28:52 PM updated  MM_pot
+01/30/2019 01:28:52 PM updated  TE_flux
+01/30/2019 01:28:52 PM updated  TE_sensible
+01/30/2019 01:28:52 PM updated  MM_sensible
+01/30/2019 01:28:52 PM updated  SE_moist
+01/30/2019 01:28:52 PM updated  MM_moist
+01/30/2019 01:28:52 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:28:52 PM updated  Net_rad
+01/30/2019 01:28:52 PM updated  TOA_d
+01/30/2019 01:28:52 PM updated  SW_toa_d
+01/30/2019 01:28:52 PM updated  shflx_u
+01/30/2019 01:28:52 PM updated  olr
+01/30/2019 01:28:52 PM updated  precip
+01/30/2019 01:28:52 PM updated  lhflx_u
+01/30/2019 01:28:52 PM updated  SHF
+01/30/2019 01:28:52 PM updated  flux_oceanq
+01/30/2019 01:28:52 PM updated  SFC_u
+01/30/2019 01:28:52 PM updated  SW_sfc_d
+01/30/2019 01:28:52 PM updated  LW_sfc_d
+01/30/2019 01:28:52 PM updated  SWABS
+01/30/2019 01:28:52 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:28:52 PM updated  del_m_mmc_moist
+01/30/2019 01:28:52 PM updated  del_mv_mmc_moist
+01/30/2019 01:28:52 PM updated  del_m_mmc
+01/30/2019 01:28:52 PM updated  MM_flux
+01/30/2019 01:28:52 PM updated  del_mv_mmc
+01/30/2019 01:28:52 PM updated  del_m_mmc_sensible
+01/30/2019 01:28:52 PM updated  del_mv_mmc_sensible
+01/30/2019 01:28:52 PM updated  del_m_mmc_pot
+01/30/2019 01:28:52 PM updated  del_mv_mmc_pot
+01/30/2019 01:28:52 PM updated  del_v_mmc_pot
+01/30/2019 01:28:52 PM updated  del_v_mmc_sensible
+01/30/2019 01:28:52 PM updated  del_v_mmc_moist
+01/30/2019 01:28:52 PM updated  del_v_mmc
+01/30/2019 01:28:52 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:28:52 PM updated  Cp
+01/30/2019 01:28:52 PM updated  g
+01/30/2019 01:28:52 PM updated  temp
+01/30/2019 01:28:52 PM updated  L
+01/30/2019 01:28:52 PM updated  q
+01/30/2019 01:28:52 PM updated  u
+01/30/2019 01:28:52 PM updated  v
+01/30/2019 01:28:52 PM updated  Z
+01/30/2019 01:28:52 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:28:58 PM updated  MSE_flux
+01/30/2019 01:28:58 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:28:58 PM updated  del_m_mmc_moist
+01/30/2019 01:28:58 PM updated  del_mv_mmc_moist
+01/30/2019 01:28:58 PM updated  del_m_mmc
+01/30/2019 01:28:58 PM updated  MM_flux
+01/30/2019 01:28:58 PM updated  del_mv_mmc
+01/30/2019 01:28:58 PM updated  del_m_mmc_sensible
+01/30/2019 01:28:58 PM updated  del_mv_mmc_sensible
+01/30/2019 01:28:58 PM updated  del_m_mmc_pot
+01/30/2019 01:28:58 PM updated  del_mv_mmc_pot
+01/30/2019 01:28:58 PM updated  del_v_mmc_pot
+01/30/2019 01:28:58 PM updated  del_v_mmc_sensible
+01/30/2019 01:28:58 PM updated  del_v_mmc_moist
+01/30/2019 01:28:58 PM updated  del_v_mmc
+01/30/2019 01:28:58 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:28:58 PM updated  EMF
+01/30/2019 01:28:58 PM updated  vert_EKE
+01/30/2019 01:28:58 PM updated  u_sq
+01/30/2019 01:28:58 PM updated  EKE
+01/30/2019 01:28:58 PM updated  lon
+01/30/2019 01:28:58 PM updated  sigma_full
+01/30/2019 01:28:58 PM updated  vert_Zsq
+01/30/2019 01:28:58 PM updated  vert_EMF
+01/30/2019 01:28:58 PM updated  Z_sq
+01/30/2019 01:28:58 PM updated  lat
+01/30/2019 01:28:58 PM updated  v_sq
+01/30/2019 01:28:58 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:28:59 PM updated  SE_sensible
+01/30/2019 01:28:59 PM updated  TE_moist
+01/30/2019 01:28:59 PM updated  SE_flux
+01/30/2019 01:28:59 PM updated  SE_pot
+01/30/2019 01:28:59 PM updated  dhdt
+01/30/2019 01:28:59 PM updated  MM_flux
+01/30/2019 01:28:59 PM updated  KE_flux
+01/30/2019 01:28:59 PM updated  MM_pot
+01/30/2019 01:28:59 PM updated  TE_flux
+01/30/2019 01:28:59 PM updated  TE_sensible
+01/30/2019 01:28:59 PM updated  MM_sensible
+01/30/2019 01:28:59 PM updated  SE_moist
+01/30/2019 01:28:59 PM updated  MM_moist
+01/30/2019 01:28:59 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:28:59 PM Looks great !!
+01/30/2019 01:28:59 PM ** INTERPOLATION ** 
+01/30/2019 01:29:00 PM updated  plevs
+01/30/2019 01:29:00 PM updated  u
+01/30/2019 01:29:00 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:29:00 PM updated  temp
+01/30/2019 01:29:00 PM updated  ht
+01/30/2019 01:29:00 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:29:00 PM Looks great !!
+01/30/2019 01:29:01 PM ** INTERPOLATION ** 
+01/30/2019 01:29:12 PM updated  MSE_flux
+01/30/2019 01:29:12 PM updated  KE_flux
+01/30/2019 01:29:13 PM updated  latent_flux
+01/30/2019 01:29:13 PM updated  potential_flux
+01/30/2019 01:29:13 PM updated  dh_by_dt
+01/30/2019 01:29:13 PM updated  sensible_flux
+01/30/2019 01:29:15 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:29:15 PM updated  SE_sensible
+01/30/2019 01:29:15 PM updated  TE_moist
+01/30/2019 01:29:15 PM updated  SE_flux
+01/30/2019 01:29:15 PM updated  SE_pot
+01/30/2019 01:29:15 PM updated  dhdt
+01/30/2019 01:29:15 PM updated  MM_flux
+01/30/2019 01:29:15 PM updated  KE_flux
+01/30/2019 01:29:15 PM updated  MM_pot
+01/30/2019 01:29:15 PM updated  TE_flux
+01/30/2019 01:29:15 PM updated  TE_sensible
+01/30/2019 01:29:15 PM updated  MM_sensible
+01/30/2019 01:29:15 PM updated  SE_moist
+01/30/2019 01:29:15 PM updated  MM_moist
+01/30/2019 01:29:15 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:29:16 PM updated  Net_rad
+01/30/2019 01:29:16 PM updated  TOA_d
+01/30/2019 01:29:16 PM updated  SW_toa_d
+01/30/2019 01:29:16 PM updated  shflx_u
+01/30/2019 01:29:16 PM updated  olr
+01/30/2019 01:29:16 PM updated  precip
+01/30/2019 01:29:16 PM updated  lhflx_u
+01/30/2019 01:29:16 PM updated  SHF
+01/30/2019 01:29:16 PM updated  flux_oceanq
+01/30/2019 01:29:16 PM updated  SFC_u
+01/30/2019 01:29:16 PM updated  SW_sfc_d
+01/30/2019 01:29:16 PM updated  LW_sfc_d
+01/30/2019 01:29:16 PM updated  SWABS
+01/30/2019 01:29:16 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:29:16 PM updated  del_m_mmc_moist
+01/30/2019 01:29:16 PM updated  del_mv_mmc_moist
+01/30/2019 01:29:16 PM updated  del_m_mmc
+01/30/2019 01:29:16 PM updated  MM_flux
+01/30/2019 01:29:16 PM updated  del_mv_mmc
+01/30/2019 01:29:16 PM updated  del_m_mmc_sensible
+01/30/2019 01:29:16 PM updated  del_mv_mmc_sensible
+01/30/2019 01:29:16 PM updated  del_m_mmc_pot
+01/30/2019 01:29:16 PM updated  del_mv_mmc_pot
+01/30/2019 01:29:16 PM updated  del_v_mmc_pot
+01/30/2019 01:29:16 PM updated  del_v_mmc_sensible
+01/30/2019 01:29:16 PM updated  del_v_mmc_moist
+01/30/2019 01:29:16 PM updated  del_v_mmc
+01/30/2019 01:29:16 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:29:16 PM updated  Cp
+01/30/2019 01:29:16 PM updated  g
+01/30/2019 01:29:16 PM updated  temp
+01/30/2019 01:29:16 PM updated  L
+01/30/2019 01:29:16 PM updated  q
+01/30/2019 01:29:16 PM updated  u
+01/30/2019 01:29:16 PM updated  v
+01/30/2019 01:29:16 PM updated  Z
+01/30/2019 01:29:16 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:29:22 PM updated  MSE_flux
+01/30/2019 01:29:22 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:29:22 PM updated  del_m_mmc_moist
+01/30/2019 01:29:22 PM updated  del_mv_mmc_moist
+01/30/2019 01:29:22 PM updated  del_m_mmc
+01/30/2019 01:29:22 PM updated  MM_flux
+01/30/2019 01:29:22 PM updated  del_mv_mmc
+01/30/2019 01:29:22 PM updated  del_m_mmc_sensible
+01/30/2019 01:29:22 PM updated  del_mv_mmc_sensible
+01/30/2019 01:29:22 PM updated  del_m_mmc_pot
+01/30/2019 01:29:22 PM updated  del_mv_mmc_pot
+01/30/2019 01:29:22 PM updated  del_v_mmc_pot
+01/30/2019 01:29:22 PM updated  del_v_mmc_sensible
+01/30/2019 01:29:22 PM updated  del_v_mmc_moist
+01/30/2019 01:29:22 PM updated  del_v_mmc
+01/30/2019 01:29:22 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:29:22 PM updated  EMF
+01/30/2019 01:29:22 PM updated  vert_EKE
+01/30/2019 01:29:22 PM updated  u_sq
+01/30/2019 01:29:22 PM updated  EKE
+01/30/2019 01:29:22 PM updated  lon
+01/30/2019 01:29:22 PM updated  sigma_full
+01/30/2019 01:29:22 PM updated  vert_Zsq
+01/30/2019 01:29:22 PM updated  vert_EMF
+01/30/2019 01:29:22 PM updated  Z_sq
+01/30/2019 01:29:22 PM updated  lat
+01/30/2019 01:29:22 PM updated  v_sq
+01/30/2019 01:29:22 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:29:22 PM updated  SE_sensible
+01/30/2019 01:29:22 PM updated  TE_moist
+01/30/2019 01:29:22 PM updated  SE_flux
+01/30/2019 01:29:22 PM updated  SE_pot
+01/30/2019 01:29:22 PM updated  dhdt
+01/30/2019 01:29:22 PM updated  MM_flux
+01/30/2019 01:29:22 PM updated  KE_flux
+01/30/2019 01:29:22 PM updated  MM_pot
+01/30/2019 01:29:22 PM updated  TE_flux
+01/30/2019 01:29:22 PM updated  TE_sensible
+01/30/2019 01:29:22 PM updated  MM_sensible
+01/30/2019 01:29:22 PM updated  SE_moist
+01/30/2019 01:29:22 PM updated  MM_moist
+01/30/2019 01:29:22 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:29:22 PM Looks great !!
+01/30/2019 01:29:23 PM ** INTERPOLATION ** 
+01/30/2019 01:29:25 PM updated  plevs
+01/30/2019 01:29:25 PM updated  u
+01/30/2019 01:29:25 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:29:25 PM updated  temp
+01/30/2019 01:29:25 PM updated  ht
+01/30/2019 01:29:25 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:29:25 PM Looks great !!
+01/30/2019 01:29:25 PM ** INTERPOLATION ** 
+01/30/2019 01:29:35 PM updated  MSE_flux
+01/30/2019 01:29:35 PM updated  KE_flux
+01/30/2019 01:29:35 PM updated  latent_flux
+01/30/2019 01:29:36 PM updated  potential_flux
+01/30/2019 01:29:36 PM updated  dh_by_dt
+01/30/2019 01:29:36 PM updated  sensible_flux
+01/30/2019 01:29:37 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:29:37 PM updated  SE_sensible
+01/30/2019 01:29:37 PM updated  TE_moist
+01/30/2019 01:29:37 PM updated  SE_flux
+01/30/2019 01:29:37 PM updated  SE_pot
+01/30/2019 01:29:37 PM updated  dhdt
+01/30/2019 01:29:37 PM updated  MM_flux
+01/30/2019 01:29:37 PM updated  KE_flux
+01/30/2019 01:29:37 PM updated  MM_pot
+01/30/2019 01:29:37 PM updated  TE_flux
+01/30/2019 01:29:37 PM updated  TE_sensible
+01/30/2019 01:29:37 PM updated  MM_sensible
+01/30/2019 01:29:37 PM updated  SE_moist
+01/30/2019 01:29:37 PM updated  MM_moist
+01/30/2019 01:29:37 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:29:37 PM updated  Net_rad
+01/30/2019 01:29:37 PM updated  TOA_d
+01/30/2019 01:29:37 PM updated  SW_toa_d
+01/30/2019 01:29:37 PM updated  shflx_u
+01/30/2019 01:29:37 PM updated  olr
+01/30/2019 01:29:37 PM updated  precip
+01/30/2019 01:29:37 PM updated  lhflx_u
+01/30/2019 01:29:37 PM updated  SHF
+01/30/2019 01:29:37 PM updated  flux_oceanq
+01/30/2019 01:29:37 PM updated  SFC_u
+01/30/2019 01:29:37 PM updated  SW_sfc_d
+01/30/2019 01:29:37 PM updated  LW_sfc_d
+01/30/2019 01:29:37 PM updated  SWABS
+01/30/2019 01:29:37 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:29:37 PM updated  del_m_mmc_moist
+01/30/2019 01:29:37 PM updated  del_mv_mmc_moist
+01/30/2019 01:29:37 PM updated  del_m_mmc
+01/30/2019 01:29:37 PM updated  MM_flux
+01/30/2019 01:29:37 PM updated  del_mv_mmc
+01/30/2019 01:29:37 PM updated  del_m_mmc_sensible
+01/30/2019 01:29:37 PM updated  del_mv_mmc_sensible
+01/30/2019 01:29:37 PM updated  del_m_mmc_pot
+01/30/2019 01:29:37 PM updated  del_mv_mmc_pot
+01/30/2019 01:29:37 PM updated  del_v_mmc_pot
+01/30/2019 01:29:37 PM updated  del_v_mmc_sensible
+01/30/2019 01:29:37 PM updated  del_v_mmc_moist
+01/30/2019 01:29:37 PM updated  del_v_mmc
+01/30/2019 01:29:37 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:29:37 PM updated  Cp
+01/30/2019 01:29:37 PM updated  g
+01/30/2019 01:29:37 PM updated  temp
+01/30/2019 01:29:37 PM updated  L
+01/30/2019 01:29:37 PM updated  q
+01/30/2019 01:29:37 PM updated  u
+01/30/2019 01:29:37 PM updated  v
+01/30/2019 01:29:37 PM updated  Z
+01/30/2019 01:29:37 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:29:43 PM updated  MSE_flux
+01/30/2019 01:29:43 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:29:43 PM updated  del_m_mmc_moist
+01/30/2019 01:29:43 PM updated  del_mv_mmc_moist
+01/30/2019 01:29:43 PM updated  del_m_mmc
+01/30/2019 01:29:43 PM updated  MM_flux
+01/30/2019 01:29:43 PM updated  del_mv_mmc
+01/30/2019 01:29:43 PM updated  del_m_mmc_sensible
+01/30/2019 01:29:43 PM updated  del_mv_mmc_sensible
+01/30/2019 01:29:43 PM updated  del_m_mmc_pot
+01/30/2019 01:29:43 PM updated  del_mv_mmc_pot
+01/30/2019 01:29:43 PM updated  del_v_mmc_pot
+01/30/2019 01:29:43 PM updated  del_v_mmc_sensible
+01/30/2019 01:29:43 PM updated  del_v_mmc_moist
+01/30/2019 01:29:43 PM updated  del_v_mmc
+01/30/2019 01:29:43 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:29:43 PM updated  EMF
+01/30/2019 01:29:43 PM updated  vert_EKE
+01/30/2019 01:29:43 PM updated  u_sq
+01/30/2019 01:29:43 PM updated  EKE
+01/30/2019 01:29:43 PM updated  lon
+01/30/2019 01:29:43 PM updated  sigma_full
+01/30/2019 01:29:43 PM updated  vert_Zsq
+01/30/2019 01:29:43 PM updated  vert_EMF
+01/30/2019 01:29:43 PM updated  Z_sq
+01/30/2019 01:29:43 PM updated  lat
+01/30/2019 01:29:43 PM updated  v_sq
+01/30/2019 01:29:43 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:29:43 PM updated  SE_sensible
+01/30/2019 01:29:43 PM updated  TE_moist
+01/30/2019 01:29:43 PM updated  SE_flux
+01/30/2019 01:29:43 PM updated  SE_pot
+01/30/2019 01:29:43 PM updated  dhdt
+01/30/2019 01:29:43 PM updated  MM_flux
+01/30/2019 01:29:43 PM updated  KE_flux
+01/30/2019 01:29:43 PM updated  MM_pot
+01/30/2019 01:29:43 PM updated  TE_flux
+01/30/2019 01:29:43 PM updated  TE_sensible
+01/30/2019 01:29:43 PM updated  MM_sensible
+01/30/2019 01:29:43 PM updated  SE_moist
+01/30/2019 01:29:43 PM updated  MM_moist
+01/30/2019 01:29:43 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:29:43 PM Looks great !!
+01/30/2019 01:29:44 PM ** INTERPOLATION ** 
+01/30/2019 01:29:45 PM updated  plevs
+01/30/2019 01:29:45 PM updated  u
+01/30/2019 01:29:45 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:29:45 PM updated  temp
+01/30/2019 01:29:45 PM updated  ht
+01/30/2019 01:29:45 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:29:45 PM Looks great !!
+01/30/2019 01:29:46 PM ** INTERPOLATION ** 
+01/30/2019 01:29:56 PM updated  MSE_flux
+01/30/2019 01:29:56 PM updated  KE_flux
+01/30/2019 01:29:56 PM updated  latent_flux
+01/30/2019 01:29:56 PM updated  potential_flux
+01/30/2019 01:29:56 PM updated  dh_by_dt
+01/30/2019 01:29:56 PM updated  sensible_flux
+01/30/2019 01:29:59 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:29:59 PM updated  SE_sensible
+01/30/2019 01:29:59 PM updated  TE_moist
+01/30/2019 01:29:59 PM updated  SE_flux
+01/30/2019 01:29:59 PM updated  SE_pot
+01/30/2019 01:29:59 PM updated  dhdt
+01/30/2019 01:29:59 PM updated  MM_flux
+01/30/2019 01:29:59 PM updated  KE_flux
+01/30/2019 01:29:59 PM updated  MM_pot
+01/30/2019 01:29:59 PM updated  TE_flux
+01/30/2019 01:29:59 PM updated  TE_sensible
+01/30/2019 01:29:59 PM updated  MM_sensible
+01/30/2019 01:29:59 PM updated  SE_moist
+01/30/2019 01:29:59 PM updated  MM_moist
+01/30/2019 01:29:59 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:29:59 PM updated  Net_rad
+01/30/2019 01:29:59 PM updated  TOA_d
+01/30/2019 01:29:59 PM updated  SW_toa_d
+01/30/2019 01:29:59 PM updated  shflx_u
+01/30/2019 01:29:59 PM updated  olr
+01/30/2019 01:29:59 PM updated  precip
+01/30/2019 01:29:59 PM updated  lhflx_u
+01/30/2019 01:29:59 PM updated  SHF
+01/30/2019 01:29:59 PM updated  flux_oceanq
+01/30/2019 01:29:59 PM updated  SFC_u
+01/30/2019 01:29:59 PM updated  SW_sfc_d
+01/30/2019 01:29:59 PM updated  LW_sfc_d
+01/30/2019 01:29:59 PM updated  SWABS
+01/30/2019 01:29:59 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:29:59 PM updated  del_m_mmc_moist
+01/30/2019 01:29:59 PM updated  del_mv_mmc_moist
+01/30/2019 01:29:59 PM updated  del_m_mmc
+01/30/2019 01:29:59 PM updated  MM_flux
+01/30/2019 01:29:59 PM updated  del_mv_mmc
+01/30/2019 01:29:59 PM updated  del_m_mmc_sensible
+01/30/2019 01:29:59 PM updated  del_mv_mmc_sensible
+01/30/2019 01:29:59 PM updated  del_m_mmc_pot
+01/30/2019 01:29:59 PM updated  del_mv_mmc_pot
+01/30/2019 01:29:59 PM updated  del_v_mmc_pot
+01/30/2019 01:29:59 PM updated  del_v_mmc_sensible
+01/30/2019 01:29:59 PM updated  del_v_mmc_moist
+01/30/2019 01:29:59 PM updated  del_v_mmc
+01/30/2019 01:29:59 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:29:59 PM updated  Cp
+01/30/2019 01:29:59 PM updated  g
+01/30/2019 01:29:59 PM updated  temp
+01/30/2019 01:29:59 PM updated  L
+01/30/2019 01:29:59 PM updated  q
+01/30/2019 01:29:59 PM updated  u
+01/30/2019 01:29:59 PM updated  v
+01/30/2019 01:29:59 PM updated  Z
+01/30/2019 01:29:59 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:30:07 PM updated  MSE_flux
+01/30/2019 01:30:07 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:30:07 PM updated  del_m_mmc_moist
+01/30/2019 01:30:07 PM updated  del_mv_mmc_moist
+01/30/2019 01:30:07 PM updated  del_m_mmc
+01/30/2019 01:30:07 PM updated  MM_flux
+01/30/2019 01:30:07 PM updated  del_mv_mmc
+01/30/2019 01:30:07 PM updated  del_m_mmc_sensible
+01/30/2019 01:30:07 PM updated  del_mv_mmc_sensible
+01/30/2019 01:30:07 PM updated  del_m_mmc_pot
+01/30/2019 01:30:07 PM updated  del_mv_mmc_pot
+01/30/2019 01:30:07 PM updated  del_v_mmc_pot
+01/30/2019 01:30:07 PM updated  del_v_mmc_sensible
+01/30/2019 01:30:07 PM updated  del_v_mmc_moist
+01/30/2019 01:30:07 PM updated  del_v_mmc
+01/30/2019 01:30:07 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:30:07 PM updated  EMF
+01/30/2019 01:30:07 PM updated  vert_EKE
+01/30/2019 01:30:07 PM updated  u_sq
+01/30/2019 01:30:07 PM updated  EKE
+01/30/2019 01:30:07 PM updated  lon
+01/30/2019 01:30:07 PM updated  sigma_full
+01/30/2019 01:30:07 PM updated  vert_Zsq
+01/30/2019 01:30:07 PM updated  vert_EMF
+01/30/2019 01:30:07 PM updated  Z_sq
+01/30/2019 01:30:07 PM updated  lat
+01/30/2019 01:30:07 PM updated  v_sq
+01/30/2019 01:30:07 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:30:07 PM updated  SE_sensible
+01/30/2019 01:30:07 PM updated  TE_moist
+01/30/2019 01:30:07 PM updated  SE_flux
+01/30/2019 01:30:07 PM updated  SE_pot
+01/30/2019 01:30:07 PM updated  dhdt
+01/30/2019 01:30:07 PM updated  MM_flux
+01/30/2019 01:30:07 PM updated  KE_flux
+01/30/2019 01:30:07 PM updated  MM_pot
+01/30/2019 01:30:07 PM updated  TE_flux
+01/30/2019 01:30:07 PM updated  TE_sensible
+01/30/2019 01:30:07 PM updated  MM_sensible
+01/30/2019 01:30:07 PM updated  SE_moist
+01/30/2019 01:30:07 PM updated  MM_moist
+01/30/2019 01:30:07 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:30:07 PM Looks great !!
+01/30/2019 01:30:09 PM ** INTERPOLATION ** 
+01/30/2019 01:30:10 PM updated  plevs
+01/30/2019 01:30:10 PM updated  u
+01/30/2019 01:30:10 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:30:10 PM updated  temp
+01/30/2019 01:30:10 PM updated  ht
+01/30/2019 01:30:10 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:30:10 PM Looks great !!
+01/30/2019 01:30:10 PM ** INTERPOLATION ** 
+01/30/2019 01:30:23 PM updated  MSE_flux
+01/30/2019 01:30:24 PM updated  KE_flux
+01/30/2019 01:30:24 PM updated  latent_flux
+01/30/2019 01:30:24 PM updated  potential_flux
+01/30/2019 01:30:24 PM updated  dh_by_dt
+01/30/2019 01:30:24 PM updated  sensible_flux
+01/30/2019 01:30:25 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:30:26 PM updated  SE_sensible
+01/30/2019 01:30:26 PM updated  TE_moist
+01/30/2019 01:30:26 PM updated  SE_flux
+01/30/2019 01:30:26 PM updated  SE_pot
+01/30/2019 01:30:26 PM updated  dhdt
+01/30/2019 01:30:26 PM updated  MM_flux
+01/30/2019 01:30:26 PM updated  KE_flux
+01/30/2019 01:30:26 PM updated  MM_pot
+01/30/2019 01:30:26 PM updated  TE_flux
+01/30/2019 01:30:26 PM updated  TE_sensible
+01/30/2019 01:30:26 PM updated  MM_sensible
+01/30/2019 01:30:26 PM updated  SE_moist
+01/30/2019 01:30:26 PM updated  MM_moist
+01/30/2019 01:30:26 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:30:26 PM updated  Net_rad
+01/30/2019 01:30:26 PM updated  TOA_d
+01/30/2019 01:30:26 PM updated  SW_toa_d
+01/30/2019 01:30:26 PM updated  shflx_u
+01/30/2019 01:30:26 PM updated  olr
+01/30/2019 01:30:26 PM updated  precip
+01/30/2019 01:30:26 PM updated  lhflx_u
+01/30/2019 01:30:26 PM updated  SHF
+01/30/2019 01:30:26 PM updated  flux_oceanq
+01/30/2019 01:30:26 PM updated  SFC_u
+01/30/2019 01:30:26 PM updated  SW_sfc_d
+01/30/2019 01:30:26 PM updated  LW_sfc_d
+01/30/2019 01:30:26 PM updated  SWABS
+01/30/2019 01:30:26 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:30:26 PM updated  del_m_mmc_moist
+01/30/2019 01:30:26 PM updated  del_mv_mmc_moist
+01/30/2019 01:30:26 PM updated  del_m_mmc
+01/30/2019 01:30:26 PM updated  MM_flux
+01/30/2019 01:30:26 PM updated  del_mv_mmc
+01/30/2019 01:30:26 PM updated  del_m_mmc_sensible
+01/30/2019 01:30:26 PM updated  del_mv_mmc_sensible
+01/30/2019 01:30:26 PM updated  del_m_mmc_pot
+01/30/2019 01:30:26 PM updated  del_mv_mmc_pot
+01/30/2019 01:30:26 PM updated  del_v_mmc_pot
+01/30/2019 01:30:26 PM updated  del_v_mmc_sensible
+01/30/2019 01:30:26 PM updated  del_v_mmc_moist
+01/30/2019 01:30:26 PM updated  del_v_mmc
+01/30/2019 01:30:26 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:30:26 PM updated  Cp
+01/30/2019 01:30:26 PM updated  g
+01/30/2019 01:30:26 PM updated  temp
+01/30/2019 01:30:26 PM updated  L
+01/30/2019 01:30:26 PM updated  q
+01/30/2019 01:30:26 PM updated  u
+01/30/2019 01:30:26 PM updated  v
+01/30/2019 01:30:26 PM updated  Z
+01/30/2019 01:30:26 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:30:33 PM updated  MSE_flux
+01/30/2019 01:30:33 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:30:33 PM updated  del_m_mmc_moist
+01/30/2019 01:30:33 PM updated  del_mv_mmc_moist
+01/30/2019 01:30:33 PM updated  del_m_mmc
+01/30/2019 01:30:33 PM updated  MM_flux
+01/30/2019 01:30:33 PM updated  del_mv_mmc
+01/30/2019 01:30:33 PM updated  del_m_mmc_sensible
+01/30/2019 01:30:33 PM updated  del_mv_mmc_sensible
+01/30/2019 01:30:33 PM updated  del_m_mmc_pot
+01/30/2019 01:30:33 PM updated  del_mv_mmc_pot
+01/30/2019 01:30:33 PM updated  del_v_mmc_pot
+01/30/2019 01:30:33 PM updated  del_v_mmc_sensible
+01/30/2019 01:30:33 PM updated  del_v_mmc_moist
+01/30/2019 01:30:33 PM updated  del_v_mmc
+01/30/2019 01:30:33 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:30:34 PM updated  EMF
+01/30/2019 01:30:34 PM updated  vert_EKE
+01/30/2019 01:30:34 PM updated  u_sq
+01/30/2019 01:30:34 PM updated  EKE
+01/30/2019 01:30:34 PM updated  lon
+01/30/2019 01:30:34 PM updated  sigma_full
+01/30/2019 01:30:34 PM updated  vert_Zsq
+01/30/2019 01:30:34 PM updated  vert_EMF
+01/30/2019 01:30:34 PM updated  Z_sq
+01/30/2019 01:30:34 PM updated  lat
+01/30/2019 01:30:34 PM updated  v_sq
+01/30/2019 01:30:34 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:30:34 PM updated  SE_sensible
+01/30/2019 01:30:34 PM updated  TE_moist
+01/30/2019 01:30:34 PM updated  SE_flux
+01/30/2019 01:30:34 PM updated  SE_pot
+01/30/2019 01:30:34 PM updated  dhdt
+01/30/2019 01:30:34 PM updated  MM_flux
+01/30/2019 01:30:34 PM updated  KE_flux
+01/30/2019 01:30:34 PM updated  MM_pot
+01/30/2019 01:30:34 PM updated  TE_flux
+01/30/2019 01:30:34 PM updated  TE_sensible
+01/30/2019 01:30:34 PM updated  MM_sensible
+01/30/2019 01:30:34 PM updated  SE_moist
+01/30/2019 01:30:34 PM updated  MM_moist
+01/30/2019 01:30:34 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:30:34 PM Looks great !!
+01/30/2019 01:30:34 PM ** INTERPOLATION ** 
+01/30/2019 01:30:35 PM updated  plevs
+01/30/2019 01:30:35 PM updated  u
+01/30/2019 01:30:35 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:30:35 PM updated  temp
+01/30/2019 01:30:35 PM updated  ht
+01/30/2019 01:30:35 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:30:35 PM Looks great !!
+01/30/2019 01:30:36 PM ** INTERPOLATION ** 
+01/30/2019 01:30:48 PM updated  MSE_flux
+01/30/2019 01:30:48 PM updated  KE_flux
+01/30/2019 01:30:48 PM updated  latent_flux
+01/30/2019 01:30:48 PM updated  potential_flux
+01/30/2019 01:30:48 PM updated  dh_by_dt
+01/30/2019 01:30:48 PM updated  sensible_flux
+01/30/2019 01:30:50 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:30:50 PM updated  SE_sensible
+01/30/2019 01:30:50 PM updated  TE_moist
+01/30/2019 01:30:50 PM updated  SE_flux
+01/30/2019 01:30:50 PM updated  SE_pot
+01/30/2019 01:30:50 PM updated  dhdt
+01/30/2019 01:30:50 PM updated  MM_flux
+01/30/2019 01:30:50 PM updated  KE_flux
+01/30/2019 01:30:50 PM updated  MM_pot
+01/30/2019 01:30:50 PM updated  TE_flux
+01/30/2019 01:30:50 PM updated  TE_sensible
+01/30/2019 01:30:50 PM updated  MM_sensible
+01/30/2019 01:30:50 PM updated  SE_moist
+01/30/2019 01:30:50 PM updated  MM_moist
+01/30/2019 01:30:50 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:30:50 PM updated  Net_rad
+01/30/2019 01:30:50 PM updated  TOA_d
+01/30/2019 01:30:50 PM updated  SW_toa_d
+01/30/2019 01:30:50 PM updated  shflx_u
+01/30/2019 01:30:50 PM updated  olr
+01/30/2019 01:30:50 PM updated  precip
+01/30/2019 01:30:50 PM updated  lhflx_u
+01/30/2019 01:30:50 PM updated  SHF
+01/30/2019 01:30:50 PM updated  flux_oceanq
+01/30/2019 01:30:50 PM updated  SFC_u
+01/30/2019 01:30:50 PM updated  SW_sfc_d
+01/30/2019 01:30:50 PM updated  LW_sfc_d
+01/30/2019 01:30:50 PM updated  SWABS
+01/30/2019 01:30:50 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:30:51 PM updated  del_m_mmc_moist
+01/30/2019 01:30:51 PM updated  del_mv_mmc_moist
+01/30/2019 01:30:51 PM updated  del_m_mmc
+01/30/2019 01:30:51 PM updated  MM_flux
+01/30/2019 01:30:51 PM updated  del_mv_mmc
+01/30/2019 01:30:51 PM updated  del_m_mmc_sensible
+01/30/2019 01:30:51 PM updated  del_mv_mmc_sensible
+01/30/2019 01:30:51 PM updated  del_m_mmc_pot
+01/30/2019 01:30:51 PM updated  del_mv_mmc_pot
+01/30/2019 01:30:51 PM updated  del_v_mmc_pot
+01/30/2019 01:30:51 PM updated  del_v_mmc_sensible
+01/30/2019 01:30:51 PM updated  del_v_mmc_moist
+01/30/2019 01:30:51 PM updated  del_v_mmc
+01/30/2019 01:30:51 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:30:51 PM updated  Cp
+01/30/2019 01:30:51 PM updated  g
+01/30/2019 01:30:51 PM updated  temp
+01/30/2019 01:30:51 PM updated  L
+01/30/2019 01:30:51 PM updated  q
+01/30/2019 01:30:51 PM updated  u
+01/30/2019 01:30:51 PM updated  v
+01/30/2019 01:30:51 PM updated  Z
+01/30/2019 01:30:51 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:30:58 PM updated  MSE_flux
+01/30/2019 01:30:58 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:30:58 PM updated  del_m_mmc_moist
+01/30/2019 01:30:58 PM updated  del_mv_mmc_moist
+01/30/2019 01:30:58 PM updated  del_m_mmc
+01/30/2019 01:30:58 PM updated  MM_flux
+01/30/2019 01:30:58 PM updated  del_mv_mmc
+01/30/2019 01:30:58 PM updated  del_m_mmc_sensible
+01/30/2019 01:30:58 PM updated  del_mv_mmc_sensible
+01/30/2019 01:30:58 PM updated  del_m_mmc_pot
+01/30/2019 01:30:58 PM updated  del_mv_mmc_pot
+01/30/2019 01:30:58 PM updated  del_v_mmc_pot
+01/30/2019 01:30:58 PM updated  del_v_mmc_sensible
+01/30/2019 01:30:58 PM updated  del_v_mmc_moist
+01/30/2019 01:30:58 PM updated  del_v_mmc
+01/30/2019 01:30:58 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:30:58 PM updated  EMF
+01/30/2019 01:30:58 PM updated  vert_EKE
+01/30/2019 01:30:58 PM updated  u_sq
+01/30/2019 01:30:58 PM updated  EKE
+01/30/2019 01:30:58 PM updated  lon
+01/30/2019 01:30:58 PM updated  sigma_full
+01/30/2019 01:30:58 PM updated  vert_Zsq
+01/30/2019 01:30:58 PM updated  vert_EMF
+01/30/2019 01:30:58 PM updated  Z_sq
+01/30/2019 01:30:58 PM updated  lat
+01/30/2019 01:30:58 PM updated  v_sq
+01/30/2019 01:30:58 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:30:58 PM updated  SE_sensible
+01/30/2019 01:30:58 PM updated  TE_moist
+01/30/2019 01:30:58 PM updated  SE_flux
+01/30/2019 01:30:58 PM updated  SE_pot
+01/30/2019 01:30:58 PM updated  dhdt
+01/30/2019 01:30:58 PM updated  MM_flux
+01/30/2019 01:30:58 PM updated  KE_flux
+01/30/2019 01:30:58 PM updated  MM_pot
+01/30/2019 01:30:58 PM updated  TE_flux
+01/30/2019 01:30:58 PM updated  TE_sensible
+01/30/2019 01:30:58 PM updated  MM_sensible
+01/30/2019 01:30:58 PM updated  SE_moist
+01/30/2019 01:30:58 PM updated  MM_moist
+01/30/2019 01:30:58 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:30:58 PM Looks great !!
+01/30/2019 01:31:00 PM ** INTERPOLATION ** 
+01/30/2019 01:31:01 PM updated  plevs
+01/30/2019 01:31:01 PM updated  u
+01/30/2019 01:31:01 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:31:01 PM updated  temp
+01/30/2019 01:31:01 PM updated  ht
+01/30/2019 01:31:01 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:31:01 PM Looks great !!
+01/30/2019 01:31:02 PM ** INTERPOLATION ** 
+01/30/2019 01:31:12 PM updated  MSE_flux
+01/30/2019 01:31:13 PM updated  KE_flux
+01/30/2019 01:31:13 PM updated  latent_flux
+01/30/2019 01:31:13 PM updated  potential_flux
+01/30/2019 01:31:13 PM updated  dh_by_dt
+01/30/2019 01:31:13 PM updated  sensible_flux
+01/30/2019 01:31:14 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:31:14 PM updated  SE_sensible
+01/30/2019 01:31:14 PM updated  TE_moist
+01/30/2019 01:31:14 PM updated  SE_flux
+01/30/2019 01:31:14 PM updated  SE_pot
+01/30/2019 01:31:14 PM updated  dhdt
+01/30/2019 01:31:14 PM updated  MM_flux
+01/30/2019 01:31:14 PM updated  KE_flux
+01/30/2019 01:31:14 PM updated  MM_pot
+01/30/2019 01:31:14 PM updated  TE_flux
+01/30/2019 01:31:14 PM updated  TE_sensible
+01/30/2019 01:31:14 PM updated  MM_sensible
+01/30/2019 01:31:14 PM updated  SE_moist
+01/30/2019 01:31:14 PM updated  MM_moist
+01/30/2019 01:31:14 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:31:14 PM updated  Net_rad
+01/30/2019 01:31:14 PM updated  TOA_d
+01/30/2019 01:31:14 PM updated  SW_toa_d
+01/30/2019 01:31:14 PM updated  shflx_u
+01/30/2019 01:31:14 PM updated  olr
+01/30/2019 01:31:14 PM updated  precip
+01/30/2019 01:31:14 PM updated  lhflx_u
+01/30/2019 01:31:14 PM updated  SHF
+01/30/2019 01:31:14 PM updated  flux_oceanq
+01/30/2019 01:31:14 PM updated  SFC_u
+01/30/2019 01:31:14 PM updated  SW_sfc_d
+01/30/2019 01:31:14 PM updated  LW_sfc_d
+01/30/2019 01:31:14 PM updated  SWABS
+01/30/2019 01:31:14 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:31:14 PM updated  del_m_mmc_moist
+01/30/2019 01:31:14 PM updated  del_mv_mmc_moist
+01/30/2019 01:31:14 PM updated  del_m_mmc
+01/30/2019 01:31:14 PM updated  MM_flux
+01/30/2019 01:31:14 PM updated  del_mv_mmc
+01/30/2019 01:31:14 PM updated  del_m_mmc_sensible
+01/30/2019 01:31:14 PM updated  del_mv_mmc_sensible
+01/30/2019 01:31:14 PM updated  del_m_mmc_pot
+01/30/2019 01:31:14 PM updated  del_mv_mmc_pot
+01/30/2019 01:31:14 PM updated  del_v_mmc_pot
+01/30/2019 01:31:14 PM updated  del_v_mmc_sensible
+01/30/2019 01:31:14 PM updated  del_v_mmc_moist
+01/30/2019 01:31:14 PM updated  del_v_mmc
+01/30/2019 01:31:14 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:31:15 PM updated  Cp
+01/30/2019 01:31:15 PM updated  g
+01/30/2019 01:31:15 PM updated  temp
+01/30/2019 01:31:15 PM updated  L
+01/30/2019 01:31:15 PM updated  q
+01/30/2019 01:31:15 PM updated  u
+01/30/2019 01:31:15 PM updated  v
+01/30/2019 01:31:15 PM updated  Z
+01/30/2019 01:31:15 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:31:20 PM updated  MSE_flux
+01/30/2019 01:31:20 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:31:20 PM updated  del_m_mmc_moist
+01/30/2019 01:31:20 PM updated  del_mv_mmc_moist
+01/30/2019 01:31:20 PM updated  del_m_mmc
+01/30/2019 01:31:20 PM updated  MM_flux
+01/30/2019 01:31:20 PM updated  del_mv_mmc
+01/30/2019 01:31:20 PM updated  del_m_mmc_sensible
+01/30/2019 01:31:20 PM updated  del_mv_mmc_sensible
+01/30/2019 01:31:20 PM updated  del_m_mmc_pot
+01/30/2019 01:31:20 PM updated  del_mv_mmc_pot
+01/30/2019 01:31:20 PM updated  del_v_mmc_pot
+01/30/2019 01:31:20 PM updated  del_v_mmc_sensible
+01/30/2019 01:31:20 PM updated  del_v_mmc_moist
+01/30/2019 01:31:20 PM updated  del_v_mmc
+01/30/2019 01:31:21 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:31:21 PM updated  EMF
+01/30/2019 01:31:21 PM updated  vert_EKE
+01/30/2019 01:31:21 PM updated  u_sq
+01/30/2019 01:31:21 PM updated  EKE
+01/30/2019 01:31:21 PM updated  lon
+01/30/2019 01:31:21 PM updated  sigma_full
+01/30/2019 01:31:21 PM updated  vert_Zsq
+01/30/2019 01:31:21 PM updated  vert_EMF
+01/30/2019 01:31:21 PM updated  Z_sq
+01/30/2019 01:31:21 PM updated  lat
+01/30/2019 01:31:21 PM updated  v_sq
+01/30/2019 01:31:21 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:31:21 PM updated  SE_sensible
+01/30/2019 01:31:21 PM updated  TE_moist
+01/30/2019 01:31:21 PM updated  SE_flux
+01/30/2019 01:31:21 PM updated  SE_pot
+01/30/2019 01:31:21 PM updated  dhdt
+01/30/2019 01:31:21 PM updated  MM_flux
+01/30/2019 01:31:21 PM updated  KE_flux
+01/30/2019 01:31:21 PM updated  MM_pot
+01/30/2019 01:31:21 PM updated  TE_flux
+01/30/2019 01:31:21 PM updated  TE_sensible
+01/30/2019 01:31:21 PM updated  MM_sensible
+01/30/2019 01:31:21 PM updated  SE_moist
+01/30/2019 01:31:21 PM updated  MM_moist
+01/30/2019 01:31:21 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:31:21 PM Looks great !!
+01/30/2019 01:31:21 PM ** INTERPOLATION ** 
+01/30/2019 01:31:22 PM updated  plevs
+01/30/2019 01:31:22 PM updated  u
+01/30/2019 01:31:22 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:31:22 PM updated  temp
+01/30/2019 01:31:22 PM updated  ht
+01/30/2019 01:31:22 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:31:22 PM Looks great !!
+01/30/2019 01:31:23 PM ** INTERPOLATION ** 
+01/30/2019 01:31:35 PM updated  MSE_flux
+01/30/2019 01:31:35 PM updated  KE_flux
+01/30/2019 01:31:36 PM updated  latent_flux
+01/30/2019 01:31:36 PM updated  potential_flux
+01/30/2019 01:31:36 PM updated  dh_by_dt
+01/30/2019 01:31:36 PM updated  sensible_flux
+01/30/2019 01:31:39 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:31:39 PM updated  SE_sensible
+01/30/2019 01:31:39 PM updated  TE_moist
+01/30/2019 01:31:39 PM updated  SE_flux
+01/30/2019 01:31:39 PM updated  SE_pot
+01/30/2019 01:31:39 PM updated  dhdt
+01/30/2019 01:31:39 PM updated  MM_flux
+01/30/2019 01:31:39 PM updated  KE_flux
+01/30/2019 01:31:39 PM updated  MM_pot
+01/30/2019 01:31:39 PM updated  TE_flux
+01/30/2019 01:31:39 PM updated  TE_sensible
+01/30/2019 01:31:39 PM updated  MM_sensible
+01/30/2019 01:31:39 PM updated  SE_moist
+01/30/2019 01:31:39 PM updated  MM_moist
+01/30/2019 01:31:39 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:31:39 PM updated  Net_rad
+01/30/2019 01:31:39 PM updated  TOA_d
+01/30/2019 01:31:39 PM updated  SW_toa_d
+01/30/2019 01:31:39 PM updated  shflx_u
+01/30/2019 01:31:39 PM updated  olr
+01/30/2019 01:31:39 PM updated  precip
+01/30/2019 01:31:39 PM updated  lhflx_u
+01/30/2019 01:31:39 PM updated  SHF
+01/30/2019 01:31:39 PM updated  flux_oceanq
+01/30/2019 01:31:39 PM updated  SFC_u
+01/30/2019 01:31:39 PM updated  SW_sfc_d
+01/30/2019 01:31:39 PM updated  LW_sfc_d
+01/30/2019 01:31:39 PM updated  SWABS
+01/30/2019 01:31:39 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:31:39 PM updated  del_m_mmc_moist
+01/30/2019 01:31:39 PM updated  del_mv_mmc_moist
+01/30/2019 01:31:39 PM updated  del_m_mmc
+01/30/2019 01:31:39 PM updated  MM_flux
+01/30/2019 01:31:39 PM updated  del_mv_mmc
+01/30/2019 01:31:39 PM updated  del_m_mmc_sensible
+01/30/2019 01:31:39 PM updated  del_mv_mmc_sensible
+01/30/2019 01:31:39 PM updated  del_m_mmc_pot
+01/30/2019 01:31:39 PM updated  del_mv_mmc_pot
+01/30/2019 01:31:39 PM updated  del_v_mmc_pot
+01/30/2019 01:31:39 PM updated  del_v_mmc_sensible
+01/30/2019 01:31:39 PM updated  del_v_mmc_moist
+01/30/2019 01:31:39 PM updated  del_v_mmc
+01/30/2019 01:31:39 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:31:39 PM updated  Cp
+01/30/2019 01:31:39 PM updated  g
+01/30/2019 01:31:39 PM updated  temp
+01/30/2019 01:31:39 PM updated  L
+01/30/2019 01:31:39 PM updated  q
+01/30/2019 01:31:39 PM updated  u
+01/30/2019 01:31:39 PM updated  v
+01/30/2019 01:31:39 PM updated  Z
+01/30/2019 01:31:39 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:31:47 PM updated  MSE_flux
+01/30/2019 01:31:47 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:31:47 PM updated  del_m_mmc_moist
+01/30/2019 01:31:47 PM updated  del_mv_mmc_moist
+01/30/2019 01:31:47 PM updated  del_m_mmc
+01/30/2019 01:31:47 PM updated  MM_flux
+01/30/2019 01:31:47 PM updated  del_mv_mmc
+01/30/2019 01:31:47 PM updated  del_m_mmc_sensible
+01/30/2019 01:31:47 PM updated  del_mv_mmc_sensible
+01/30/2019 01:31:47 PM updated  del_m_mmc_pot
+01/30/2019 01:31:47 PM updated  del_mv_mmc_pot
+01/30/2019 01:31:47 PM updated  del_v_mmc_pot
+01/30/2019 01:31:47 PM updated  del_v_mmc_sensible
+01/30/2019 01:31:47 PM updated  del_v_mmc_moist
+01/30/2019 01:31:47 PM updated  del_v_mmc
+01/30/2019 01:31:47 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:31:48 PM updated  EMF
+01/30/2019 01:31:48 PM updated  vert_EKE
+01/30/2019 01:31:48 PM updated  u_sq
+01/30/2019 01:31:48 PM updated  EKE
+01/30/2019 01:31:48 PM updated  lon
+01/30/2019 01:31:48 PM updated  sigma_full
+01/30/2019 01:31:48 PM updated  vert_Zsq
+01/30/2019 01:31:48 PM updated  vert_EMF
+01/30/2019 01:31:48 PM updated  Z_sq
+01/30/2019 01:31:48 PM updated  lat
+01/30/2019 01:31:48 PM updated  v_sq
+01/30/2019 01:31:48 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:31:48 PM updated  SE_sensible
+01/30/2019 01:31:48 PM updated  TE_moist
+01/30/2019 01:31:48 PM updated  SE_flux
+01/30/2019 01:31:48 PM updated  SE_pot
+01/30/2019 01:31:48 PM updated  dhdt
+01/30/2019 01:31:48 PM updated  MM_flux
+01/30/2019 01:31:48 PM updated  KE_flux
+01/30/2019 01:31:48 PM updated  MM_pot
+01/30/2019 01:31:48 PM updated  TE_flux
+01/30/2019 01:31:48 PM updated  TE_sensible
+01/30/2019 01:31:48 PM updated  MM_sensible
+01/30/2019 01:31:48 PM updated  SE_moist
+01/30/2019 01:31:48 PM updated  MM_moist
+01/30/2019 01:31:48 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:31:48 PM Looks great !!
+01/30/2019 01:31:49 PM ** INTERPOLATION ** 
+01/30/2019 01:31:51 PM updated  plevs
+01/30/2019 01:31:51 PM updated  u
+01/30/2019 01:31:51 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:31:51 PM updated  temp
+01/30/2019 01:31:51 PM updated  ht
+01/30/2019 01:31:51 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:31:51 PM Looks great !!
+01/30/2019 01:31:51 PM ** INTERPOLATION ** 
+01/30/2019 01:32:01 PM updated  MSE_flux
+01/30/2019 01:32:01 PM updated  KE_flux
+01/30/2019 01:32:01 PM updated  latent_flux
+01/30/2019 01:32:02 PM updated  potential_flux
+01/30/2019 01:32:02 PM updated  dh_by_dt
+01/30/2019 01:32:02 PM updated  sensible_flux
+01/30/2019 01:32:03 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:32:03 PM updated  SE_sensible
+01/30/2019 01:32:03 PM updated  TE_moist
+01/30/2019 01:32:03 PM updated  SE_flux
+01/30/2019 01:32:03 PM updated  SE_pot
+01/30/2019 01:32:03 PM updated  dhdt
+01/30/2019 01:32:03 PM updated  MM_flux
+01/30/2019 01:32:03 PM updated  KE_flux
+01/30/2019 01:32:03 PM updated  MM_pot
+01/30/2019 01:32:03 PM updated  TE_flux
+01/30/2019 01:32:03 PM updated  TE_sensible
+01/30/2019 01:32:03 PM updated  MM_sensible
+01/30/2019 01:32:03 PM updated  SE_moist
+01/30/2019 01:32:03 PM updated  MM_moist
+01/30/2019 01:32:03 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:32:03 PM updated  Net_rad
+01/30/2019 01:32:03 PM updated  TOA_d
+01/30/2019 01:32:03 PM updated  SW_toa_d
+01/30/2019 01:32:03 PM updated  shflx_u
+01/30/2019 01:32:03 PM updated  olr
+01/30/2019 01:32:03 PM updated  precip
+01/30/2019 01:32:03 PM updated  lhflx_u
+01/30/2019 01:32:03 PM updated  SHF
+01/30/2019 01:32:03 PM updated  flux_oceanq
+01/30/2019 01:32:03 PM updated  SFC_u
+01/30/2019 01:32:03 PM updated  SW_sfc_d
+01/30/2019 01:32:03 PM updated  LW_sfc_d
+01/30/2019 01:32:03 PM updated  SWABS
+01/30/2019 01:32:03 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:32:03 PM updated  del_m_mmc_moist
+01/30/2019 01:32:03 PM updated  del_mv_mmc_moist
+01/30/2019 01:32:03 PM updated  del_m_mmc
+01/30/2019 01:32:03 PM updated  MM_flux
+01/30/2019 01:32:03 PM updated  del_mv_mmc
+01/30/2019 01:32:03 PM updated  del_m_mmc_sensible
+01/30/2019 01:32:03 PM updated  del_mv_mmc_sensible
+01/30/2019 01:32:03 PM updated  del_m_mmc_pot
+01/30/2019 01:32:03 PM updated  del_mv_mmc_pot
+01/30/2019 01:32:03 PM updated  del_v_mmc_pot
+01/30/2019 01:32:03 PM updated  del_v_mmc_sensible
+01/30/2019 01:32:03 PM updated  del_v_mmc_moist
+01/30/2019 01:32:03 PM updated  del_v_mmc
+01/30/2019 01:32:03 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:32:03 PM updated  Cp
+01/30/2019 01:32:03 PM updated  g
+01/30/2019 01:32:03 PM updated  temp
+01/30/2019 01:32:03 PM updated  L
+01/30/2019 01:32:03 PM updated  q
+01/30/2019 01:32:03 PM updated  u
+01/30/2019 01:32:03 PM updated  v
+01/30/2019 01:32:03 PM updated  Z
+01/30/2019 01:32:03 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:32:09 PM updated  MSE_flux
+01/30/2019 01:32:09 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:32:09 PM updated  del_m_mmc_moist
+01/30/2019 01:32:09 PM updated  del_mv_mmc_moist
+01/30/2019 01:32:09 PM updated  del_m_mmc
+01/30/2019 01:32:09 PM updated  MM_flux
+01/30/2019 01:32:09 PM updated  del_mv_mmc
+01/30/2019 01:32:09 PM updated  del_m_mmc_sensible
+01/30/2019 01:32:09 PM updated  del_mv_mmc_sensible
+01/30/2019 01:32:09 PM updated  del_m_mmc_pot
+01/30/2019 01:32:09 PM updated  del_mv_mmc_pot
+01/30/2019 01:32:09 PM updated  del_v_mmc_pot
+01/30/2019 01:32:09 PM updated  del_v_mmc_sensible
+01/30/2019 01:32:09 PM updated  del_v_mmc_moist
+01/30/2019 01:32:09 PM updated  del_v_mmc
+01/30/2019 01:32:09 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:32:09 PM updated  EMF
+01/30/2019 01:32:09 PM updated  vert_EKE
+01/30/2019 01:32:09 PM updated  u_sq
+01/30/2019 01:32:09 PM updated  EKE
+01/30/2019 01:32:09 PM updated  lon
+01/30/2019 01:32:09 PM updated  sigma_full
+01/30/2019 01:32:09 PM updated  vert_Zsq
+01/30/2019 01:32:09 PM updated  vert_EMF
+01/30/2019 01:32:09 PM updated  Z_sq
+01/30/2019 01:32:09 PM updated  lat
+01/30/2019 01:32:09 PM updated  v_sq
+01/30/2019 01:32:09 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:32:09 PM updated  SE_sensible
+01/30/2019 01:32:09 PM updated  TE_moist
+01/30/2019 01:32:09 PM updated  SE_flux
+01/30/2019 01:32:09 PM updated  SE_pot
+01/30/2019 01:32:09 PM updated  dhdt
+01/30/2019 01:32:09 PM updated  MM_flux
+01/30/2019 01:32:09 PM updated  KE_flux
+01/30/2019 01:32:09 PM updated  MM_pot
+01/30/2019 01:32:09 PM updated  TE_flux
+01/30/2019 01:32:09 PM updated  TE_sensible
+01/30/2019 01:32:09 PM updated  MM_sensible
+01/30/2019 01:32:09 PM updated  SE_moist
+01/30/2019 01:32:09 PM updated  MM_moist
+01/30/2019 01:32:09 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:32:09 PM Looks great !!
+01/30/2019 01:32:10 PM ** INTERPOLATION ** 
+01/30/2019 01:32:11 PM updated  plevs
+01/30/2019 01:32:11 PM updated  u
+01/30/2019 01:32:11 PM ..... combined and saved u_v.hkl ......
+01/30/2019 01:32:11 PM updated  temp
+01/30/2019 01:32:11 PM updated  ht
+01/30/2019 01:32:11 PM ..... combined and saved ht_temp_sphum.hkl ......
+01/30/2019 01:32:11 PM Looks great !!
+01/30/2019 01:32:12 PM ** INTERPOLATION ** 
+01/30/2019 01:32:23 PM updated  MSE_flux
+01/30/2019 01:32:23 PM updated  KE_flux
+01/30/2019 01:32:23 PM updated  latent_flux
+01/30/2019 01:32:23 PM updated  potential_flux
+01/30/2019 01:32:23 PM updated  dh_by_dt
+01/30/2019 01:32:23 PM updated  sensible_flux
+01/30/2019 01:32:24 PM ..... combined and saved fluxes_dic.hkl ......
+01/30/2019 01:32:25 PM updated  SE_sensible
+01/30/2019 01:32:25 PM updated  TE_moist
+01/30/2019 01:32:25 PM updated  SE_flux
+01/30/2019 01:32:25 PM updated  SE_pot
+01/30/2019 01:32:25 PM updated  dhdt
+01/30/2019 01:32:25 PM updated  MM_flux
+01/30/2019 01:32:25 PM updated  KE_flux
+01/30/2019 01:32:25 PM updated  MM_pot
+01/30/2019 01:32:25 PM updated  TE_flux
+01/30/2019 01:32:25 PM updated  TE_sensible
+01/30/2019 01:32:25 PM updated  MM_sensible
+01/30/2019 01:32:25 PM updated  SE_moist
+01/30/2019 01:32:25 PM updated  MM_moist
+01/30/2019 01:32:25 PM ..... combined and saved zonal_decomposed_fluxes_dic.hkl ......
+01/30/2019 01:32:25 PM updated  Net_rad
+01/30/2019 01:32:25 PM updated  TOA_d
+01/30/2019 01:32:25 PM updated  SW_toa_d
+01/30/2019 01:32:25 PM updated  shflx_u
+01/30/2019 01:32:25 PM updated  olr
+01/30/2019 01:32:25 PM updated  precip
+01/30/2019 01:32:25 PM updated  lhflx_u
+01/30/2019 01:32:25 PM updated  SHF
+01/30/2019 01:32:25 PM updated  flux_oceanq
+01/30/2019 01:32:25 PM updated  SFC_u
+01/30/2019 01:32:25 PM updated  SW_sfc_d
+01/30/2019 01:32:25 PM updated  LW_sfc_d
+01/30/2019 01:32:25 PM updated  SWABS
+01/30/2019 01:32:25 PM ..... combined and saved zonal_radiation_dic.hkl ......
+01/30/2019 01:32:25 PM updated  del_m_mmc_moist
+01/30/2019 01:32:25 PM updated  del_mv_mmc_moist
+01/30/2019 01:32:25 PM updated  del_m_mmc
+01/30/2019 01:32:25 PM updated  MM_flux
+01/30/2019 01:32:25 PM updated  del_mv_mmc
+01/30/2019 01:32:25 PM updated  del_m_mmc_sensible
+01/30/2019 01:32:25 PM updated  del_mv_mmc_sensible
+01/30/2019 01:32:25 PM updated  del_m_mmc_pot
+01/30/2019 01:32:25 PM updated  del_mv_mmc_pot
+01/30/2019 01:32:25 PM updated  del_v_mmc_pot
+01/30/2019 01:32:25 PM updated  del_v_mmc_sensible
+01/30/2019 01:32:25 PM updated  del_v_mmc_moist
+01/30/2019 01:32:25 PM updated  del_v_mmc
+01/30/2019 01:32:25 PM ..... combined and saved MMC_thermo_dynamic_dic.hkl ......
+01/30/2019 01:32:25 PM updated  Cp
+01/30/2019 01:32:25 PM updated  g
+01/30/2019 01:32:25 PM updated  temp
+01/30/2019 01:32:25 PM updated  L
+01/30/2019 01:32:25 PM updated  q
+01/30/2019 01:32:25 PM updated  u
+01/30/2019 01:32:25 PM updated  v
+01/30/2019 01:32:25 PM updated  Z
+01/30/2019 01:32:25 PM ..... combined and saved T_uv_Z.hkl ......
+01/30/2019 01:32:31 PM updated  MSE_flux
+01/30/2019 01:32:31 PM ..... combined and saved all_MSE_flux.hkl ......
+01/30/2019 01:32:31 PM updated  del_m_mmc_moist
+01/30/2019 01:32:31 PM updated  del_mv_mmc_moist
+01/30/2019 01:32:31 PM updated  del_m_mmc
+01/30/2019 01:32:31 PM updated  MM_flux
+01/30/2019 01:32:31 PM updated  del_mv_mmc
+01/30/2019 01:32:31 PM updated  del_m_mmc_sensible
+01/30/2019 01:32:31 PM updated  del_mv_mmc_sensible
+01/30/2019 01:32:31 PM updated  del_m_mmc_pot
+01/30/2019 01:32:31 PM updated  del_mv_mmc_pot
+01/30/2019 01:32:31 PM updated  del_v_mmc_pot
+01/30/2019 01:32:31 PM updated  del_v_mmc_sensible
+01/30/2019 01:32:31 PM updated  del_v_mmc_moist
+01/30/2019 01:32:31 PM updated  del_v_mmc
+01/30/2019 01:32:31 PM ..... combined and saved MMC_thermo_dynamic_dic_vert.hkl ......
+01/30/2019 01:32:31 PM updated  EMF
+01/30/2019 01:32:31 PM updated  vert_EKE
+01/30/2019 01:32:31 PM updated  u_sq
+01/30/2019 01:32:31 PM updated  EKE
+01/30/2019 01:32:31 PM updated  lon
+01/30/2019 01:32:31 PM updated  sigma_full
+01/30/2019 01:32:31 PM updated  vert_Zsq
+01/30/2019 01:32:31 PM updated  vert_EMF
+01/30/2019 01:32:31 PM updated  Z_sq
+01/30/2019 01:32:31 PM updated  lat
+01/30/2019 01:32:31 PM updated  v_sq
+01/30/2019 01:32:31 PM ..... combined and saved EKE.hkl ......
+01/30/2019 01:32:31 PM updated  SE_sensible
+01/30/2019 01:32:31 PM updated  TE_moist
+01/30/2019 01:32:31 PM updated  SE_flux
+01/30/2019 01:32:31 PM updated  SE_pot
+01/30/2019 01:32:31 PM updated  dhdt
+01/30/2019 01:32:31 PM updated  MM_flux
+01/30/2019 01:32:31 PM updated  KE_flux
+01/30/2019 01:32:31 PM updated  MM_pot
+01/30/2019 01:32:31 PM updated  TE_flux
+01/30/2019 01:32:31 PM updated  TE_sensible
+01/30/2019 01:32:31 PM updated  MM_sensible
+01/30/2019 01:32:31 PM updated  SE_moist
+01/30/2019 01:32:31 PM updated  MM_moist
+01/30/2019 01:32:31 PM ..... combined and saved zonal_decomposed_fluxes_dic_vert.hkl ......
+01/30/2019 01:32:31 PM Looks great !!

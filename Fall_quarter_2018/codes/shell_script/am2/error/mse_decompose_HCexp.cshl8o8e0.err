@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (30,12,30,4,24,3,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 455362560 into shape (30,12,30,4,24,3,144)
+slurmstepd-midway795: error: *** JOB 54795347 ON midway795 CANCELLED AT 2018-12-04T11:58:49 ***

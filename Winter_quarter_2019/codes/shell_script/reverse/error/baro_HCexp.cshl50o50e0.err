@@ -1,0 +1,35 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 15354 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 15876 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 16065 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 16286 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 16769 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 17113 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 17515 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 18086 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 18286 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51652178/slurm_script: line 11: 18538 Killed                  python $fall18/codes/python_scripts/reverse/convert_to_pressure_coord.py $1 $2 $3 $i
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/reverse/Calculate_baroclinicity.py", line 61
+    source1='/project2/tas1/pragallva/Spring_quarter_2018/exp_data/aqua_isca100m/''
+                                                                                  ^
+SyntaxError: EOL while scanning string literal
+slurmstepd-midway784: error: Detected 10 oom-kill event(s) in step 51652178.batch cgroup.

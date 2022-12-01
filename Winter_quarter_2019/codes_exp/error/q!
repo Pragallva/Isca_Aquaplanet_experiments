@@ -1,0 +1,852 @@
+2019-01-23 10:25:21,730 - gfdl - WARNING - Working directory for exp '5m' already exists
+2019-01-23 10:25:23,830 - gfdl - INFO - Writing path_names to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/path_names'
+2019-01-23 10:25:24,078 - gfdl - INFO - Running compiler
+2019-01-23 10:25:24,113 - gfdl - DEBUG - loadmodules
+2019-01-23 10:25:24,587 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: pine: not found
+2019-01-23 10:25:24,587 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: quota: not found
+2019-01-23 10:25:24,587 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: chsh: not found
+2019-01-23 10:25:24,587 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: grpe: not found
+2019-01-23 10:25:24,588 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: vi: not found
+2019-01-23 10:25:24,588 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: alloc: not found
+2019-01-23 10:25:24,588 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/compile.sh: line 0: unalias: chfn: not found
+2019-01-23 10:25:25,245 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 10:25:25,248 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 10:25:25,248 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 10:25:25,248 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 10:25:25,249 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 10:25:25,249 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-01-23 10:25:25,494 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-01-23 10:25:25,495 - gfdl - DEBUG - loadmodules
+2019-01-23 10:25:25,495 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-01-23 10:25:25,674 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-01-23 10:25:25,674 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-01-23 10:25:25,675 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-01-23 10:25:25,675 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-01-23 10:25:25,675 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-01-23 10:25:25,675 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-01-23 10:25:25,675 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-01-23 10:25:26,295 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 10:25:26,299 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 10:25:26,299 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 10:25:26,299 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 10:25:26,299 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 10:25:26,299 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 10:25:27,026 - gfdl - DEBUG - ln: creating symbolic link `/project2/tas1/pragallva/isca_sim/gfdl_work/5m/exec/mppnccombine.x': File exists
+2019-01-23 10:25:31,884 - gfdl - DEBUG - Makefile is ready.
+2019-01-23 10:25:32,058 - gfdl - DEBUG - make: Nothing to be done for `all'.
+2019-01-23 10:25:32,141 - gfdl - DEBUG - make: `fms_moist.x' is up to date.
+2019-01-23 10:25:32,142 - gfdl - DEBUG - ..................................................................................................................................................................................................
+2019-01-23 10:25:32,205 - gfdl - DEBUG - Compilation complete.
+2019-01-23 10:25:32,325 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-23 10:25:32,373 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-23 10:25:32,381 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-23 10:25:32,423 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-23 10:25:32,522 - gfdl - INFO - Running month 1 without restart file
+2019-01-23 10:25:32,666 - gfdl - INFO - Running GFDL for month 1
+2019-01-23 10:25:32,976 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 10:25:32,976 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 10:25:32,977 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 10:25:32,977 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 10:25:32,977 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 10:25:32,977 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 10:25:32,977 - gfdl - DEBUG - loadmodules
+2019-01-23 10:25:32,978 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 10:25:33,174 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 10:25:33,175 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 10:25:33,175 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 10:25:33,175 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 10:25:33,175 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 10:25:33,176 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 10:25:33,176 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 10:25:33,805 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 10:25:33,808 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 10:25:33,809 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 10:25:33,809 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 10:25:33,809 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 10:25:33,809 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 10:25:35,969 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-23 10:25:35,972 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-23 10:25:35,972 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-23 10:25:35,972 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-23 10:25:35,972 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-23 10:25:35,972 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-23 10:25:35,972 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-23 10:25:35,972 - gfdl - DEBUG - /
+2019-01-23 10:25:35,972 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-23 10:25:35,985 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-23 10:25:36,055 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-23 10:25:36,057 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-23 10:25:36,057 - gfdl - DEBUG - X-AXIS =  256
+2019-01-23 10:25:36,057 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-23 10:25:36,308 - gfdl - DEBUG - mean surface pressure=1000.0000 mb
+2019-01-23 10:25:36,317 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,317 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,317 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,318 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,318 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,318 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,344 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-23 10:25:36,344 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-23 10:25:36,345 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,347 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 10:25:36,933 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-23 10:25:36,946 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-23 10:34:48,094 - gfdl - DEBUG - Integration completed through    1 Jan  2   0: 0: 0
+2019-01-23 10:43:59,872 - gfdl - DEBUG - Integration completed through    1 Jan  3   0: 0: 0
+2019-01-23 10:53:11,184 - gfdl - DEBUG - Integration completed through    1 Jan  4   0: 0: 0
+2019-01-23 11:02:21,540 - gfdl - DEBUG - Integration completed through    1 Jan  5   0: 0: 0
+2019-01-23 11:11:31,969 - gfdl - DEBUG - Integration completed through    1 Jan  6   0: 0: 0
+2019-01-23 11:20:44,963 - gfdl - DEBUG - Integration completed through    1 Jan  7   0: 0: 0
+2019-01-23 11:29:58,675 - gfdl - DEBUG - Integration completed through    1 Jan  8   0: 0: 0
+2019-01-23 11:39:13,460 - gfdl - DEBUG - Integration completed through    1 Jan  9   0: 0: 0
+2019-01-23 11:48:28,344 - gfdl - DEBUG - Integration completed through    1 Jan 10   0: 0: 0
+2019-01-23 11:57:44,050 - gfdl - DEBUG - Integration completed through    1 Jan 11   0: 0: 0
+2019-01-23 12:06:57,788 - gfdl - DEBUG - Integration completed through    1 Jan 12   0: 0: 0
+2019-01-23 12:16:12,018 - gfdl - DEBUG - Integration completed through    1 Jan 13   0: 0: 0
+2019-01-23 12:25:26,363 - gfdl - DEBUG - Integration completed through    1 Jan 14   0: 0: 0
+2019-01-23 12:34:40,156 - gfdl - DEBUG - Integration completed through    1 Jan 15   0: 0: 0
+2019-01-23 12:43:54,830 - gfdl - DEBUG - Integration completed through    1 Jan 16   0: 0: 0
+2019-01-23 12:53:08,716 - gfdl - DEBUG - Integration completed through    1 Jan 17   0: 0: 0
+2019-01-23 13:02:19,863 - gfdl - DEBUG - Integration completed through    1 Jan 18   0: 0: 0
+2019-01-23 13:11:27,246 - gfdl - DEBUG - Integration completed through    1 Jan 19   0: 0: 0
+2019-01-23 13:20:39,402 - gfdl - DEBUG - Integration completed through    1 Jan 20   0: 0: 0
+2019-01-23 13:29:53,250 - gfdl - DEBUG - Integration completed through    1 Jan 21   0: 0: 0
+2019-01-23 13:39:05,962 - gfdl - DEBUG - Integration completed through    1 Jan 22   0: 0: 0
+2019-01-23 13:48:18,212 - gfdl - DEBUG - Integration completed through    1 Jan 23   0: 0: 0
+2019-01-23 13:57:30,754 - gfdl - DEBUG - Integration completed through    1 Jan 24   0: 0: 0
+2019-01-23 14:06:42,418 - gfdl - DEBUG - Integration completed through    1 Jan 25   0: 0: 0
+2019-01-23 14:15:51,255 - gfdl - DEBUG - Integration completed through    1 Jan 26   0: 0: 0
+2019-01-23 14:25:04,869 - gfdl - DEBUG - Integration completed through    1 Jan 27   0: 0: 0
+2019-01-23 14:34:18,397 - gfdl - DEBUG - Integration completed through    1 Jan 28   0: 0: 0
+2019-01-23 14:43:33,280 - gfdl - DEBUG - Integration completed through    1 Jan 29   0: 0: 0
+2019-01-23 14:52:46,597 - gfdl - DEBUG - Integration completed through    1 Jan 30   0: 0: 0
+2019-01-23 15:02:00,625 - gfdl - DEBUG - Integration completed through    1 Feb  1   0: 0: 0
+2019-01-23 15:02:00,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 15:02:00,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 15:02:01,146 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-23 15:02:01,702 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-23 15:02:01,702 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-23 15:02:01,703 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-23 15:02:01,738 - gfdl - DEBUG - Total runtime                     16585.738485  16585.738499  16585.738492      0.000005  1.000     0     0    15
+2019-01-23 15:02:01,738 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-23 15:02:01,966 - gfdl - DEBUG - Month 1 complete, combining nc files
+2019-01-23 15:04:00,005 - gfdl - INFO - Run for month 1 complete
+2019-01-23 15:04:15,622 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_1.cpio'
+2019-01-23 15:04:41,673 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-23 15:04:41,713 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-23 15:04:41,720 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-23 15:04:41,764 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-23 15:04:41,827 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_1.cpio'
+2019-01-23 15:04:41,830 - gfdl - INFO - Running GFDL for month 2
+2019-01-23 15:04:42,314 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 15:04:42,314 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 15:04:42,315 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 15:04:42,315 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 15:04:42,315 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 15:04:42,316 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 15:04:42,316 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 15:04:42,316 - gfdl - DEBUG - loadmodules
+2019-01-23 15:04:42,523 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 15:04:42,523 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 15:04:42,523 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 15:04:42,523 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 15:04:42,524 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 15:04:42,524 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 15:04:42,524 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 15:04:43,162 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 15:04:43,165 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 15:04:43,166 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 15:04:43,166 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 15:04:43,166 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 15:04:43,166 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 15:04:43,783 - gfdl - DEBUG - atmos_model.res
+2019-01-23 15:04:45,007 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-23 15:04:45,010 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-23 15:04:45,861 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-23 15:04:45,861 - gfdl - DEBUG - 510862 blocks
+2019-01-23 15:04:47,740 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-23 15:04:47,740 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-23 15:04:47,743 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-23 15:04:47,743 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-23 15:04:47,743 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-23 15:04:47,743 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-23 15:04:47,743 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-23 15:04:47,744 - gfdl - DEBUG - /
+2019-01-23 15:04:47,744 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-23 15:04:47,753 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-23 15:04:47,795 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-23 15:04:47,802 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-23 15:04:47,802 - gfdl - DEBUG - X-AXIS =  256
+2019-01-23 15:04:47,802 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-23 15:04:47,988 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:47,989 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:47,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:47,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:47,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:47,990 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:48,030 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-23 15:04:48,030 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-23 15:04:48,032 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:48,032 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 15:04:48,258 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-23 15:04:48,296 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-23 15:14:02,909 - gfdl - DEBUG - Integration completed through    1 Feb  2   0: 0: 0
+2019-01-23 15:23:16,900 - gfdl - DEBUG - Integration completed through    1 Feb  3   0: 0: 0
+2019-01-23 15:32:32,152 - gfdl - DEBUG - Integration completed through    1 Feb  4   0: 0: 0
+2019-01-23 15:41:45,925 - gfdl - DEBUG - Integration completed through    1 Feb  5   0: 0: 0
+2019-01-23 15:51:01,499 - gfdl - DEBUG - Integration completed through    1 Feb  6   0: 0: 0
+2019-01-23 16:00:16,942 - gfdl - DEBUG - Integration completed through    1 Feb  7   0: 0: 0
+2019-01-23 16:09:29,789 - gfdl - DEBUG - Integration completed through    1 Feb  8   0: 0: 0
+2019-01-23 16:18:45,311 - gfdl - DEBUG - Integration completed through    1 Feb  9   0: 0: 0
+2019-01-23 16:28:00,885 - gfdl - DEBUG - Integration completed through    1 Feb 10   0: 0: 0
+2019-01-23 16:37:18,879 - gfdl - DEBUG - Integration completed through    1 Feb 11   0: 0: 0
+2019-01-23 16:46:35,319 - gfdl - DEBUG - Integration completed through    1 Feb 12   0: 0: 0
+2019-01-23 16:55:53,723 - gfdl - DEBUG - Integration completed through    1 Feb 13   0: 0: 0
+2019-01-23 17:05:10,322 - gfdl - DEBUG - Integration completed through    1 Feb 14   0: 0: 0
+2019-01-23 17:14:27,687 - gfdl - DEBUG - Integration completed through    1 Feb 15   0: 0: 0
+2019-01-23 17:23:43,233 - gfdl - DEBUG - Integration completed through    1 Feb 16   0: 0: 0
+2019-01-23 17:32:59,922 - gfdl - DEBUG - Integration completed through    1 Feb 17   0: 0: 0
+2019-01-23 17:42:09,367 - gfdl - DEBUG - Integration completed through    1 Feb 18   0: 0: 0
+2019-01-23 17:51:16,007 - gfdl - DEBUG - Integration completed through    1 Feb 19   0: 0: 0
+2019-01-23 18:00:29,564 - gfdl - DEBUG - Integration completed through    1 Feb 20   0: 0: 0
+2019-01-23 18:09:37,524 - gfdl - DEBUG - Integration completed through    1 Feb 21   0: 0: 0
+2019-01-23 18:18:43,501 - gfdl - DEBUG - Integration completed through    1 Feb 22   0: 0: 0
+2019-01-23 18:27:49,117 - gfdl - DEBUG - Integration completed through    1 Feb 23   0: 0: 0
+2019-01-23 18:36:54,695 - gfdl - DEBUG - Integration completed through    1 Feb 24   0: 0: 0
+2019-01-23 18:46:00,727 - gfdl - DEBUG - Integration completed through    1 Feb 25   0: 0: 0
+2019-01-23 18:55:06,595 - gfdl - DEBUG - Integration completed through    1 Feb 26   0: 0: 0
+2019-01-23 19:04:12,892 - gfdl - DEBUG - Integration completed through    1 Feb 27   0: 0: 0
+2019-01-23 19:13:28,168 - gfdl - DEBUG - Integration completed through    1 Feb 28   0: 0: 0
+2019-01-23 19:22:47,756 - gfdl - DEBUG - Integration completed through    1 Feb 29   0: 0: 0
+2019-01-23 19:32:06,845 - gfdl - DEBUG - Integration completed through    1 Feb 30   0: 0: 0
+2019-01-23 19:41:27,647 - gfdl - DEBUG - Integration completed through    1 Mar  1   0: 0: 0
+2019-01-23 19:41:27,822 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 19:41:27,823 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 19:41:27,979 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-23 19:41:28,478 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-23 19:41:28,484 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-23 19:41:28,484 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-23 19:41:28,544 - gfdl - DEBUG - Total runtime                     16600.742674  16600.748685  16600.744190      0.002595  1.000     0     0    15
+2019-01-23 19:41:28,573 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-23 19:41:28,648 - gfdl - DEBUG - Month 2 complete, combining nc files
+2019-01-23 19:43:36,511 - gfdl - INFO - Run for month 2 complete
+2019-01-23 19:43:51,716 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_2.cpio'
+2019-01-23 19:44:24,165 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-23 19:44:24,203 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-23 19:44:24,210 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-23 19:44:24,245 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-23 19:44:24,306 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_2.cpio'
+2019-01-23 19:44:24,322 - gfdl - INFO - Running GFDL for month 3
+2019-01-23 19:44:24,637 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 19:44:24,637 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 19:44:24,637 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 19:44:24,638 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 19:44:24,638 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 19:44:24,638 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 19:44:24,638 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 19:44:24,638 - gfdl - DEBUG - loadmodules
+2019-01-23 19:44:24,810 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 19:44:24,810 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 19:44:24,811 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 19:44:24,811 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 19:44:24,811 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 19:44:24,811 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 19:44:24,811 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 19:44:25,445 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 19:44:25,448 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 19:44:25,448 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 19:44:25,449 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 19:44:25,449 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 19:44:25,449 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 19:44:26,410 - gfdl - DEBUG - atmos_model.res
+2019-01-23 19:44:27,601 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-23 19:44:27,604 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-23 19:44:28,394 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-23 19:44:28,394 - gfdl - DEBUG - 510862 blocks
+2019-01-23 19:44:30,464 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-23 19:44:30,464 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-23 19:44:30,464 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-23 19:44:30,464 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-23 19:44:30,464 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-23 19:44:30,465 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-23 19:44:30,465 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-23 19:44:30,465 - gfdl - DEBUG - /
+2019-01-23 19:44:30,465 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-23 19:44:30,470 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-23 19:44:30,508 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-23 19:44:30,520 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-23 19:44:30,520 - gfdl - DEBUG - X-AXIS =  256
+2019-01-23 19:44:30,520 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-23 19:44:30,700 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,701 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,701 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,701 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,701 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,702 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,765 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-23 19:44:30,765 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-23 19:44:30,767 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,769 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 19:44:30,805 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-23 19:44:30,816 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-23 19:53:50,513 - gfdl - DEBUG - Integration completed through    1 Mar  2   0: 0: 0
+2019-01-23 20:03:10,297 - gfdl - DEBUG - Integration completed through    1 Mar  3   0: 0: 0
+2019-01-23 20:12:26,567 - gfdl - DEBUG - Integration completed through    1 Mar  4   0: 0: 0
+2019-01-23 20:21:39,106 - gfdl - DEBUG - Integration completed through    1 Mar  5   0: 0: 0
+2019-01-23 20:30:52,624 - gfdl - DEBUG - Integration completed through    1 Mar  6   0: 0: 0
+2019-01-23 20:40:04,573 - gfdl - DEBUG - Integration completed through    1 Mar  7   0: 0: 0
+2019-01-23 20:49:11,146 - gfdl - DEBUG - Integration completed through    1 Mar  8   0: 0: 0
+2019-01-23 20:58:15,923 - gfdl - DEBUG - Integration completed through    1 Mar  9   0: 0: 0
+2019-01-23 21:07:18,892 - gfdl - DEBUG - Integration completed through    1 Mar 10   0: 0: 0
+2019-01-23 21:16:18,115 - gfdl - DEBUG - Integration completed through    1 Mar 11   0: 0: 0
+2019-01-23 21:25:12,305 - gfdl - DEBUG - Integration completed through    1 Mar 12   0: 0: 0
+2019-01-23 21:34:01,529 - gfdl - DEBUG - Integration completed through    1 Mar 13   0: 0: 0
+2019-01-23 21:42:48,607 - gfdl - DEBUG - Integration completed through    1 Mar 14   0: 0: 0
+2019-01-23 21:51:24,025 - gfdl - DEBUG - Integration completed through    1 Mar 15   0: 0: 0
+2019-01-23 21:59:47,746 - gfdl - DEBUG - Integration completed through    1 Mar 16   0: 0: 0
+2019-01-23 22:08:05,912 - gfdl - DEBUG - Integration completed through    1 Mar 17   0: 0: 0
+2019-01-23 22:16:27,097 - gfdl - DEBUG - Integration completed through    1 Mar 18   0: 0: 0
+2019-01-23 22:24:39,526 - gfdl - DEBUG - Integration completed through    1 Mar 19   0: 0: 0
+2019-01-23 22:32:40,879 - gfdl - DEBUG - Integration completed through    1 Mar 20   0: 0: 0
+2019-01-23 22:40:37,161 - gfdl - DEBUG - Integration completed through    1 Mar 21   0: 0: 0
+2019-01-23 22:48:25,478 - gfdl - DEBUG - Integration completed through    1 Mar 22   0: 0: 0
+2019-01-23 22:56:08,901 - gfdl - DEBUG - Integration completed through    1 Mar 23   0: 0: 0
+2019-01-23 23:03:49,000 - gfdl - DEBUG - Integration completed through    1 Mar 24   0: 0: 0
+2019-01-23 23:11:20,787 - gfdl - DEBUG - Integration completed through    1 Mar 25   0: 0: 0
+2019-01-23 23:18:38,941 - gfdl - DEBUG - Integration completed through    1 Mar 26   0: 0: 0
+2019-01-23 23:25:45,966 - gfdl - DEBUG - Integration completed through    1 Mar 27   0: 0: 0
+2019-01-23 23:32:43,516 - gfdl - DEBUG - Integration completed through    1 Mar 28   0: 0: 0
+2019-01-23 23:39:29,169 - gfdl - DEBUG - Integration completed through    1 Mar 29   0: 0: 0
+2019-01-23 23:45:53,525 - gfdl - DEBUG - Integration completed through    1 Mar 30   0: 0: 0
+2019-01-23 23:52:04,045 - gfdl - DEBUG - Integration completed through    1 Apr  1   0: 0: 0
+2019-01-23 23:52:04,270 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 23:52:04,271 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-23 23:52:04,337 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-23 23:52:04,887 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-23 23:52:04,887 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-23 23:52:04,887 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-23 23:52:04,927 - gfdl - DEBUG - Total runtime                     14854.432513  14854.432522  14854.432518      0.000003  1.000     0     0    15
+2019-01-23 23:52:04,927 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-23 23:52:05,035 - gfdl - DEBUG - Month 3 complete, combining nc files
+2019-01-23 23:53:57,903 - gfdl - INFO - Run for month 3 complete
+2019-01-23 23:54:13,607 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_3.cpio'
+2019-01-23 23:54:37,964 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-23 23:54:38,004 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-23 23:54:38,011 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-23 23:54:38,055 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-23 23:54:38,106 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_3.cpio'
+2019-01-23 23:54:38,108 - gfdl - INFO - Running GFDL for month 4
+2019-01-23 23:54:38,615 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 23:54:38,616 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 23:54:38,616 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 23:54:38,616 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 23:54:38,616 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 23:54:38,616 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 23:54:38,617 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 23:54:38,617 - gfdl - DEBUG - loadmodules
+2019-01-23 23:54:38,814 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-23 23:54:38,815 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-23 23:54:38,815 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-23 23:54:38,815 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-23 23:54:38,815 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-23 23:54:38,815 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-23 23:54:38,816 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-23 23:54:39,455 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-23 23:54:39,459 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-23 23:54:39,459 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-23 23:54:39,460 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-23 23:54:39,460 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-23 23:54:39,460 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-23 23:54:40,098 - gfdl - DEBUG - atmos_model.res
+2019-01-23 23:54:41,315 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-23 23:54:41,318 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-23 23:54:42,181 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-23 23:54:42,182 - gfdl - DEBUG - 510862 blocks
+2019-01-23 23:54:44,262 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-23 23:54:44,262 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-23 23:54:44,262 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-23 23:54:44,262 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-23 23:54:44,262 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-23 23:54:44,263 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-23 23:54:44,263 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-23 23:54:44,263 - gfdl - DEBUG - /
+2019-01-23 23:54:44,263 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-23 23:54:44,277 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-23 23:54:44,301 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-23 23:54:44,305 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-23 23:54:44,305 - gfdl - DEBUG - X-AXIS =  256
+2019-01-23 23:54:44,305 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-23 23:54:44,457 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,458 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,458 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,458 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,459 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,459 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,505 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-23 23:54:44,505 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-23 23:54:44,506 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,508 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-23 23:54:44,543 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-23 23:54:44,557 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-24 00:00:52,631 - gfdl - DEBUG - Integration completed through    1 Apr  2   0: 0: 0
+2019-01-24 00:07:16,825 - gfdl - DEBUG - Integration completed through    1 Apr  3   0: 0: 0
+2019-01-24 00:13:58,063 - gfdl - DEBUG - Integration completed through    1 Apr  4   0: 0: 0
+2019-01-24 00:20:54,372 - gfdl - DEBUG - Integration completed through    1 Apr  5   0: 0: 0
+2019-01-24 00:27:59,638 - gfdl - DEBUG - Integration completed through    1 Apr  6   0: 0: 0
+2019-01-24 00:35:14,581 - gfdl - DEBUG - Integration completed through    1 Apr  7   0: 0: 0
+2019-01-24 00:42:43,552 - gfdl - DEBUG - Integration completed through    1 Apr  8   0: 0: 0
+2019-01-24 00:50:20,116 - gfdl - DEBUG - Integration completed through    1 Apr  9   0: 0: 0
+2019-01-24 00:58:03,514 - gfdl - DEBUG - Integration completed through    1 Apr 10   0: 0: 0
+2019-01-24 01:05:57,881 - gfdl - DEBUG - Integration completed through    1 Apr 11   0: 0: 0
+2019-01-24 01:14:00,311 - gfdl - DEBUG - Integration completed through    1 Apr 12   0: 0: 0
+2019-01-24 01:22:07,563 - gfdl - DEBUG - Integration completed through    1 Apr 13   0: 0: 0
+2019-01-24 01:30:21,468 - gfdl - DEBUG - Integration completed through    1 Apr 14   0: 0: 0
+2019-01-24 01:38:44,207 - gfdl - DEBUG - Integration completed through    1 Apr 15   0: 0: 0
+2019-01-24 01:47:11,150 - gfdl - DEBUG - Integration completed through    1 Apr 16   0: 0: 0
+2019-01-24 01:55:43,522 - gfdl - DEBUG - Integration completed through    1 Apr 17   0: 0: 0
+2019-01-24 02:04:23,159 - gfdl - DEBUG - Integration completed through    1 Apr 18   0: 0: 0
+2019-01-24 02:13:07,570 - gfdl - DEBUG - Integration completed through    1 Apr 19   0: 0: 0
+2019-01-24 02:21:54,589 - gfdl - DEBUG - Integration completed through    1 Apr 20   0: 0: 0
+2019-01-24 02:30:44,407 - gfdl - DEBUG - Integration completed through    1 Apr 21   0: 0: 0
+2019-01-24 02:39:40,990 - gfdl - DEBUG - Integration completed through    1 Apr 22   0: 0: 0
+2019-01-24 02:48:41,316 - gfdl - DEBUG - Integration completed through    1 Apr 23   0: 0: 0
+2019-01-24 02:57:43,257 - gfdl - DEBUG - Integration completed through    1 Apr 24   0: 0: 0
+2019-01-24 03:06:45,708 - gfdl - DEBUG - Integration completed through    1 Apr 25   0: 0: 0
+2019-01-24 03:15:54,689 - gfdl - DEBUG - Integration completed through    1 Apr 26   0: 0: 0
+2019-01-24 03:25:05,258 - gfdl - DEBUG - Integration completed through    1 Apr 27   0: 0: 0
+2019-01-24 03:34:16,056 - gfdl - DEBUG - Integration completed through    1 Apr 28   0: 0: 0
+2019-01-24 03:43:28,780 - gfdl - DEBUG - Integration completed through    1 Apr 29   0: 0: 0
+2019-01-24 03:52:45,119 - gfdl - DEBUG - Integration completed through    1 Apr 30   0: 0: 0
+2019-01-24 04:02:00,519 - gfdl - DEBUG - Integration completed through    1 May  1   0: 0: 0
+2019-01-24 04:02:00,715 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 04:02:00,715 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 04:02:00,894 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-24 04:02:01,428 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-24 04:02:01,428 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-24 04:02:01,428 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-24 04:02:01,446 - gfdl - DEBUG - Total runtime                     14837.172791  14837.172811  14837.172802      0.000006  1.000     0     0    15
+2019-01-24 04:02:01,446 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-24 04:02:01,508 - gfdl - DEBUG - Month 4 complete, combining nc files
+2019-01-24 04:03:55,568 - gfdl - INFO - Run for month 4 complete
+2019-01-24 04:04:11,275 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_4.cpio'
+2019-01-24 04:04:38,408 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-24 04:04:38,448 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-24 04:04:38,455 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-24 04:04:38,494 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-24 04:04:38,555 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_4.cpio'
+2019-01-24 04:04:38,557 - gfdl - INFO - Running GFDL for month 5
+2019-01-24 04:04:38,928 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 04:04:38,929 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 04:04:38,929 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 04:04:38,929 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 04:04:38,929 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 04:04:38,929 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 04:04:38,930 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 04:04:38,930 - gfdl - DEBUG - loadmodules
+2019-01-24 04:04:39,100 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 04:04:39,100 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 04:04:39,101 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 04:04:39,101 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 04:04:39,101 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 04:04:39,101 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 04:04:39,101 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 04:04:39,736 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-24 04:04:39,739 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-24 04:04:39,739 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-24 04:04:39,739 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-24 04:04:39,740 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-24 04:04:39,740 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-24 04:04:40,420 - gfdl - DEBUG - atmos_model.res
+2019-01-24 04:04:41,662 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-24 04:04:41,664 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-24 04:04:42,476 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-24 04:04:42,477 - gfdl - DEBUG - 510862 blocks
+2019-01-24 04:04:44,252 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-24 04:04:44,252 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-24 04:04:44,252 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-24 04:04:44,252 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-24 04:04:44,253 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-24 04:04:44,253 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-24 04:04:44,253 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-24 04:04:44,253 - gfdl - DEBUG - /
+2019-01-24 04:04:44,253 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-24 04:04:44,264 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-24 04:04:44,291 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-24 04:04:44,303 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-24 04:04:44,303 - gfdl - DEBUG - X-AXIS =  256
+2019-01-24 04:04:44,303 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-24 04:04:44,570 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,571 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,571 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,571 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,572 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,572 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,706 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-24 04:04:44,706 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-24 04:04:44,708 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,710 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 04:04:44,772 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-24 04:04:44,777 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-24 04:14:01,356 - gfdl - DEBUG - Integration completed through    1 May  2   0: 0: 0
+2019-01-24 04:23:15,888 - gfdl - DEBUG - Integration completed through    1 May  3   0: 0: 0
+2019-01-24 04:32:31,612 - gfdl - DEBUG - Integration completed through    1 May  4   0: 0: 0
+2019-01-24 04:41:47,683 - gfdl - DEBUG - Integration completed through    1 May  5   0: 0: 0
+2019-01-24 04:51:03,360 - gfdl - DEBUG - Integration completed through    1 May  6   0: 0: 0
+2019-01-24 05:00:19,199 - gfdl - DEBUG - Integration completed through    1 May  7   0: 0: 0
+2019-01-24 05:09:35,086 - gfdl - DEBUG - Integration completed through    1 May  8   0: 0: 0
+2019-01-24 05:18:51,350 - gfdl - DEBUG - Integration completed through    1 May  9   0: 0: 0
+2019-01-24 05:28:06,913 - gfdl - DEBUG - Integration completed through    1 May 10   0: 0: 0
+2019-01-24 05:37:19,312 - gfdl - DEBUG - Integration completed through    1 May 11   0: 0: 0
+2019-01-24 05:46:22,305 - gfdl - DEBUG - Integration completed through    1 May 12   0: 0: 0
+2019-01-24 05:55:26,246 - gfdl - DEBUG - Integration completed through    1 May 13   0: 0: 0
+2019-01-24 06:04:31,674 - gfdl - DEBUG - Integration completed through    1 May 14   0: 0: 0
+2019-01-24 06:13:34,259 - gfdl - DEBUG - Integration completed through    1 May 15   0: 0: 0
+2019-01-24 06:22:36,316 - gfdl - DEBUG - Integration completed through    1 May 16   0: 0: 0
+2019-01-24 06:31:44,569 - gfdl - DEBUG - Integration completed through    1 May 17   0: 0: 0
+2019-01-24 06:40:59,211 - gfdl - DEBUG - Integration completed through    1 May 18   0: 0: 0
+2019-01-24 06:50:03,324 - gfdl - DEBUG - Integration completed through    1 May 19   0: 0: 0
+2019-01-24 06:59:18,315 - gfdl - DEBUG - Integration completed through    1 May 20   0: 0: 0
+2019-01-24 07:08:20,719 - gfdl - DEBUG - Integration completed through    1 May 21   0: 0: 0
+2019-01-24 07:17:24,030 - gfdl - DEBUG - Integration completed through    1 May 22   0: 0: 0
+2019-01-24 07:26:35,249 - gfdl - DEBUG - Integration completed through    1 May 23   0: 0: 0
+2019-01-24 07:35:49,660 - gfdl - DEBUG - Integration completed through    1 May 24   0: 0: 0
+2019-01-24 07:45:04,668 - gfdl - DEBUG - Integration completed through    1 May 25   0: 0: 0
+2019-01-24 07:54:18,353 - gfdl - DEBUG - Integration completed through    1 May 26   0: 0: 0
+2019-01-24 08:03:32,283 - gfdl - DEBUG - Integration completed through    1 May 27   0: 0: 0
+2019-01-24 08:12:47,070 - gfdl - DEBUG - Integration completed through    1 May 28   0: 0: 0
+2019-01-24 08:22:01,332 - gfdl - DEBUG - Integration completed through    1 May 29   0: 0: 0
+2019-01-24 08:31:05,371 - gfdl - DEBUG - Integration completed through    1 May 30   0: 0: 0
+2019-01-24 08:40:10,773 - gfdl - DEBUG - Integration completed through    1 Jun  1   0: 0: 0
+2019-01-24 08:40:10,973 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 08:40:10,973 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 08:40:11,128 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-24 08:40:11,634 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-24 08:40:11,634 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-24 08:40:11,634 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-24 08:40:11,659 - gfdl - DEBUG - Total runtime                     16527.390338  16527.390371  16527.390363      0.000008  1.000     0     0    15
+2019-01-24 08:40:11,659 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-24 08:40:11,721 - gfdl - DEBUG - Month 5 complete, combining nc files
+2019-01-24 08:41:59,500 - gfdl - INFO - Run for month 5 complete
+2019-01-24 08:42:15,537 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_5.cpio'
+2019-01-24 08:42:41,972 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-24 08:42:42,012 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-24 08:42:42,019 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-24 08:42:42,090 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-24 08:42:42,163 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_5.cpio'
+2019-01-24 08:42:42,195 - gfdl - INFO - Running GFDL for month 6
+2019-01-24 08:42:42,773 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 08:42:42,774 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 08:42:42,774 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 08:42:42,774 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 08:42:42,774 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 08:42:42,774 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 08:42:42,775 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 08:42:42,775 - gfdl - DEBUG - loadmodules
+2019-01-24 08:42:42,964 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 08:42:42,965 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 08:42:43,596 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-24 08:42:43,600 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-24 08:42:43,600 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-24 08:42:43,600 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-24 08:42:43,601 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-24 08:42:43,601 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-24 08:42:44,222 - gfdl - DEBUG - atmos_model.res
+2019-01-24 08:42:45,438 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-24 08:42:45,441 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-24 08:42:46,268 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-24 08:42:46,269 - gfdl - DEBUG - 510862 blocks
+2019-01-24 08:42:48,627 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-24 08:42:48,627 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-24 08:42:48,627 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-24 08:42:48,628 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-24 08:42:48,628 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-24 08:42:48,628 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-24 08:42:48,628 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-24 08:42:48,629 - gfdl - DEBUG - /
+2019-01-24 08:42:48,629 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-24 08:42:48,646 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-24 08:42:48,685 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-24 08:42:48,687 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-24 08:42:48,687 - gfdl - DEBUG - X-AXIS =  256
+2019-01-24 08:42:48,687 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-24 08:42:48,866 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,869 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,915 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-24 08:42:48,915 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-24 08:42:48,918 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:48,918 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 08:42:49,065 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-24 08:42:49,102 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-24 08:51:59,337 - gfdl - DEBUG - Integration completed through    1 Jun  2   0: 0: 0
+2019-01-24 09:01:15,981 - gfdl - DEBUG - Integration completed through    1 Jun  3   0: 0: 0
+2019-01-24 09:10:33,078 - gfdl - DEBUG - Integration completed through    1 Jun  4   0: 0: 0
+2019-01-24 09:19:49,772 - gfdl - DEBUG - Integration completed through    1 Jun  5   0: 0: 0
+2019-01-24 09:29:04,817 - gfdl - DEBUG - Integration completed through    1 Jun  6   0: 0: 0
+2019-01-24 09:38:16,377 - gfdl - DEBUG - Integration completed through    1 Jun  7   0: 0: 0
+2019-01-24 09:47:31,207 - gfdl - DEBUG - Integration completed through    1 Jun  8   0: 0: 0
+2019-01-24 09:56:46,916 - gfdl - DEBUG - Integration completed through    1 Jun  9   0: 0: 0
+2019-01-24 10:06:00,913 - gfdl - DEBUG - Integration completed through    1 Jun 10   0: 0: 0
+2019-01-24 10:15:18,419 - gfdl - DEBUG - Integration completed through    1 Jun 11   0: 0: 0
+2019-01-24 10:24:35,129 - gfdl - DEBUG - Integration completed through    1 Jun 12   0: 0: 0
+2019-01-24 10:33:49,237 - gfdl - DEBUG - Integration completed through    1 Jun 13   0: 0: 0
+2019-01-24 10:43:03,645 - gfdl - DEBUG - Integration completed through    1 Jun 14   0: 0: 0
+2019-01-24 10:52:07,947 - gfdl - DEBUG - Integration completed through    1 Jun 15   0: 0: 0
+2019-01-24 11:01:13,318 - gfdl - DEBUG - Integration completed through    1 Jun 16   0: 0: 0
+2019-01-24 11:10:18,472 - gfdl - DEBUG - Integration completed through    1 Jun 17   0: 0: 0
+2019-01-24 11:19:34,748 - gfdl - DEBUG - Integration completed through    1 Jun 18   0: 0: 0
+2019-01-24 11:28:52,279 - gfdl - DEBUG - Integration completed through    1 Jun 19   0: 0: 0
+2019-01-24 11:38:08,600 - gfdl - DEBUG - Integration completed through    1 Jun 20   0: 0: 0
+2019-01-24 11:47:25,763 - gfdl - DEBUG - Integration completed through    1 Jun 21   0: 0: 0
+2019-01-24 11:56:42,446 - gfdl - DEBUG - Integration completed through    1 Jun 22   0: 0: 0
+2019-01-24 12:05:56,869 - gfdl - DEBUG - Integration completed through    1 Jun 23   0: 0: 0
+2019-01-24 12:15:05,416 - gfdl - DEBUG - Integration completed through    1 Jun 24   0: 0: 0
+2019-01-24 12:24:21,659 - gfdl - DEBUG - Integration completed through    1 Jun 25   0: 0: 0
+2019-01-24 12:33:35,673 - gfdl - DEBUG - Integration completed through    1 Jun 26   0: 0: 0
+2019-01-24 12:42:52,791 - gfdl - DEBUG - Integration completed through    1 Jun 27   0: 0: 0
+2019-01-24 12:52:09,336 - gfdl - DEBUG - Integration completed through    1 Jun 28   0: 0: 0
+2019-01-24 13:01:24,663 - gfdl - DEBUG - Integration completed through    1 Jun 29   0: 0: 0
+2019-01-24 13:10:42,259 - gfdl - DEBUG - Integration completed through    1 Jun 30   0: 0: 0
+2019-01-24 13:19:59,736 - gfdl - DEBUG - Integration completed through    1 Jul  1   0: 0: 0
+2019-01-24 13:19:59,956 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 13:19:59,956 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 13:20:00,215 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-24 13:20:00,785 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-24 13:20:00,785 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-24 13:20:00,786 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-24 13:20:00,803 - gfdl - DEBUG - Total runtime                     16632.168214  16632.168230  16632.168223      0.000005  1.000     0     0    15
+2019-01-24 13:20:00,803 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-24 13:20:00,902 - gfdl - DEBUG - Month 6 complete, combining nc files
+2019-01-24 13:22:02,550 - gfdl - INFO - Run for month 6 complete
+2019-01-24 13:22:18,391 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_6.cpio'
+2019-01-24 13:22:48,202 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-24 13:22:48,244 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-24 13:22:48,250 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-24 13:22:48,286 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-24 13:22:48,342 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_6.cpio'
+2019-01-24 13:22:48,343 - gfdl - INFO - Running GFDL for month 7
+2019-01-24 13:22:48,883 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 13:22:48,884 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 13:22:48,884 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 13:22:48,884 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 13:22:48,884 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 13:22:48,884 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 13:22:48,885 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 13:22:48,885 - gfdl - DEBUG - loadmodules
+2019-01-24 13:22:49,073 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 13:22:49,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 13:22:49,775 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-24 13:22:49,777 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-24 13:22:49,778 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-24 13:22:49,778 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-24 13:22:49,778 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-24 13:22:49,778 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-24 13:22:50,568 - gfdl - DEBUG - atmos_model.res
+2019-01-24 13:22:51,780 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-24 13:22:51,783 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-24 13:22:52,617 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-24 13:22:52,617 - gfdl - DEBUG - 510862 blocks
+2019-01-24 13:22:54,640 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-24 13:22:54,643 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-24 13:22:54,643 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-24 13:22:54,643 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-24 13:22:54,643 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-24 13:22:54,643 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-24 13:22:54,644 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-24 13:22:54,644 - gfdl - DEBUG - /
+2019-01-24 13:22:54,644 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-24 13:22:54,649 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-24 13:22:54,711 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-24 13:22:54,713 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-24 13:22:54,713 - gfdl - DEBUG - X-AXIS =  256
+2019-01-24 13:22:54,713 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-24 13:22:54,878 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,879 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,879 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,879 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,880 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,881 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,927 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-24 13:22:54,932 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-24 13:22:54,932 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:54,932 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 13:22:55,367 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-24 13:22:55,371 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-24 13:32:07,866 - gfdl - DEBUG - Integration completed through    1 Jul  2   0: 0: 0
+2019-01-24 13:41:24,353 - gfdl - DEBUG - Integration completed through    1 Jul  3   0: 0: 0
+2019-01-24 13:50:42,421 - gfdl - DEBUG - Integration completed through    1 Jul  4   0: 0: 0
+2019-01-24 13:59:59,572 - gfdl - DEBUG - Integration completed through    1 Jul  5   0: 0: 0
+2019-01-24 14:09:16,183 - gfdl - DEBUG - Integration completed through    1 Jul  6   0: 0: 0
+2019-01-24 14:18:33,590 - gfdl - DEBUG - Integration completed through    1 Jul  7   0: 0: 0
+2019-01-24 14:27:51,185 - gfdl - DEBUG - Integration completed through    1 Jul  8   0: 0: 0
+2019-01-24 14:37:09,441 - gfdl - DEBUG - Integration completed through    1 Jul  9   0: 0: 0
+2019-01-24 14:46:26,590 - gfdl - DEBUG - Integration completed through    1 Jul 10   0: 0: 0
+2019-01-24 14:55:41,851 - gfdl - DEBUG - Integration completed through    1 Jul 11   0: 0: 0
+2019-01-24 15:04:59,200 - gfdl - DEBUG - Integration completed through    1 Jul 12   0: 0: 0
+2019-01-24 15:14:17,172 - gfdl - DEBUG - Integration completed through    1 Jul 13   0: 0: 0
+2019-01-24 15:23:36,991 - gfdl - DEBUG - Integration completed through    1 Jul 14   0: 0: 0
+2019-01-24 15:32:57,115 - gfdl - DEBUG - Integration completed through    1 Jul 15   0: 0: 0
+2019-01-24 15:42:15,136 - gfdl - DEBUG - Integration completed through    1 Jul 16   0: 0: 0
+2019-01-24 15:51:33,412 - gfdl - DEBUG - Integration completed through    1 Jul 17   0: 0: 0
+2019-01-24 16:00:50,082 - gfdl - DEBUG - Integration completed through    1 Jul 18   0: 0: 0
+2019-01-24 16:10:05,589 - gfdl - DEBUG - Integration completed through    1 Jul 19   0: 0: 0
+2019-01-24 16:19:24,316 - gfdl - DEBUG - Integration completed through    1 Jul 20   0: 0: 0
+2019-01-24 16:28:41,531 - gfdl - DEBUG - Integration completed through    1 Jul 21   0: 0: 0
+2019-01-24 16:37:59,271 - gfdl - DEBUG - Integration completed through    1 Jul 22   0: 0: 0
+2019-01-24 16:47:16,026 - gfdl - DEBUG - Integration completed through    1 Jul 23   0: 0: 0
+2019-01-24 16:56:31,203 - gfdl - DEBUG - Integration completed through    1 Jul 24   0: 0: 0
+2019-01-24 17:05:48,105 - gfdl - DEBUG - Integration completed through    1 Jul 25   0: 0: 0
+2019-01-24 17:15:06,538 - gfdl - DEBUG - Integration completed through    1 Jul 26   0: 0: 0
+2019-01-24 17:24:24,365 - gfdl - DEBUG - Integration completed through    1 Jul 27   0: 0: 0
+2019-01-24 17:33:43,097 - gfdl - DEBUG - Integration completed through    1 Jul 28   0: 0: 0
+2019-01-24 17:43:00,339 - gfdl - DEBUG - Integration completed through    1 Jul 29   0: 0: 0
+2019-01-24 17:52:20,946 - gfdl - DEBUG - Integration completed through    1 Jul 30   0: 0: 0
+2019-01-24 18:01:40,018 - gfdl - DEBUG - Integration completed through    1 Aug  1   0: 0: 0
+2019-01-24 18:01:40,184 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 18:01:40,184 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-01-24 18:01:40,347 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to    1310720.
+2019-01-24 18:01:40,876 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=      163840
+2019-01-24 18:01:40,876 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-01-24 18:01:40,877 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-01-24 18:01:40,889 - gfdl - DEBUG - Total runtime                     16726.240067  16726.240074  16726.240071      0.000002  1.000     0     0    15
+2019-01-24 18:01:40,889 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-01-24 18:01:41,012 - gfdl - DEBUG - Month 7 complete, combining nc files
+2019-01-24 18:03:24,956 - gfdl - INFO - Run for month 7 complete
+2019-01-24 18:03:40,477 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_7.cpio'
+2019-01-24 18:03:58,417 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run'
+2019-01-24 18:03:58,457 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/input.nml'
+2019-01-24 18:03:58,463 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/field_table'
+2019-01-24 18:03:58,504 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/diag_table'
+2019-01-24 18:03:58,557 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/5m/restarts/res_7.cpio'
+2019-01-24 18:03:58,559 - gfdl - INFO - Running GFDL for month 8
+2019-01-24 18:03:59,073 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 18:03:59,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 18:03:59,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 18:03:59,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 18:03:59,074 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 18:03:59,075 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 18:03:59,075 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 18:03:59,075 - gfdl - DEBUG - loadmodules
+2019-01-24 18:03:59,271 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-24 18:03:59,271 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-24 18:03:59,271 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-24 18:03:59,271 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-24 18:03:59,271 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-24 18:03:59,272 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-24 18:03:59,272 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-24 18:03:59,905 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-24 18:03:59,908 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-24 18:03:59,909 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-24 18:03:59,909 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-24 18:03:59,909 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-24 18:03:59,909 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-24 18:04:00,502 - gfdl - DEBUG - atmos_model.res
+2019-01-24 18:04:01,700 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-01-24 18:04:01,704 - gfdl - DEBUG - mixed_layer.res.nc
+2019-01-24 18:04:02,497 - gfdl - DEBUG - atmosphere.res.nc
+2019-01-24 18:04:02,497 - gfdl - DEBUG - 510862 blocks
+2019-01-24 18:04:04,478 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-24 18:04:04,482 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-24 18:04:04,482 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-24 18:04:04,482 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-24 18:04:04,482 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-24 18:04:04,482 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-24 18:04:04,482 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-24 18:04:04,483 - gfdl - DEBUG - /
+2019-01-24 18:04:04,483 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-24 18:04:04,504 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-24 18:04:04,547 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-24 18:04:04,550 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-24 18:04:04,550 - gfdl - DEBUG - X-AXIS =  256
+2019-01-24 18:04:04,550 - gfdl - DEBUG - Y-AXIS =    8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+2019-01-24 18:04:04,711 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,711 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,711 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,712 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,712 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,712 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,774 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-24 18:04:04,774 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-24 18:04:04,776 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,777 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-24 18:04:04,813 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-01-24 18:04:04,822 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-01-24 18:13:24,234 - gfdl - DEBUG - Integration completed through    1 Aug  2   0: 0: 0
+2019-01-24 18:22:43,673 - gfdl - DEBUG - Integration completed through    1 Aug  3   0: 0: 0
+2019-01-24 18:32:04,036 - gfdl - DEBUG - Integration completed through    1 Aug  4   0: 0: 0
+2019-01-24 18:41:10,801 - gfdl - DEBUG - FATAL from PE    8: spectral_dynamics: temperatures out of valid range
+2019-01-24 18:41:10,802 - gfdl - DEBUG - PE, location, Textr(curr,future):   8:  92  1  9   100.655    94.807
+2019-01-24 18:41:10,802 - gfdl - DEBUG - PE, location, Uextr(curr,future):   8:  92  1  9     3.361     1.885
+2019-01-24 18:41:10,831 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-24 18:41:10,831 - gfdl - DEBUG - MPI_ABORT was invoked on rank 8 in communicator MPI_COMM_WORLD
+2019-01-24 18:41:10,831 - gfdl - DEBUG - with errorcode 1.
+2019-01-24 18:41:10,831 - gfdl - DEBUG - NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+2019-01-24 18:41:10,831 - gfdl - DEBUG - You may or may not see output from other processes, depending on
+2019-01-24 18:41:10,831 - gfdl - DEBUG - exactly when Open MPI kills them.
+2019-01-24 18:41:10,831 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-24 18:41:11,189 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-24 18:41:11,189 - gfdl - DEBUG - mpirun has exited due to process rank 8 with PID 6856 on
+2019-01-24 18:41:11,190 - gfdl - DEBUG - node midway791 exiting improperly. There are two reasons this could occur:
+2019-01-24 18:41:11,190 - gfdl - DEBUG - 1. this process did not call "init" before exiting, but others in
+2019-01-24 18:41:11,190 - gfdl - DEBUG - the job did. This can cause a job to hang indefinitely while it waits
+2019-01-24 18:41:11,190 - gfdl - DEBUG - for all processes to call "init". By rule, if one process calls "init",
+2019-01-24 18:41:11,190 - gfdl - DEBUG - then ALL processes must call "init" prior to termination.
+2019-01-24 18:41:11,190 - gfdl - DEBUG - 2. this process called "init", but exited without calling "finalize".
+2019-01-24 18:41:11,190 - gfdl - DEBUG - By rule, all processes that call "init" MUST call "finalize" prior to
+2019-01-24 18:41:11,191 - gfdl - DEBUG - exiting or it will be considered an "abnormal termination"
+2019-01-24 18:41:11,191 - gfdl - DEBUG - This may have caused other processes in the application to be
+2019-01-24 18:41:11,191 - gfdl - DEBUG - terminated by signals sent by mpirun (as reported here).
+2019-01-24 18:41:11,191 - gfdl - DEBUG - --------------------------------------------------------------------------
+Exception in thread background thread for pid 6726:
+Traceback (most recent call last):
+  File "/home/pragallva/Canopy/appdata/canopy-1.7.4.3348.rh5-x86_64/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/home/pragallva/Canopy/appdata/canopy-1.7.4.3348.rh5-x86_64/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 1540, in wrap
+    fn(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2459, in background_thread
+    handle_exit_code(exit_code)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2157, in fn
+    return self.command.handle_command_exit_code(exit_code)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 815, in handle_command_exit_code
+    raise exc
+ErrorReturnCode_1: 
+
+  RAN: /bin/bash /project2/tas1/pragallva/isca_sim/gfdl_work/5m/run/runmonth.sh
+
+  STDOUT:
+
+
+  STDERR:
+
+
+2019-01-24 18:41:11,367 - gfdl - ERROR - Run failed for month 8
+Traceback (most recent call last):
+  File "aqua_const_depth.py", line 107, in <module>
+    baseexp.runmonth(i, num_cores=16)
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 509, in run
+    proc.process.kill()
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2277, in kill
+    self.signal(signal.SIGKILL)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2269, in signal
+    os.kill(self.pid, sig)
+OSError: [Errno 3] No such process

@@ -1,0 +1,57 @@
+10/01/2019 08:06:11 AM ** INTERPOLATION ** 
+10/01/2019 08:06:12 AM ----0----
+10/01/2019 08:06:12 AM ----1----
+10/01/2019 08:06:12 AM ----2----
+10/01/2019 08:06:12 AM ----3----
+10/01/2019 08:06:13 AM ----4----
+10/01/2019 08:06:13 AM ----5----
+10/01/2019 08:06:13 AM ----6----
+10/01/2019 08:06:13 AM ----7----
+10/01/2019 08:06:13 AM ----8----
+10/01/2019 08:06:14 AM ----9----
+10/01/2019 08:06:16 AM Calculated interpolation
+10/01/2019 08:06:16 AM Calculated divergence
+10/01/2019 08:06:17 AM Saved raw data interp dictionary
+10/01/2019 08:06:17 AM Saved flux interp dictionary
+10/01/2019 08:06:17 AM Saved flux divergence interp
+10/01/2019 08:06:17 AM Saved flux vert dictionary
+10/01/2019 08:06:17 AM Saved flux divergence vert interp
+10/01/2019 08:06:17 AM Looks great !! Time taken --> 7.28503990173
+10/01/2019 09:50:33 PM ** INTERPOLATION ** 
+10/01/2019 09:50:33 PM ----0----
+10/01/2019 09:50:33 PM ----1----
+10/01/2019 09:50:33 PM ----2----
+10/01/2019 09:50:34 PM ----3----
+10/01/2019 09:50:34 PM ----4----
+10/01/2019 09:50:34 PM ----5----
+10/01/2019 09:50:34 PM ----6----
+10/01/2019 09:50:35 PM ----7----
+10/01/2019 09:50:35 PM ----8----
+10/01/2019 09:50:35 PM ----9----
+10/01/2019 09:50:36 PM Calculated interpolation
+10/01/2019 09:50:36 PM Calculated divergence
+10/01/2019 09:50:37 PM Saved raw data interp dictionary
+10/01/2019 09:50:37 PM Saved flux interp dictionary
+10/01/2019 09:50:37 PM Saved flux divergence interp
+10/01/2019 09:50:37 PM Saved flux vert dictionary
+10/01/2019 09:50:37 PM Saved flux divergence vert interp
+10/01/2019 09:50:37 PM Looks great !! Time taken --> 5.09745597839
+10/01/2019 09:58:34 PM ** INTERPOLATION ** 
+10/01/2019 09:58:34 PM ----0----
+10/01/2019 09:58:35 PM ----1----
+10/01/2019 09:58:35 PM ----2----
+10/01/2019 09:58:35 PM ----3----
+10/01/2019 09:58:35 PM ----4----
+10/01/2019 09:58:35 PM ----5----
+10/01/2019 09:58:35 PM ----6----
+10/01/2019 09:58:35 PM ----7----
+10/01/2019 09:58:35 PM ----8----
+10/01/2019 09:58:35 PM ----9----
+10/01/2019 09:58:36 PM Calculated interpolation
+10/01/2019 09:58:37 PM Calculated divergence
+10/01/2019 09:58:37 PM Saved raw data interp dictionary
+10/01/2019 09:58:37 PM Saved flux interp dictionary
+10/01/2019 09:58:37 PM Saved flux divergence interp
+10/01/2019 09:58:37 PM Saved flux vert dictionary
+10/01/2019 09:58:38 PM Saved flux divergence vert interp
+10/01/2019 09:58:38 PM Looks great !! Time taken --> 5.0753390789

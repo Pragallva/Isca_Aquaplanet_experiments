@@ -1,0 +1,41 @@
+2018-10-02 07:01:44,324 - gfdl - DEBUG - Making directory '/scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m'
+2018-10-02 07:01:45,579 - gfdl - INFO - Writing path_names to '/scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/path_names'
+2018-10-02 07:01:45,595 - gfdl - INFO - Running compiler
+2018-10-02 07:01:45,636 - gfdl - DEBUG - loadmodules
+2018-10-02 07:01:46,078 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:46,078 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:46,078 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:46,079 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:46,079 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:46,079 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:46,079 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc10m/compile.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:46,741 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2018-10-02 07:01:46,746 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2018-10-02 07:01:46,747 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2018-10-02 07:01:46,747 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2018-10-02 07:01:46,747 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2018-10-02 07:01:46,747 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2018-10-02 07:01:46,930 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:46,931 - gfdl - DEBUG - loadmodules
+2018-10-02 07:01:47,094 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:47,094 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:47,095 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:47,095 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:47,095 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:47,095 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:47,095 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:47,664 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2018-10-02 07:01:47,668 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2018-10-02 07:01:47,669 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2018-10-02 07:01:47,669 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2018-10-02 07:01:47,669 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2018-10-02 07:01:47,669 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2018-10-02 07:01:50,680 - gfdl - DEBUG - Makefile is ready.
+2018-10-02 07:01:50,692 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/parkind.f90
+slurmstepd-midway794: error: *** JOB 50404182 ON midway794 CANCELLED AT 2018-10-02T07:03:36 ***

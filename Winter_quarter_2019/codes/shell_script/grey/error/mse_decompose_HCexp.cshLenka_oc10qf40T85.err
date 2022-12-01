@@ -1,0 +1,40 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Extract_ncfile_save_fluxes_radiation_depths.py", line 218, in <module>
+    Net_rad2= SWABS + SHF - olr
+ValueError: operands could not be broadcast together with shapes (2,128,256) (720,128,256) 

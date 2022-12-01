@@ -1,0 +1,309 @@
+# coding: utf-8
+
+import netCDF4 as nc
+import pylab as py
+import numpy as np
+from scipy.interpolate import interp1d
+import matplotlib as mpl
+import matplotlib.cm as cm
+import sys
+import os
+import errno
+dirc=sys.argv
+
+import logging
+import time as ti
+start = ti.time()
+
+CO2         = str(dirc[1])
+num         = str(dirc[2])
+no_of_days  = 30
+
+current_dir = os.getcwd()
+parts       = current_dir.split(os.sep)
+quarter     = "/"+os.path.join(*parts[:5])
+
+import hickle as hkl
+
+## A function to save a dictionary ##
+def save(filename,dictionary):
+    hkl.dump(dictionary, filename, mode='w')
+    
+## A function to load a dictionary ## 
+def load(filename):
+    dictionary = hkl.load(filename)
+    return dictionary
+
+def make_sure_path_exists(path):
+    try:
+        os.makedirs(path)
+        logging.debug('destination folder created !')
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            logging.debug('destination folder exists already!')
+            raise
+
+log_directory = quarter+'/codes/shell_scripts/convert_isentrope/log/'
+make_sure_path_exists( path   = log_directory )
+
+
+for handler in logging.root.handlers[:]:
+    logging.root.removeHandler(handler)
+
+if CO2=='None':
+     CO2 = 'echr0001'
+exp_dir = 'ATM_dm_pl_'+CO2+'_10'
+
+source = quarter+'/exp_data/echam/data_in_isentropic_coord/'+exp_dir+'/'
+make_sure_path_exists(source);
+one_year = source+exp_dir+num+'.nc'
+
+logging.basicConfig( filename = log_directory+'momentum'+exp_dir+'.log',level=logging.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+
+destination = quarter+'/post_process_data/echam/'+exp_dir+num+'/'
+make_sure_path_exists(destination);
+
+v_variables = nc.Dataset(one_year,'r')
+v_var=v_variables.variables
+
+logging.debug('....Extract ncfile save MSE and momentum fluxes and radiation....'+str(num)+' averaged over '+str(no_of_days))
+
+logging.debug('imported nc file')
+
+a=6371.0e3  ## m
+
+sigma= 5.670367e-8 ## Stefan's constant
+Rd=286.9 # J/Kg
+Rv=461.5 # J/kg
+Cp= 1004.64 # J/kg/deg
+G= 9.8
+L=2.500e6 # J/kg
+#mon=12
+
+times=v_var['time'][:360]
+lat=v_var['lat'][:]
+lon=v_var['lon'][:]
+theta=v_var['level'][:]
+
+time= nc.num2date(times, units=v_var['time'].units, calendar= v_var['time'].calendar )
+
+logging.debug('imported coordinates')
+
+
+if no_of_days == None:
+   no_of_days = 30
+else:
+   days = int(no_of_days)
+
+no_of_years = len(time)/(12*30)
+no_of_months =12
+hours = 1
+
+
+pres      = v_var['pres'][:360,...]
+logging.debug('imported pressure')
+
+temp      = v_var['t'][:360,...] ## (time, lev, lat, lon)
+logging.debug('saved temp')
+
+v_comp    = v_var['v'][:360,...]
+logging.debug('saved v_comp')
+
+u_comp    = v_var['u'][:360,...]
+logging.debug('saved u_comp')
+
+omega     = v_var['omega'][:360,...]
+logging.debug('saved omega')
+
+Z         = v_var['geopoth'][:360,...]
+logging.debug('saved Z')
+
+q         = v_var['q'][:360,...]  ### Specific humidity
+logging.debug('saved q')
+
+
+rho_s = -(1/G)*( np.gradient(pres,theta,axis=1) )
+
+u_sq= u_comp**2
+v_sq= v_comp**2
+KE  = (u_sq+v_sq)/2.0
+
+logging.debug('calculated KE')
+
+CpT       =  Cp*temp
+Lq        =  L*q
+gZ        =  G*Z
+MSE       = (CpT+Lq+gZ+KE)
+
+logging.debug('calculated MSE fluxes')
+
+def weighted(arg):
+    w = arg*rho_s
+    return w
+
+def R(y):
+    y1=y.reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+    return y1.mean(axis=0).mean(axis=1).mean(axis=1).mean(axis=-1)
+
+logging.debug("loaded coordinates dictionary")
+
+import scipy.integrate as integrate
+
+def reshape(y):
+    y1=y.reshape((no_of_years,no_of_months,days,hours,len(theta),len(lat),len(lon)))
+    return y1
+
+
+def MSE_total(m):
+    v=v_comp
+    M         = reshape(m)                     # (year, month,days, hour, plev, lat, lon)
+    V         = reshape(v)
+    flux      = weighted(V)*(M)                # (year, month,days, hour, plev, lat, lon)
+    monthly_f = np.nanmean(np.nanmean(flux,axis=2),axis=2) # (year, month, plev, lat, lon)
+    zonal_f   = np.nanmean(monthly_f,axis=-1)        # (year, month, plev, lat)
+    return np.nanmean(zonal_f,axis=0)
+
+
+def mean_meridional(m,vert=1):
+    v         = v_comp
+    M         = reshape(m)                     # (year, month,days, hour, plev, lat, lon)
+    V         = reshape(v)
+    monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)  # (year, month, days, hour, plev, lat, lon)
+    monthly_v = np.nanmean(nanmean(weighted(V),axis=2),axis=2)  # (year, month, plev, lat, lon)
+    zonal_m   = np.nanmean(monthly_m,axis=-1)        # (year, month, plev, lat)
+    zonal_v   = np.nanmean(monthly_v,axis=-1)
+    return np.nanmean(zonal_m*zonal_v, axis=0)
+
+
+def stationary_eddies(m,vert=1):
+    v=v_comp
+    M         = reshape(m)                              # (year, month, days, hour, plev, lat, lon)
+    V         = reshape(v)
+    monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)           # (year, month,days, hour, plev, lat, lon)
+    monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)                        # (year, month, plev, lat, lon)
+    m_star    = monthly_m-np.nanmean(monthly_m,axis=-1)[...,None]          # (year, month, plev, lat, lon)
+    v_star    = monthly_v-np.nanmean(monthly_v,axis=-1)[...,None]
+    flux_weighted  = weighted((m_star*v_star)[:,:,None,None,:,:,:])    # (year, month, plev, lat)
+    vert_flux = flux_weighted.mean(axis=2).mean(axis=2).mean(axis=-1).sum(axis=2)  # (year, month, lat)
+    if vert==1:
+        return vert_flux.mean(axis=0)              # (month, lat)--> yearly average
+    else :
+        return (flux_weighted).mean(axis=2).mean(axis=2).mean(axis=-1).mean(axis=0)
+
+
+
+
+def transient_eddies(m,vert=1):
+    v=v_comp
+    M         = reshape(m)                            # (year, month,days, hour, plev, lat, lon)
+    V         = reshape(v)
+    monthly_m = M.mean(axis=2).mean(axis=2)           # average over days 
+    monthly_v = V.mean(axis=2).mean(axis=2)           # (month, plev, lat, lon)
+    m_prime   = M-monthly_m[:,:,None,None,:,:,:]      # (month, days, plev, lat, lon)
+    v_prime   = V-monthly_v[:,:,None,None,:,:,:]
+    flux      = weighted(m_prime*v_prime).mean(axis=2).mean(axis=2).mean(axis=-1) # (year,month,plev,lat) 
+    vert_flux = (flux).sum(axis=2)                     # (month, year, lat) 
+    if vert==1:
+        return vert_flux.mean(axis=0)              # (month, lat)--> yearly average
+    else :
+        return (flux).mean(axis=0)
+
+
+
+#############################
+########   dm_by_dt    ######
+#############################
+
+def tendency_six_hours(h):
+    dt=6*60*60
+    dh_by_dt=np.copy(h)
+    for lo in range(len(lon)):
+        for la in range(len(lat)):
+            for lev in range(len(sigma_full)):
+                dh_by_dt[:,lev,la,lo]=np.gradient( h[:,lev,la,lo],dt)
+    return dh_by_dt
+
+logging.debug("calculated dh_by_dt dictionary")
+
+moist_enthalpy = CpT+Lq+KE   ## ((1440, 29, 64, 128))
+dh_by_dt=tendency_six_hours(moist_enthalpy)
+
+dhdt=weighted(reshape(dh_by_dt)).mean(axis=2).mean(axis=2).mean(axis=-1) # reshape 
+dhdt_vert=dhdt.sum(axis=2).mean(axis=0)              # (month, lat)--> yearly average and vertical average
+# dhdt=reshape(every_day_readjust(dh_by_dt))
+dhdt_vert_vert=dhdt.mean(axis=0)  ## No vertical integration
+
+mse_flux=MSE_total(CpT+gZ+Lq+KE)
+
+
+
+MM_flux     =mean_meridional(CpT+gZ+Lq)
+SE_flux     =stationary_eddies(CpT+gZ+Lq)
+TE_flux     =transient_eddies(CpT+gZ+Lq)
+
+KE_flux=MSE_total(KE)
+
+TE_sensible=transient_eddies(CpT)
+TE_moist   =transient_eddies(Lq)
+TE_pot     =transient_eddies(gZ)
+
+SE_sensible=stationary_eddies(CpT)
+SE_moist   =stationary_eddies(Lq)
+SE_pot     =stationary_eddies(gZ)
+
+MM_sensible=mean_meridional(CpT)
+MM_moist   =mean_meridional(Lq)
+MM_pot     =mean_meridional(gZ)
+
+
+##### Few more linesof code
+
+
+MM_flux_vert     =mean_meridional(CpT+gZ+Lq,vert=0)
+SE_flux_vert     =stationary_eddies(CpT+gZ+Lq,vert=0)
+TE_flux_vert     =transient_eddies(CpT+gZ+Lq,vert=0)
+
+KE_flux_vert=MSE_total(KE,vert=0)
+
+TE_sensible_vert=transient_eddies(CpT,vert=0)
+TE_moist_vert   =transient_eddies(Lq,vert=0)
+TE_pot_vert     =transient_eddies(gZ,vert=0)
+
+SE_sensible_vert=stationary_eddies(CpT,vert=0)
+SE_moist_vert   =stationary_eddies(Lq,vert=0)
+SE_pot_vert     =stationary_eddies(gZ,vert=0)
+
+MM_sensible_vert=mean_meridional(CpT,vert=0)
+MM_moist_vert   =mean_meridional(Lq,vert=0)
+MM_pot_vert     =mean_meridional(gZ,vert=0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+logging.debug(str(num)+'Saved v_MMC dictionary')
+
+
+save(destination+"v_MMC.hkl",v_MMC)
+logging.debug("loaded MMC decomposed dictionary")
+
+save(destination+"vs.hkl",vs)
+logging.debug("loaded vs decomposed dictionary")
+
+save(destination+"mom_budget.hkl",vs)
+logging.debug("loaded momentum budget dictionary")
+
+end = ti.time()
+logging.debug("Time taken --> "+ str(end-start))
+logging.debug("Awesome! complete!")
+logging.debug("-------------------------------")
+

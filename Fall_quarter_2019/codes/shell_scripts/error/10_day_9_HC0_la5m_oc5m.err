@@ -1,0 +1,112 @@
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+slurmstepd-midway783: error: *** JOB 62495008 ON midway783 CANCELLED AT 2019-09-17T00:28:16 ***
+slurmstepd-midway791: error: *** JOB 62495171 ON midway791 CANCELLED AT 2019-09-17T00:28:28 ***

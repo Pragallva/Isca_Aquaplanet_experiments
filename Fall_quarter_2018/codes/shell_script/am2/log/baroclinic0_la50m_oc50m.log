@@ -1,0 +1,157 @@
+05/18/2019 06:38:05 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m0.nc
+05/18/2019 06:38:05 PM destination folder created !
+05/18/2019 06:38:06 PM 0...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 06:38:06 PM 0imported nc file
+05/18/2019 06:39:02 PM 0imported coordinates, height
+05/18/2019 06:40:33 PM 0imported u, 1464,24,90,144
+05/18/2019 06:41:51 PM 0imported ht, 1464,24,90,144
+05/18/2019 06:43:09 PM 0imported temp, 1464,24,90,144
+05/18/2019 06:43:15 PM 0imported pres, 1464,24,90,144
+05/18/2019 06:43:15 PM 0imported pressure
+05/18/2019 06:47:01 PM 0interpolation done
+05/18/2019 06:47:10 PM 0formed dictionaries
+05/18/2019 06:47:10 PM 0saved velocity and others in pressure coordinates
+05/18/2019 06:47:19 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m1.nc
+05/18/2019 06:47:19 PM destination folder created !
+05/18/2019 06:47:19 PM 1...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 06:47:19 PM 1imported nc file
+05/18/2019 06:48:39 PM 1imported coordinates, height
+05/18/2019 06:50:04 PM 1imported u, 1460,24,90,144
+05/18/2019 06:51:37 PM 1imported ht, 1460,24,90,144
+05/18/2019 06:53:27 PM 1imported temp, 1460,24,90,144
+05/18/2019 06:53:33 PM 1imported pres, 1460,24,90,144
+05/18/2019 06:53:33 PM 1imported pressure
+05/18/2019 06:57:21 PM 1interpolation done
+05/18/2019 06:57:30 PM 1formed dictionaries
+05/18/2019 06:57:31 PM 1saved velocity and others in pressure coordinates
+05/18/2019 06:57:40 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m2.nc
+05/18/2019 06:57:40 PM destination folder created !
+05/18/2019 06:57:41 PM 2...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 06:57:41 PM 2imported nc file
+05/18/2019 06:59:28 PM 2imported coordinates, height
+05/18/2019 07:01:19 PM 2imported u, 1460,24,90,144
+05/18/2019 07:02:50 PM 2imported ht, 1460,24,90,144
+05/18/2019 07:04:23 PM 2imported temp, 1460,24,90,144
+05/18/2019 07:04:30 PM 2imported pres, 1460,24,90,144
+05/18/2019 07:04:30 PM 2imported pressure
+05/18/2019 07:08:19 PM 2interpolation done
+05/18/2019 07:08:28 PM 2formed dictionaries
+05/18/2019 07:08:28 PM 2saved velocity and others in pressure coordinates
+05/18/2019 07:08:36 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m3.nc
+05/18/2019 07:08:36 PM destination folder created !
+05/18/2019 07:08:36 PM 3...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:08:36 PM 3imported nc file
+05/18/2019 07:09:54 PM 3imported coordinates, height
+05/18/2019 07:11:27 PM 3imported u, 1460,24,90,144
+05/18/2019 07:13:02 PM 3imported ht, 1460,24,90,144
+05/18/2019 07:14:35 PM 3imported temp, 1460,24,90,144
+05/18/2019 07:14:42 PM 3imported pres, 1460,24,90,144
+05/18/2019 07:14:42 PM 3imported pressure
+05/18/2019 07:18:36 PM 3interpolation done
+05/18/2019 07:18:45 PM 3formed dictionaries
+05/18/2019 07:18:45 PM 3saved velocity and others in pressure coordinates
+05/18/2019 07:18:54 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m4.nc
+05/18/2019 07:18:54 PM destination folder created !
+05/18/2019 07:18:54 PM 4...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:18:54 PM 4imported nc file
+05/18/2019 07:20:05 PM 4imported coordinates, height
+05/18/2019 07:21:42 PM 4imported u, 1464,24,90,144
+05/18/2019 07:23:13 PM 4imported ht, 1464,24,90,144
+05/18/2019 07:24:56 PM 4imported temp, 1464,24,90,144
+05/18/2019 07:25:02 PM 4imported pres, 1464,24,90,144
+05/18/2019 07:25:02 PM 4imported pressure
+05/18/2019 07:28:55 PM 4interpolation done
+05/18/2019 07:29:05 PM 4formed dictionaries
+05/18/2019 07:29:05 PM 4saved velocity and others in pressure coordinates
+05/18/2019 07:29:12 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m5.nc
+05/18/2019 07:29:12 PM destination folder created !
+05/18/2019 07:29:12 PM 5...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:29:12 PM 5imported nc file
+05/18/2019 07:30:09 PM 5imported coordinates, height
+05/18/2019 07:31:35 PM 5imported u, 1460,24,90,144
+05/18/2019 07:32:43 PM 5imported ht, 1460,24,90,144
+05/18/2019 07:34:01 PM 5imported temp, 1460,24,90,144
+05/18/2019 07:34:08 PM 5imported pres, 1460,24,90,144
+05/18/2019 07:34:08 PM 5imported pressure
+05/18/2019 07:37:55 PM 5interpolation done
+05/18/2019 07:38:04 PM 5formed dictionaries
+05/18/2019 07:38:04 PM 5saved velocity and others in pressure coordinates
+05/18/2019 07:38:11 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m6.nc
+05/18/2019 07:38:11 PM destination folder created !
+05/18/2019 07:38:11 PM 6...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:38:11 PM 6imported nc file
+05/18/2019 07:39:06 PM 6imported coordinates, height
+05/18/2019 07:40:31 PM 6imported u, 1460,24,90,144
+05/18/2019 07:41:40 PM 6imported ht, 1460,24,90,144
+05/18/2019 07:42:57 PM 6imported temp, 1460,24,90,144
+05/18/2019 07:43:04 PM 6imported pres, 1460,24,90,144
+05/18/2019 07:43:04 PM 6imported pressure
+05/18/2019 07:46:51 PM 6interpolation done
+05/18/2019 07:47:00 PM 6formed dictionaries
+05/18/2019 07:47:00 PM 6saved velocity and others in pressure coordinates
+05/18/2019 07:47:07 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m7.nc
+05/18/2019 07:47:07 PM destination folder created !
+05/18/2019 07:47:07 PM 7...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:47:07 PM 7imported nc file
+05/18/2019 07:48:03 PM 7imported coordinates, height
+05/18/2019 07:49:32 PM 7imported u, 1460,24,90,144
+05/18/2019 07:50:40 PM 7imported ht, 1460,24,90,144
+05/18/2019 07:51:50 PM 7imported temp, 1460,24,90,144
+05/18/2019 07:51:56 PM 7imported pres, 1460,24,90,144
+05/18/2019 07:51:56 PM 7imported pressure
+05/18/2019 07:55:50 PM 7interpolation done
+05/18/2019 07:55:59 PM 7formed dictionaries
+05/18/2019 07:55:59 PM 7saved velocity and others in pressure coordinates
+05/18/2019 07:56:06 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m8.nc
+05/18/2019 07:56:06 PM destination folder created !
+05/18/2019 07:56:06 PM 8...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 07:56:06 PM 8imported nc file
+05/18/2019 07:57:07 PM 8imported coordinates, height
+05/18/2019 07:59:19 PM 8imported u, 1464,24,90,144
+05/18/2019 08:01:13 PM 8imported ht, 1464,24,90,144
+05/18/2019 08:02:36 PM 8imported temp, 1464,24,90,144
+05/18/2019 08:02:43 PM 8imported pres, 1464,24,90,144
+05/18/2019 08:02:43 PM 8imported pressure
+05/18/2019 08:06:37 PM 8interpolation done
+05/18/2019 08:06:46 PM 8formed dictionaries
+05/18/2019 08:06:46 PM 8saved velocity and others in pressure coordinates
+05/18/2019 08:06:53 PM /project2/tas1/pragallva/Fall_quarter_2018/exp_data/am2/HC0_la50m_oc50m/HC0_la50m_oc50m9.nc
+05/18/2019 08:06:53 PM destination folder created !
+05/18/2019 08:06:53 PM 9...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 08:06:53 PM 9imported nc file
+05/18/2019 08:08:24 PM 9imported coordinates, height
+05/18/2019 08:10:05 PM 9imported u, 1460,24,90,144
+05/18/2019 08:11:21 PM 9imported ht, 1460,24,90,144
+05/18/2019 08:12:34 PM 9imported temp, 1460,24,90,144
+05/18/2019 08:12:41 PM 9imported pres, 1460,24,90,144
+05/18/2019 08:12:41 PM 9imported pressure
+05/18/2019 08:16:42 PM 9interpolation done
+05/18/2019 08:16:52 PM 9formed dictionaries
+05/18/2019 08:16:52 PM 9saved velocity and others in pressure coordinates
+05/18/2019 08:16:54 PM ** INTERPOLATION ** 
+05/18/2019 08:16:56 PM ----0----T, U, Z 
+05/18/2019 08:16:56 PM ----1----T, U, Z 
+05/18/2019 08:16:56 PM ----2----T, U, Z 
+05/18/2019 08:16:57 PM ----3----T, U, Z 
+05/18/2019 08:16:57 PM ----4----T, U, Z 
+05/18/2019 08:16:57 PM ----5----T, U, Z 
+05/18/2019 08:16:57 PM ----6----T, U, Z 
+05/18/2019 08:16:57 PM ----7----T, U, Z 
+05/18/2019 08:16:57 PM ----8----T, U, Z 
+05/18/2019 08:16:57 PM ----9----T, U, Z 
+05/18/2019 08:16:57 PM  Loaded T U Z P
+05/18/2019 08:16:57 PM Defined constants
+05/18/2019 08:16:57 PM Interpolate T
+05/18/2019 08:16:57 PM Interpolate U
+05/18/2019 08:16:57 PM Interpolate Z
+05/18/2019 08:16:57 PM Calculated theta
+05/18/2019 08:16:57 PM Calculated N_sq_sfc
+05/18/2019 08:16:57 PM Calculated dtheta_dy_sfc
+05/18/2019 08:16:57 PM Calculated fo_dUdz_sfc
+05/18/2019 08:16:57 PM Dictionary surface baroclinicity
+05/18/2019 08:17:00 PM Calculated dUdz
+05/18/2019 08:17:01 PM Calculated N_sq
+05/18/2019 08:17:01 PM Dictionary baroclinicity
+05/18/2019 08:17:01 PM destination folder created !
+05/18/2019 08:17:01 PM Saved baroclinicity
+05/18/2019 08:17:01 PM Looks great !!

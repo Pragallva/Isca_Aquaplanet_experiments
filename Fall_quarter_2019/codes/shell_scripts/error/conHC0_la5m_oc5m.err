@@ -1,0 +1,5 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:723: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+slurmstepd-midway786: error: *** JOB 62639387 ON midway786 CANCELLED AT 2019-09-22T23:25:07 ***

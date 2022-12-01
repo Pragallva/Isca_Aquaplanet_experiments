@@ -1,0 +1,13 @@
+10/14/2019 05:10:20 AM 56...........interpolation_from_pres_to_isentrope_coord.py.............
+10/14/2019 05:10:20 AM 56imported nc file
+10/14/2019 05:10:32 AM 56imported coordinates
+10/14/2019 05:10:50 AM 56imported temp
+10/14/2019 05:11:13 AM 56calculated dtheta_dx
+10/14/2019 05:11:13 AM Interpolating ------> dtheta_dx<------ to isentropic coordinates
+10/14/2019 05:21:58 AM 56interpolation done
+10/14/2019 05:21:58 AM Calculation successful: shape (366, 20, 96, 192)
+10/14/2019 05:21:58 AM 56Create variables
+10/14/2019 05:22:00 AM 56assigned dtheta_dx dataset
+10/14/2019 05:22:00 AM 56Program ends
+10/14/2019 05:22:00 AM 56Total time taken - 704.486618996
+10/14/2019 05:22:00 AM 56------------------------

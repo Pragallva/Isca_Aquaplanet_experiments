@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/Reload_EKE_save_interpolated_depths.py", line 90, in <module>
+    coord=(load(coord_source+"coord_dic.hkl"))
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/Reload_EKE_save_interpolated_depths.py", line 36, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2019/post_process_data/HC10_la50m_oc5m0/coord_dic.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)

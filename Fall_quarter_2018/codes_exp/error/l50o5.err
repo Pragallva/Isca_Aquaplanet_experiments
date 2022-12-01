@@ -1,0 +1,407 @@
+2018-10-02 07:01:35,923 - gfdl - DEBUG - Making directory '/scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m'
+2018-10-02 07:01:38,328 - gfdl - INFO - Writing path_names to '/scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/path_names'
+2018-10-02 07:01:38,346 - gfdl - INFO - Running compiler
+2018-10-02 07:01:38,384 - gfdl - DEBUG - loadmodules
+2018-10-02 07:01:38,874 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:38,875 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:38,875 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:38,875 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:38,875 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:38,876 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:38,876 - gfdl - DEBUG - /scratch/midway2/pragallva/model/gfdl_work/HC25_la50m_oc5m/compile.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:39,511 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2018-10-02 07:01:39,515 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2018-10-02 07:01:39,515 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2018-10-02 07:01:39,515 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2018-10-02 07:01:39,516 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2018-10-02 07:01:39,516 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:39,719 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:39,720 - gfdl - DEBUG - loadmodules
+2018-10-02 07:01:39,912 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2018-10-02 07:01:39,912 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2018-10-02 07:01:39,913 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2018-10-02 07:01:39,913 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2018-10-02 07:01:39,913 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2018-10-02 07:01:39,913 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2018-10-02 07:01:39,913 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2018-10-02 07:01:40,551 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2018-10-02 07:01:40,555 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2018-10-02 07:01:40,555 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2018-10-02 07:01:40,555 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2018-10-02 07:01:40,556 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2018-10-02 07:01:40,556 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2018-10-02 07:01:46,921 - gfdl - DEBUG - Makefile is ready.
+2018-10-02 07:01:46,943 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/parkind.f90
+2018-10-02 07:01:47,801 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/parrrsw.f90
+2018-10-02 07:01:47,903 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_con.f90
+2018-10-02 07:01:47,994 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_wvn.f90
+2018-10-02 07:01:48,078 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_vsn.f90
+2018-10-02 07:01:48,164 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/mcica_random_numbers.f90
+2018-10-02 07:01:48,501 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/mcica_subcol_gen_sw.f90
+2018-10-02 07:01:48,884 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/parrrtm.f90
+2018-10-02 07:01:49,693 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_con.f90
+2018-10-02 07:01:49,785 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_wvn.f90
+2018-10-02 07:01:49,869 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_tbl.f90
+2018-10-02 07:01:49,962 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_vsn.f90
+2018-10-02 07:01:50,052 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_rtrnmr.f90
+2018-10-02 07:01:50,485 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/affinity.c
+2018-10-02 07:01:51,059 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/gradient_c2l.c
+2018-10-02 07:01:51,952 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_parameter.F90
+2018-10-02 07:01:52,040 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:01:52,040 - gfdl - DEBUG - Using PURE
+2018-10-02 07:01:52,040 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:01:52,056 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_data.F90
+2018-10-02 07:01:52,156 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:01:52,157 - gfdl - DEBUG - Using PURE
+2018-10-02 07:01:52,157 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:01:52,191 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp.F90
+2018-10-02 07:01:52,291 - gfdl - DEBUG - ..................................................................................................................................................................................................mpp_comm.inc(326): #warning: macro redefined: MPP_GATHER_1DV_
+2018-10-02 07:01:52,292 - gfdl - DEBUG - mpp_comm.inc(333): #warning: macro redefined: MPP_GATHER_1DV_
+2018-10-02 07:01:52,326 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:01:52,326 - gfdl - DEBUG - Using PURE
+2018-10-02 07:01:52,326 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:01:52,628 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,629 - gfdl - DEBUG - subroutine mpp_recv_logical4_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,629 - gfdl - DEBUG - -----------------------------------------^
+2018-10-02 07:01:52,629 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,629 - gfdl - DEBUG - subroutine mpp_transmit_logical4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,629 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,629 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,630 - gfdl - DEBUG - subroutine mpp_transmit_logical4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,630 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,630 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,630 - gfdl - DEBUG - subroutine mpp_transmit_logical4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,630 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,630 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,631 - gfdl - DEBUG - subroutine mpp_transmit_logical4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,631 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,631 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,631 - gfdl - DEBUG - subroutine mpp_transmit_logical4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,631 - gfdl - DEBUG - --------------------------------------------------------------^
+2018-10-02 07:01:52,631 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,631 - gfdl - DEBUG - subroutine mpp_recv_logical8_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,632 - gfdl - DEBUG - -----------------------------------------^
+2018-10-02 07:01:52,632 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,632 - gfdl - DEBUG - subroutine mpp_transmit_logical8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,632 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,632 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,632 - gfdl - DEBUG - subroutine mpp_transmit_logical8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,633 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,633 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,633 - gfdl - DEBUG - subroutine mpp_transmit_logical8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,633 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,633 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,633 - gfdl - DEBUG - subroutine mpp_transmit_logical8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,633 - gfdl - DEBUG - -------------------------------------------------------------------^
+2018-10-02 07:01:52,634 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,634 - gfdl - DEBUG - subroutine mpp_transmit_logical8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,634 - gfdl - DEBUG - --------------------------------------------------------------^
+2018-10-02 07:01:52,634 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,634 - gfdl - DEBUG - subroutine mpp_recv_int4_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,634 - gfdl - DEBUG - -------------------------------------^
+2018-10-02 07:01:52,635 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,635 - gfdl - DEBUG - subroutine mpp_transmit_int4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,635 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,635 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,635 - gfdl - DEBUG - subroutine mpp_transmit_int4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,636 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,636 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,636 - gfdl - DEBUG - subroutine mpp_transmit_int4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,636 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,636 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,636 - gfdl - DEBUG - subroutine mpp_transmit_int4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,636 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,637 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,637 - gfdl - DEBUG - subroutine mpp_transmit_int4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,637 - gfdl - DEBUG - ----------------------------------------------------------^
+2018-10-02 07:01:52,637 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,637 - gfdl - DEBUG - subroutine mpp_recv_int8_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,637 - gfdl - DEBUG - -------------------------------------^
+2018-10-02 07:01:52,638 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,638 - gfdl - DEBUG - subroutine mpp_transmit_int8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,638 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,638 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,638 - gfdl - DEBUG - subroutine mpp_transmit_int8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,638 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,638 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,639 - gfdl - DEBUG - subroutine mpp_transmit_int8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,639 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,639 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,639 - gfdl - DEBUG - subroutine mpp_transmit_int8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,639 - gfdl - DEBUG - ---------------------------------------------------------------^
+2018-10-02 07:01:52,639 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,639 - gfdl - DEBUG - subroutine mpp_transmit_int8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,639 - gfdl - DEBUG - ----------------------------------------------------------^
+2018-10-02 07:01:52,639 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,639 - gfdl - DEBUG - subroutine mpp_recv_real4_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,640 - gfdl - DEBUG - --------------------------------------^
+2018-10-02 07:01:52,640 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,640 - gfdl - DEBUG - subroutine mpp_transmit_real4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,640 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,640 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,640 - gfdl - DEBUG - subroutine mpp_transmit_real4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,640 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,640 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,640 - gfdl - DEBUG - subroutine mpp_transmit_real4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,640 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,640 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,640 - gfdl - DEBUG - subroutine mpp_transmit_real4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,640 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,640 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,640 - gfdl - DEBUG - subroutine mpp_transmit_real4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,640 - gfdl - DEBUG - -----------------------------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,641 - gfdl - DEBUG - subroutine mpp_recv_cmplx8_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,641 - gfdl - DEBUG - ---------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,641 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,641 - gfdl - DEBUG - -----------------------------------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,641 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,641 - gfdl - DEBUG - -----------------------------------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,641 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,641 - gfdl - DEBUG - -----------------------------------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,641 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,641 - gfdl - DEBUG - -----------------------------------------------------------------^
+2018-10-02 07:01:52,641 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,642 - gfdl - DEBUG - ------------------------------------------------------------^
+2018-10-02 07:01:52,642 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_recv_real8_scalar( get_data, from_pe, glen, block, tag, request )
+2018-10-02 07:01:52,642 - gfdl - DEBUG - --------------------------------------^
+2018-10-02 07:01:52,642 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_transmit_real8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,642 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,642 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_transmit_real8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,642 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,642 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_transmit_real8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,642 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,642 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,642 - gfdl - DEBUG - subroutine mpp_transmit_real8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2018-10-02 07:01:52,643 - gfdl - DEBUG - ----------------------------------------------------------------^
+2018-10-02 07:01:52,643 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2018-10-02 07:01:52,643 - gfdl - DEBUG - subroutine mpp_transmit_real8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2018-10-02 07:01:52,643 - gfdl - DEBUG - -----------------------------------------------------------^
+2018-10-02 07:01:59,454 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_memutils.F90
+2018-10-02 07:01:59,604 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_pset.F90
+2018-10-02 07:01:59,668 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:01:59,668 - gfdl - DEBUG - Using PURE
+2018-10-02 07:01:59,668 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:01:59,675 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_pset.F90(72): warning #6380: The structure length is not a multiple of its largest element; could create misalignments for arrays of this type.   [MPP_PSET_TYPE]
+2018-10-02 07:01:59,675 - gfdl - DEBUG - type :: mpp_pset_type
+2018-10-02 07:01:59,675 - gfdl - DEBUG - ----------^
+2018-10-02 07:01:59,889 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_domains.F90
+2018-10-02 07:02:00,116 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:02:00,116 - gfdl - DEBUG - Using PURE
+2018-10-02 07:02:00,116 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:02:01,994 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,994 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,994 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,994 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,994 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,994 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,995 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,995 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:01,995 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,995 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,995 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,995 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,996 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,996 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,996 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,996 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,996 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:01,996 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,996 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,997 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,997 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,997 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,997 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,997 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,997 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,998 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:01,998 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,998 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,998 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,998 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,998 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,998 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,999 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,999 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,999 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:01,999 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:01,999 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:01,999 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:01,999 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,000 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:02,000 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:02,000 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,000 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:02,000 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:02,000 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,000 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:02,001 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_5d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:02,001 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,001 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:02,001 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_4d( domain, local, global, flags, position,tile_count, default_data )
+2018-10-02 07:02:02,001 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,002 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2018-10-02 07:02:02,002 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_2d( domain, local, global, flags, position,tile_count, default_data)
+2018-10-02 07:02:02,002 - gfdl - DEBUG - --------------------------------------------------------^
+2018-10-02 07:02:02,002 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,002 - gfdl - DEBUG - subroutine mpp_redistribute_i4_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,002 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,003 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,003 - gfdl - DEBUG - subroutine mpp_redistribute_i4_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,003 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,003 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,003 - gfdl - DEBUG - subroutine mpp_redistribute_i4_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,003 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,003 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,004 - gfdl - DEBUG - subroutine mpp_redistribute_i4_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,004 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,004 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,004 - gfdl - DEBUG - subroutine mpp_redistribute_i8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,004 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,004 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,004 - gfdl - DEBUG - subroutine mpp_redistribute_i8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,005 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,005 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,005 - gfdl - DEBUG - subroutine mpp_redistribute_i8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,005 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,005 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,005 - gfdl - DEBUG - subroutine mpp_redistribute_i8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,005 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,006 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,006 - gfdl - DEBUG - subroutine mpp_redistribute_c8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,006 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,006 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,006 - gfdl - DEBUG - subroutine mpp_redistribute_c8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,006 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,007 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,007 - gfdl - DEBUG - subroutine mpp_redistribute_c8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,007 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,007 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,007 - gfdl - DEBUG - subroutine mpp_redistribute_c8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,007 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,007 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,008 - gfdl - DEBUG - subroutine mpp_redistribute_r8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,008 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,008 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,008 - gfdl - DEBUG - subroutine mpp_redistribute_r8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,008 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,008 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,009 - gfdl - DEBUG - subroutine mpp_redistribute_r8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,009 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:02,009 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2018-10-02 07:02:02,009 - gfdl - DEBUG - subroutine mpp_redistribute_r8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2018-10-02 07:02:02,009 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2018-10-02 07:02:39,409 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_io.F90
+2018-10-02 07:02:39,522 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:02:39,522 - gfdl - DEBUG - Using PURE
+2018-10-02 07:02:39,522 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:02:39,748 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_io_util.inc(436): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [IOSPEC]
+2018-10-02 07:02:39,749 - gfdl - DEBUG - subroutine mpp_get_iospec( unit, iospec )
+2018-10-02 07:02:39,749 - gfdl - DEBUG - -------------------------------------^
+2018-10-02 07:02:47,523 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/platform/platform.F90
+2018-10-02 07:02:47,606 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:02:47,606 - gfdl - DEBUG - Using PURE
+2018-10-02 07:02:47,606 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:02:47,614 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms/fms_io.F90
+2018-10-02 07:02:47,706 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:02:47,706 - gfdl - DEBUG - Using PURE
+2018-10-02 07:02:47,706 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:02:52,680 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/memutils/memutils.F90
+2018-10-02 07:02:52,840 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms/fms.F90
+2018-10-02 07:02:53,064 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/constants/constants.F90
+2018-10-02 07:02:53,169 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spec_mpp.F90
+2018-10-02 07:02:53,331 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spherical.F90
+2018-10-02 07:02:54,976 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/gauss_and_legendre.F90
+2018-10-02 07:02:55,203 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spherical_fourier.F90
+2018-10-02 07:02:55,780 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fft/fft99.F90
+2018-10-02 07:02:57,390 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fft/fft.F90
+2018-10-02 07:02:57,697 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/grid_fourier.F90
+2018-10-02 07:02:58,057 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/transforms.F90
+2018-10-02 07:02:59,406 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_manager/time_manager.F90
+2018-10-02 07:03:00,531 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/press_and_geopot.F90
+2018-10-02 07:03:01,716 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/field_manager	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/field_manager/field_manager.F90
+2018-10-02 07:03:03,611 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90
+2018-10-02 07:03:03,719 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(887): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2018-10-02 07:03:03,719 - gfdl - DEBUG - 901 FORMAT(E12.6,1x,E12.6)
+2018-10-02 07:03:03,719 - gfdl - DEBUG - ------------^
+2018-10-02 07:03:03,719 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(887): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2018-10-02 07:03:03,720 - gfdl - DEBUG - 901 FORMAT(E12.6,1x,E12.6)
+2018-10-02 07:03:03,720 - gfdl - DEBUG - ---------------------^
+2018-10-02 07:03:03,720 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(886): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2018-10-02 07:03:03,720 - gfdl - DEBUG - 900 FORMAT(A,2(1x,E12.6))
+2018-10-02 07:03:03,720 - gfdl - DEBUG - -------------------^
+2018-10-02 07:03:03,720 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(1202): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2018-10-02 07:03:03,721 - gfdl - DEBUG - 700 FORMAT (3A,E12.6,A,F10.6)
+2018-10-02 07:03:03,721 - gfdl - DEBUG - ------------------^
+2018-10-02 07:03:04,275 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_data.F90
+2018-10-02 07:03:04,357 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:03:04,357 - gfdl - DEBUG - Using PURE
+2018-10-02 07:03:04,357 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:03:04,394 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_axis.F90
+2018-10-02 07:03:04,779 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_output.F90
+2018-10-02 07:03:05,091 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_grid.F90
+2018-10-02 07:03:05,181 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:03:05,181 - gfdl - DEBUG - Using PURE
+2018-10-02 07:03:05,181 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:03:05,645 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_util.F90
+2018-10-02 07:03:06,624 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_table.F90
+2018-10-02 07:03:06,929 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_manager.F90
+2018-10-02 07:03:07,024 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:03:07,024 - gfdl - DEBUG - Using PURE
+2018-10-02 07:03:07,024 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:03:10,749 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_shared/vert_advection/vert_advection.F90
+2018-10-02 07:03:12,754 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/matrix_invert.F90
+2018-10-02 07:03:12,957 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/implicit.F90
+2018-10-02 07:03:14,022 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/spectral_damping.F90
+2018-10-02 07:03:14,569 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/leapfrog.F90
+2018-10-02 07:03:15,132 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/fv_advection.F90
+2018-10-02 07:03:17,467 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/water_borrowing.F90
+2018-10-02 07:03:17,617 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/global_integral.F90
+2018-10-02 07:03:17,810 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/vert_coordinate.F90
+2018-10-02 07:03:18,291 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/spectral_initialize_fields.F90
+2018-10-02 07:03:18,625 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/tracer_type.F90
+2018-10-02 07:03:18,706 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/ic_from_external_file.F90
+2018-10-02 07:03:18,880 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/topog_regularization.F90
+2018-10-02 07:03:19,401 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/topography/gaussian_topog.F90
+2018-10-02 07:03:19,629 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_type.F90
+2018-10-02 07:03:19,903 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_conserve.F90
+2018-10-02 07:03:21,315 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_bilinear.F90
+2018-10-02 07:03:21,727 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_bicubic.F90
+2018-10-02 07:03:22,473 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_spherical.F90
+2018-10-02 07:03:23,200 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp.F90
+2018-10-02 07:03:23,307 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp.F90(262): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [MASK_OUT]
+2018-10-02 07:03:23,307 - gfdl - DEBUG - grid_at_center, mask_in, mask_out)
+2018-10-02 07:03:23,307 - gfdl - DEBUG - -----------------------------------------------------------^
+2018-10-02 07:03:24,209 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/topography/topography.F90
+2018-10-02 07:03:24,898 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/spectral_init_cond.F90
+2018-10-02 07:03:25,305 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/every_step_diagnostics.F90
+2018-10-02 07:03:25,882 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/polvani_2004.F90
+2018-10-02 07:03:26,734 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/polvani_2007.F90
+2018-10-02 07:03:29,503 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/jablonowski_2006.F90
+2018-10-02 07:03:30,377 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/spectral_dynamics.F90
+2018-10-02 07:03:40,667 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_interp/time_interp.F90
+2018-10-02 07:03:40,930 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_shared/interpolator/interpolator.F90
+2018-10-02 07:03:41,017 - gfdl - DEBUG - Using 8-byte addressing
+2018-10-02 07:03:41,017 - gfdl - DEBUG - Using PURE
+2018-10-02 07:03:41,017 - gfdl - DEBUG - Converting pointers to allocatable components
+2018-10-02 07:03:45,503 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/astronomy/astronomy.f90
+2018-10-02 07:03:46,931 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/hs_forcing/hs_forcing.F90
+2018-10-02 07:03:49,126 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tridiagonal/tridiagonal.F90
+2018-10-02 07:03:49,468 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/monin_obukhov/monin_obukhov.F90
+2018-10-02 07:03:51,127 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/my25_turb/my25_turb.F90
+slurmstepd-midway793: error: *** JOB 50404180 ON midway793 CANCELLED AT 2018-10-02T07:03:52 ***

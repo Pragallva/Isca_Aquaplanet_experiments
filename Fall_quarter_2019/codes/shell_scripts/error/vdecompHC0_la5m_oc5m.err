@@ -1,0 +1,4 @@
+  File "/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/isca/calc_eddy_fluxes/v_decomposition.py", line 266
+    'v_du_wdp_TE': interpolate_vertical(M((v_du_wdp_TE)),'v':interpolate_vertical(M((v))}
+                                                            ^
+SyntaxError: invalid syntax

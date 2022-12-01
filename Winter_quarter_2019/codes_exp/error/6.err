@@ -1,0 +1,10 @@
+2018-11-23 02:01:00,653 - gfdl - DEBUG - Making directory '/scratch/midway2/pragallva/model/gfdl_work/6m'
+2018-11-23 02:01:01,037 - gfdl - INFO - Writing path_names to '/scratch/midway2/pragallva/model/gfdl_work/6m/path_names'
+Traceback (most recent call last):
+  File "aqua_const_depth.py", line 51, in <module>
+    baseexp.compile()
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 392, in compile
+    self.write_path_names(self.workdir)
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 311, in write_path_names
+    pn.writelines('\n'.join(self.path_names))
+IOError: [Errno 122] Disk quota exceeded

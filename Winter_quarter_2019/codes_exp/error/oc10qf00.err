@@ -1,0 +1,663 @@
+2019-01-08 15:31:17,821 - gfdl - DEBUG - Making directory '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00'
+2019-01-08 15:31:19,381 - gfdl - INFO - Writing path_names to '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/path_names'
+2019-01-08 15:31:19,413 - gfdl - INFO - Running compiler
+2019-01-08 15:31:19,458 - gfdl - DEBUG - loadmodules
+2019-01-08 15:31:19,912 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: pine: not found
+2019-01-08 15:31:19,912 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: quota: not found
+2019-01-08 15:31:19,912 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: chsh: not found
+2019-01-08 15:31:19,912 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: grpe: not found
+2019-01-08 15:31:19,912 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: vi: not found
+2019-01-08 15:31:19,913 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: alloc: not found
+2019-01-08 15:31:19,913 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/compile.sh: line 0: unalias: chfn: not found
+2019-01-08 15:31:20,585 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-08 15:31:20,588 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-08 15:31:20,588 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-08 15:31:20,588 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-08 15:31:20,588 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-08 15:31:20,589 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-08 15:31:20,793 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-01-08 15:31:20,793 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-01-08 15:31:20,793 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-01-08 15:31:20,793 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-01-08 15:31:20,793 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-01-08 15:31:20,793 - gfdl - DEBUG - loadmodules
+2019-01-08 15:31:20,794 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-01-08 15:31:20,794 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-01-08 15:31:20,974 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-01-08 15:31:20,974 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-01-08 15:31:20,974 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-01-08 15:31:20,974 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-01-08 15:31:20,974 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-01-08 15:31:20,975 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-01-08 15:31:20,975 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-01-08 15:31:21,584 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-08 15:31:21,587 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-08 15:31:21,587 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-08 15:31:21,587 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-08 15:31:21,588 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-08 15:31:21,588 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-08 15:31:26,189 - gfdl - DEBUG - Makefile is ready.
+2019-01-08 15:31:26,228 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/parkind.f90
+2019-01-08 15:31:29,088 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/parrrsw.f90
+2019-01-08 15:31:29,182 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_con.f90
+2019-01-08 15:31:29,277 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_wvn.f90
+2019-01-08 15:31:29,380 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_vsn.f90
+2019-01-08 15:31:29,470 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/mcica_random_numbers.f90
+2019-01-08 15:31:29,710 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/mcica_subcol_gen_sw.f90
+2019-01-08 15:31:30,106 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/parrrtm.f90
+2019-01-08 15:31:30,196 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_con.f90
+2019-01-08 15:31:30,302 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_wvn.f90
+2019-01-08 15:31:30,404 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_tbl.f90
+2019-01-08 15:31:30,502 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_vsn.f90
+2019-01-08 15:31:30,592 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_rtrnmr.f90
+2019-01-08 15:31:31,070 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/affinity.c
+2019-01-08 15:31:33,115 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/gradient_c2l.c
+2019-01-08 15:31:34,034 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_parameter.F90
+2019-01-08 15:31:34,119 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:31:34,119 - gfdl - DEBUG - Using PURE
+2019-01-08 15:31:34,119 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:31:34,131 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_data.F90
+2019-01-08 15:31:34,221 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:31:34,221 - gfdl - DEBUG - Using PURE
+2019-01-08 15:31:34,221 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:31:34,281 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp.F90
+2019-01-08 15:31:34,383 - gfdl - DEBUG - ..................................................................................................................................................................................................mpp_comm.inc(326): #warning: macro redefined: MPP_GATHER_1DV_
+2019-01-08 15:31:34,384 - gfdl - DEBUG - mpp_comm.inc(333): #warning: macro redefined: MPP_GATHER_1DV_
+2019-01-08 15:31:34,405 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:31:34,405 - gfdl - DEBUG - Using PURE
+2019-01-08 15:31:34,405 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:31:34,704 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,704 - gfdl - DEBUG - subroutine mpp_recv_logical4_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,704 - gfdl - DEBUG - -----------------------------------------^
+2019-01-08 15:31:34,704 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,704 - gfdl - DEBUG - subroutine mpp_transmit_logical4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,705 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,705 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,705 - gfdl - DEBUG - subroutine mpp_transmit_logical4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,705 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,705 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,705 - gfdl - DEBUG - subroutine mpp_transmit_logical4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,706 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,706 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,706 - gfdl - DEBUG - subroutine mpp_transmit_logical4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,706 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,706 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,706 - gfdl - DEBUG - subroutine mpp_transmit_logical4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,706 - gfdl - DEBUG - --------------------------------------------------------------^
+2019-01-08 15:31:34,707 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,707 - gfdl - DEBUG - subroutine mpp_recv_logical8_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,707 - gfdl - DEBUG - -----------------------------------------^
+2019-01-08 15:31:34,707 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,707 - gfdl - DEBUG - subroutine mpp_transmit_logical8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,707 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,707 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,708 - gfdl - DEBUG - subroutine mpp_transmit_logical8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,708 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,708 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,708 - gfdl - DEBUG - subroutine mpp_transmit_logical8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,708 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,708 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,709 - gfdl - DEBUG - subroutine mpp_transmit_logical8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,709 - gfdl - DEBUG - -------------------------------------------------------------------^
+2019-01-08 15:31:34,709 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,709 - gfdl - DEBUG - subroutine mpp_transmit_logical8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,709 - gfdl - DEBUG - --------------------------------------------------------------^
+2019-01-08 15:31:34,709 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,709 - gfdl - DEBUG - subroutine mpp_recv_int4_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,710 - gfdl - DEBUG - -------------------------------------^
+2019-01-08 15:31:34,710 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,710 - gfdl - DEBUG - subroutine mpp_transmit_int4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,710 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,710 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,710 - gfdl - DEBUG - subroutine mpp_transmit_int4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,710 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,711 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,711 - gfdl - DEBUG - subroutine mpp_transmit_int4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,711 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,711 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,711 - gfdl - DEBUG - subroutine mpp_transmit_int4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,711 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,711 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,712 - gfdl - DEBUG - subroutine mpp_transmit_int4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,712 - gfdl - DEBUG - ----------------------------------------------------------^
+2019-01-08 15:31:34,712 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,712 - gfdl - DEBUG - subroutine mpp_recv_int8_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,712 - gfdl - DEBUG - -------------------------------------^
+2019-01-08 15:31:34,712 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,712 - gfdl - DEBUG - subroutine mpp_transmit_int8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,713 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,713 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,713 - gfdl - DEBUG - subroutine mpp_transmit_int8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,713 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,713 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,713 - gfdl - DEBUG - subroutine mpp_transmit_int8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,714 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,714 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,714 - gfdl - DEBUG - subroutine mpp_transmit_int8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,714 - gfdl - DEBUG - ---------------------------------------------------------------^
+2019-01-08 15:31:34,714 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,714 - gfdl - DEBUG - subroutine mpp_transmit_int8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,714 - gfdl - DEBUG - ----------------------------------------------------------^
+2019-01-08 15:31:34,715 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,715 - gfdl - DEBUG - subroutine mpp_recv_real4_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,715 - gfdl - DEBUG - --------------------------------------^
+2019-01-08 15:31:34,715 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,715 - gfdl - DEBUG - subroutine mpp_transmit_real4_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,715 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,715 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,716 - gfdl - DEBUG - subroutine mpp_transmit_real4_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,716 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,716 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,716 - gfdl - DEBUG - subroutine mpp_transmit_real4_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,716 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,716 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,716 - gfdl - DEBUG - subroutine mpp_transmit_real4_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,717 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,717 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,717 - gfdl - DEBUG - subroutine mpp_transmit_real4_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,717 - gfdl - DEBUG - -----------------------------------------------------------^
+2019-01-08 15:31:34,717 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,717 - gfdl - DEBUG - subroutine mpp_recv_cmplx8_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,717 - gfdl - DEBUG - ---------------------------------------^
+2019-01-08 15:31:34,718 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,718 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,718 - gfdl - DEBUG - -----------------------------------------------------------------^
+2019-01-08 15:31:34,718 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,718 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,718 - gfdl - DEBUG - -----------------------------------------------------------------^
+2019-01-08 15:31:34,718 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,719 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,719 - gfdl - DEBUG - -----------------------------------------------------------------^
+2019-01-08 15:31:34,719 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,719 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,719 - gfdl - DEBUG - -----------------------------------------------------------------^
+2019-01-08 15:31:34,719 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,719 - gfdl - DEBUG - subroutine mpp_transmit_cmplx8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,720 - gfdl - DEBUG - ------------------------------------------------------------^
+2019-01-08 15:31:34,720 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(157): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,720 - gfdl - DEBUG - subroutine mpp_recv_real8_scalar( get_data, from_pe, glen, block, tag, request )
+2019-01-08 15:31:34,720 - gfdl - DEBUG - --------------------------------------^
+2019-01-08 15:31:34,720 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(111): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,720 - gfdl - DEBUG - subroutine mpp_transmit_real8_5d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,720 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,721 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(92): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,721 - gfdl - DEBUG - subroutine mpp_transmit_real8_4d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,721 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,721 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(73): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,721 - gfdl - DEBUG - subroutine mpp_transmit_real8_3d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,721 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,722 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(54): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,722 - gfdl - DEBUG - subroutine mpp_transmit_real8_2d( put_data, put_len, to_pe, get_data, get_len, from_pe, block, tag, recv_request, send_request )
+2019-01-08 15:31:34,722 - gfdl - DEBUG - ----------------------------------------------------------------^
+2019-01-08 15:31:34,722 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_transmit.inc(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GET_DATA]
+2019-01-08 15:31:34,722 - gfdl - DEBUG - subroutine mpp_transmit_real8_scalar( put_data, to_pe, get_data, from_pe, plen, glen, block, tag, recv_request, send_request)
+2019-01-08 15:31:34,722 - gfdl - DEBUG - -----------------------------------------------------------^
+2019-01-08 15:31:41,534 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_memutils.F90
+2019-01-08 15:31:41,716 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_pset.F90
+2019-01-08 15:31:41,804 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:31:41,804 - gfdl - DEBUG - Using PURE
+2019-01-08 15:31:41,804 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:31:41,817 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_pset.F90(72): warning #6380: The structure length is not a multiple of its largest element; could create misalignments for arrays of this type.   [MPP_PSET_TYPE]
+2019-01-08 15:31:41,817 - gfdl - DEBUG - type :: mpp_pset_type
+2019-01-08 15:31:41,817 - gfdl - DEBUG - ----------^
+2019-01-08 15:31:42,039 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_domains.F90
+2019-01-08 15:31:42,256 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:31:42,256 - gfdl - DEBUG - Using PURE
+2019-01-08 15:31:42,256 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:31:44,021 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,021 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,021 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,022 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,022 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,022 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,022 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,022 - gfdl - DEBUG - subroutine mpp_global_field2D_l4_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,022 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,022 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,023 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,023 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,023 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,023 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,023 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,023 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,024 - gfdl - DEBUG - subroutine mpp_global_field2D_i4_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,024 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,024 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,024 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,024 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,024 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,024 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,024 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,025 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,025 - gfdl - DEBUG - subroutine mpp_global_field2D_l8_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,025 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,025 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,025 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,025 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,025 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,026 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,026 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,026 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,026 - gfdl - DEBUG - subroutine mpp_global_field2D_i8_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,026 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,026 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,026 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,027 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,027 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,027 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,027 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,027 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,027 - gfdl - DEBUG - subroutine mpp_global_field2D_c8_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,027 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,028 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(80): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,028 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_5d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,028 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,028 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(62): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,028 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_4d( domain, local, global, flags, position,tile_count, default_data )
+2019-01-08 15:31:44,028 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,029 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_global_field.h(22): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [GLOBAL]
+2019-01-08 15:31:44,029 - gfdl - DEBUG - subroutine mpp_global_field2D_r8_2d( domain, local, global, flags, position,tile_count, default_data)
+2019-01-08 15:31:44,029 - gfdl - DEBUG - --------------------------------------------------------^
+2019-01-08 15:31:44,029 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,029 - gfdl - DEBUG - subroutine mpp_redistribute_i4_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,029 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,029 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,030 - gfdl - DEBUG - subroutine mpp_redistribute_i4_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,030 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,030 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,030 - gfdl - DEBUG - subroutine mpp_redistribute_i4_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,030 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,030 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,030 - gfdl - DEBUG - subroutine mpp_redistribute_i4_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,031 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,031 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,031 - gfdl - DEBUG - subroutine mpp_redistribute_i8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,031 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,031 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,031 - gfdl - DEBUG - subroutine mpp_redistribute_i8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,031 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,032 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,032 - gfdl - DEBUG - subroutine mpp_redistribute_i8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,032 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,032 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,032 - gfdl - DEBUG - subroutine mpp_redistribute_i8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,032 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,032 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,033 - gfdl - DEBUG - subroutine mpp_redistribute_c8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,033 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,033 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,033 - gfdl - DEBUG - subroutine mpp_redistribute_c8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,033 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,033 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,033 - gfdl - DEBUG - subroutine mpp_redistribute_c8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,033 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,033 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,033 - gfdl - DEBUG - subroutine mpp_redistribute_c8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,033 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,033 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(365): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,033 - gfdl - DEBUG - subroutine mpp_redistribute_r8_5D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,034 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,034 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(346): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,034 - gfdl - DEBUG - subroutine mpp_redistribute_r8_4D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,034 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,034 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(252): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,034 - gfdl - DEBUG - subroutine mpp_redistribute_r8_3D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,034 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:31:44,034 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_update_domains2D.h(232): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [FIELD_OUT]
+2019-01-08 15:31:44,034 - gfdl - DEBUG - subroutine mpp_redistribute_r8_2D( domain_in, field_in, domain_out, field_out, complete, free, list_size, dc_handle, position )
+2019-01-08 15:31:44,034 - gfdl - DEBUG - ------------------------------------------------------------------------^
+2019-01-08 15:32:21,330 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_io.F90
+2019-01-08 15:32:21,489 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:21,489 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:21,489 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:21,711 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/include/mpp_io_util.inc(436): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [IOSPEC]
+2019-01-08 15:32:21,711 - gfdl - DEBUG - subroutine mpp_get_iospec( unit, iospec )
+2019-01-08 15:32:21,711 - gfdl - DEBUG - -------------------------------------^
+2019-01-08 15:32:29,491 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/platform/platform.F90
+2019-01-08 15:32:29,575 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:29,575 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:29,575 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:29,587 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms/fms_io.F90
+2019-01-08 15:32:29,679 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:29,679 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:29,679 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:34,577 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/memutils/memutils.F90
+2019-01-08 15:32:34,747 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms/fms.F90
+2019-01-08 15:32:34,983 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/constants/constants.F90
+2019-01-08 15:32:35,197 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spec_mpp.F90
+2019-01-08 15:32:35,388 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spherical.F90
+2019-01-08 15:32:37,087 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/gauss_and_legendre.F90
+2019-01-08 15:32:37,311 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/spherical_fourier.F90
+2019-01-08 15:32:37,876 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fft/fft99.F90
+2019-01-08 15:32:39,515 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fft/fft.F90
+2019-01-08 15:32:39,836 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/grid_fourier.F90
+2019-01-08 15:32:40,222 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/tools/transforms.F90
+2019-01-08 15:32:41,487 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_manager/time_manager.F90
+2019-01-08 15:32:42,620 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/press_and_geopot.F90
+2019-01-08 15:32:43,788 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/field_manager	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/field_manager/field_manager.F90
+2019-01-08 15:32:45,655 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90
+2019-01-08 15:32:45,759 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(887): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2019-01-08 15:32:45,760 - gfdl - DEBUG - 901 FORMAT(E12.6,1x,E12.6)
+2019-01-08 15:32:45,760 - gfdl - DEBUG - ------------^
+2019-01-08 15:32:45,760 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(887): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2019-01-08 15:32:45,760 - gfdl - DEBUG - 901 FORMAT(E12.6,1x,E12.6)
+2019-01-08 15:32:45,760 - gfdl - DEBUG - ---------------------^
+2019-01-08 15:32:45,760 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(886): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2019-01-08 15:32:45,760 - gfdl - DEBUG - 900 FORMAT(A,2(1x,E12.6))
+2019-01-08 15:32:45,761 - gfdl - DEBUG - -------------------^
+2019-01-08 15:32:45,761 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tracer_manager/tracer_manager.F90(1202): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2019-01-08 15:32:45,761 - gfdl - DEBUG - 700 FORMAT (3A,E12.6,A,F10.6)
+2019-01-08 15:32:45,761 - gfdl - DEBUG - ------------------^
+2019-01-08 15:32:46,301 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_data.F90
+2019-01-08 15:32:46,393 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:46,393 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:46,393 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:46,434 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_axis.F90
+2019-01-08 15:32:46,844 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_output.F90
+2019-01-08 15:32:47,159 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_grid.F90
+2019-01-08 15:32:47,225 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:47,225 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:47,225 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:47,673 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_util.F90
+2019-01-08 15:32:48,645 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_table.F90
+2019-01-08 15:32:49,158 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/diag_manager/diag_manager.F90
+2019-01-08 15:32:49,251 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:32:49,251 - gfdl - DEBUG - Using PURE
+2019-01-08 15:32:49,251 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:32:52,979 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_shared/vert_advection/vert_advection.F90
+2019-01-08 15:32:55,004 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/matrix_invert.F90
+2019-01-08 15:32:55,199 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/implicit.F90
+2019-01-08 15:32:56,279 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/spectral_damping.F90
+2019-01-08 15:32:56,847 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/leapfrog.F90
+2019-01-08 15:32:57,442 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/fv_advection.F90
+2019-01-08 15:32:59,789 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/water_borrowing.F90
+2019-01-08 15:32:59,938 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/global_integral.F90
+2019-01-08 15:33:00,139 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/vert_coordinate.F90
+2019-01-08 15:33:00,575 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/spectral_initialize_fields.F90
+2019-01-08 15:33:00,922 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/tracer_type.F90
+2019-01-08 15:33:01,008 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/ic_from_external_file.F90
+2019-01-08 15:33:01,190 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/topog_regularization.F90
+2019-01-08 15:33:01,691 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/topography/gaussian_topog.F90
+2019-01-08 15:33:01,917 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_type.F90
+2019-01-08 15:33:02,233 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_conserve.F90
+2019-01-08 15:33:03,654 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_bilinear.F90
+2019-01-08 15:33:04,100 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_bicubic.F90
+2019-01-08 15:33:04,822 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp_spherical.F90
+2019-01-08 15:33:05,540 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp.F90
+2019-01-08 15:33:05,653 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/horiz_interp/horiz_interp.F90(262): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [MASK_OUT]
+2019-01-08 15:33:05,653 - gfdl - DEBUG - grid_at_center, mask_in, mask_out)
+2019-01-08 15:33:05,653 - gfdl - DEBUG - -----------------------------------------------------------^
+2019-01-08 15:33:06,564 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/topography/topography.F90
+2019-01-08 15:33:07,257 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/spectral_init_cond.F90
+2019-01-08 15:33:07,670 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/every_step_diagnostics.F90
+2019-01-08 15:33:08,245 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/polvani_2004.F90
+2019-01-08 15:33:09,098 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/polvani_2007.F90
+2019-01-08 15:33:11,840 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/init/jablonowski_2006.F90
+2019-01-08 15:33:12,691 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/model/spectral_dynamics.F90
+2019-01-08 15:33:22,977 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_interp/time_interp.F90
+2019-01-08 15:33:23,254 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_shared/interpolator/interpolator.F90
+2019-01-08 15:33:23,337 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:33:23,337 - gfdl - DEBUG - Using PURE
+2019-01-08 15:33:23,337 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:33:27,995 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/astronomy/astronomy.f90
+2019-01-08 15:33:29,440 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/hs_forcing/hs_forcing.F90
+2019-01-08 15:33:31,701 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/tridiagonal/tridiagonal.F90
+2019-01-08 15:33:32,084 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/monin_obukhov/monin_obukhov.F90
+2019-01-08 15:33:33,764 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/my25_turb/my25_turb.F90
+2019-01-08 15:33:41,201 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/diffusivity/diffusivity.F90
+2019-01-08 15:33:43,496 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/sat_vapor_pres/sat_vapor_pres_k.F90
+2019-01-08 15:33:45,573 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/sat_vapor_pres/sat_vapor_pres.F90
+2019-01-08 15:33:46,380 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/edt/edt.F90
+2019-01-08 15:33:57,303 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/sea_esf_rad/null/rad_utilities.F90
+2019-01-08 15:34:00,430 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/strat_cloud/null/strat_cloud.F90
+2019-01-08 15:34:00,514 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/strat_cloud/null/strat_cloud.F90(125): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [QL]
+2019-01-08 15:34:00,515 - gfdl - DEBUG - subroutine strat_cloud_avg (is, js, ql, qi, cf, ierr)
+2019-01-08 15:34:00,515 - gfdl - DEBUG - ------------------------------------^
+2019-01-08 15:34:00,515 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/strat_cloud/null/strat_cloud.F90(125): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [QI]
+2019-01-08 15:34:00,515 - gfdl - DEBUG - subroutine strat_cloud_avg (is, js, ql, qi, cf, ierr)
+2019-01-08 15:34:00,515 - gfdl - DEBUG - ----------------------------------------^
+2019-01-08 15:34:00,516 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/strat_cloud/null/strat_cloud.F90(125): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [CF]
+2019-01-08 15:34:00,516 - gfdl - DEBUG - subroutine strat_cloud_avg (is, js, ql, qi, cf, ierr)
+2019-01-08 15:34:00,516 - gfdl - DEBUG - --------------------------------------------^
+2019-01-08 15:34:00,847 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/shallow_conv/shallow_conv.F90
+2019-01-08 15:34:02,791 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/stable_bl_turb/stable_bl_turb.F90
+2019-01-08 15:34:05,345 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/entrain/entrain.F90
+2019-01-08 15:34:09,676 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/vert_turb_driver/vert_turb_driver.F90
+2019-01-08 15:34:12,923 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/vert_diff/vert_diff.F90
+2019-01-08 15:34:15,817 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/two_stream_gray_rad/two_stream_gray_rad.F90
+2019-01-08 15:34:18,734 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/qflux/qflux.f90
+2019-01-08 15:34:18,874 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/driver/solo/mixed_layer.F90
+2019-01-08 15:34:21,554 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/lscale_cond/lscale_cond.F90
+2019-01-08 15:34:22,110 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/qe_moist_convection/qe_moist_convection.F90
+2019-01-08 15:34:24,236 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/betts_miller/betts_miller.f90
+2019-01-08 15:34:25,324 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/dry_convection/dry_convection.f90
+2019-01-08 15:34:25,852 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/coupler/surface_flux.F90
+2019-01-08 15:34:27,614 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/mg_drag/mg_drag.f90
+2019-01-08 15:34:31,303 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/cg_drag/cg_drag.f90
+2019-01-08 15:34:32,064 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90
+2019-01-08 15:34:32,156 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [TAUX]
+2019-01-08 15:34:32,156 - gfdl - DEBUG - z_pbl, taux,tauy,dtaux,dtauy,taus)
+2019-01-08 15:34:32,157 - gfdl - DEBUG - -----------^
+2019-01-08 15:34:32,157 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [TAUY]
+2019-01-08 15:34:32,157 - gfdl - DEBUG - z_pbl, taux,tauy,dtaux,dtauy,taus)
+2019-01-08 15:34:32,157 - gfdl - DEBUG - ----------------^
+2019-01-08 15:34:32,157 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [DTAUX]
+2019-01-08 15:34:32,157 - gfdl - DEBUG - z_pbl, taux,tauy,dtaux,dtauy,taus)
+2019-01-08 15:34:32,157 - gfdl - DEBUG - ---------------------^
+2019-01-08 15:34:32,157 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [DTAUY]
+2019-01-08 15:34:32,157 - gfdl - DEBUG - z_pbl, taux,tauy,dtaux,dtauy,taus)
+2019-01-08 15:34:32,157 - gfdl - DEBUG - ---------------------------^
+2019-01-08 15:34:32,157 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(31): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [TAUS]
+2019-01-08 15:34:32,157 - gfdl - DEBUG - z_pbl, taux,tauy,dtaux,dtauy,taus)
+2019-01-08 15:34:32,157 - gfdl - DEBUG - ---------------------------------^
+2019-01-08 15:34:32,157 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/topo_drag/topo_drag.f90(69): warning #6843: A dummy argument with an explicit INTENT(OUT) declaration is not given an explicit value.   [IERR]
+2019-01-08 15:34:32,157 - gfdl - DEBUG - subroutine topo_drag_init(lonb,latb,ierr)
+2019-01-08 15:34:32,158 - gfdl - DEBUG - --------------------------------------^
+2019-01-08 15:34:32,194 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/damping_driver/damping_driver.f90
+2019-01-08 15:34:33,892 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rayleigh_bottom_drag/rayleigh_bottom_drag.F90
+2019-01-08 15:34:33,980 - gfdl - DEBUG - /project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rayleigh_bottom_drag/rayleigh_bottom_drag.F90(100): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+2019-01-08 15:34:33,981 - gfdl - DEBUG - 20  format(1x,a,1x,e8.2,1x,a)
+2019-01-08 15:34:33,981 - gfdl - DEBUG - --------------------^
+2019-01-08 15:34:34,846 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_ref.f90
+2019-01-08 15:34:34,935 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_setcoef.f90
+2019-01-08 15:34:35,563 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg01.f90
+2019-01-08 15:34:35,642 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg02.f90
+2019-01-08 15:34:35,772 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg03.f90
+2019-01-08 15:34:35,866 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg04.f90
+2019-01-08 15:34:35,958 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg05.f90
+2019-01-08 15:34:36,056 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg06.f90
+2019-01-08 15:34:36,148 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg07.f90
+2019-01-08 15:34:36,277 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg08.f90
+2019-01-08 15:34:36,403 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg09.f90
+2019-01-08 15:34:36,492 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg10.f90
+2019-01-08 15:34:36,610 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg11.f90
+2019-01-08 15:34:36,708 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg12.f90
+2019-01-08 15:34:36,804 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg13.f90
+2019-01-08 15:34:36,918 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg14.f90
+2019-01-08 15:34:37,029 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg15.f90
+2019-01-08 15:34:37,118 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_kg16.f90
+2019-01-08 15:34:37,215 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_cld.f90
+2019-01-08 15:34:37,315 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_init.f90
+2019-01-08 15:34:38,957 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_cldprop.f90
+2019-01-08 15:34:39,178 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_rtrn.f90
+2019-01-08 15:34:39,530 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_taumol.f90
+2019-01-08 15:34:48,448 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_rad.nomcica.f90
+2019-01-08 15:34:50,250 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_ref.f90
+2019-01-08 15:34:50,341 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_setcoef.f90
+2019-01-08 15:34:50,489 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_tbl.f90
+2019-01-08 15:34:50,573 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_aer.f90
+2019-01-08 15:34:50,660 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg16.f90
+2019-01-08 15:34:50,761 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg17.f90
+2019-01-08 15:34:50,852 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg18.f90
+2019-01-08 15:34:50,962 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg19.f90
+2019-01-08 15:34:51,068 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg20.f90
+2019-01-08 15:34:51,236 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg21.f90
+2019-01-08 15:34:51,344 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg22.f90
+2019-01-08 15:34:51,437 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg23.f90
+2019-01-08 15:34:51,522 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg24.f90
+2019-01-08 15:34:51,631 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg25.f90
+2019-01-08 15:34:51,720 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg26.f90
+2019-01-08 15:34:51,809 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg27.f90
+2019-01-08 15:34:51,892 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg28.f90
+2019-01-08 15:34:52,012 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_kg29.f90
+2019-01-08 15:34:52,107 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_cld.f90
+2019-01-08 15:34:52,230 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_init.f90
+2019-01-08 15:34:53,618 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_cldprop.f90
+2019-01-08 15:34:53,920 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_reftra.f90
+2019-01-08 15:34:54,048 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_taumol.f90
+2019-01-08 15:34:55,459 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_vrtqdr.f90
+2019-01-08 15:34:55,623 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_spcvrt.f90
+2019-01-08 15:34:56,040 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_rad.nomcica.f90
+2019-01-08 15:34:57,582 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtm_radiation.f90
+2019-01-08 15:35:02,473 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/driver/solo/idealized_moist_phys.F90
+2019-01-08 15:35:10,230 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_spectral/driver/solo/atmosphere.F90
+2019-01-08 15:35:12,653 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_manager/get_cal_time.F90
+2019-01-08 15:35:12,900 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/axis_utils/axis_utils.F90
+2019-01-08 15:35:13,400 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/time_interp/time_interp_external.F90
+2019-01-08 15:35:13,489 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:35:13,489 - gfdl - DEBUG - Using PURE
+2019-01-08 15:35:13,489 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:35:14,853 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/random_numbers/MersenneTwister.F90
+2019-01-08 15:35:15,009 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/random_numbers/random_numbers.F90
+2019-01-08 15:35:15,152 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/mosaic.F90
+2019-01-08 15:35:15,911 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/memutils/memuse.c
+2019-01-08 15:35:15,994 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/modules/rrsw_ncpar.f90
+2019-01-08 15:35:16,130 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/create_xgrid.c
+2019-01-08 15:35:17,054 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/interp.c
+2019-01-08 15:35:17,354 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/gradient.F90
+2019-01-08 15:35:17,636 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/field_manager/fm_util.F90
+2019-01-08 15:35:18,715 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_k_g.f90
+2019-01-08 15:39:46,333 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/read_mosaic.c
+2019-01-08 15:39:46,921 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_cldprmc.f90
+2019-01-08 15:39:47,123 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_cldprmc.f90
+2019-01-08 15:39:47,248 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/test_mpp_pset.F90
+2019-01-08 15:39:47,340 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/fms/test_fms_io.F90
+2019-01-08 15:39:47,414 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/nsclock.c
+2019-01-08 15:39:47,502 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/mosaic_util.c
+2019-01-08 15:39:47,872 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_k_g.f90
+2019-01-08 15:43:52,171 - gfdl - DEBUG - mpicc -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include -D__IFC  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/threadloc.c
+2019-01-08 15:43:52,259 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/modules/rrlw_ncpar.f90
+2019-01-08 15:43:52,377 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/mpp_utilities.F90
+2019-01-08 15:43:52,598 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/test_mpp_io.F90
+2019-01-08 15:43:52,677 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/rrtmg_lw_rtrnmc.f90
+2019-01-08 15:43:53,055 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_lw/gcm_model/src/mcica_subcol_gen_lw.f90
+2019-01-08 15:43:53,404 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_solo/atmos_model.F90
+2019-01-08 15:43:53,612 - gfdl - DEBUG - mpif90 -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/rrtm_radiation/rrtmg_sw/gcm_model/src/rrtmg_sw_spcvmc.f90
+2019-01-08 15:43:54,059 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/monin_obukhov	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/atmos_param/monin_obukhov/monin_obukhov_kernel.F90
+2019-01-08 15:43:54,153 - gfdl - DEBUG - Using 8-byte addressing
+2019-01-08 15:43:54,153 - gfdl - DEBUG - Using PURE
+2019-01-08 15:43:54,153 - gfdl - DEBUG - Converting pointers to allocatable components
+2019-01-08 15:43:54,879 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mosaic/grid.F90
+2019-01-08 15:43:56,359 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/test_mpp_domains.F90
+2019-01-08 15:43:56,463 - gfdl - DEBUG - mpif90 -Duse_libMPI -Duse_netCDF -Duse_LARGEFILE -DINTERNAL_FILE_NML -DOVERLOAD_C8 -I/usr/include  -I/usr/include -fpp -stack_temps -safe_cray_ptr -ftz -i_dynamic -assume byterecl -i4 -r8 -g -O2  -c -I/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/include	/project/tas1/pragallva/Fall_quarter_2017/Isca/src/shared/mpp/test_mpp.F90
+2019-01-08 15:43:56,557 - gfdl - DEBUG - mpif90 -L/software/netcdf-4.2-el6-x86_64/lib/  mcica_subcol_gen_sw.o rrtmg_lw_rtrnmr.o affinity.o gradient_c2l.o atmosphere.o fms_io.o ic_from_external_file.o rrlw_kg11.o edt.o time_interp_external.o mpp_memutils.o rrsw_cld.o rrlw_kg01.o diag_util.o time_interp.o random_numbers.o mosaic.o memuse.o memutils.o horiz_interp_bicubic.o rrlw_vsn.o rrsw_ref.o gaussian_topog.o diag_axis.o diag_manager.o transforms.o spherical.o rrsw_ncpar.o idealized_moist_phys.o create_xgrid.o interp.o horiz_interp_conserve.o mpp_parameter.o axis_utils.o surface_flux.o platform.o mpp_domains.o diag_grid.o diffusivity.o rrlw_ref.o spherical_fourier.o tridiagonal.o mpp_io.o sat_vapor_pres_k.o rrtmg_lw_cldprop.o rrtmg_sw_rad.nomcica.o rrsw_tbl.o rrlw_kg12.o rrtmg_lw_rtrn.o rrtmg_lw_setcoef.o rrsw_kg22.o monin_obukhov.o gradient.o fm_util.o fft.o rrlw_kg13.o rrtmg_sw_k_g.o rrtmg_sw_init.o diag_data.o matrix_invert.o rrsw_vsn.o get_cal_time.o read_mosaic.o hs_forcing.o rrtmg_sw_cldprmc.o rrsw_kg21.o constants.o my25_turb.o rrsw_kg24.o rrtmg_lw_cldprmc.o test_mpp_pset.o test_fms_io.o rrlw_kg16.o rrsw_kg18.o rrsw_kg19.o shallow_conv.o grid_fourier.o rrtmg_lw_taumol.o vert_turb_driver.o dry_convection.o gauss_and_legendre.o nsclock.o leapfrog.o fft99.o press_and_geopot.o rrsw_kg27.o rrlw_kg04.o water_borrowing.o rrtmg_sw_spcvrt.o parrrtm.o spectral_dynamics.o mpp_data.o parkind.o every_step_diagnostics.o rrlw_kg05.o tracer_manager.o mg_drag.o strat_cloud.o rrsw_kg29.o rrsw_kg20.o mosaic_util.o rrtmg_lw_k_g.o rrtmg_sw_reftra.o rrlw_kg15.o rrsw_con.o rrsw_kg17.o polvani_2004.o jablonowski_2006.o threadloc.o astronomy.o vert_diff.o rrlw_kg10.o rrlw_ncpar.o implicit.o rrlw_con.o two_stream_gray_rad.o qe_moist_convection.o vert_coordinate.o mpp_utilities.o rrlw_kg07.o mpp_pset.o fms.o test_mpp_io.o rrtm_radiation.o diag_output.o rrlw_tbl.o rrsw_wvn.o mcica_random_numbers.o rrlw_kg14.o rrtmg_lw_rad.nomcica.o rrsw_kg28.o fv_advection.o rad_utilities.o rrsw_kg23.o rrtmg_lw_init.o cg_drag.o diag_table.o rrtmg_lw_rtrnmc.o time_manager.o rrlw_cld.o vert_advection.o mcica_subcol_gen_lw.o atmos_model.o stable_bl_turb.o rrlw_kg02.o rrtmg_sw_spcvmc.o polvani_2007.o horiz_interp_spherical.o damping_driver.o rrtmg_sw_setcoef.o rrlw_wvn.o topography.o rrlw_kg06.o monin_obukhov_kernel.o rrsw_aer.o spectral_damping.o horiz_interp.o rrtmg_sw_taumol.o spectral_initialize_fields.o rrtmg_sw_cldprop.o topo_drag.o qflux.o rayleigh_bottom_drag.o entrain.o rrsw_kg25.o horiz_interp_bilinear.o grid.o betts_miller.o rrsw_kg26.o tracer_type.o sat_vapor_pres.o spec_mpp.o field_manager.o interpolator.o lscale_cond.o rrlw_kg09.o global_integral.o parrrsw.o rrtmg_sw_vrtqdr.o topog_regularization.o mpp.o rrsw_kg16.o rrlw_kg03.o MersenneTwister.o horiz_interp_type.o rrlw_kg08.o test_mpp_domains.o mixed_layer.o test_mpp.o spectral_init_cond.o -o fms_moist.x  -lnetcdff -lnetcdf -lmpi -shared-intel
+2019-01-08 15:43:57,812 - gfdl - DEBUG - make: `fms_moist.x' is up to date.
+2019-01-08 15:43:57,840 - gfdl - DEBUG - Compilation complete.
+2019-01-08 15:43:57,882 - gfdl - WARNING - Tried to remove run directory but it doesnt exist
+2019-01-08 15:43:57,921 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run'
+2019-01-08 15:43:57,964 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/input.nml'
+2019-01-08 15:43:57,971 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/field_table'
+2019-01-08 15:43:58,006 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/diag_table'
+2019-01-08 15:43:58,071 - gfdl - INFO - Running month 1 without restart file
+2019-01-08 15:43:58,103 - gfdl - INFO - Running GFDL for month 1
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-08 15:43:58,413 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-08 15:43:58,414 - gfdl - DEBUG - loadmodules
+2019-01-08 15:43:58,594 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: pine: not found
+2019-01-08 15:43:58,594 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: quota: not found
+2019-01-08 15:43:58,594 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-01-08 15:43:58,594 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-01-08 15:43:58,595 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-01-08 15:43:58,595 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: vi: not found
+2019-01-08 15:43:58,595 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-01-08 15:43:59,236 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-01-08 15:43:59,239 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-01-08 15:43:59,239 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-01-08 15:43:59,239 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-01-08 15:43:59,240 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-01-08 15:43:59,240 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-01-08 15:44:00,924 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-01-08 15:44:00,924 - gfdl - DEBUG - &MPP_IO_NML
+2019-01-08 15:44:00,925 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-01-08 15:44:00,925 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-01-08 15:44:00,925 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-01-08 15:44:00,925 - gfdl - DEBUG - SHUFFLE =           0,
+2019-01-08 15:44:00,925 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-01-08 15:44:00,925 - gfdl - DEBUG - /
+2019-01-08 15:44:00,927 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-01-08 15:44:00,935 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-01-08 15:44:00,978 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-01-08 15:44:00,997 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-01-08 15:44:00,997 - gfdl - DEBUG - X-AXIS =  128
+2019-01-08 15:44:00,997 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-01-08 15:44:01,854 - gfdl - DEBUG - mean surface pressure=1000.0000 mb
+2019-01-08 15:44:01,954 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,955 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,955 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,955 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,955 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,955 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-01-08 15:44:01,973 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-01-08 15:44:01,973 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-01-08 15:44:01,974 - gfdl - DEBUG - FATAL from PE    0: check_nml_error in fms_mod:  Unknown namelist, or mistyped namelist variable in namelist mixed_layer_nml, (IOSTAT =           64)
+2019-01-08 15:44:01,974 - gfdl - DEBUG - FATAL from PE    0: check_nml_error in fms_mod:  Unknown namelist, or mistyped namelist variable in namelist mixed_layer_nml, (IOSTAT =           64)
+2019-01-08 15:44:01,982 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-08 15:44:01,982 - gfdl - DEBUG - MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+2019-01-08 15:44:01,983 - gfdl - DEBUG - with errorcode 1.
+2019-01-08 15:44:01,983 - gfdl - DEBUG - NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+2019-01-08 15:44:01,983 - gfdl - DEBUG - You may or may not see output from other processes, depending on
+2019-01-08 15:44:01,983 - gfdl - DEBUG - exactly when Open MPI kills them.
+2019-01-08 15:44:01,983 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-08 15:44:02,061 - gfdl - DEBUG - --------------------------------------------------------------------------
+2019-01-08 15:44:02,061 - gfdl - DEBUG - mpirun has exited due to process rank 0 with PID 36482 on
+2019-01-08 15:44:02,061 - gfdl - DEBUG - node midway791 exiting improperly. There are two reasons this could occur:
+2019-01-08 15:44:02,061 - gfdl - DEBUG - 1. this process did not call "init" before exiting, but others in
+2019-01-08 15:44:02,061 - gfdl - DEBUG - the job did. This can cause a job to hang indefinitely while it waits
+2019-01-08 15:44:02,061 - gfdl - DEBUG - for all processes to call "init". By rule, if one process calls "init",
+2019-01-08 15:44:02,062 - gfdl - DEBUG - then ALL processes must call "init" prior to termination.
+2019-01-08 15:44:02,062 - gfdl - DEBUG - 2. this process called "init", but exited without calling "finalize".
+2019-01-08 15:44:02,062 - gfdl - DEBUG - By rule, all processes that call "init" MUST call "finalize" prior to
+2019-01-08 15:44:02,062 - gfdl - DEBUG - exiting or it will be considered an "abnormal termination"
+2019-01-08 15:44:02,062 - gfdl - DEBUG - This may have caused other processes in the application to be
+2019-01-08 15:44:02,062 - gfdl - DEBUG - terminated by signals sent by mpirun (as reported here).
+2019-01-08 15:44:02,063 - gfdl - DEBUG - --------------------------------------------------------------------------
+Exception in thread background thread for pid 36363:
+Traceback (most recent call last):
+  File "/home/pragallva/Canopy/appdata/canopy-1.7.4.3348.rh5-x86_64/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/home/pragallva/Canopy/appdata/canopy-1.7.4.3348.rh5-x86_64/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 1540, in wrap
+    fn(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2459, in background_thread
+    handle_exit_code(exit_code)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2157, in fn
+    return self.command.handle_command_exit_code(exit_code)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 815, in handle_command_exit_code
+    raise exc
+ErrorReturnCode_1: 
+
+  RAN: /bin/bash /project2/tas1/pragallva/isca_sim/gfdl_work/Lenka_oc10qf00/run/runmonth.sh
+
+  STDOUT:
+
+
+  STDERR:
+
+
+2019-01-08 15:44:02,122 - gfdl - ERROR - Run failed for month 1
+Traceback (most recent call last):
+  File "aqua_depths_grey_rad.py", line 120, in <module>
+    baseexp.runmonth(1, use_restart=False, num_cores=16)
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 509, in run
+    proc.process.kill()
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2277, in kill
+    self.signal(signal.SIGKILL)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/sh.py", line 2269, in signal
+    os.kill(self.pid, sig)
+OSError: [Errno 3] No such process

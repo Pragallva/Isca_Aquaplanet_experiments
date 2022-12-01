@@ -1,0 +1,94 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 455362560 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 455362560 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 455362560 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 139, in <module>
+    raw_data_dic      ={'Cp':Cp,"temp":R(temp),"u":R(u_comp),'v':R(v_comp),'L':L,'q':R(q),'g':g,'Z':R(Z) }
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Extract_ncfile_save_fluxes_radiation_depths.py", line 136, in R
+    y1=y[0:30*12*4,...].reshape((no_of_years,no_of_months,days,hours,len(sigma_full),len(lat),len(lon)))
+ValueError: cannot reshape array of size 454118400 into shape (1,12,30,4,24,90,144)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_save_interpolated_depths.py", line 117, in <module>
+    decomposed_fluxes_vert.append(load(source+"zonal_decomposed_fluxes_dic_vert.hkl"))
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_save_interpolated_depths.py", line 38, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018/post_process_data/am2/HC0_la100m_oc100m0/zonal_decomposed_fluxes_dic_vert.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_save_thermo_dynamic_mmc.py", line 88, in <module>
+    non_vertical_fluxes.append(load(source+"MMC_thermo_dynamic_dic.hkl"))
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_save_thermo_dynamic_mmc.py", line 37, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018/post_process_data/am2/HC0_la100m_oc100m0/MMC_thermo_dynamic_dic.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)

@@ -1,0 +1,67 @@
+12/04/2018 11:37:07 AM destination folder created !
+12/04/2018 11:37:07 AM ...........Extract_ncfile_save_fluxes_radiation.py.............3
+12/04/2018 11:37:07 AM imported nc file
+12/04/2018 11:38:31 AM imported coordinates
+12/04/2018 11:38:31 AM imported pressure
+12/04/2018 11:39:31 AM saved temp
+12/04/2018 11:40:25 AM saved v_comp
+12/04/2018 11:41:19 AM saved u_comp
+12/04/2018 11:42:23 AM saved Z
+12/04/2018 11:43:41 AM saved q
+12/04/2018 11:43:47 AM calculated pressure from sigma levels
+12/04/2018 11:43:50 AM calculated KE
+12/04/2018 11:43:55 AM calculated MSE fluxes
+12/04/2018 11:44:02 AM destination folder created !
+12/04/2018 11:44:02 AM ...........Extract_ncfile_save_fluxes_radiation.py.............5
+12/04/2018 11:44:02 AM imported nc file
+12/04/2018 11:46:53 AM imported coordinates
+12/04/2018 11:46:53 AM imported pressure
+12/04/2018 11:48:13 AM saved temp
+12/04/2018 11:49:34 AM saved v_comp
+12/04/2018 11:51:07 AM saved u_comp
+12/04/2018 11:52:52 AM saved Z
+12/04/2018 11:54:29 AM saved q
+12/04/2018 11:54:35 AM calculated pressure from sigma levels
+12/04/2018 11:54:38 AM calculated KE
+12/04/2018 11:54:44 AM calculated MSE fluxes
+12/04/2018 11:54:48 AM destination folder created !
+12/04/2018 11:54:48 AM ...........Extract_ncfile_save_fluxes_radiation.py.............7
+12/04/2018 11:54:48 AM imported nc file
+12/04/2018 11:56:54 AM imported coordinates
+12/04/2018 11:56:54 AM imported pressure
+12/04/2018 11:58:10 AM saved temp
+12/04/2018 01:30:16 PM ** INTERPOLATION ** 
+12/04/2018 01:30:18 PM destination folder created !
+12/04/2018 01:30:18 PM ----0----
+12/04/2018 01:30:19 PM ----1----
+12/04/2018 01:30:19 PM ----2----
+12/04/2018 01:30:19 PM ----3----
+12/04/2018 01:30:19 PM ----4----
+12/04/2018 01:30:19 PM ----5----
+12/04/2018 01:30:19 PM ----6----
+12/04/2018 01:30:19 PM ----7----
+12/04/2018 01:30:20 PM ----8----
+12/04/2018 01:30:20 PM ----9----
+12/04/2018 01:30:20 PM Calculated interpolation
+12/04/2018 01:30:20 PM Calculated divergence
+12/04/2018 01:30:21 PM Saved raw data interp dictionary
+12/04/2018 01:30:21 PM Saved flux interp dictionary
+12/04/2018 01:30:21 PM Saved flux divergence interp
+12/04/2018 01:30:21 PM Saved flux vert dictionary
+12/04/2018 01:30:21 PM Saved flux divergence vert interp
+12/04/2018 01:30:21 PM Looks great !!
+12/04/2018 01:30:22 PM ** INTERPOLATION ** 
+12/04/2018 01:30:23 PM ----0----
+12/04/2018 01:30:23 PM ----1----
+12/04/2018 01:30:24 PM ----2----
+12/04/2018 01:30:24 PM ----3----
+12/04/2018 01:30:24 PM ----4----
+12/04/2018 01:30:24 PM ----5----
+12/04/2018 01:30:24 PM ----6----
+12/04/2018 01:30:24 PM ----7----
+12/04/2018 01:30:24 PM ----8----
+12/04/2018 01:30:24 PM ----9----
+12/04/2018 01:30:24 PM Calculated interpolation
+12/04/2018 01:30:24 PM Saved decompose mmc dictionary
+12/04/2018 01:30:24 PM Saved decompose mmc dictionary
+12/04/2018 01:30:24 PM Looks great !!

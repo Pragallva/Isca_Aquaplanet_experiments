@@ -1,0 +1,1178 @@
+2019-08-17 17:00:29,239 - gfdl - WARNING - Working directory for exp '50m' already exists
+2019-08-17 17:00:30,666 - gfdl - INFO - Writing path_names to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/path_names'
+2019-08-17 17:00:30,700 - gfdl - INFO - Running compiler
+2019-08-17 17:00:30,752 - gfdl - DEBUG - loadmodules
+2019-08-17 17:00:31,163 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:31,163 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:31,339 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:31,339 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:31,668 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:31,668 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:32,070 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:00:32,079 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:00:32,079 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:00:32,080 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:00:32,080 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:00:32,080 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:00:32,080 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:00:32,349 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:32,349 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:32,352 - gfdl - DEBUG - loadmodules
+2019-08-17 17:00:32,562 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:32,562 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:32,770 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:32,770 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:33,026 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:33,026 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:33,418 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:00:33,422 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:00:33,423 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:00:33,423 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:00:33,423 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:00:33,423 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:00:33,423 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:00:34,693 - gfdl - DEBUG - ln: creating symbolic link `/project2/tas1/pragallva/isca_sim/gfdl_work/50m/exec/mppnccombine.x': File exists
+2019-08-17 17:00:39,328 - gfdl - DEBUG - Makefile is ready.
+2019-08-17 17:00:39,608 - gfdl - DEBUG - make: Nothing to be done for `all'.
+2019-08-17 17:00:39,691 - gfdl - DEBUG - make: `fms_moist.x' is up to date.
+2019-08-17 17:00:39,691 - gfdl - DEBUG - ..................................................................................................................................................................................................
+2019-08-17 17:00:39,731 - gfdl - DEBUG - Compilation complete.
+2019-08-17 17:00:40,088 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:00:40,120 - gfdl - ERROR - Data for month 1 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,122 - gfdl - ERROR - Data for month 2 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,124 - gfdl - ERROR - Data for month 3 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,125 - gfdl - ERROR - Data for month 4 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,127 - gfdl - ERROR - Data for month 5 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,128 - gfdl - ERROR - Data for month 6 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,142 - gfdl - ERROR - Data for month 7 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,143 - gfdl - ERROR - Data for month 8 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,145 - gfdl - ERROR - Data for month 9 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,159 - gfdl - ERROR - Data for month 10 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,160 - gfdl - ERROR - Data for month 11 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,162 - gfdl - ERROR - Data for month 12 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,163 - gfdl - ERROR - Data for month 13 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,164 - gfdl - ERROR - Data for month 14 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,166 - gfdl - ERROR - Data for month 15 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,167 - gfdl - ERROR - Data for month 16 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,183 - gfdl - ERROR - Data for month 17 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,184 - gfdl - ERROR - Data for month 18 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,185 - gfdl - ERROR - Data for month 19 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,186 - gfdl - ERROR - Data for month 20 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,188 - gfdl - ERROR - Data for month 21 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,189 - gfdl - ERROR - Data for month 22 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,199 - gfdl - ERROR - Data for month 23 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,218 - gfdl - ERROR - Data for month 24 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,219 - gfdl - ERROR - Data for month 25 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,221 - gfdl - ERROR - Data for month 26 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,222 - gfdl - ERROR - Data for month 27 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,223 - gfdl - ERROR - Data for month 28 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,246 - gfdl - ERROR - Data for month 29 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,247 - gfdl - ERROR - Data for month 30 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,249 - gfdl - ERROR - Data for month 31 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,250 - gfdl - ERROR - Data for month 32 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,251 - gfdl - ERROR - Data for month 33 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,253 - gfdl - ERROR - Data for month 34 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,254 - gfdl - ERROR - Data for month 35 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,256 - gfdl - ERROR - Data for month 36 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,257 - gfdl - ERROR - Data for month 37 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,258 - gfdl - ERROR - Data for month 38 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,260 - gfdl - ERROR - Data for month 39 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,261 - gfdl - ERROR - Data for month 40 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,263 - gfdl - ERROR - Data for month 41 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,264 - gfdl - ERROR - Data for month 42 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,266 - gfdl - ERROR - Data for month 43 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,267 - gfdl - ERROR - Data for month 44 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,269 - gfdl - ERROR - Data for month 45 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,270 - gfdl - ERROR - Data for month 46 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,272 - gfdl - ERROR - Data for month 47 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,274 - gfdl - ERROR - Data for month 48 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,275 - gfdl - ERROR - Data for month 49 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,276 - gfdl - ERROR - Data for month 50 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,278 - gfdl - ERROR - Data for month 51 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,279 - gfdl - ERROR - Data for month 52 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,281 - gfdl - ERROR - Data for month 53 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,282 - gfdl - ERROR - Data for month 54 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,284 - gfdl - ERROR - Data for month 55 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,285 - gfdl - ERROR - Data for month 56 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,286 - gfdl - ERROR - Data for month 57 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,299 - gfdl - ERROR - Data for month 58 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,300 - gfdl - ERROR - Data for month 59 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,315 - gfdl - ERROR - Data for month 60 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,317 - gfdl - ERROR - Data for month 61 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,318 - gfdl - ERROR - Data for month 62 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,320 - gfdl - ERROR - Data for month 63 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,333 - gfdl - ERROR - Data for month 64 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,335 - gfdl - ERROR - Data for month 65 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,350 - gfdl - ERROR - Data for month 66 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,351 - gfdl - ERROR - Data for month 67 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,352 - gfdl - ERROR - Data for month 68 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,354 - gfdl - ERROR - Data for month 69 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,355 - gfdl - ERROR - Data for month 70 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,357 - gfdl - ERROR - Data for month 71 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,358 - gfdl - ERROR - Data for month 72 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,360 - gfdl - ERROR - Data for month 73 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,361 - gfdl - ERROR - Data for month 74 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,362 - gfdl - ERROR - Data for month 75 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,363 - gfdl - ERROR - Data for month 76 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,364 - gfdl - ERROR - Data for month 77 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,366 - gfdl - ERROR - Data for month 78 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,367 - gfdl - ERROR - Data for month 79 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,369 - gfdl - ERROR - Data for month 80 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,370 - gfdl - ERROR - Data for month 81 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,371 - gfdl - ERROR - Data for month 82 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,373 - gfdl - ERROR - Data for month 83 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,374 - gfdl - ERROR - Data for month 84 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,375 - gfdl - ERROR - Data for month 85 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,376 - gfdl - ERROR - Data for month 86 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,378 - gfdl - ERROR - Data for month 87 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,379 - gfdl - ERROR - Data for month 88 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,380 - gfdl - ERROR - Data for month 89 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,382 - gfdl - ERROR - Data for month 90 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,390 - gfdl - ERROR - Data for month 91 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,391 - gfdl - ERROR - Data for month 92 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,392 - gfdl - ERROR - Data for month 93 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,393 - gfdl - ERROR - Data for month 94 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,395 - gfdl - ERROR - Data for month 95 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,396 - gfdl - ERROR - Data for month 96 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,397 - gfdl - ERROR - Data for month 97 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,398 - gfdl - ERROR - Data for month 98 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,400 - gfdl - ERROR - Data for month 99 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,401 - gfdl - ERROR - Data for month 100 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,402 - gfdl - ERROR - Data for month 101 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,403 - gfdl - ERROR - Data for month 102 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,405 - gfdl - ERROR - Data for month 103 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,406 - gfdl - ERROR - Data for month 104 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,407 - gfdl - ERROR - Data for month 105 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,409 - gfdl - ERROR - Data for month 106 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,410 - gfdl - ERROR - Data for month 107 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,412 - gfdl - ERROR - Data for month 108 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,413 - gfdl - ERROR - Data for month 109 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,415 - gfdl - ERROR - Data for month 110 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,416 - gfdl - ERROR - Data for month 111 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,417 - gfdl - ERROR - Data for month 112 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,418 - gfdl - ERROR - Data for month 113 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,420 - gfdl - ERROR - Data for month 114 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,421 - gfdl - ERROR - Data for month 115 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,423 - gfdl - ERROR - Data for month 116 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,424 - gfdl - ERROR - Data for month 117 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,426 - gfdl - ERROR - Data for month 118 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,427 - gfdl - ERROR - Data for month 119 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,428 - gfdl - ERROR - Data for month 120 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,430 - gfdl - ERROR - Data for month 121 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,431 - gfdl - ERROR - Data for month 122 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,432 - gfdl - ERROR - Data for month 123 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,434 - gfdl - ERROR - Data for month 124 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,435 - gfdl - ERROR - Data for month 125 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,436 - gfdl - ERROR - Data for month 126 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,437 - gfdl - ERROR - Data for month 127 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,438 - gfdl - ERROR - Data for month 128 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,440 - gfdl - ERROR - Data for month 129 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,441 - gfdl - ERROR - Data for month 130 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,442 - gfdl - ERROR - Data for month 131 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,443 - gfdl - ERROR - Data for month 132 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,444 - gfdl - ERROR - Data for month 133 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,445 - gfdl - ERROR - Data for month 134 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,447 - gfdl - ERROR - Data for month 135 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,448 - gfdl - ERROR - Data for month 136 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,449 - gfdl - ERROR - Data for month 137 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,450 - gfdl - ERROR - Data for month 138 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,453 - gfdl - ERROR - Data for month 139 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,454 - gfdl - ERROR - Data for month 140 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,456 - gfdl - ERROR - Data for month 141 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,457 - gfdl - ERROR - Data for month 142 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,459 - gfdl - ERROR - Data for month 143 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,460 - gfdl - ERROR - Data for month 144 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,461 - gfdl - ERROR - Data for month 145 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,463 - gfdl - ERROR - Data for month 146 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,464 - gfdl - ERROR - Data for month 147 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,466 - gfdl - ERROR - Data for month 148 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,467 - gfdl - ERROR - Data for month 149 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,468 - gfdl - ERROR - Data for month 150 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,469 - gfdl - ERROR - Data for month 151 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,470 - gfdl - ERROR - Data for month 152 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,472 - gfdl - ERROR - Data for month 153 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,473 - gfdl - ERROR - Data for month 154 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,485 - gfdl - ERROR - Data for month 155 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,486 - gfdl - ERROR - Data for month 156 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,488 - gfdl - ERROR - Data for month 157 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,489 - gfdl - ERROR - Data for month 158 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,490 - gfdl - ERROR - Data for month 159 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,491 - gfdl - ERROR - Data for month 160 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,492 - gfdl - ERROR - Data for month 161 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,494 - gfdl - ERROR - Data for month 162 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,494 - gfdl - ERROR - Data for month 163 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,496 - gfdl - ERROR - Data for month 164 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,496 - gfdl - ERROR - Data for month 165 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,498 - gfdl - ERROR - Data for month 166 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,499 - gfdl - ERROR - Data for month 167 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,517 - gfdl - ERROR - Data for month 168 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,519 - gfdl - ERROR - Data for month 169 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,520 - gfdl - ERROR - Data for month 170 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,521 - gfdl - ERROR - Data for month 171 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,522 - gfdl - ERROR - Data for month 172 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,523 - gfdl - ERROR - Data for month 173 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,524 - gfdl - ERROR - Data for month 174 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,526 - gfdl - ERROR - Data for month 175 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,527 - gfdl - ERROR - Data for month 176 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,528 - gfdl - ERROR - Data for month 177 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,530 - gfdl - ERROR - Data for month 178 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,531 - gfdl - ERROR - Data for month 179 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,532 - gfdl - ERROR - Data for month 180 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,533 - gfdl - ERROR - Data for month 181 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,534 - gfdl - ERROR - Data for month 182 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,536 - gfdl - ERROR - Data for month 183 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,537 - gfdl - ERROR - Data for month 184 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,538 - gfdl - ERROR - Data for month 185 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,540 - gfdl - ERROR - Data for month 186 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,541 - gfdl - ERROR - Data for month 187 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,542 - gfdl - ERROR - Data for month 188 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,544 - gfdl - ERROR - Data for month 189 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,545 - gfdl - ERROR - Data for month 190 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,546 - gfdl - ERROR - Data for month 191 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,547 - gfdl - ERROR - Data for month 192 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,549 - gfdl - ERROR - Data for month 193 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,550 - gfdl - ERROR - Data for month 194 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,551 - gfdl - ERROR - Data for month 195 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,552 - gfdl - ERROR - Data for month 196 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,553 - gfdl - ERROR - Data for month 197 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,554 - gfdl - ERROR - Data for month 198 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,555 - gfdl - ERROR - Data for month 199 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,556 - gfdl - ERROR - Data for month 200 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,557 - gfdl - ERROR - Data for month 201 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,558 - gfdl - ERROR - Data for month 202 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,559 - gfdl - ERROR - Data for month 203 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,561 - gfdl - ERROR - Data for month 204 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,562 - gfdl - ERROR - Data for month 205 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,563 - gfdl - ERROR - Data for month 206 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,564 - gfdl - ERROR - Data for month 207 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,565 - gfdl - ERROR - Data for month 208 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,566 - gfdl - ERROR - Data for month 209 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,567 - gfdl - ERROR - Data for month 210 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,568 - gfdl - ERROR - Data for month 211 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,569 - gfdl - ERROR - Data for month 212 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,570 - gfdl - ERROR - Data for month 213 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,572 - gfdl - ERROR - Data for month 214 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,573 - gfdl - ERROR - Data for month 215 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,574 - gfdl - ERROR - Data for month 216 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,575 - gfdl - ERROR - Data for month 217 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,576 - gfdl - ERROR - Data for month 218 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,578 - gfdl - ERROR - Data for month 219 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,579 - gfdl - ERROR - Data for month 220 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,580 - gfdl - ERROR - Data for month 221 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,581 - gfdl - ERROR - Data for month 222 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,582 - gfdl - ERROR - Data for month 223 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,583 - gfdl - ERROR - Data for month 224 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,585 - gfdl - ERROR - Data for month 225 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,586 - gfdl - ERROR - Data for month 226 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,587 - gfdl - ERROR - Data for month 227 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,587 - gfdl - ERROR - Data for month 228 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,589 - gfdl - ERROR - Data for month 229 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,589 - gfdl - ERROR - Data for month 230 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,590 - gfdl - ERROR - Data for month 231 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,592 - gfdl - ERROR - Data for month 232 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,593 - gfdl - ERROR - Data for month 233 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,594 - gfdl - ERROR - Data for month 234 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,595 - gfdl - ERROR - Data for month 235 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,595 - gfdl - ERROR - Data for month 236 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,597 - gfdl - ERROR - Data for month 237 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,598 - gfdl - ERROR - Data for month 238 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,599 - gfdl - ERROR - Data for month 239 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,600 - gfdl - ERROR - Data for month 240 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,602 - gfdl - ERROR - Data for month 241 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,603 - gfdl - ERROR - Data for month 242 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,604 - gfdl - ERROR - Data for month 243 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,605 - gfdl - ERROR - Data for month 244 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,606 - gfdl - ERROR - Data for month 245 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,608 - gfdl - ERROR - Data for month 246 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,609 - gfdl - ERROR - Data for month 247 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,611 - gfdl - ERROR - Data for month 248 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,612 - gfdl - ERROR - Data for month 249 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,614 - gfdl - ERROR - Data for month 250 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,615 - gfdl - ERROR - Data for month 251 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,616 - gfdl - ERROR - Data for month 252 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,617 - gfdl - ERROR - Data for month 253 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,618 - gfdl - ERROR - Data for month 254 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,620 - gfdl - ERROR - Data for month 255 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,621 - gfdl - ERROR - Data for month 256 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,622 - gfdl - ERROR - Data for month 257 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,623 - gfdl - ERROR - Data for month 258 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,626 - gfdl - ERROR - Data for month 259 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,627 - gfdl - ERROR - Data for month 260 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,628 - gfdl - ERROR - Data for month 261 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,629 - gfdl - ERROR - Data for month 262 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,630 - gfdl - ERROR - Data for month 263 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,632 - gfdl - ERROR - Data for month 264 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,633 - gfdl - ERROR - Data for month 265 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,634 - gfdl - ERROR - Data for month 266 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,635 - gfdl - ERROR - Data for month 267 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,637 - gfdl - ERROR - Data for month 268 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,638 - gfdl - ERROR - Data for month 269 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,639 - gfdl - ERROR - Data for month 270 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,641 - gfdl - ERROR - Data for month 271 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,642 - gfdl - ERROR - Data for month 272 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,643 - gfdl - ERROR - Data for month 273 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,645 - gfdl - ERROR - Data for month 274 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,646 - gfdl - ERROR - Data for month 275 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,647 - gfdl - ERROR - Data for month 276 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,648 - gfdl - ERROR - Data for month 277 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,650 - gfdl - ERROR - Data for month 278 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,651 - gfdl - ERROR - Data for month 279 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,652 - gfdl - ERROR - Data for month 280 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,653 - gfdl - ERROR - Data for month 281 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,654 - gfdl - ERROR - Data for month 282 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,656 - gfdl - ERROR - Data for month 283 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,657 - gfdl - ERROR - Data for month 284 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,659 - gfdl - ERROR - Data for month 285 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,660 - gfdl - ERROR - Data for month 286 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,661 - gfdl - ERROR - Data for month 287 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,662 - gfdl - ERROR - Data for month 288 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,663 - gfdl - ERROR - Data for month 289 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,665 - gfdl - ERROR - Data for month 290 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,666 - gfdl - ERROR - Data for month 291 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,667 - gfdl - ERROR - Data for month 292 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,668 - gfdl - ERROR - Data for month 293 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,669 - gfdl - ERROR - Data for month 294 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,671 - gfdl - ERROR - Data for month 295 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,672 - gfdl - ERROR - Data for month 296 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,673 - gfdl - ERROR - Data for month 297 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,675 - gfdl - ERROR - Data for month 298 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,676 - gfdl - ERROR - Data for month 299 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,677 - gfdl - ERROR - Data for month 300 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,678 - gfdl - ERROR - Data for month 301 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,680 - gfdl - ERROR - Data for month 302 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,681 - gfdl - ERROR - Data for month 303 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,682 - gfdl - ERROR - Data for month 304 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,684 - gfdl - ERROR - Data for month 305 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,685 - gfdl - ERROR - Data for month 306 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,688 - gfdl - ERROR - Data for month 307 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,689 - gfdl - ERROR - Data for month 308 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,691 - gfdl - ERROR - Data for month 309 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,692 - gfdl - ERROR - Data for month 310 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,694 - gfdl - ERROR - Data for month 311 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,695 - gfdl - ERROR - Data for month 312 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,696 - gfdl - ERROR - Data for month 313 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,698 - gfdl - ERROR - Data for month 314 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,699 - gfdl - ERROR - Data for month 315 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,701 - gfdl - ERROR - Data for month 316 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,702 - gfdl - ERROR - Data for month 317 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,703 - gfdl - ERROR - Data for month 318 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,704 - gfdl - ERROR - Data for month 319 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,706 - gfdl - ERROR - Data for month 320 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,707 - gfdl - ERROR - Data for month 321 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,709 - gfdl - ERROR - Data for month 322 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,710 - gfdl - ERROR - Data for month 323 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,712 - gfdl - ERROR - Data for month 324 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,713 - gfdl - ERROR - Data for month 325 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,715 - gfdl - ERROR - Data for month 326 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,716 - gfdl - ERROR - Data for month 327 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,717 - gfdl - ERROR - Data for month 328 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,719 - gfdl - ERROR - Data for month 329 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,720 - gfdl - ERROR - Data for month 330 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,721 - gfdl - ERROR - Data for month 331 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,723 - gfdl - ERROR - Data for month 332 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,724 - gfdl - ERROR - Data for month 333 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,725 - gfdl - ERROR - Data for month 334 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,726 - gfdl - ERROR - Data for month 335 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,728 - gfdl - ERROR - Data for month 336 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,729 - gfdl - ERROR - Data for month 337 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,730 - gfdl - ERROR - Data for month 338 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,732 - gfdl - ERROR - Data for month 339 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,733 - gfdl - ERROR - Data for month 340 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,735 - gfdl - ERROR - Data for month 341 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,736 - gfdl - ERROR - Data for month 342 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,737 - gfdl - ERROR - Data for month 343 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,739 - gfdl - ERROR - Data for month 344 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,740 - gfdl - ERROR - Data for month 345 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,742 - gfdl - ERROR - Data for month 346 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,744 - gfdl - ERROR - Data for month 347 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,745 - gfdl - ERROR - Data for month 348 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,747 - gfdl - ERROR - Data for month 349 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,748 - gfdl - ERROR - Data for month 350 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,749 - gfdl - ERROR - Data for month 351 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,751 - gfdl - ERROR - Data for month 352 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,752 - gfdl - ERROR - Data for month 353 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,753 - gfdl - ERROR - Data for month 354 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,755 - gfdl - ERROR - Data for month 355 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,756 - gfdl - ERROR - Data for month 356 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,758 - gfdl - ERROR - Data for month 357 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,759 - gfdl - ERROR - Data for month 358 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,760 - gfdl - ERROR - Data for month 359 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,762 - gfdl - ERROR - Data for month 360 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,763 - gfdl - ERROR - Data for month 361 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,765 - gfdl - ERROR - Data for month 362 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,766 - gfdl - ERROR - Data for month 363 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,767 - gfdl - ERROR - Data for month 364 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,769 - gfdl - ERROR - Data for month 365 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,770 - gfdl - ERROR - Data for month 366 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,772 - gfdl - ERROR - Data for month 367 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,773 - gfdl - ERROR - Data for month 368 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,775 - gfdl - ERROR - Data for month 369 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,776 - gfdl - ERROR - Data for month 370 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,779 - gfdl - ERROR - Data for month 371 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,780 - gfdl - ERROR - Data for month 372 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,781 - gfdl - ERROR - Data for month 373 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,783 - gfdl - ERROR - Data for month 374 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,784 - gfdl - ERROR - Data for month 375 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,786 - gfdl - ERROR - Data for month 376 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,787 - gfdl - ERROR - Data for month 377 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,789 - gfdl - ERROR - Data for month 378 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,791 - gfdl - ERROR - Data for month 379 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,793 - gfdl - ERROR - Data for month 380 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,794 - gfdl - ERROR - Data for month 381 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,796 - gfdl - ERROR - Data for month 382 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,797 - gfdl - ERROR - Data for month 383 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,799 - gfdl - ERROR - Data for month 384 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,800 - gfdl - ERROR - Data for month 385 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,802 - gfdl - ERROR - Data for month 386 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,803 - gfdl - ERROR - Data for month 387 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,804 - gfdl - ERROR - Data for month 388 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,806 - gfdl - ERROR - Data for month 389 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,807 - gfdl - ERROR - Data for month 390 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,808 - gfdl - ERROR - Data for month 391 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,810 - gfdl - ERROR - Data for month 392 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,811 - gfdl - ERROR - Data for month 393 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,813 - gfdl - ERROR - Data for month 394 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,814 - gfdl - ERROR - Data for month 395 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,816 - gfdl - ERROR - Data for month 396 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,817 - gfdl - ERROR - Data for month 397 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,819 - gfdl - ERROR - Data for month 398 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,820 - gfdl - ERROR - Data for month 399 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,821 - gfdl - ERROR - Data for month 400 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,823 - gfdl - ERROR - Data for month 401 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,824 - gfdl - ERROR - Data for month 402 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,825 - gfdl - ERROR - Data for month 403 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,827 - gfdl - ERROR - Data for month 404 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,828 - gfdl - ERROR - Data for month 405 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,830 - gfdl - ERROR - Data for month 406 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,831 - gfdl - ERROR - Data for month 407 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,833 - gfdl - ERROR - Data for month 408 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,834 - gfdl - ERROR - Data for month 409 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,836 - gfdl - ERROR - Data for month 410 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,837 - gfdl - ERROR - Data for month 411 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,838 - gfdl - ERROR - Data for month 412 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,840 - gfdl - ERROR - Data for month 413 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,842 - gfdl - ERROR - Data for month 414 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,843 - gfdl - ERROR - Data for month 415 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,845 - gfdl - ERROR - Data for month 416 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,846 - gfdl - ERROR - Data for month 417 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,847 - gfdl - ERROR - Data for month 418 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,849 - gfdl - ERROR - Data for month 419 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,850 - gfdl - ERROR - Data for month 420 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,852 - gfdl - ERROR - Data for month 421 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,853 - gfdl - ERROR - Data for month 422 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,854 - gfdl - ERROR - Data for month 423 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,856 - gfdl - ERROR - Data for month 424 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,857 - gfdl - ERROR - Data for month 425 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,859 - gfdl - ERROR - Data for month 426 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,860 - gfdl - ERROR - Data for month 427 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,861 - gfdl - ERROR - Data for month 428 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,863 - gfdl - ERROR - Data for month 429 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,865 - gfdl - ERROR - Data for month 430 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,866 - gfdl - ERROR - Data for month 431 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,868 - gfdl - ERROR - Data for month 432 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,869 - gfdl - ERROR - Data for month 433 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,870 - gfdl - ERROR - Data for month 434 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,872 - gfdl - ERROR - Data for month 435 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,873 - gfdl - ERROR - Data for month 436 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,875 - gfdl - ERROR - Data for month 437 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,876 - gfdl - ERROR - Data for month 438 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,878 - gfdl - ERROR - Data for month 439 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,879 - gfdl - ERROR - Data for month 440 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,880 - gfdl - ERROR - Data for month 441 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,882 - gfdl - ERROR - Data for month 442 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,883 - gfdl - ERROR - Data for month 443 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,885 - gfdl - ERROR - Data for month 444 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,886 - gfdl - ERROR - Data for month 445 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,887 - gfdl - ERROR - Data for month 446 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,889 - gfdl - ERROR - Data for month 447 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,890 - gfdl - ERROR - Data for month 448 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,892 - gfdl - ERROR - Data for month 449 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,893 - gfdl - ERROR - Data for month 450 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,894 - gfdl - ERROR - Data for month 451 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,896 - gfdl - ERROR - Data for month 452 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,897 - gfdl - ERROR - Data for month 453 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,899 - gfdl - ERROR - Data for month 454 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,901 - gfdl - ERROR - Data for month 455 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,902 - gfdl - ERROR - Data for month 456 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,904 - gfdl - ERROR - Data for month 457 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,905 - gfdl - ERROR - Data for month 458 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,907 - gfdl - ERROR - Data for month 459 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,908 - gfdl - ERROR - Data for month 460 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,910 - gfdl - ERROR - Data for month 461 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,911 - gfdl - ERROR - Data for month 462 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,913 - gfdl - ERROR - Data for month 463 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,914 - gfdl - ERROR - Data for month 464 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,916 - gfdl - ERROR - Data for month 465 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,917 - gfdl - ERROR - Data for month 466 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,918 - gfdl - ERROR - Data for month 467 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,919 - gfdl - ERROR - Data for month 468 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,921 - gfdl - ERROR - Data for month 469 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,922 - gfdl - ERROR - Data for month 470 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,923 - gfdl - ERROR - Data for month 471 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,925 - gfdl - ERROR - Data for month 472 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,926 - gfdl - ERROR - Data for month 473 already exists but overwrite_data is False. Stopping.
+2019-08-17 17:00:40,968 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:00:40,976 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:00:41,018 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:00:41,143 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_473.cpio'
+2019-08-17 17:00:41,169 - gfdl - INFO - Running GFDL for month 474
+2019-08-17 17:00:41,415 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:41,416 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:41,417 - gfdl - DEBUG - loadmodules
+2019-08-17 17:00:41,587 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:41,587 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:41,748 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:41,749 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:42,017 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:00:42,018 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:00:42,390 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:00:42,394 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:00:42,394 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:00:42,395 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:00:42,395 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:00:42,395 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:00:42,395 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:00:42,643 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:00:42,971 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:00:42,972 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:00:43,175 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:00:43,175 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:00:45,073 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:00:45,073 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:00:45,073 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:00:45,073 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:00:45,074 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:00:45,074 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:00:45,074 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:00:45,074 - gfdl - DEBUG - /
+2019-08-17 17:00:45,078 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:00:45,082 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:00:45,114 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:00:45,131 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:00:45,131 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:00:45,131 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:00:45,424 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,425 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,425 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,425 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,425 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,426 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,446 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:00:45,446 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:00:45,447 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,448 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:00:45,932 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:00:45,938 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:01:02,981 - gfdl - DEBUG - Integration completed through   40 Jun  2   0: 0: 0
+2019-08-17 17:01:19,865 - gfdl - DEBUG - Integration completed through   40 Jun  3   0: 0: 0
+2019-08-17 17:01:36,731 - gfdl - DEBUG - Integration completed through   40 Jun  4   0: 0: 0
+2019-08-17 17:01:53,592 - gfdl - DEBUG - Integration completed through   40 Jun  5   0: 0: 0
+2019-08-17 17:02:10,463 - gfdl - DEBUG - Integration completed through   40 Jun  6   0: 0: 0
+2019-08-17 17:02:27,337 - gfdl - DEBUG - Integration completed through   40 Jun  7   0: 0: 0
+2019-08-17 17:02:44,181 - gfdl - DEBUG - Integration completed through   40 Jun  8   0: 0: 0
+2019-08-17 17:03:01,039 - gfdl - DEBUG - Integration completed through   40 Jun  9   0: 0: 0
+2019-08-17 17:03:17,925 - gfdl - DEBUG - Integration completed through   40 Jun 10   0: 0: 0
+2019-08-17 17:03:35,107 - gfdl - DEBUG - Integration completed through   40 Jun 11   0: 0: 0
+2019-08-17 17:03:52,385 - gfdl - DEBUG - Integration completed through   40 Jun 12   0: 0: 0
+2019-08-17 17:04:09,667 - gfdl - DEBUG - Integration completed through   40 Jun 13   0: 0: 0
+2019-08-17 17:04:26,998 - gfdl - DEBUG - Integration completed through   40 Jun 14   0: 0: 0
+2019-08-17 17:04:44,356 - gfdl - DEBUG - Integration completed through   40 Jun 15   0: 0: 0
+2019-08-17 17:05:02,529 - gfdl - DEBUG - Integration completed through   40 Jun 16   0: 0: 0
+2019-08-17 17:05:36,688 - gfdl - DEBUG - Integration completed through   40 Jun 17   0: 0: 0
+2019-08-17 17:05:56,444 - gfdl - DEBUG - Integration completed through   40 Jun 18   0: 0: 0
+2019-08-17 17:06:17,397 - gfdl - DEBUG - Integration completed through   40 Jun 19   0: 0: 0
+2019-08-17 17:06:34,834 - gfdl - DEBUG - Integration completed through   40 Jun 20   0: 0: 0
+2019-08-17 17:06:52,271 - gfdl - DEBUG - Integration completed through   40 Jun 21   0: 0: 0
+2019-08-17 17:07:10,077 - gfdl - DEBUG - Integration completed through   40 Jun 22   0: 0: 0
+2019-08-17 17:07:27,571 - gfdl - DEBUG - Integration completed through   40 Jun 23   0: 0: 0
+2019-08-17 17:07:44,993 - gfdl - DEBUG - Integration completed through   40 Jun 24   0: 0: 0
+2019-08-17 17:08:02,438 - gfdl - DEBUG - Integration completed through   40 Jun 25   0: 0: 0
+2019-08-17 17:08:22,884 - gfdl - DEBUG - Integration completed through   40 Jun 26   0: 0: 0
+2019-08-17 17:08:40,308 - gfdl - DEBUG - Integration completed through   40 Jun 27   0: 0: 0
+2019-08-17 17:08:58,099 - gfdl - DEBUG - Integration completed through   40 Jun 28   0: 0: 0
+2019-08-17 17:09:15,403 - gfdl - DEBUG - Integration completed through   40 Jun 29   0: 0: 0
+2019-08-17 17:09:32,704 - gfdl - DEBUG - Integration completed through   40 Jun 30   0: 0: 0
+2019-08-17 17:09:49,985 - gfdl - DEBUG - Integration completed through   40 Jul  1   0: 0: 0
+2019-08-17 17:09:50,002 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:09:50,002 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:09:50,031 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:09:50,153 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:09:50,153 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:09:50,153 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:09:50,153 - gfdl - DEBUG - Total runtime                       545.086104    545.086118    545.086112      0.000005  1.000     0     0    15
+2019-08-17 17:09:50,153 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:09:50,216 - gfdl - DEBUG - Month 474 complete, combining nc files
+2019-08-17 17:10:01,901 - gfdl - INFO - Run for month 474 complete
+2019-08-17 17:10:07,667 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_474.cpio'
+2019-08-17 17:10:07,793 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:10:10,556 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:10:10,594 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:10:10,601 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:10:10,637 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:10:10,705 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_474.cpio'
+2019-08-17 17:10:10,707 - gfdl - INFO - Running GFDL for month 475
+2019-08-17 17:10:10,997 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:10:10,998 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:10:11,000 - gfdl - DEBUG - loadmodules
+2019-08-17 17:10:11,178 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:10:11,178 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:10:11,398 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:10:11,398 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:10:11,707 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:10:11,708 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:10:12,120 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:10:12,124 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:10:12,124 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:10:12,125 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:10:12,125 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:10:12,125 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:10:12,126 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:10:12,188 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:10:12,526 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:10:12,528 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:10:12,755 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:10:12,755 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:10:14,567 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:10:14,567 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:10:14,567 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:10:14,567 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:10:14,567 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:10:14,568 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:10:14,568 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:10:14,568 - gfdl - DEBUG - /
+2019-08-17 17:10:14,568 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:10:14,572 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:10:14,603 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:10:14,609 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:10:14,609 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:10:14,609 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:10:14,704 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,704 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,705 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,705 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,705 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,705 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,759 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:10:14,759 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:10:14,762 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,766 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:10:14,786 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:10:14,813 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:10:34,108 - gfdl - DEBUG - Integration completed through   40 Jul  2   0: 0: 0
+2019-08-17 17:10:51,635 - gfdl - DEBUG - Integration completed through   40 Jul  3   0: 0: 0
+2019-08-17 17:11:21,224 - gfdl - DEBUG - Integration completed through   40 Jul  4   0: 0: 0
+2019-08-17 17:11:38,830 - gfdl - DEBUG - Integration completed through   40 Jul  5   0: 0: 0
+2019-08-17 17:11:56,372 - gfdl - DEBUG - Integration completed through   40 Jul  6   0: 0: 0
+2019-08-17 17:12:13,787 - gfdl - DEBUG - Integration completed through   40 Jul  7   0: 0: 0
+2019-08-17 17:12:31,282 - gfdl - DEBUG - Integration completed through   40 Jul  8   0: 0: 0
+2019-08-17 17:12:54,732 - gfdl - DEBUG - Integration completed through   40 Jul  9   0: 0: 0
+2019-08-17 17:13:12,179 - gfdl - DEBUG - Integration completed through   40 Jul 10   0: 0: 0
+2019-08-17 17:13:29,619 - gfdl - DEBUG - Integration completed through   40 Jul 11   0: 0: 0
+2019-08-17 17:13:47,123 - gfdl - DEBUG - Integration completed through   40 Jul 12   0: 0: 0
+2019-08-17 17:14:04,653 - gfdl - DEBUG - Integration completed through   40 Jul 13   0: 0: 0
+2019-08-17 17:14:27,075 - gfdl - DEBUG - Integration completed through   40 Jul 14   0: 0: 0
+2019-08-17 17:14:44,573 - gfdl - DEBUG - Integration completed through   40 Jul 15   0: 0: 0
+2019-08-17 17:15:02,073 - gfdl - DEBUG - Integration completed through   40 Jul 16   0: 0: 0
+2019-08-17 17:15:19,735 - gfdl - DEBUG - Integration completed through   40 Jul 17   0: 0: 0
+2019-08-17 17:15:42,376 - gfdl - DEBUG - Integration completed through   40 Jul 18   0: 0: 0
+2019-08-17 17:15:59,995 - gfdl - DEBUG - Integration completed through   40 Jul 19   0: 0: 0
+2019-08-17 17:16:17,653 - gfdl - DEBUG - Integration completed through   40 Jul 20   0: 0: 0
+2019-08-17 17:16:35,600 - gfdl - DEBUG - Integration completed through   40 Jul 21   0: 0: 0
+2019-08-17 17:16:53,301 - gfdl - DEBUG - Integration completed through   40 Jul 22   0: 0: 0
+2019-08-17 17:17:13,390 - gfdl - DEBUG - Integration completed through   40 Jul 23   0: 0: 0
+2019-08-17 17:17:31,123 - gfdl - DEBUG - Integration completed through   40 Jul 24   0: 0: 0
+2019-08-17 17:17:49,635 - gfdl - DEBUG - Integration completed through   40 Jul 25   0: 0: 0
+2019-08-17 17:18:08,921 - gfdl - DEBUG - Integration completed through   40 Jul 26   0: 0: 0
+2019-08-17 17:18:26,573 - gfdl - DEBUG - Integration completed through   40 Jul 27   0: 0: 0
+2019-08-17 17:18:47,669 - gfdl - DEBUG - Integration completed through   40 Jul 28   0: 0: 0
+2019-08-17 17:19:05,212 - gfdl - DEBUG - Integration completed through   40 Jul 29   0: 0: 0
+2019-08-17 17:19:22,735 - gfdl - DEBUG - Integration completed through   40 Jul 30   0: 0: 0
+2019-08-17 17:19:40,259 - gfdl - DEBUG - Integration completed through   40 Aug  1   0: 0: 0
+2019-08-17 17:19:40,412 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:19:40,413 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:19:40,532 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:19:40,652 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:19:40,652 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:19:40,652 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:19:40,666 - gfdl - DEBUG - Total runtime                       566.091726    566.091748    566.091743      0.000006  1.000     0     0    15
+2019-08-17 17:19:40,666 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:19:40,705 - gfdl - DEBUG - Month 475 complete, combining nc files
+2019-08-17 17:19:55,736 - gfdl - INFO - Run for month 475 complete
+2019-08-17 17:20:00,059 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_475.cpio'
+2019-08-17 17:20:00,096 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:20:02,739 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:20:02,772 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:20:02,775 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:20:02,814 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:20:02,876 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_475.cpio'
+2019-08-17 17:20:02,878 - gfdl - INFO - Running GFDL for month 476
+2019-08-17 17:20:03,127 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:20:03,127 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:20:03,129 - gfdl - DEBUG - loadmodules
+2019-08-17 17:20:03,297 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:20:03,297 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:20:03,467 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:20:03,467 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:20:03,758 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:20:03,758 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:20:04,141 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:20:04,145 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:20:04,145 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:20:04,146 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:20:04,146 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:20:04,146 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:20:04,146 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:20:04,202 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:20:04,523 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:20:04,524 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:20:04,727 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:20:04,727 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:20:06,544 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:20:06,544 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:20:06,544 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:20:06,544 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:20:06,545 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:20:06,545 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:20:06,545 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:20:06,545 - gfdl - DEBUG - /
+2019-08-17 17:20:06,545 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:20:06,555 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:20:06,600 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:20:06,600 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:20:06,600 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:20:06,601 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:20:06,698 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,699 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,700 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,700 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,700 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,700 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,748 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:20:06,748 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:20:06,748 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,749 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:20:06,767 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:20:06,786 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:20:37,313 - gfdl - DEBUG - Integration completed through   40 Aug  2   0: 0: 0
+2019-08-17 17:20:54,770 - gfdl - DEBUG - Integration completed through   40 Aug  3   0: 0: 0
+2019-08-17 17:21:12,159 - gfdl - DEBUG - Integration completed through   40 Aug  4   0: 0: 0
+2019-08-17 17:21:29,749 - gfdl - DEBUG - Integration completed through   40 Aug  5   0: 0: 0
+2019-08-17 17:21:47,410 - gfdl - DEBUG - Integration completed through   40 Aug  6   0: 0: 0
+2019-08-17 17:22:05,034 - gfdl - DEBUG - Integration completed through   40 Aug  7   0: 0: 0
+2019-08-17 17:22:22,617 - gfdl - DEBUG - Integration completed through   40 Aug  8   0: 0: 0
+2019-08-17 17:22:41,878 - gfdl - DEBUG - Integration completed through   40 Aug  9   0: 0: 0
+2019-08-17 17:22:59,484 - gfdl - DEBUG - Integration completed through   40 Aug 10   0: 0: 0
+2019-08-17 17:23:17,080 - gfdl - DEBUG - Integration completed through   40 Aug 11   0: 0: 0
+2019-08-17 17:23:34,670 - gfdl - DEBUG - Integration completed through   40 Aug 12   0: 0: 0
+2019-08-17 17:23:52,246 - gfdl - DEBUG - Integration completed through   40 Aug 13   0: 0: 0
+2019-08-17 17:24:09,816 - gfdl - DEBUG - Integration completed through   40 Aug 14   0: 0: 0
+2019-08-17 17:24:27,410 - gfdl - DEBUG - Integration completed through   40 Aug 15   0: 0: 0
+2019-08-17 17:24:45,027 - gfdl - DEBUG - Integration completed through   40 Aug 16   0: 0: 0
+2019-08-17 17:25:02,633 - gfdl - DEBUG - Integration completed through   40 Aug 17   0: 0: 0
+2019-08-17 17:25:20,220 - gfdl - DEBUG - Integration completed through   40 Aug 18   0: 0: 0
+2019-08-17 17:25:37,830 - gfdl - DEBUG - Integration completed through   40 Aug 19   0: 0: 0
+2019-08-17 17:26:12,886 - gfdl - DEBUG - Integration completed through   40 Aug 20   0: 0: 0
+2019-08-17 17:26:30,233 - gfdl - DEBUG - Integration completed through   40 Aug 21   0: 0: 0
+2019-08-17 17:26:48,506 - gfdl - DEBUG - Integration completed through   40 Aug 22   0: 0: 0
+2019-08-17 17:27:06,056 - gfdl - DEBUG - Integration completed through   40 Aug 23   0: 0: 0
+2019-08-17 17:27:23,474 - gfdl - DEBUG - Integration completed through   40 Aug 24   0: 0: 0
+2019-08-17 17:27:40,624 - gfdl - DEBUG - Integration completed through   40 Aug 25   0: 0: 0
+2019-08-17 17:27:58,025 - gfdl - DEBUG - Integration completed through   40 Aug 26   0: 0: 0
+2019-08-17 17:28:15,388 - gfdl - DEBUG - Integration completed through   40 Aug 27   0: 0: 0
+2019-08-17 17:28:32,623 - gfdl - DEBUG - Integration completed through   40 Aug 28   0: 0: 0
+2019-08-17 17:28:49,956 - gfdl - DEBUG - Integration completed through   40 Aug 29   0: 0: 0
+2019-08-17 17:29:07,898 - gfdl - DEBUG - Integration completed through   40 Aug 30   0: 0: 0
+2019-08-17 17:29:25,126 - gfdl - DEBUG - Integration completed through   40 Sep  1   0: 0: 0
+2019-08-17 17:29:25,232 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:29:25,232 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:29:25,450 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:29:25,829 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:29:25,829 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:29:25,829 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:29:25,829 - gfdl - DEBUG - Total runtime                       559.291178    559.291187    559.291182      0.000003  1.000     0     0    15
+2019-08-17 17:29:25,829 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:29:25,867 - gfdl - DEBUG - Month 476 complete, combining nc files
+2019-08-17 17:29:41,530 - gfdl - INFO - Run for month 476 complete
+2019-08-17 17:29:45,692 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_476.cpio'
+2019-08-17 17:29:45,728 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:29:48,590 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:29:48,627 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:29:48,633 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:29:48,675 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:29:48,736 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_476.cpio'
+2019-08-17 17:29:48,738 - gfdl - INFO - Running GFDL for month 477
+2019-08-17 17:29:49,008 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:29:49,009 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:29:49,012 - gfdl - DEBUG - loadmodules
+2019-08-17 17:29:49,226 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:29:49,226 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:29:49,431 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:29:49,432 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:29:49,717 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:29:49,718 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:29:50,104 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:29:50,108 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:29:50,108 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:29:50,108 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:29:50,109 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:29:50,109 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:29:50,109 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:29:50,175 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:29:50,492 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:29:50,494 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:29:50,697 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:29:50,697 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:29:52,302 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:29:52,303 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:29:52,303 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:29:52,303 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:29:52,303 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:29:52,303 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:29:52,303 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:29:52,303 - gfdl - DEBUG - /
+2019-08-17 17:29:52,308 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:29:52,311 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:29:52,358 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:29:52,361 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:29:52,361 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:29:52,361 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:29:52,485 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,486 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,486 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,486 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,487 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,487 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,528 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:29:52,528 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:29:52,532 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,536 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:29:52,552 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:29:52,564 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:30:10,048 - gfdl - DEBUG - Integration completed through   40 Sep  2   0: 0: 0
+2019-08-17 17:30:27,478 - gfdl - DEBUG - Integration completed through   40 Sep  3   0: 0: 0
+2019-08-17 17:30:44,657 - gfdl - DEBUG - Integration completed through   40 Sep  4   0: 0: 0
+2019-08-17 17:31:01,917 - gfdl - DEBUG - Integration completed through   40 Sep  5   0: 0: 0
+2019-08-17 17:31:18,924 - gfdl - DEBUG - Integration completed through   40 Sep  6   0: 0: 0
+2019-08-17 17:31:36,087 - gfdl - DEBUG - Integration completed through   40 Sep  7   0: 0: 0
+2019-08-17 17:31:52,979 - gfdl - DEBUG - Integration completed through   40 Sep  8   0: 0: 0
+2019-08-17 17:32:09,763 - gfdl - DEBUG - Integration completed through   40 Sep  9   0: 0: 0
+2019-08-17 17:32:27,751 - gfdl - DEBUG - Integration completed through   40 Sep 10   0: 0: 0
+2019-08-17 17:32:46,543 - gfdl - DEBUG - Integration completed through   40 Sep 11   0: 0: 0
+2019-08-17 17:33:03,527 - gfdl - DEBUG - Integration completed through   40 Sep 12   0: 0: 0
+2019-08-17 17:33:20,047 - gfdl - DEBUG - Integration completed through   40 Sep 13   0: 0: 0
+2019-08-17 17:33:36,533 - gfdl - DEBUG - Integration completed through   40 Sep 14   0: 0: 0
+2019-08-17 17:33:53,003 - gfdl - DEBUG - Integration completed through   40 Sep 15   0: 0: 0
+2019-08-17 17:34:09,231 - gfdl - DEBUG - Integration completed through   40 Sep 16   0: 0: 0
+2019-08-17 17:34:25,276 - gfdl - DEBUG - Integration completed through   40 Sep 17   0: 0: 0
+2019-08-17 17:34:42,101 - gfdl - DEBUG - Integration completed through   40 Sep 18   0: 0: 0
+2019-08-17 17:34:58,232 - gfdl - DEBUG - Integration completed through   40 Sep 19   0: 0: 0
+2019-08-17 17:35:13,888 - gfdl - DEBUG - Integration completed through   40 Sep 20   0: 0: 0
+2019-08-17 17:35:33,088 - gfdl - DEBUG - Integration completed through   40 Sep 21   0: 0: 0
+2019-08-17 17:35:48,413 - gfdl - DEBUG - Integration completed through   40 Sep 22   0: 0: 0
+2019-08-17 17:36:03,604 - gfdl - DEBUG - Integration completed through   40 Sep 23   0: 0: 0
+2019-08-17 17:36:18,567 - gfdl - DEBUG - Integration completed through   40 Sep 24   0: 0: 0
+2019-08-17 17:36:33,402 - gfdl - DEBUG - Integration completed through   40 Sep 25   0: 0: 0
+2019-08-17 17:36:48,052 - gfdl - DEBUG - Integration completed through   40 Sep 26   0: 0: 0
+2019-08-17 17:37:02,560 - gfdl - DEBUG - Integration completed through   40 Sep 27   0: 0: 0
+2019-08-17 17:37:16,399 - gfdl - DEBUG - Integration completed through   40 Sep 28   0: 0: 0
+2019-08-17 17:37:29,905 - gfdl - DEBUG - Integration completed through   40 Sep 29   0: 0: 0
+2019-08-17 17:37:43,123 - gfdl - DEBUG - Integration completed through   40 Sep 30   0: 0: 0
+2019-08-17 17:37:56,089 - gfdl - DEBUG - Integration completed through   40 Oct  1   0: 0: 0
+2019-08-17 17:37:56,160 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:37:56,160 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:37:56,290 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:37:57,326 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:37:57,326 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:37:57,326 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:37:57,326 - gfdl - DEBUG - Total runtime                       485.026895    485.026908    485.026904      0.000003  1.000     0     0    15
+2019-08-17 17:37:57,327 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:37:57,366 - gfdl - DEBUG - Month 477 complete, combining nc files
+2019-08-17 17:38:09,717 - gfdl - INFO - Run for month 477 complete
+2019-08-17 17:38:14,037 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_477.cpio'
+2019-08-17 17:38:14,071 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:38:17,325 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:38:17,364 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:38:17,367 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:38:17,406 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:38:17,463 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_477.cpio'
+2019-08-17 17:38:17,466 - gfdl - INFO - Running GFDL for month 478
+2019-08-17 17:38:17,677 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:38:17,677 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:38:17,678 - gfdl - DEBUG - loadmodules
+2019-08-17 17:38:17,848 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:38:17,848 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:38:18,018 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:38:18,018 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:38:18,299 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:38:18,299 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:38:18,718 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:38:18,722 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:38:18,722 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:38:18,723 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:38:18,723 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:38:18,723 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:38:18,723 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:38:18,788 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:38:19,108 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:38:19,109 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:38:19,375 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:38:19,376 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:38:20,931 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:38:20,936 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:38:20,936 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:38:20,936 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:38:20,936 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:38:20,936 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:38:20,936 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:38:20,936 - gfdl - DEBUG - /
+2019-08-17 17:38:20,937 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:38:20,949 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:38:20,990 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:38:20,999 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:38:20,999 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:38:20,999 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:38:21,100 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,100 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,100 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,101 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,101 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,101 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,123 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,123 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:38:21,123 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:38:21,123 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:38:21,143 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:38:21,192 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:38:44,691 - gfdl - DEBUG - Integration completed through   40 Oct  2   0: 0: 0
+2019-08-17 17:38:57,830 - gfdl - DEBUG - Integration completed through   40 Oct  3   0: 0: 0
+2019-08-17 17:39:11,372 - gfdl - DEBUG - Integration completed through   40 Oct  4   0: 0: 0
+2019-08-17 17:39:25,161 - gfdl - DEBUG - Integration completed through   40 Oct  5   0: 0: 0
+2019-08-17 17:39:39,341 - gfdl - DEBUG - Integration completed through   40 Oct  6   0: 0: 0
+2019-08-17 17:39:53,972 - gfdl - DEBUG - Integration completed through   40 Oct  7   0: 0: 0
+2019-08-17 17:40:08,776 - gfdl - DEBUG - Integration completed through   40 Oct  8   0: 0: 0
+2019-08-17 17:40:25,510 - gfdl - DEBUG - Integration completed through   40 Oct  9   0: 0: 0
+2019-08-17 17:40:40,695 - gfdl - DEBUG - Integration completed through   40 Oct 10   0: 0: 0
+2019-08-17 17:40:56,060 - gfdl - DEBUG - Integration completed through   40 Oct 11   0: 0: 0
+2019-08-17 17:41:11,632 - gfdl - DEBUG - Integration completed through   40 Oct 12   0: 0: 0
+2019-08-17 17:41:27,395 - gfdl - DEBUG - Integration completed through   40 Oct 13   0: 0: 0
+2019-08-17 17:41:45,046 - gfdl - DEBUG - Integration completed through   40 Oct 14   0: 0: 0
+2019-08-17 17:42:02,935 - gfdl - DEBUG - Integration completed through   40 Oct 15   0: 0: 0
+2019-08-17 17:42:19,203 - gfdl - DEBUG - Integration completed through   40 Oct 16   0: 0: 0
+2019-08-17 17:42:35,461 - gfdl - DEBUG - Integration completed through   40 Oct 17   0: 0: 0
+2019-08-17 17:42:52,364 - gfdl - DEBUG - Integration completed through   40 Oct 18   0: 0: 0
+2019-08-17 17:43:08,895 - gfdl - DEBUG - Integration completed through   40 Oct 19   0: 0: 0
+2019-08-17 17:43:25,624 - gfdl - DEBUG - Integration completed through   40 Oct 20   0: 0: 0
+2019-08-17 17:43:42,444 - gfdl - DEBUG - Integration completed through   40 Oct 21   0: 0: 0
+2019-08-17 17:43:59,402 - gfdl - DEBUG - Integration completed through   40 Oct 22   0: 0: 0
+2019-08-17 17:44:16,375 - gfdl - DEBUG - Integration completed through   40 Oct 23   0: 0: 0
+2019-08-17 17:44:33,445 - gfdl - DEBUG - Integration completed through   40 Oct 24   0: 0: 0
+2019-08-17 17:44:50,559 - gfdl - DEBUG - Integration completed through   40 Oct 25   0: 0: 0
+2019-08-17 17:45:07,778 - gfdl - DEBUG - Integration completed through   40 Oct 26   0: 0: 0
+2019-08-17 17:45:25,095 - gfdl - DEBUG - Integration completed through   40 Oct 27   0: 0: 0
+2019-08-17 17:45:46,791 - gfdl - DEBUG - Integration completed through   40 Oct 28   0: 0: 0
+2019-08-17 17:46:04,209 - gfdl - DEBUG - Integration completed through   40 Oct 29   0: 0: 0
+2019-08-17 17:46:21,593 - gfdl - DEBUG - Integration completed through   40 Oct 30   0: 0: 0
+2019-08-17 17:46:38,954 - gfdl - DEBUG - Integration completed through   40 Nov  1   0: 0: 0
+2019-08-17 17:46:39,065 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:46:39,065 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:46:39,190 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:46:39,359 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:46:39,359 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:46:39,359 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:46:39,359 - gfdl - DEBUG - Total runtime                       498.428188    498.428213    498.428207      0.000006  1.000     0     0    15
+2019-08-17 17:46:39,359 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:46:39,395 - gfdl - DEBUG - Month 478 complete, combining nc files
+2019-08-17 17:46:55,005 - gfdl - INFO - Run for month 478 complete
+2019-08-17 17:46:59,222 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_478.cpio'
+2019-08-17 17:46:59,266 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:47:02,595 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:47:02,629 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:47:02,635 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:47:02,669 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:47:02,731 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_478.cpio'
+2019-08-17 17:47:02,734 - gfdl - INFO - Running GFDL for month 479
+2019-08-17 17:47:02,999 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:47:02,999 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:47:03,000 - gfdl - DEBUG - loadmodules
+2019-08-17 17:47:03,195 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:47:03,195 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:47:03,395 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:47:03,395 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:47:03,696 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:47:03,696 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:47:04,090 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:47:04,094 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:47:04,094 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:47:04,095 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:47:04,095 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:47:04,095 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:47:04,095 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:47:04,176 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:47:04,534 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:47:04,535 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:47:04,767 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:47:04,767 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:47:06,487 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:47:06,489 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:47:06,490 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:47:06,490 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:47:06,490 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:47:06,490 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:47:06,490 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:47:06,491 - gfdl - DEBUG - /
+2019-08-17 17:47:06,500 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:47:06,515 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:47:06,550 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:47:06,562 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:47:06,562 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:47:06,562 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:47:06,688 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,688 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,689 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,689 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,689 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,693 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,759 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:47:06,759 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:47:06,760 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,760 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:47:06,779 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:47:06,788 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:47:24,114 - gfdl - DEBUG - Integration completed through   40 Nov  2   0: 0: 0
+2019-08-17 17:47:41,352 - gfdl - DEBUG - Integration completed through   40 Nov  3   0: 0: 0
+2019-08-17 17:47:58,614 - gfdl - DEBUG - Integration completed through   40 Nov  4   0: 0: 0
+2019-08-17 17:48:15,877 - gfdl - DEBUG - Integration completed through   40 Nov  5   0: 0: 0
+2019-08-17 17:48:33,147 - gfdl - DEBUG - Integration completed through   40 Nov  6   0: 0: 0
+2019-08-17 17:48:50,392 - gfdl - DEBUG - Integration completed through   40 Nov  7   0: 0: 0
+2019-08-17 17:49:07,609 - gfdl - DEBUG - Integration completed through   40 Nov  8   0: 0: 0
+2019-08-17 17:49:24,806 - gfdl - DEBUG - Integration completed through   40 Nov  9   0: 0: 0
+2019-08-17 17:49:41,973 - gfdl - DEBUG - Integration completed through   40 Nov 10   0: 0: 0
+2019-08-17 17:49:59,767 - gfdl - DEBUG - Integration completed through   40 Nov 11   0: 0: 0
+2019-08-17 17:50:19,203 - gfdl - DEBUG - Integration completed through   40 Nov 12   0: 0: 0
+2019-08-17 17:50:37,868 - gfdl - DEBUG - Integration completed through   40 Nov 13   0: 0: 0
+2019-08-17 17:50:55,126 - gfdl - DEBUG - Integration completed through   40 Nov 14   0: 0: 0
+2019-08-17 17:51:12,397 - gfdl - DEBUG - Integration completed through   40 Nov 15   0: 0: 0
+2019-08-17 17:51:29,652 - gfdl - DEBUG - Integration completed through   40 Nov 16   0: 0: 0
+2019-08-17 17:51:46,904 - gfdl - DEBUG - Integration completed through   40 Nov 17   0: 0: 0
+2019-08-17 17:52:04,153 - gfdl - DEBUG - Integration completed through   40 Nov 18   0: 0: 0
+2019-08-17 17:52:24,151 - gfdl - DEBUG - Integration completed through   40 Nov 19   0: 0: 0
+2019-08-17 17:52:41,452 - gfdl - DEBUG - Integration completed through   40 Nov 20   0: 0: 0
+2019-08-17 17:52:58,628 - gfdl - DEBUG - Integration completed through   40 Nov 21   0: 0: 0
+2019-08-17 17:53:15,868 - gfdl - DEBUG - Integration completed through   40 Nov 22   0: 0: 0
+2019-08-17 17:53:35,172 - gfdl - DEBUG - Integration completed through   40 Nov 23   0: 0: 0
+2019-08-17 17:53:52,311 - gfdl - DEBUG - Integration completed through   40 Nov 24   0: 0: 0
+2019-08-17 17:54:09,483 - gfdl - DEBUG - Integration completed through   40 Nov 25   0: 0: 0
+2019-08-17 17:54:26,696 - gfdl - DEBUG - Integration completed through   40 Nov 26   0: 0: 0
+2019-08-17 17:54:43,912 - gfdl - DEBUG - Integration completed through   40 Nov 27   0: 0: 0
+2019-08-17 17:55:01,008 - gfdl - DEBUG - Integration completed through   40 Nov 28   0: 0: 0
+2019-08-17 17:55:18,365 - gfdl - DEBUG - Integration completed through   40 Nov 29   0: 0: 0
+2019-08-17 17:55:35,452 - gfdl - DEBUG - Integration completed through   40 Nov 30   0: 0: 0
+2019-08-17 17:55:52,587 - gfdl - DEBUG - Integration completed through   40 Dec  1   0: 0: 0
+2019-08-17 17:55:52,729 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:55:52,729 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 17:55:52,994 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 17:55:53,239 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 17:55:53,239 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 17:55:53,239 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 17:55:53,239 - gfdl - DEBUG - Total runtime                       526.758809    526.758830    526.758820      0.000008  1.000     0     0    15
+2019-08-17 17:55:53,239 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 17:55:53,270 - gfdl - DEBUG - Month 479 complete, combining nc files
+2019-08-17 17:56:21,083 - gfdl - INFO - Run for month 479 complete
+2019-08-17 17:56:25,395 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_479.cpio'
+2019-08-17 17:56:25,428 - gfdl - INFO - Could not output git commit hash
+2019-08-17 17:56:30,092 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-08-17 17:56:30,263 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-08-17 17:56:30,563 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-08-17 17:56:30,704 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-08-17 17:56:30,742 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_479.cpio'
+2019-08-17 17:56:30,744 - gfdl - INFO - Running GFDL for month 480
+2019-08-17 17:56:31,011 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:56:31,011 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:56:31,012 - gfdl - DEBUG - loadmodules
+2019-08-17 17:56:31,187 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:56:31,187 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:56:31,358 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:56:31,358 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:56:31,710 - gfdl - DEBUG - ERROR: The software directory /software/git-2.10-el6-x86_64 does not exist.
+2019-08-17 17:56:31,710 - gfdl - DEBUG - ERROR: This module is not functional.
+2019-08-17 17:56:32,135 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-08-17 17:56:32,139 - gfdl - DEBUG - 1) serf/1.3.9              7) emacs/24
+2019-08-17 17:56:32,139 - gfdl - DEBUG - 2) subversion/1.9.4        8) intel/12.1
+2019-08-17 17:56:32,139 - gfdl - DEBUG - 3) git/2.10                9) hdf5/1.8
+2019-08-17 17:56:32,140 - gfdl - DEBUG - 4) env/rcc                10) netcdf/4.2+intel-12.1
+2019-08-17 17:56:32,140 - gfdl - DEBUG - 5) texlive/2016           11) openmpi/1.6+intel-12.1
+2019-08-17 17:56:32,140 - gfdl - DEBUG - 6) vim/7.4                12) slurm/current
+2019-08-17 17:56:32,245 - gfdl - DEBUG - atmos_model.res
+2019-08-17 17:56:32,561 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-08-17 17:56:32,562 - gfdl - DEBUG - mixed_layer.res.nc
+2019-08-17 17:56:32,767 - gfdl - DEBUG - atmosphere.res.nc
+2019-08-17 17:56:32,767 - gfdl - DEBUG - 127969 blocks
+2019-08-17 17:56:34,725 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+2019-08-17 17:56:34,725 - gfdl - DEBUG - &MPP_IO_NML
+2019-08-17 17:56:34,725 - gfdl - DEBUG - HEADER_BUFFER_VAL       =       16384,
+2019-08-17 17:56:34,726 - gfdl - DEBUG - GLOBAL_FIELD_ON_ROOT_PE = T,
+2019-08-17 17:56:34,726 - gfdl - DEBUG - IO_CLOCKS_ON    = F,
+2019-08-17 17:56:34,726 - gfdl - DEBUG - SHUFFLE =           0,
+2019-08-17 17:56:34,726 - gfdl - DEBUG - DEFLATE_LEVEL   =          -1
+2019-08-17 17:56:34,726 - gfdl - DEBUG - /
+2019-08-17 17:56:34,732 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+2019-08-17 17:56:34,743 - gfdl - DEBUG - NOTE from PE    0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to   600000.
+2019-08-17 17:56:34,787 - gfdl - DEBUG - starting            1  OpenMP threads per MPI-task
+2019-08-17 17:56:34,787 - gfdl - DEBUG - ATMOS MODEL DOMAIN DECOMPOSITION
+2019-08-17 17:56:34,787 - gfdl - DEBUG - X-AXIS =  128
+2019-08-17 17:56:34,788 - gfdl - DEBUG - Y-AXIS =    4   4   4   4   4   4   4   4   4   4   4   4   4   4   4   4
+2019-08-17 17:56:34,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,867 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,868 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/pk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,868 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/bk is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,868 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field dynamics/zsurf is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,895 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,895 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: determining convection scheme from flags
+2019-08-17 17:56:34,895 - gfdl - DEBUG - NOTE from PE    0: idealized_moist_phys: Using Frierson Quasi-Equilibrium convection scheme.
+2019-08-17 17:56:34,895 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::register_static_field: module/field mixed_layer/ml_heat_cap is STATIC.  Cannot perform time operations average, maximum, or minimum on static fields.  Setting the time operation to "NONE" for this field.
+2019-08-17 17:56:34,916 - gfdl - DEBUG - NOTE from PE    0: interpolator_mod :ozone_1990.nc is a year-independent climatology file
+2019-08-17 17:56:34,943 - gfdl - DEBUG - Initializing src field : ozone_1990
+2019-08-17 17:57:00,049 - gfdl - DEBUG - Integration completed through   40 Dec  2   0: 0: 0
+2019-08-17 17:57:17,186 - gfdl - DEBUG - Integration completed through   40 Dec  3   0: 0: 0
+2019-08-17 17:57:36,059 - gfdl - DEBUG - Integration completed through   40 Dec  4   0: 0: 0
+2019-08-17 17:58:03,433 - gfdl - DEBUG - Integration completed through   40 Dec  5   0: 0: 0
+2019-08-17 17:58:20,701 - gfdl - DEBUG - Integration completed through   40 Dec  6   0: 0: 0
+2019-08-17 17:58:37,998 - gfdl - DEBUG - Integration completed through   40 Dec  7   0: 0: 0
+2019-08-17 17:58:55,370 - gfdl - DEBUG - Integration completed through   40 Dec  8   0: 0: 0
+2019-08-17 17:59:16,012 - gfdl - DEBUG - Integration completed through   40 Dec  9   0: 0: 0
+2019-08-17 17:59:33,188 - gfdl - DEBUG - Integration completed through   40 Dec 10   0: 0: 0
+2019-08-17 17:59:50,557 - gfdl - DEBUG - Integration completed through   40 Dec 11   0: 0: 0
+2019-08-17 18:00:09,429 - gfdl - DEBUG - Integration completed through   40 Dec 12   0: 0: 0
+2019-08-17 18:00:26,736 - gfdl - DEBUG - Integration completed through   40 Dec 13   0: 0: 0
+2019-08-17 18:00:44,173 - gfdl - DEBUG - Integration completed through   40 Dec 14   0: 0: 0
+2019-08-17 18:01:01,527 - gfdl - DEBUG - Integration completed through   40 Dec 15   0: 0: 0
+2019-08-17 18:01:18,775 - gfdl - DEBUG - Integration completed through   40 Dec 16   0: 0: 0
+2019-08-17 18:01:36,078 - gfdl - DEBUG - Integration completed through   40 Dec 17   0: 0: 0
+2019-08-17 18:01:53,404 - gfdl - DEBUG - Integration completed through   40 Dec 18   0: 0: 0
+2019-08-17 18:02:10,708 - gfdl - DEBUG - Integration completed through   40 Dec 19   0: 0: 0
+2019-08-17 18:02:28,007 - gfdl - DEBUG - Integration completed through   40 Dec 20   0: 0: 0
+2019-08-17 18:02:45,256 - gfdl - DEBUG - Integration completed through   40 Dec 21   0: 0: 0
+2019-08-17 18:03:10,071 - gfdl - DEBUG - Integration completed through   40 Dec 22   0: 0: 0
+2019-08-17 18:03:27,441 - gfdl - DEBUG - Integration completed through   40 Dec 23   0: 0: 0
+2019-08-17 18:03:46,296 - gfdl - DEBUG - Integration completed through   40 Dec 24   0: 0: 0
+2019-08-17 18:04:03,449 - gfdl - DEBUG - Integration completed through   40 Dec 25   0: 0: 0
+2019-08-17 18:04:20,706 - gfdl - DEBUG - Integration completed through   40 Dec 26   0: 0: 0
+2019-08-17 18:04:37,957 - gfdl - DEBUG - Integration completed through   40 Dec 27   0: 0: 0
+2019-08-17 18:04:55,294 - gfdl - DEBUG - Integration completed through   40 Dec 28   0: 0: 0
+2019-08-17 18:05:12,515 - gfdl - DEBUG - Integration completed through   40 Dec 29   0: 0: 0
+2019-08-17 18:05:29,728 - gfdl - DEBUG - Integration completed through   40 Dec 30   0: 0: 0
+2019-08-17 18:05:46,907 - gfdl - DEBUG - Integration completed through   41 Jan  1   0: 0: 0
+2019-08-17 18:05:47,001 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 18:05:47,002 - gfdl - DEBUG - WARNING from PE    0: diag_manager_mod::closing_file: module/output_field rrtm_radiation/rrtm_albedo, skip one time level, maybe send_data never called
+2019-08-17 18:05:47,200 - gfdl - DEBUG - NOTE from PE    0: MPP_IO_SET_STACK_SIZE: stack size set to     327680.
+2019-08-17 18:05:47,915 - gfdl - DEBUG - MPP_DOMAINS_STACK high water mark=       40960
+2019-08-17 18:05:47,915 - gfdl - DEBUG - Tabulating mpp_clock statistics across     16 PEs...
+2019-08-17 18:05:47,915 - gfdl - DEBUG - tmin          tmax          tavg          tstd  tfrac grain pemin pemax
+2019-08-17 18:05:47,915 - gfdl - DEBUG - Total runtime                       553.194575    553.194590    553.194585      0.000003  1.000     0     0    15
+2019-08-17 18:05:47,915 - gfdl - DEBUG - MPP_STACK high water mark=           0
+2019-08-17 18:05:47,954 - gfdl - DEBUG - Month 480 complete, combining nc files
+2019-08-17 18:06:21,008 - gfdl - INFO - Run for month 480 complete
+2019-08-17 18:06:25,422 - gfdl - INFO - Saved restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_480.cpio'
+2019-08-17 18:06:25,465 - gfdl - INFO - Could not output git commit hash
+2019-08-17 18:06:29,891 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'

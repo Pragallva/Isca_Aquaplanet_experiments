@@ -1,0 +1,551 @@
+12/04/2018 01:14:48 AM ...........Shape correction.py.............0
+12/04/2018 01:14:48 AM imported nc file
+12/04/2018 01:14:48 AM imported coordinates
+12/04/2018 01:14:48 AM imported pressure
+12/04/2018 01:15:34 AM ps
+12/04/2018 01:15:40 AM saved temp
+12/04/2018 01:15:46 AM saved v_comp
+12/04/2018 01:15:52 AM saved u_comp
+12/04/2018 01:15:58 AM saved Z
+12/04/2018 01:16:05 AM saved q
+12/04/2018 01:16:06 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 01:16:08 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 01:16:09 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 01:16:10 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 01:16:12 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 01:16:12 AM regrid psfc:(1460, 90, 144)
+12/04/2018 01:16:17 AM calculated pressure from sigma levels
+12/04/2018 01:16:20 AM calculated KE
+12/04/2018 01:16:26 AM calculated MSE fluxes
+12/04/2018 01:16:37 AM saved raw data
+12/04/2018 01:16:41 AM vertical integartion : MSE fluxes
+12/04/2018 01:16:47 AM vertical integration : sensible fluxes
+12/04/2018 01:16:52 AM vertical integration : latent fluxes
+12/04/2018 01:16:57 AM vertical integration : nc potential fluxes
+12/04/2018 01:17:03 AM vertical integration : kinetic energy fluxes
+12/04/2018 01:17:08 AM vertical integration : Enthalpy 
+12/04/2018 01:17:42 AM saved radiation
+12/04/2018 01:17:46 AM precipitation
+12/04/2018 01:17:46 AM radiation-- I think its right now !
+12/04/2018 01:17:47 AM calculated dh_by_dt
+12/04/2018 01:17:47 AM loaded coordinates dictionary
+12/04/2018 01:17:47 AM loaded MSE_flux dictionary
+12/04/2018 01:17:47 AM loaded rad_dic dictionary
+12/04/2018 01:17:49 AM successfully saved dictionaries in files
+12/04/2018 01:17:49 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 01:17:51 AM calculated dh_by_dt dictionary
+12/04/2018 01:18:46 AM ...........Shape correction.py.............1
+12/04/2018 01:18:46 AM imported nc file
+12/04/2018 01:18:46 AM imported coordinates
+12/04/2018 01:18:46 AM imported pressure
+12/04/2018 01:19:31 AM ps
+12/04/2018 01:19:38 AM saved temp
+12/04/2018 01:19:44 AM saved v_comp
+12/04/2018 01:19:50 AM saved u_comp
+12/04/2018 01:19:56 AM saved Z
+12/04/2018 01:20:02 AM saved q
+12/04/2018 01:20:03 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 01:20:04 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 01:20:06 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 01:20:07 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 01:20:08 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 01:20:08 AM regrid psfc:(1460, 90, 144)
+12/04/2018 01:20:14 AM calculated pressure from sigma levels
+12/04/2018 01:20:17 AM calculated KE
+12/04/2018 01:20:22 AM calculated MSE fluxes
+12/04/2018 01:20:32 AM saved raw data
+12/04/2018 01:20:36 AM vertical integartion : MSE fluxes
+12/04/2018 01:26:17 AM ...........Shape correction.py.............0
+12/04/2018 01:26:17 AM imported nc file
+12/04/2018 01:26:17 AM imported coordinates
+12/04/2018 01:26:17 AM imported pressure
+12/04/2018 01:27:31 AM ps
+12/04/2018 01:27:37 AM saved temp
+12/04/2018 01:27:43 AM saved v_comp
+12/04/2018 01:27:49 AM saved u_comp
+12/04/2018 01:27:55 AM saved Z
+12/04/2018 01:28:01 AM saved q
+12/04/2018 01:28:02 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 01:28:04 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 01:28:05 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 01:28:06 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 01:28:08 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 01:28:08 AM regrid psfc:(1460, 90, 144)
+12/04/2018 01:28:13 AM calculated pressure from sigma levels
+12/04/2018 01:28:16 AM calculated KE
+12/04/2018 01:28:22 AM calculated MSE fluxes
+12/04/2018 01:28:33 AM saved raw data
+12/04/2018 01:28:37 AM vertical integartion : MSE fluxes
+12/04/2018 01:28:42 AM vertical integration : sensible fluxes
+12/04/2018 01:28:47 AM vertical integration : latent fluxes
+12/04/2018 01:28:53 AM vertical integration : nc potential fluxes
+12/04/2018 01:28:58 AM vertical integration : kinetic energy fluxes
+12/04/2018 01:29:03 AM vertical integration : Enthalpy 
+12/04/2018 01:29:38 AM saved radiation
+12/04/2018 01:29:43 AM precipitation
+12/04/2018 01:29:43 AM radiation-- I think its right now !
+12/04/2018 01:29:44 AM calculated dh_by_dt
+12/04/2018 01:29:44 AM loaded coordinates dictionary
+12/04/2018 01:29:44 AM loaded MSE_flux dictionary
+12/04/2018 01:29:44 AM loaded rad_dic dictionary
+12/04/2018 01:29:46 AM successfully saved dictionaries in files
+12/04/2018 01:29:46 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 01:29:49 AM calculated dh_by_dt dictionary
+12/04/2018 01:30:30 AM ...........Shape correction.py.............1
+12/04/2018 01:30:30 AM imported nc file
+12/04/2018 01:30:30 AM imported coordinates
+12/04/2018 01:30:30 AM imported pressure
+12/04/2018 03:40:35 AM ...........Shape correction.py.............0
+12/04/2018 03:40:35 AM imported nc file
+12/04/2018 03:40:35 AM imported coordinates
+12/04/2018 03:40:35 AM imported pressure
+12/04/2018 03:41:30 AM ps
+12/04/2018 03:41:36 AM saved temp
+12/04/2018 03:41:41 AM saved v_comp
+12/04/2018 03:41:47 AM saved u_comp
+12/04/2018 03:41:53 AM saved Z
+12/04/2018 03:41:58 AM saved q
+12/04/2018 03:42:00 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 03:42:01 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 03:42:03 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 03:42:04 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 03:42:05 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 03:42:05 AM regrid psfc:(1460, 90, 144)
+12/04/2018 03:42:11 AM calculated pressure from sigma levels
+12/04/2018 03:42:14 AM calculated KE
+12/04/2018 03:42:20 AM calculated MSE fluxes
+12/04/2018 03:42:30 AM saved raw data
+12/04/2018 03:42:35 AM vertical integartion : MSE fluxes
+12/04/2018 03:42:40 AM vertical integration : sensible fluxes
+12/04/2018 03:42:45 AM vertical integration : latent fluxes
+12/04/2018 03:42:50 AM vertical integration : nc potential fluxes
+12/04/2018 03:42:56 AM vertical integration : kinetic energy fluxes
+12/04/2018 03:43:01 AM vertical integration : Enthalpy 
+12/04/2018 03:43:36 AM saved radiation
+12/04/2018 03:43:40 AM precipitation
+12/04/2018 03:43:40 AM radiation-- I think its right now !
+12/04/2018 03:43:41 AM calculated dh_by_dt
+12/04/2018 03:43:41 AM loaded coordinates dictionary
+12/04/2018 03:43:41 AM loaded MSE_flux dictionary
+12/04/2018 03:43:41 AM loaded rad_dic dictionary
+12/04/2018 03:43:44 AM successfully saved dictionaries in files
+12/04/2018 03:43:44 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 03:43:48 AM calculated dh_by_dt dictionary
+12/04/2018 03:44:31 AM ...........Shape correction.py.............1
+12/04/2018 03:44:31 AM imported nc file
+12/04/2018 03:44:31 AM imported coordinates
+12/04/2018 03:44:31 AM imported pressure
+12/04/2018 03:44:57 AM ps
+12/04/2018 03:45:02 AM saved temp
+12/04/2018 03:45:07 AM saved v_comp
+12/04/2018 03:45:12 AM saved u_comp
+12/04/2018 09:51:18 AM ...........Shape correction.py.............0
+12/04/2018 09:51:18 AM imported nc file
+12/04/2018 09:51:18 AM imported coordinates
+12/04/2018 09:51:18 AM imported pressure
+12/04/2018 09:51:46 AM ps
+12/04/2018 09:51:51 AM saved temp
+12/04/2018 09:51:56 AM saved v_comp
+12/04/2018 09:52:02 AM saved u_comp
+12/04/2018 09:52:07 AM saved Z
+12/04/2018 09:52:13 AM saved q
+12/04/2018 09:52:14 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 09:52:15 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 09:52:17 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 09:52:18 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 09:52:19 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 09:52:19 AM regrid psfc:(1460, 90, 144)
+12/04/2018 09:52:24 AM calculated pressure from sigma levels
+12/04/2018 09:52:28 AM calculated KE
+12/04/2018 09:52:33 AM calculated MSE fluxes
+12/04/2018 09:52:43 AM saved raw data
+12/04/2018 09:52:48 AM vertical integartion : MSE fluxes
+12/04/2018 09:52:53 AM vertical integration : sensible fluxes
+12/04/2018 09:52:58 AM vertical integration : latent fluxes
+12/04/2018 09:53:04 AM vertical integration : nc potential fluxes
+12/04/2018 09:53:09 AM vertical integration : kinetic energy fluxes
+12/04/2018 09:53:14 AM vertical integration : Enthalpy 
+12/04/2018 09:54:09 AM saved radiation
+12/04/2018 09:54:13 AM precipitation
+12/04/2018 09:54:13 AM radiation-- I think its right now !
+12/04/2018 09:54:13 AM calculated dh_by_dt
+12/04/2018 09:54:13 AM loaded coordinates dictionary
+12/04/2018 09:54:13 AM loaded MSE_flux dictionary
+12/04/2018 09:54:13 AM loaded rad_dic dictionary
+12/04/2018 09:54:15 AM successfully saved dictionaries in files
+12/04/2018 09:54:15 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 09:54:19 AM calculated dh_by_dt dictionary
+12/04/2018 09:56:19 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 09:56:19 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 09:56:19 AM loaded zonal radiation dictionary
+12/04/2018 09:56:51 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 09:56:51 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 09:56:59 AM ...........Shape correction.py.............1
+12/04/2018 09:56:59 AM imported nc file
+12/04/2018 09:56:59 AM imported coordinates
+12/04/2018 09:56:59 AM imported pressure
+12/04/2018 09:57:22 AM ps
+12/04/2018 09:57:27 AM saved temp
+12/04/2018 09:57:33 AM saved v_comp
+12/04/2018 09:57:39 AM saved u_comp
+12/04/2018 09:57:45 AM saved Z
+12/04/2018 09:57:50 AM saved q
+12/04/2018 09:57:52 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 09:57:53 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 09:57:55 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 09:57:56 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 09:57:57 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 09:57:57 AM regrid psfc:(1460, 90, 144)
+12/04/2018 09:58:03 AM calculated pressure from sigma levels
+12/04/2018 09:58:06 AM calculated KE
+12/04/2018 09:58:11 AM calculated MSE fluxes
+12/04/2018 09:58:22 AM saved raw data
+12/04/2018 09:58:26 AM vertical integartion : MSE fluxes
+12/04/2018 09:58:31 AM vertical integration : sensible fluxes
+12/04/2018 09:58:37 AM vertical integration : latent fluxes
+12/04/2018 09:58:42 AM vertical integration : nc potential fluxes
+12/04/2018 09:58:47 AM vertical integration : kinetic energy fluxes
+12/04/2018 09:58:53 AM vertical integration : Enthalpy 
+12/04/2018 09:59:23 AM saved radiation
+12/04/2018 09:59:27 AM precipitation
+12/04/2018 09:59:27 AM radiation-- I think its right now !
+12/04/2018 09:59:27 AM calculated dh_by_dt
+12/04/2018 09:59:27 AM loaded coordinates dictionary
+12/04/2018 09:59:27 AM loaded MSE_flux dictionary
+12/04/2018 09:59:27 AM loaded rad_dic dictionary
+12/04/2018 09:59:30 AM successfully saved dictionaries in files
+12/04/2018 09:59:30 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 09:59:31 AM calculated dh_by_dt dictionary
+12/04/2018 10:01:34 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:01:34 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:01:35 AM loaded zonal radiation dictionary
+12/04/2018 10:02:09 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:02:09 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:02:16 AM ...........Shape correction.py.............2
+12/04/2018 10:02:16 AM imported nc file
+12/04/2018 10:02:16 AM imported coordinates
+12/04/2018 10:02:16 AM imported pressure
+12/04/2018 10:02:37 AM ps
+12/04/2018 10:02:43 AM saved temp
+12/04/2018 10:02:49 AM saved v_comp
+12/04/2018 10:02:55 AM saved u_comp
+12/04/2018 10:03:01 AM saved Z
+12/04/2018 10:03:07 AM saved q
+12/04/2018 10:03:08 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:03:09 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:03:11 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:03:12 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:03:13 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:03:13 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:03:19 AM calculated pressure from sigma levels
+12/04/2018 10:03:22 AM calculated KE
+12/04/2018 10:03:27 AM calculated MSE fluxes
+12/04/2018 10:03:38 AM saved raw data
+12/04/2018 10:03:42 AM vertical integartion : MSE fluxes
+12/04/2018 10:03:48 AM vertical integration : sensible fluxes
+12/04/2018 10:03:53 AM vertical integration : latent fluxes
+12/04/2018 10:03:58 AM vertical integration : nc potential fluxes
+12/04/2018 10:04:04 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:04:09 AM vertical integration : Enthalpy 
+12/04/2018 10:04:38 AM saved radiation
+12/04/2018 10:04:41 AM precipitation
+12/04/2018 10:04:41 AM radiation-- I think its right now !
+12/04/2018 10:04:42 AM calculated dh_by_dt
+12/04/2018 10:04:42 AM loaded coordinates dictionary
+12/04/2018 10:04:42 AM loaded MSE_flux dictionary
+12/04/2018 10:04:42 AM loaded rad_dic dictionary
+12/04/2018 10:04:44 AM successfully saved dictionaries in files
+12/04/2018 10:04:44 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:04:46 AM calculated dh_by_dt dictionary
+12/04/2018 10:06:43 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:06:43 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:06:44 AM loaded zonal radiation dictionary
+12/04/2018 10:07:14 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:07:14 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:07:24 AM ...........Shape correction.py.............3
+12/04/2018 10:07:24 AM imported nc file
+12/04/2018 10:07:24 AM imported coordinates
+12/04/2018 10:07:24 AM imported pressure
+12/04/2018 10:07:46 AM ps
+12/04/2018 10:07:51 AM saved temp
+12/04/2018 10:07:56 AM saved v_comp
+12/04/2018 10:08:02 AM saved u_comp
+12/04/2018 10:08:08 AM saved Z
+12/04/2018 10:08:13 AM saved q
+12/04/2018 10:08:15 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:08:16 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:08:18 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:08:19 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:08:21 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:08:21 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:08:26 AM calculated pressure from sigma levels
+12/04/2018 10:08:29 AM calculated KE
+12/04/2018 10:08:34 AM calculated MSE fluxes
+12/04/2018 10:08:45 AM saved raw data
+12/04/2018 10:08:49 AM vertical integartion : MSE fluxes
+12/04/2018 10:08:55 AM vertical integration : sensible fluxes
+12/04/2018 10:09:00 AM vertical integration : latent fluxes
+12/04/2018 10:09:06 AM vertical integration : nc potential fluxes
+12/04/2018 10:09:11 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:09:16 AM vertical integration : Enthalpy 
+12/04/2018 10:09:46 AM saved radiation
+12/04/2018 10:09:50 AM precipitation
+12/04/2018 10:09:50 AM radiation-- I think its right now !
+12/04/2018 10:09:51 AM calculated dh_by_dt
+12/04/2018 10:09:51 AM loaded coordinates dictionary
+12/04/2018 10:09:51 AM loaded MSE_flux dictionary
+12/04/2018 10:09:51 AM loaded rad_dic dictionary
+12/04/2018 10:09:52 AM successfully saved dictionaries in files
+12/04/2018 10:09:52 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:09:54 AM calculated dh_by_dt dictionary
+12/04/2018 10:11:52 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:11:53 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:11:53 AM loaded zonal radiation dictionary
+12/04/2018 10:12:24 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:12:24 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:12:29 AM ...........Shape correction.py.............4
+12/04/2018 10:12:29 AM imported nc file
+12/04/2018 10:12:29 AM imported coordinates
+12/04/2018 10:12:29 AM imported pressure
+12/04/2018 10:12:56 AM ps
+12/04/2018 10:13:02 AM saved temp
+12/04/2018 10:13:08 AM saved v_comp
+12/04/2018 10:13:14 AM saved u_comp
+12/04/2018 10:13:20 AM saved Z
+12/04/2018 10:13:26 AM saved q
+12/04/2018 10:13:27 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:13:28 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:13:30 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:13:31 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:13:32 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:13:32 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:13:38 AM calculated pressure from sigma levels
+12/04/2018 10:13:41 AM calculated KE
+12/04/2018 10:13:46 AM calculated MSE fluxes
+12/04/2018 10:13:57 AM saved raw data
+12/04/2018 10:14:01 AM vertical integartion : MSE fluxes
+12/04/2018 10:14:07 AM vertical integration : sensible fluxes
+12/04/2018 10:14:12 AM vertical integration : latent fluxes
+12/04/2018 10:14:17 AM vertical integration : nc potential fluxes
+12/04/2018 10:14:22 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:14:28 AM vertical integration : Enthalpy 
+12/04/2018 10:14:57 AM saved radiation
+12/04/2018 10:15:00 AM precipitation
+12/04/2018 10:15:00 AM radiation-- I think its right now !
+12/04/2018 10:15:01 AM calculated dh_by_dt
+12/04/2018 10:15:01 AM loaded coordinates dictionary
+12/04/2018 10:15:01 AM loaded MSE_flux dictionary
+12/04/2018 10:15:01 AM loaded rad_dic dictionary
+12/04/2018 10:15:03 AM successfully saved dictionaries in files
+12/04/2018 10:15:03 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:15:04 AM calculated dh_by_dt dictionary
+12/04/2018 10:17:00 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:17:00 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:17:01 AM loaded zonal radiation dictionary
+12/04/2018 10:17:33 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:17:33 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:17:38 AM ...........Shape correction.py.............5
+12/04/2018 10:17:38 AM imported nc file
+12/04/2018 10:17:38 AM imported coordinates
+12/04/2018 10:17:38 AM imported pressure
+12/04/2018 10:18:00 AM ps
+12/04/2018 10:18:06 AM saved temp
+12/04/2018 10:18:12 AM saved v_comp
+12/04/2018 10:18:18 AM saved u_comp
+12/04/2018 10:18:23 AM saved Z
+12/04/2018 10:18:28 AM saved q
+12/04/2018 10:18:30 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:18:31 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:18:33 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:18:34 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:18:36 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:18:36 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:18:41 AM calculated pressure from sigma levels
+12/04/2018 10:18:44 AM calculated KE
+12/04/2018 10:18:49 AM calculated MSE fluxes
+12/04/2018 10:19:00 AM saved raw data
+12/04/2018 10:19:04 AM vertical integartion : MSE fluxes
+12/04/2018 10:19:09 AM vertical integration : sensible fluxes
+12/04/2018 10:19:15 AM vertical integration : latent fluxes
+12/04/2018 10:19:20 AM vertical integration : nc potential fluxes
+12/04/2018 10:19:25 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:19:30 AM vertical integration : Enthalpy 
+12/04/2018 10:20:16 AM saved radiation
+12/04/2018 10:20:21 AM precipitation
+12/04/2018 10:20:21 AM radiation-- I think its right now !
+12/04/2018 10:20:21 AM calculated dh_by_dt
+12/04/2018 10:20:21 AM loaded coordinates dictionary
+12/04/2018 10:20:21 AM loaded MSE_flux dictionary
+12/04/2018 10:20:21 AM loaded rad_dic dictionary
+12/04/2018 10:20:23 AM successfully saved dictionaries in files
+12/04/2018 10:20:23 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:20:25 AM calculated dh_by_dt dictionary
+12/04/2018 10:22:21 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:22:22 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:22:23 AM loaded zonal radiation dictionary
+12/04/2018 10:22:54 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:22:54 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:22:59 AM ...........Shape correction.py.............6
+12/04/2018 10:22:59 AM imported nc file
+12/04/2018 10:22:59 AM imported coordinates
+12/04/2018 10:22:59 AM imported pressure
+12/04/2018 10:23:24 AM ps
+12/04/2018 10:23:30 AM saved temp
+12/04/2018 10:23:36 AM saved v_comp
+12/04/2018 10:23:42 AM saved u_comp
+12/04/2018 10:23:48 AM saved Z
+12/04/2018 10:23:54 AM saved q
+12/04/2018 10:23:55 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:23:56 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:23:58 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:23:59 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:24:01 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:24:01 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:24:06 AM calculated pressure from sigma levels
+12/04/2018 10:24:09 AM calculated KE
+12/04/2018 10:24:14 AM calculated MSE fluxes
+12/04/2018 10:24:25 AM saved raw data
+12/04/2018 10:24:29 AM vertical integartion : MSE fluxes
+12/04/2018 10:24:34 AM vertical integration : sensible fluxes
+12/04/2018 10:24:40 AM vertical integration : latent fluxes
+12/04/2018 10:24:45 AM vertical integration : nc potential fluxes
+12/04/2018 10:24:50 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:24:55 AM vertical integration : Enthalpy 
+12/04/2018 10:25:42 AM saved radiation
+12/04/2018 10:25:46 AM precipitation
+12/04/2018 10:25:46 AM radiation-- I think its right now !
+12/04/2018 10:25:46 AM calculated dh_by_dt
+12/04/2018 10:25:46 AM loaded coordinates dictionary
+12/04/2018 10:25:46 AM loaded MSE_flux dictionary
+12/04/2018 10:25:46 AM loaded rad_dic dictionary
+12/04/2018 10:25:48 AM successfully saved dictionaries in files
+12/04/2018 10:25:48 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:25:50 AM calculated dh_by_dt dictionary
+12/04/2018 10:27:53 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:27:53 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:27:53 AM loaded zonal radiation dictionary
+12/04/2018 10:28:28 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:28:29 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:28:33 AM ...........Shape correction.py.............7
+12/04/2018 10:28:33 AM imported nc file
+12/04/2018 10:28:33 AM imported coordinates
+12/04/2018 10:28:33 AM imported pressure
+12/04/2018 10:28:58 AM ps
+12/04/2018 10:29:04 AM saved temp
+12/04/2018 10:29:10 AM saved v_comp
+12/04/2018 10:29:15 AM saved u_comp
+12/04/2018 10:29:21 AM saved Z
+12/04/2018 10:29:28 AM saved q
+12/04/2018 10:29:29 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:29:30 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:29:32 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:29:33 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:29:35 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:29:35 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:29:40 AM calculated pressure from sigma levels
+12/04/2018 10:29:43 AM calculated KE
+12/04/2018 10:29:49 AM calculated MSE fluxes
+12/04/2018 10:29:59 AM saved raw data
+12/04/2018 10:30:03 AM vertical integartion : MSE fluxes
+12/04/2018 10:30:08 AM vertical integration : sensible fluxes
+12/04/2018 10:30:13 AM vertical integration : latent fluxes
+12/04/2018 10:30:18 AM vertical integration : nc potential fluxes
+12/04/2018 10:30:23 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:30:28 AM vertical integration : Enthalpy 
+12/04/2018 10:31:17 AM saved radiation
+12/04/2018 10:31:21 AM precipitation
+12/04/2018 10:31:21 AM radiation-- I think its right now !
+12/04/2018 10:31:21 AM calculated dh_by_dt
+12/04/2018 10:31:21 AM loaded coordinates dictionary
+12/04/2018 10:31:21 AM loaded MSE_flux dictionary
+12/04/2018 10:31:21 AM loaded rad_dic dictionary
+12/04/2018 10:31:23 AM successfully saved dictionaries in files
+12/04/2018 10:31:23 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:31:25 AM calculated dh_by_dt dictionary
+12/04/2018 10:33:28 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:33:28 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:33:29 AM loaded zonal radiation dictionary
+12/04/2018 10:34:02 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:34:03 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:34:07 AM ...........Shape correction.py.............8
+12/04/2018 10:34:07 AM imported nc file
+12/04/2018 10:34:07 AM imported coordinates
+12/04/2018 10:34:07 AM imported pressure
+12/04/2018 10:34:29 AM ps
+12/04/2018 10:34:35 AM saved temp
+12/04/2018 10:34:41 AM saved v_comp
+12/04/2018 10:34:47 AM saved u_comp
+12/04/2018 10:34:52 AM saved Z
+12/04/2018 10:34:58 AM saved q
+12/04/2018 10:35:00 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:35:01 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:35:03 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:35:05 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:35:06 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:35:06 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:35:11 AM calculated pressure from sigma levels
+12/04/2018 10:35:14 AM calculated KE
+12/04/2018 10:35:20 AM calculated MSE fluxes
+12/04/2018 10:35:30 AM saved raw data
+12/04/2018 10:35:35 AM vertical integartion : MSE fluxes
+12/04/2018 10:35:41 AM vertical integration : sensible fluxes
+12/04/2018 10:35:46 AM vertical integration : latent fluxes
+12/04/2018 10:35:51 AM vertical integration : nc potential fluxes
+12/04/2018 10:35:57 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:36:02 AM vertical integration : Enthalpy 
+12/04/2018 10:36:50 AM saved radiation
+12/04/2018 10:36:54 AM precipitation
+12/04/2018 10:36:54 AM radiation-- I think its right now !
+12/04/2018 10:36:54 AM calculated dh_by_dt
+12/04/2018 10:36:54 AM loaded coordinates dictionary
+12/04/2018 10:36:54 AM loaded MSE_flux dictionary
+12/04/2018 10:36:54 AM loaded rad_dic dictionary
+12/04/2018 10:36:57 AM successfully saved dictionaries in files
+12/04/2018 10:36:57 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:36:58 AM calculated dh_by_dt dictionary
+12/04/2018 10:39:01 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:39:01 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:39:02 AM loaded zonal radiation dictionary
+12/04/2018 10:39:35 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:39:36 AM loaded MMC_thermo_dynamic_vert dictionary
+12/04/2018 10:39:40 AM ...........Shape correction.py.............9
+12/04/2018 10:39:40 AM imported nc file
+12/04/2018 10:39:40 AM imported coordinates
+12/04/2018 10:39:40 AM imported pressure
+12/04/2018 10:40:04 AM ps
+12/04/2018 10:40:10 AM saved temp
+12/04/2018 10:40:16 AM saved v_comp
+12/04/2018 10:40:21 AM saved u_comp
+12/04/2018 10:40:27 AM saved Z
+12/04/2018 10:40:33 AM saved q
+12/04/2018 10:40:34 AM regrid temp:(1460, 24, 90, 144)
+12/04/2018 10:40:36 AM regrid u:(1460, 24, 90, 144)
+12/04/2018 10:40:37 AM regrid v:(1460, 24, 90, 144)
+12/04/2018 10:40:38 AM regrid Z:(1460, 24, 90, 144)
+12/04/2018 10:40:40 AM regrid q:(1460, 24, 90, 144)
+12/04/2018 10:40:40 AM regrid psfc:(1460, 90, 144)
+12/04/2018 10:40:45 AM calculated pressure from sigma levels
+12/04/2018 10:40:48 AM calculated KE
+12/04/2018 10:40:53 AM calculated MSE fluxes
+12/04/2018 10:41:04 AM saved raw data
+12/04/2018 10:41:08 AM vertical integartion : MSE fluxes
+12/04/2018 10:41:13 AM vertical integration : sensible fluxes
+12/04/2018 10:41:18 AM vertical integration : latent fluxes
+12/04/2018 10:41:23 AM vertical integration : nc potential fluxes
+12/04/2018 10:41:28 AM vertical integration : kinetic energy fluxes
+12/04/2018 10:41:33 AM vertical integration : Enthalpy 
+12/04/2018 10:42:21 AM saved radiation
+12/04/2018 10:42:24 AM precipitation
+12/04/2018 10:42:24 AM radiation-- I think its right now !
+12/04/2018 10:42:25 AM calculated dh_by_dt
+12/04/2018 10:42:25 AM loaded coordinates dictionary
+12/04/2018 10:42:25 AM loaded MSE_flux dictionary
+12/04/2018 10:42:25 AM loaded rad_dic dictionary
+12/04/2018 10:42:27 AM successfully saved dictionaries in files
+12/04/2018 10:42:27 AM Begins calculating TE, SE and MM fluxes ....
+12/04/2018 10:42:28 AM calculated dh_by_dt dictionary
+12/04/2018 10:44:25 AM loaded zonal decomposed fluxes dictionary
+12/04/2018 10:44:25 AM loaded zonal decomposed fluxes without vertical avg dictionary
+12/04/2018 10:44:25 AM loaded zonal radiation dictionary
+12/04/2018 10:44:55 AM loaded MMC_thermo_dynamic dictionary
+12/04/2018 10:44:55 AM loaded MMC_thermo_dynamic_vert dictionary

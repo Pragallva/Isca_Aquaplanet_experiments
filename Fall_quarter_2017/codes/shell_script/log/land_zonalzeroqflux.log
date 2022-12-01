@@ -1,0 +1,131 @@
+02/28/2018 08:56:33 AM destination folder created !
+02/28/2018 08:56:33 AM ...........Extract_ncfile_save_fluxes_radiation.py.............
+02/28/2018 08:56:33 AM imported nc file
+02/28/2018 08:57:45 AM imported coordinates
+02/28/2018 09:00:40 AM imported pressure
+02/28/2018 09:02:15 AM saved temp
+02/28/2018 09:02:53 AM saved v_comp
+02/28/2018 09:03:27 AM saved u_comp
+02/28/2018 09:04:45 AM saved Z
+02/28/2018 09:05:53 AM saved q
+02/28/2018 09:06:47 AM saved EKE
+02/28/2018 09:06:51 AM calculated KE
+02/28/2018 09:06:57 AM calculated MSE fluxes
+02/28/2018 09:07:02 AM vertical integartion : MSE fluxes
+02/28/2018 09:07:08 AM vertical integration : sensible fluxes
+02/28/2018 09:07:14 AM vertical integration : latent fluxes
+02/28/2018 09:07:21 AM vertical integration : nc potential fluxes
+02/28/2018 09:07:27 AM vertical integration : kinetic energy fluxes
+02/28/2018 09:07:33 AM vertical integration : Enthalpy 
+02/28/2018 09:09:46 AM saved radiation
+02/28/2018 09:09:48 AM saved t_surf
+02/28/2018 09:09:50 AM saved flux_oceanq
+02/28/2018 09:09:51 AM radiation-- I think its right now !
+02/28/2018 09:09:52 AM calculated dh_by_dt
+02/28/2018 09:09:52 AM loaded coordinates dictionary
+02/28/2018 09:09:52 AM loaded MSE_flux dictionary
+02/28/2018 09:09:52 AM loaded rad_dic dictionary
+02/28/2018 09:09:53 AM successfully saved dictionaries in files
+02/28/2018 09:09:53 AM Begins calculating TE, SE and MM fluxes ....
+02/28/2018 09:09:55 AM calculated dh_by_dt dictionary
+02/28/2018 09:11:25 AM loaded zonal decomposed fluxes dictionary
+02/28/2018 09:11:26 AM loaded zonal radiation dictionary
+02/28/2018 09:11:39 AM ** INTERPOLATION **
+02/28/2018 09:11:43 AM Calculated interpolation
+02/28/2018 09:11:43 AM Calculated divergence
+02/28/2018 09:11:43 AM Saved flux interp dictionary
+02/28/2018 09:11:43 AM Saved flux divergence interp
+02/28/2018 09:11:43 AM Looks great !!
+02/28/2018 09:11:45 AM ...........plot_and_save_div_MSE.py.............
+02/28/2018 09:11:59 AM ...........interpolation_from_sigma_to_pres_coord.py.............
+02/28/2018 09:11:59 AM imported nc file
+02/28/2018 09:15:01 AM imported coordinates, height
+02/28/2018 09:16:32 AM imported u
+02/28/2018 09:17:46 AM imported v
+02/28/2018 09:19:17 AM imported ht
+02/28/2018 09:20:37 AM imported temp
+02/28/2018 09:21:25 AM imported sphum
+02/28/2018 09:22:59 AM imported pressure
+02/28/2018 09:26:25 AM interpolation done
+02/28/2018 09:26:31 AM internal extraction after interpolation
+02/28/2018 09:27:45 AM saved raw coordinates dictionary
+02/28/2018 09:27:50 AM Trying `CDLL(libgeos_c.so.1)`
+02/28/2018 09:27:50 AM Library path: 'libgeos_c.so.1'
+02/28/2018 09:27:50 AM DLL: <CDLL 'libgeos_c.so.1', handle 3a99030 at 7f5774c97510>
+02/28/2018 09:27:50 AM Trying `CDLL(libc.so.6)`
+02/28/2018 09:27:50 AM Library path: 'libc.so.6'
+02/28/2018 09:27:50 AM DLL: <CDLL 'libc.so.6', handle 7f5b1cd99990 at 7f5774c975d0>
+02/28/2018 09:27:56 AM reordering uwind and vwind
+02/28/2018 09:28:07 AM Create a VectorWind instance
+02/28/2018 09:29:04 AM VectorWind recovered
+02/28/2018 09:29:04 AM Masked the data
+02/28/2018 09:29:19 AM saved stream function dictionary
+02/28/2018 09:29:25 AM ...........plot_stream_wind_etc.py.............
+02/28/2018 09:30:05 AM loaded uv
+02/28/2018 09:30:52 AM loaded ht,temp,sphum
+02/28/2018 09:30:54 AM loaded stream
+02/28/2018 09:30:59 AM loaded coord
+02/28/2018 09:31:02 AM calculated mass stream function
+02/28/2018 09:31:04 AM plot pre onset
+02/28/2018 09:31:07 AM plot post onset
+02/28/2018 09:31:07 AM plot geo
+02/28/2018 09:31:07 AM plot stream
+02/28/2018 09:31:28 AM COMPLETE !!
+03/16/2018 02:22:57 PM ...........Extract_ncfile_save_fluxes_radiation.py.............
+03/16/2018 02:22:57 PM imported nc file
+03/16/2018 02:27:29 PM imported coordinates
+03/16/2018 02:34:22 PM imported pressure
+03/16/2018 02:37:42 PM saved temp
+03/16/2018 02:41:01 PM saved v_comp
+03/16/2018 02:44:31 PM saved u_comp
+03/16/2018 02:48:14 PM ** INTERPOLATION **
+03/16/2018 02:48:18 PM Calculated interpolation
+03/16/2018 02:48:18 PM Calculated divergence
+03/16/2018 02:48:18 PM Saved flux interp dictionary
+03/16/2018 02:48:18 PM Saved flux divergence interp
+03/16/2018 02:48:18 PM Looks great !!
+03/16/2018 02:48:20 PM ...........plot_and_save_div_MSE.py.............
+03/16/2018 02:48:36 PM ...........interpolation_from_sigma_to_pres_coord.py.............
+03/16/2018 02:48:36 PM imported nc file
+03/16/2018 02:53:21 PM imported coordinates, height
+03/16/2018 02:57:37 PM imported u
+03/16/2018 03:01:58 PM imported v
+03/16/2018 03:06:02 PM imported ht
+03/16/2018 03:10:47 PM imported temp
+03/16/2018 03:15:10 PM ...........plot_stream_wind_etc.py.............
+03/16/2018 03:15:21 PM loaded uv
+03/16/2018 03:17:42 PM loaded ht,temp,sphum
+03/16/2018 03:18:50 PM loaded stream
+03/16/2018 03:18:52 PM loaded coord
+03/20/2018 01:13:51 AM ...........Extract_ncfile_save_fluxes_radiation.py.............
+03/20/2018 01:13:51 AM imported nc file
+03/20/2018 01:18:10 AM imported coordinates
+03/20/2018 01:25:03 AM imported pressure
+03/20/2018 01:28:21 AM saved temp
+03/20/2018 01:31:39 AM saved v_comp
+03/20/2018 01:35:04 AM saved u_comp
+03/20/2018 01:38:22 AM saved Z
+03/20/2018 01:41:37 AM saved q
+03/20/2018 01:43:41 AM saved EKE
+03/20/2018 01:44:02 AM calculated KE
+03/20/2018 01:44:36 AM ** INTERPOLATION **
+03/20/2018 01:44:39 AM Calculated interpolation
+03/20/2018 01:44:39 AM Calculated divergence
+03/20/2018 01:44:39 AM Saved flux interp dictionary
+03/20/2018 01:44:39 AM Saved flux divergence interp
+03/20/2018 01:44:39 AM Looks great !!
+03/20/2018 01:44:41 AM ...........plot_and_save_div_MSE.py.............
+03/20/2018 01:44:53 AM ...........interpolation_from_sigma_to_pres_coord.py.............
+03/20/2018 01:44:53 AM imported nc file
+03/20/2018 01:48:07 AM imported coordinates, height
+03/20/2018 01:51:27 AM imported u
+03/20/2018 01:55:06 AM imported v
+03/20/2018 01:58:24 AM imported ht
+03/20/2018 02:01:42 AM imported temp
+03/20/2018 02:04:59 AM imported sphum
+03/20/2018 02:08:45 AM imported pressure
+03/20/2018 02:10:28 AM ...........plot_stream_wind_etc.py.............
+03/20/2018 02:10:37 AM loaded uv
+03/20/2018 02:12:33 AM loaded ht,temp,sphum
+03/20/2018 02:13:28 AM loaded stream
+03/20/2018 02:13:29 AM loaded coord

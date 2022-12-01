@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/Extract_MSE_fluxes_lat_lon.py", line 220, in <module>
+    SE3_flux=SE_vstar_mbar(CpT+gZ+Lq)
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/Extract_MSE_fluxes_lat_lon.py", line 196, in SE_vstar_mbar
+    m_star    = monthly_m-monthly_m.mean(axis=-1)[...,None]               # (month, plev, lat,lon)
+NameError: global name 'monthly_m' is not defined

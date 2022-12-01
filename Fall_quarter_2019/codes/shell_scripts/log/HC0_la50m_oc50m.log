@@ -1,0 +1,561 @@
+09/22/2019 11:43:19 PM destination folder created !
+09/22/2019 11:43:19 PM 0...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:19 PM 0imported nc file
+09/22/2019 11:43:19 PM 7...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:19 PM 7imported nc file
+09/22/2019 11:43:19 PM 1...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:19 PM 1imported nc file
+09/22/2019 11:43:19 PM 3...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:19 PM 3imported nc file
+09/22/2019 11:43:20 PM 9...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 9imported nc file
+09/22/2019 11:43:20 PM 6...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 6imported nc file
+09/22/2019 11:43:20 PM 2...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 2imported nc file
+09/22/2019 11:43:20 PM 8...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 8imported nc file
+09/22/2019 11:43:20 PM 5...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 5imported nc file
+09/22/2019 11:43:20 PM 4...........interpolation_from_sigma_to_pres_coord.py.............
+09/22/2019 11:43:20 PM 4imported nc file
+09/22/2019 11:43:56 PM 6imported u
+09/22/2019 11:43:56 PM 0imported u
+09/22/2019 11:43:56 PM 9imported u
+09/22/2019 11:43:56 PM 7imported u
+09/22/2019 11:43:56 PM 2imported u
+09/22/2019 11:43:56 PM 3imported u
+09/22/2019 11:43:56 PM 4imported u
+09/22/2019 11:43:57 PM 8imported u
+09/22/2019 11:43:57 PM 1imported u
+09/22/2019 11:43:57 PM 5imported u
+09/22/2019 11:44:23 PM 6imported v
+09/22/2019 11:44:23 PM 8imported v
+09/22/2019 11:44:23 PM 9imported v
+09/22/2019 11:44:24 PM 3imported v
+09/22/2019 11:44:24 PM 0imported v
+09/22/2019 11:44:24 PM 7imported v
+09/22/2019 11:44:24 PM 1imported v
+09/22/2019 11:44:24 PM 5imported v
+09/22/2019 11:44:25 PM 2imported v
+09/22/2019 11:44:25 PM 4imported v
+09/22/2019 11:44:49 PM 6imported w
+09/22/2019 11:44:49 PM 9imported w
+09/22/2019 11:44:49 PM 8imported w
+09/22/2019 11:44:50 PM 2imported w
+09/22/2019 11:44:50 PM 1imported w
+09/22/2019 11:44:51 PM 5imported w
+09/22/2019 11:44:51 PM 0imported w
+09/22/2019 11:44:51 PM 7imported w
+09/22/2019 11:44:51 PM 4imported w
+09/22/2019 11:44:51 PM 3imported w
+09/22/2019 11:45:12 PM 6imported Z
+09/22/2019 11:45:12 PM 8imported Z
+09/22/2019 11:45:12 PM 9imported Z
+09/22/2019 11:45:13 PM 2imported Z
+09/22/2019 11:45:13 PM 1imported Z
+09/22/2019 11:45:13 PM 7imported Z
+09/22/2019 11:45:13 PM 3imported Z
+09/22/2019 11:45:14 PM 0imported Z
+09/22/2019 11:45:14 PM 4imported Z
+09/22/2019 11:45:14 PM 5imported Z
+09/22/2019 11:45:34 PM 2imported q
+09/22/2019 11:45:35 PM 8imported q
+09/22/2019 11:45:35 PM 6imported q
+09/22/2019 11:45:36 PM 9imported q
+09/22/2019 11:45:36 PM 1imported q
+09/22/2019 11:45:37 PM 7imported q
+09/22/2019 11:45:37 PM 0imported q
+09/22/2019 11:45:38 PM 4imported q
+09/22/2019 11:45:38 PM 3imported q
+09/22/2019 11:45:38 PM 5imported q
+09/22/2019 11:45:39 PM 2imported temp
+09/22/2019 11:45:40 PM 8imported temp
+09/22/2019 11:45:40 PM 6imported temp
+09/22/2019 11:45:41 PM 8imported surface pressure
+09/22/2019 11:45:41 PM 9imported temp
+09/22/2019 11:45:41 PM 6imported surface pressure
+09/22/2019 11:45:41 PM 1imported temp
+09/22/2019 11:45:42 PM 8imported coordinates
+09/22/2019 11:45:42 PM 0imported temp
+09/22/2019 11:45:42 PM 7imported temp
+09/22/2019 11:45:42 PM 6imported coordinates
+09/22/2019 11:45:42 PM 2imported surface pressure
+09/22/2019 11:45:42 PM 9imported surface pressure
+09/22/2019 11:45:42 PM 1imported surface pressure
+09/22/2019 11:45:43 PM 0imported surface pressure
+09/22/2019 11:45:43 PM 9imported coordinates
+09/22/2019 11:45:43 PM 1imported coordinates
+09/22/2019 11:45:44 PM 0imported coordinates
+09/22/2019 11:45:45 PM 2imported coordinates
+09/22/2019 11:45:45 PM 7imported surface pressure
+09/22/2019 11:45:48 PM 7imported coordinates
+09/22/2019 11:45:49 PM 3imported temp
+09/22/2019 11:45:49 PM 5imported temp
+09/22/2019 11:45:50 PM 4imported temp
+09/22/2019 11:45:50 PM 5imported surface pressure
+09/22/2019 11:45:51 PM 4imported surface pressure
+09/22/2019 11:45:51 PM 5imported coordinates
+09/22/2019 11:45:52 PM 4imported coordinates
+09/22/2019 11:45:53 PM 3imported surface pressure
+09/22/2019 11:45:56 PM 8phalf calculated
+09/22/2019 11:45:56 PM 3imported coordinates
+09/22/2019 11:45:57 PM 6phalf calculated
+09/22/2019 11:45:58 PM 9phalf calculated
+09/22/2019 11:45:58 PM 1phalf calculated
+09/22/2019 11:45:59 PM 0phalf calculated
+09/22/2019 11:46:00 PM 2phalf calculated
+09/22/2019 11:46:03 PM 7phalf calculated
+09/22/2019 11:46:06 PM 5phalf calculated
+09/22/2019 11:46:07 PM 4phalf calculated
+09/22/2019 11:46:11 PM 8pfull calculated
+09/22/2019 11:46:11 PM 3phalf calculated
+09/22/2019 11:46:11 PM 6pfull calculated
+09/22/2019 11:46:12 PM 9pfull calculated
+09/22/2019 11:46:13 PM 1pfull calculated
+09/22/2019 11:46:14 PM 0pfull calculated
+09/22/2019 11:46:14 PM 2pfull calculated
+09/22/2019 11:46:18 PM 7pfull calculated
+09/22/2019 11:46:21 PM 5pfull calculated
+09/22/2019 11:46:22 PM 4pfull calculated
+09/22/2019 11:46:26 PM 3pfull calculated
+09/22/2019 11:49:36 PM 9interpolation done ht, T
+09/22/2019 11:49:39 PM 8interpolation done ht, T
+09/22/2019 11:49:41 PM 2interpolation done ht, T
+09/22/2019 11:49:44 PM 6interpolation done ht, T
+09/22/2019 11:49:45 PM 7interpolation done ht, T
+09/22/2019 11:49:45 PM 4interpolation done ht, T
+09/22/2019 11:49:48 PM 1interpolation done ht, T
+09/22/2019 11:49:52 PM 0interpolation done ht, T
+09/22/2019 11:49:55 PM 5interpolation done ht, T
+09/22/2019 11:49:58 PM 3interpolation done ht, T
+09/22/2019 11:52:59 PM 9interpolation done q, U
+09/22/2019 11:53:07 PM 8interpolation done q, U
+09/22/2019 11:53:07 PM 2interpolation done q, U
+09/22/2019 11:53:09 PM 4interpolation done q, U
+09/22/2019 11:53:13 PM 7interpolation done q, U
+09/22/2019 11:53:16 PM 6interpolation done q, U
+09/22/2019 11:53:24 PM 1interpolation done q, U
+09/22/2019 11:53:30 PM 3interpolation done q, U
+09/22/2019 11:53:31 PM 5interpolation done q, U
+09/22/2019 11:53:31 PM 0interpolation done q, U
+09/22/2019 11:56:24 PM 9interpolation done v, w
+09/22/2019 11:56:24 PM 9height isobar
+09/22/2019 11:56:24 PM 9temp  isobar
+09/22/2019 11:56:24 PM 9moist  isobar
+09/22/2019 11:56:24 PM 9u  isobar
+09/22/2019 11:56:24 PM 9v  isobar
+09/22/2019 11:56:24 PM 9w  isobar
+09/22/2019 11:56:24 PM 9Create dimension
+09/22/2019 11:56:24 PM 9Create coordinates
+09/22/2019 11:56:24 PM 9Create variables
+09/22/2019 11:56:36 PM 4interpolation done v, w
+09/22/2019 11:56:36 PM 4height isobar
+09/22/2019 11:56:36 PM 4temp  isobar
+09/22/2019 11:56:36 PM 4moist  isobar
+09/22/2019 11:56:36 PM 4u  isobar
+09/22/2019 11:56:36 PM 4v  isobar
+09/22/2019 11:56:36 PM 4w  isobar
+09/22/2019 11:56:36 PM 4Create dimension
+09/22/2019 11:56:36 PM 4Create coordinates
+09/22/2019 11:56:36 PM 4Create variables
+09/22/2019 11:56:36 PM 2interpolation done v, w
+09/22/2019 11:56:36 PM 2height isobar
+09/22/2019 11:56:36 PM 2temp  isobar
+09/22/2019 11:56:36 PM 2moist  isobar
+09/22/2019 11:56:36 PM 2u  isobar
+09/22/2019 11:56:36 PM 2v  isobar
+09/22/2019 11:56:36 PM 2w  isobar
+09/22/2019 11:56:36 PM 2Create dimension
+09/22/2019 11:56:36 PM 2Create coordinates
+09/22/2019 11:56:36 PM 2Create variables
+09/22/2019 11:56:38 PM 8interpolation done v, w
+09/22/2019 11:56:38 PM 8height isobar
+09/22/2019 11:56:38 PM 8temp  isobar
+09/22/2019 11:56:38 PM 8moist  isobar
+09/22/2019 11:56:38 PM 8u  isobar
+09/22/2019 11:56:38 PM 8v  isobar
+09/22/2019 11:56:38 PM 8w  isobar
+09/22/2019 11:56:38 PM 8Create dimension
+09/22/2019 11:56:38 PM 8Create coordinates
+09/22/2019 11:56:38 PM 8Create variables
+09/22/2019 11:56:41 PM 7interpolation done v, w
+09/22/2019 11:56:41 PM 7height isobar
+09/22/2019 11:56:41 PM 7temp  isobar
+09/22/2019 11:56:41 PM 7moist  isobar
+09/22/2019 11:56:41 PM 7u  isobar
+09/22/2019 11:56:41 PM 7v  isobar
+09/22/2019 11:56:41 PM 7w  isobar
+09/22/2019 11:56:41 PM 7Create dimension
+09/22/2019 11:56:41 PM 7Create coordinates
+09/22/2019 11:56:41 PM 7Create variables
+09/22/2019 11:56:51 PM 6interpolation done v, w
+09/22/2019 11:56:51 PM 6height isobar
+09/22/2019 11:56:51 PM 6temp  isobar
+09/22/2019 11:56:51 PM 6moist  isobar
+09/22/2019 11:56:51 PM 6u  isobar
+09/22/2019 11:56:51 PM 6v  isobar
+09/22/2019 11:56:51 PM 6w  isobar
+09/22/2019 11:56:51 PM 6Create dimension
+09/22/2019 11:56:51 PM 6Create coordinates
+09/22/2019 11:56:51 PM 6Create variables
+09/22/2019 11:56:59 PM 1interpolation done v, w
+09/22/2019 11:56:59 PM 1height isobar
+09/22/2019 11:56:59 PM 1temp  isobar
+09/22/2019 11:56:59 PM 1moist  isobar
+09/22/2019 11:56:59 PM 1u  isobar
+09/22/2019 11:56:59 PM 1v  isobar
+09/22/2019 11:56:59 PM 1w  isobar
+09/22/2019 11:56:59 PM 1Create dimension
+09/22/2019 11:56:59 PM 1Create coordinates
+09/22/2019 11:56:59 PM 1Create variables
+09/22/2019 11:57:04 PM 3interpolation done v, w
+09/22/2019 11:57:04 PM 3height isobar
+09/22/2019 11:57:04 PM 3temp  isobar
+09/22/2019 11:57:04 PM 3moist  isobar
+09/22/2019 11:57:04 PM 3u  isobar
+09/22/2019 11:57:04 PM 3v  isobar
+09/22/2019 11:57:04 PM 3w  isobar
+09/22/2019 11:57:04 PM 3Create dimension
+09/22/2019 11:57:04 PM 3Create coordinates
+09/22/2019 11:57:04 PM 3Create variables
+09/22/2019 11:57:06 PM 9assigned dataset
+09/22/2019 11:57:06 PM 9Program ends
+09/22/2019 11:57:06 PM 9Total time taken - 828.358057976
+09/22/2019 11:57:06 PM 9------------------------
+09/22/2019 11:57:08 PM 5interpolation done v, w
+09/22/2019 11:57:08 PM 5height isobar
+09/22/2019 11:57:08 PM 5temp  isobar
+09/22/2019 11:57:08 PM 5moist  isobar
+09/22/2019 11:57:08 PM 5u  isobar
+09/22/2019 11:57:08 PM 5v  isobar
+09/22/2019 11:57:08 PM 5w  isobar
+09/22/2019 11:57:08 PM 5Create dimension
+09/22/2019 11:57:08 PM 5Create coordinates
+09/22/2019 11:57:08 PM 5Create variables
+09/22/2019 11:57:10 PM 0interpolation done v, w
+09/22/2019 11:57:10 PM 0height isobar
+09/22/2019 11:57:10 PM 0temp  isobar
+09/22/2019 11:57:10 PM 0moist  isobar
+09/22/2019 11:57:10 PM 0u  isobar
+09/22/2019 11:57:10 PM 0v  isobar
+09/22/2019 11:57:10 PM 0w  isobar
+09/22/2019 11:57:10 PM 0Create dimension
+09/22/2019 11:57:10 PM 0Create coordinates
+09/22/2019 11:57:10 PM 0Create variables
+09/22/2019 11:57:17 PM 2assigned dataset
+09/22/2019 11:57:18 PM 4assigned dataset
+09/22/2019 11:57:18 PM 2Program ends
+09/22/2019 11:57:18 PM 2Total time taken - 840.225293875
+09/22/2019 11:57:18 PM 2------------------------
+09/22/2019 11:57:18 PM 4Program ends
+09/22/2019 11:57:18 PM 4Total time taken - 840.37657094
+09/22/2019 11:57:18 PM 4------------------------
+09/22/2019 11:57:20 PM 8assigned dataset
+09/22/2019 11:57:20 PM 8Program ends
+09/22/2019 11:57:20 PM 8Total time taken - 842.53845787
+09/22/2019 11:57:20 PM 8------------------------
+09/22/2019 11:57:22 PM 7assigned dataset
+09/22/2019 11:57:22 PM 7Program ends
+09/22/2019 11:57:22 PM 7Total time taken - 844.59158802
+09/22/2019 11:57:22 PM 7------------------------
+09/22/2019 11:57:33 PM 6assigned dataset
+09/22/2019 11:57:33 PM 6Program ends
+09/22/2019 11:57:33 PM 6Total time taken - 855.52994895
+09/22/2019 11:57:33 PM 6------------------------
+09/22/2019 11:57:40 PM 1assigned dataset
+09/22/2019 11:57:41 PM 1Program ends
+09/22/2019 11:57:41 PM 1Total time taken - 863.190973043
+09/22/2019 11:57:41 PM 1------------------------
+09/22/2019 11:57:46 PM 3assigned dataset
+09/22/2019 11:57:46 PM 3Program ends
+09/22/2019 11:57:46 PM 3Total time taken - 868.926347971
+09/22/2019 11:57:46 PM 3------------------------
+09/22/2019 11:57:50 PM 5assigned dataset
+09/22/2019 11:57:50 PM 5Program ends
+09/22/2019 11:57:50 PM 5Total time taken - 872.346446037
+09/22/2019 11:57:50 PM 5------------------------
+09/22/2019 11:57:52 PM 0assigned dataset
+09/22/2019 11:57:52 PM 0Program ends
+09/22/2019 11:57:52 PM 0Total time taken - 875.277176142
+09/22/2019 11:57:52 PM 0------------------------
+09/23/2019 12:37:18 AM 9...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 9imported nc file
+09/23/2019 12:37:18 AM 0...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 0imported nc file
+09/23/2019 12:37:18 AM 5...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 5imported nc file
+09/23/2019 12:37:18 AM 6...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 6imported nc file
+09/23/2019 12:37:18 AM 3...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 4...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 3imported nc file
+09/23/2019 12:37:18 AM 4imported nc file
+09/23/2019 12:37:18 AM 1...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 1imported nc file
+09/23/2019 12:37:18 AM 7...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 7imported nc file
+09/23/2019 12:37:18 AM 8...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 8imported nc file
+09/23/2019 12:37:18 AM 2...........interpolation_from_sigma_to_pres_coord.py.............
+09/23/2019 12:37:18 AM 2imported nc file
+09/23/2019 12:37:46 AM 2imported u
+09/23/2019 12:37:47 AM 9imported u
+09/23/2019 12:37:48 AM 0imported u
+09/23/2019 12:37:48 AM 5imported u
+09/23/2019 12:37:48 AM 8imported u
+09/23/2019 12:37:48 AM 4imported u
+09/23/2019 12:37:48 AM 1imported u
+09/23/2019 12:37:48 AM 3imported u
+09/23/2019 12:37:48 AM 7imported u
+09/23/2019 12:37:49 AM 6imported u
+09/23/2019 12:38:13 AM 2imported v
+09/23/2019 12:38:16 AM 9imported v
+09/23/2019 12:38:17 AM 8imported v
+09/23/2019 12:38:17 AM 0imported v
+09/23/2019 12:38:17 AM 5imported v
+09/23/2019 12:38:18 AM 4imported v
+09/23/2019 12:38:18 AM 1imported v
+09/23/2019 12:38:18 AM 7imported v
+09/23/2019 12:38:18 AM 3imported v
+09/23/2019 12:38:18 AM 6imported v
+09/23/2019 12:38:40 AM 2imported w
+09/23/2019 12:38:45 AM 0imported w
+09/23/2019 12:38:45 AM 9imported w
+09/23/2019 12:38:46 AM 5imported w
+09/23/2019 12:38:46 AM 3imported w
+09/23/2019 12:38:46 AM 8imported w
+09/23/2019 12:38:47 AM 7imported w
+09/23/2019 12:38:47 AM 6imported w
+09/23/2019 12:38:47 AM 1imported w
+09/23/2019 12:38:48 AM 4imported w
+09/23/2019 12:39:05 AM 2imported Z
+09/23/2019 12:39:12 AM 0imported Z
+09/23/2019 12:39:13 AM 9imported Z
+09/23/2019 12:39:13 AM 5imported Z
+09/23/2019 12:39:13 AM 3imported Z
+09/23/2019 12:39:14 AM 7imported Z
+09/23/2019 12:39:14 AM 8imported Z
+09/23/2019 12:39:14 AM 6imported Z
+09/23/2019 12:39:14 AM 4imported Z
+09/23/2019 12:39:14 AM 1imported Z
+09/23/2019 12:39:37 AM 2imported q
+09/23/2019 12:39:46 AM 0imported q
+09/23/2019 12:39:47 AM 9imported q
+09/23/2019 12:39:47 AM 5imported q
+09/23/2019 12:39:47 AM 7imported q
+09/23/2019 12:39:48 AM 1imported q
+09/23/2019 12:39:48 AM 6imported q
+09/23/2019 12:39:48 AM 3imported q
+09/23/2019 12:39:48 AM 4imported q
+09/23/2019 12:39:48 AM 8imported q
+09/23/2019 12:40:02 AM 2imported temp
+09/23/2019 12:40:07 AM 2imported surface pressure
+09/23/2019 12:40:10 AM 2imported coordinates
+09/23/2019 12:40:12 AM 0imported temp
+09/23/2019 12:40:12 AM 9imported temp
+09/23/2019 12:40:13 AM 5imported temp
+09/23/2019 12:40:13 AM 4imported temp
+09/23/2019 12:40:13 AM 6imported temp
+09/23/2019 12:40:13 AM 0imported surface pressure
+09/23/2019 12:40:13 AM 1imported temp
+09/23/2019 12:40:14 AM 9imported surface pressure
+09/23/2019 12:40:14 AM 3imported temp
+09/23/2019 12:40:14 AM 4imported surface pressure
+09/23/2019 12:40:14 AM 7imported temp
+09/23/2019 12:40:14 AM 5imported surface pressure
+09/23/2019 12:40:14 AM 6imported surface pressure
+09/23/2019 12:40:14 AM 0imported coordinates
+09/23/2019 12:40:15 AM 9imported coordinates
+09/23/2019 12:40:15 AM 1imported surface pressure
+09/23/2019 12:40:15 AM 8imported temp
+09/23/2019 12:40:15 AM 4imported coordinates
+09/23/2019 12:40:15 AM 5imported coordinates
+09/23/2019 12:40:15 AM 6imported coordinates
+09/23/2019 12:40:16 AM 1imported coordinates
+09/23/2019 12:40:16 AM 8imported surface pressure
+09/23/2019 12:40:17 AM 8imported coordinates
+09/23/2019 12:40:19 AM 3imported surface pressure
+09/23/2019 12:40:20 AM 7imported surface pressure
+09/23/2019 12:40:22 AM 3imported coordinates
+09/23/2019 12:40:23 AM 7imported coordinates
+09/23/2019 12:40:30 AM 2phalf calculated
+09/23/2019 12:40:35 AM 0phalf calculated
+09/23/2019 12:40:35 AM 9phalf calculated
+09/23/2019 12:40:35 AM 4phalf calculated
+09/23/2019 12:40:36 AM 5phalf calculated
+09/23/2019 12:40:36 AM 6phalf calculated
+09/23/2019 12:40:36 AM 1phalf calculated
+09/23/2019 12:40:37 AM 8phalf calculated
+09/23/2019 12:40:42 AM 3phalf calculated
+09/23/2019 12:40:43 AM 7phalf calculated
+09/23/2019 12:40:51 AM 2pfull calculated
+09/23/2019 12:40:55 AM 0pfull calculated
+09/23/2019 12:40:55 AM 9pfull calculated
+09/23/2019 12:40:56 AM 4pfull calculated
+09/23/2019 12:40:56 AM 5pfull calculated
+09/23/2019 12:40:56 AM 6pfull calculated
+09/23/2019 12:40:57 AM 1pfull calculated
+09/23/2019 12:40:57 AM 8pfull calculated
+09/23/2019 12:41:02 AM 3pfull calculated
+09/23/2019 12:41:04 AM 7pfull calculated
+09/23/2019 12:44:19 AM 2interpolation done ht, T
+09/23/2019 12:44:21 AM 0interpolation done ht, T
+09/23/2019 12:44:26 AM 6interpolation done ht, T
+09/23/2019 12:44:28 AM 1interpolation done ht, T
+09/23/2019 12:44:29 AM 5interpolation done ht, T
+09/23/2019 12:44:30 AM 9interpolation done ht, T
+09/23/2019 12:44:31 AM 3interpolation done ht, T
+09/23/2019 12:44:34 AM 4interpolation done ht, T
+09/23/2019 12:44:34 AM 7interpolation done ht, T
+09/23/2019 12:44:43 AM 8interpolation done ht, T
+09/23/2019 12:47:48 AM 2interpolation done q, U
+09/23/2019 12:47:49 AM 0interpolation done q, U
+09/23/2019 12:47:55 AM 6interpolation done q, U
+09/23/2019 12:48:00 AM 1interpolation done q, U
+09/23/2019 12:48:01 AM 3interpolation done q, U
+09/23/2019 12:48:02 AM 5interpolation done q, U
+09/23/2019 12:48:04 AM 9interpolation done q, U
+09/23/2019 12:48:05 AM 7interpolation done q, U
+09/23/2019 12:48:12 AM 4interpolation done q, U
+09/23/2019 12:48:20 AM 8interpolation done q, U
+09/23/2019 12:51:20 AM 0interpolation done v, w
+09/23/2019 12:51:20 AM 0height isobar
+09/23/2019 12:51:20 AM 0temp  isobar
+09/23/2019 12:51:20 AM 0moist  isobar
+09/23/2019 12:51:20 AM 0u  isobar
+09/23/2019 12:51:20 AM 0v  isobar
+09/23/2019 12:51:20 AM 0w  isobar
+09/23/2019 12:51:20 AM 0Create dimension
+09/23/2019 12:51:20 AM 0Create coordinates
+09/23/2019 12:51:20 AM 0Create variables
+09/23/2019 12:51:21 AM 2interpolation done v, w
+09/23/2019 12:51:21 AM 2height isobar
+09/23/2019 12:51:21 AM 2temp  isobar
+09/23/2019 12:51:21 AM 2moist  isobar
+09/23/2019 12:51:21 AM 2u  isobar
+09/23/2019 12:51:21 AM 2v  isobar
+09/23/2019 12:51:21 AM 2w  isobar
+09/23/2019 12:51:22 AM 2Create dimension
+09/23/2019 12:51:22 AM 2Create coordinates
+09/23/2019 12:51:22 AM 2Create variables
+09/23/2019 12:51:26 AM 6interpolation done v, w
+09/23/2019 12:51:26 AM 6height isobar
+09/23/2019 12:51:26 AM 6temp  isobar
+09/23/2019 12:51:26 AM 6moist  isobar
+09/23/2019 12:51:26 AM 6u  isobar
+09/23/2019 12:51:26 AM 6v  isobar
+09/23/2019 12:51:26 AM 6w  isobar
+09/23/2019 12:51:26 AM 6Create dimension
+09/23/2019 12:51:26 AM 6Create coordinates
+09/23/2019 12:51:26 AM 6Create variables
+09/23/2019 12:51:32 AM 3interpolation done v, w
+09/23/2019 12:51:32 AM 3height isobar
+09/23/2019 12:51:32 AM 3temp  isobar
+09/23/2019 12:51:32 AM 3moist  isobar
+09/23/2019 12:51:32 AM 3u  isobar
+09/23/2019 12:51:32 AM 3v  isobar
+09/23/2019 12:51:32 AM 3w  isobar
+09/23/2019 12:51:34 AM 3Create dimension
+09/23/2019 12:51:34 AM 3Create coordinates
+09/23/2019 12:51:34 AM 3Create variables
+09/23/2019 12:51:34 AM 1interpolation done v, w
+09/23/2019 12:51:34 AM 1height isobar
+09/23/2019 12:51:34 AM 1temp  isobar
+09/23/2019 12:51:34 AM 1moist  isobar
+09/23/2019 12:51:34 AM 1u  isobar
+09/23/2019 12:51:34 AM 1v  isobar
+09/23/2019 12:51:34 AM 1w  isobar
+09/23/2019 12:51:34 AM 1Create dimension
+09/23/2019 12:51:34 AM 1Create coordinates
+09/23/2019 12:51:34 AM 1Create variables
+09/23/2019 12:51:35 AM 5interpolation done v, w
+09/23/2019 12:51:35 AM 5height isobar
+09/23/2019 12:51:35 AM 5temp  isobar
+09/23/2019 12:51:35 AM 5moist  isobar
+09/23/2019 12:51:35 AM 5u  isobar
+09/23/2019 12:51:35 AM 5v  isobar
+09/23/2019 12:51:35 AM 5w  isobar
+09/23/2019 12:51:36 AM 5Create dimension
+09/23/2019 12:51:36 AM 5Create coordinates
+09/23/2019 12:51:36 AM 5Create variables
+09/23/2019 12:51:37 AM 7interpolation done v, w
+09/23/2019 12:51:37 AM 7height isobar
+09/23/2019 12:51:37 AM 7temp  isobar
+09/23/2019 12:51:37 AM 7moist  isobar
+09/23/2019 12:51:37 AM 7u  isobar
+09/23/2019 12:51:37 AM 7v  isobar
+09/23/2019 12:51:37 AM 7w  isobar
+09/23/2019 12:51:38 AM 7Create dimension
+09/23/2019 12:51:38 AM 7Create coordinates
+09/23/2019 12:51:38 AM 7Create variables
+09/23/2019 12:51:39 AM 9interpolation done v, w
+09/23/2019 12:51:40 AM 9height isobar
+09/23/2019 12:51:40 AM 9temp  isobar
+09/23/2019 12:51:40 AM 9moist  isobar
+09/23/2019 12:51:40 AM 9u  isobar
+09/23/2019 12:51:40 AM 9v  isobar
+09/23/2019 12:51:40 AM 9w  isobar
+09/23/2019 12:51:40 AM 9Create dimension
+09/23/2019 12:51:40 AM 9Create coordinates
+09/23/2019 12:51:40 AM 9Create variables
+09/23/2019 12:51:53 AM 4interpolation done v, w
+09/23/2019 12:51:57 AM 4height isobar
+09/23/2019 12:51:57 AM 4temp  isobar
+09/23/2019 12:51:57 AM 4moist  isobar
+09/23/2019 12:51:57 AM 4u  isobar
+09/23/2019 12:51:57 AM 4v  isobar
+09/23/2019 12:51:57 AM 4w  isobar
+09/23/2019 12:51:57 AM 4Create dimension
+09/23/2019 12:51:57 AM 4Create coordinates
+09/23/2019 12:51:57 AM 4Create variables
+09/23/2019 12:52:00 AM 8interpolation done v, w
+09/23/2019 12:52:00 AM 8height isobar
+09/23/2019 12:52:00 AM 8temp  isobar
+09/23/2019 12:52:00 AM 8moist  isobar
+09/23/2019 12:52:00 AM 8u  isobar
+09/23/2019 12:52:00 AM 8v  isobar
+09/23/2019 12:52:00 AM 8w  isobar
+09/23/2019 12:52:00 AM 8Create dimension
+09/23/2019 12:52:00 AM 8Create coordinates
+09/23/2019 12:52:00 AM 8Create variables
+09/23/2019 12:52:03 AM 0assigned dataset
+09/23/2019 12:52:04 AM 0Program ends
+09/23/2019 12:52:04 AM 0Total time taken - 887.679203987
+09/23/2019 12:52:04 AM 0------------------------
+09/23/2019 12:52:04 AM 2assigned dataset
+09/23/2019 12:52:05 AM 2Program ends
+09/23/2019 12:52:05 AM 2Total time taken - 888.34615612
+09/23/2019 12:52:05 AM 2------------------------
+09/23/2019 12:52:07 AM 6assigned dataset
+09/23/2019 12:52:08 AM 6Program ends
+09/23/2019 12:52:08 AM 6Total time taken - 891.102910995
+09/23/2019 12:52:08 AM 6------------------------
+09/23/2019 12:52:16 AM 3assigned dataset
+09/23/2019 12:52:17 AM 3Program ends
+09/23/2019 12:52:17 AM 3Total time taken - 900.198190928
+09/23/2019 12:52:17 AM 3------------------------
+09/23/2019 12:52:17 AM 1assigned dataset
+09/23/2019 12:52:18 AM 1Program ends
+09/23/2019 12:52:18 AM 1Total time taken - 901.062433958
+09/23/2019 12:52:18 AM 1------------------------
+09/23/2019 12:52:18 AM 5assigned dataset
+09/23/2019 12:52:19 AM 5Program ends
+09/23/2019 12:52:19 AM 5Total time taken - 902.257753849
+09/23/2019 12:52:19 AM 5------------------------
+09/23/2019 12:52:20 AM 7assigned dataset
+09/23/2019 12:52:21 AM 7Program ends
+09/23/2019 12:52:21 AM 7Total time taken - 904.364520073
+09/23/2019 12:52:21 AM 7------------------------
+09/23/2019 12:52:23 AM 9assigned dataset
+09/23/2019 12:52:24 AM 9Program ends
+09/23/2019 12:52:24 AM 9Total time taken - 907.088251114
+09/23/2019 12:52:24 AM 9------------------------
+09/23/2019 12:52:39 AM 4assigned dataset
+09/23/2019 12:52:39 AM 4Program ends
+09/23/2019 12:52:39 AM 4Total time taken - 922.867501974
+09/23/2019 12:52:39 AM 4------------------------
+09/23/2019 12:52:42 AM 8assigned dataset
+09/23/2019 12:52:42 AM 8Program ends
+09/23/2019 12:52:42 AM 8Total time taken - 925.837167025
+09/23/2019 12:52:42 AM 8------------------------

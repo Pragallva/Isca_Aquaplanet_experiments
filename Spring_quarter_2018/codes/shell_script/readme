@@ -1,0 +1,1 @@
+sbatch -J $j -o output/${j}.out -e error/${j}.err extract_nc.csh aqua isca${j}m

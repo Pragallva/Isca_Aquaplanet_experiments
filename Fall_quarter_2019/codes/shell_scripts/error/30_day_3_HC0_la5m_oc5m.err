@@ -1,0 +1,28 @@
+/tmp/slurmd/job62494853/slurm_script: line 11:  1029 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  1507 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  1846 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  2157 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  2497 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  3080 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  3458 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  3761 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  3995 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+/tmp/slurmd/job62494853/slurm_script: line 11:  4702 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'monthly_pass' 30 $2
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/Reload_save_synoptic_variability.py", line 96, in <module>
+    momentum_fluxes.append(load(source+"eddies_"+FREQ+'_freq_'+'avg'+str(days)+'.hkl'))
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/Reload_save_synoptic_variability.py", line 38, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018//post_process_data/synoptic/HC0_la5m_oc5m0/eddies_monthly_pass_freq_avg30.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+slurmstepd-midway783: error: Detected 10 oom-kill event(s) in step 62494853.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

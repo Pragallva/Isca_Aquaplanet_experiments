@@ -1,0 +1,110 @@
+11/16/2017 10:24:34 AM destination folder created !
+11/16/2017 10:24:34 AM imported nc file
+11/16/2017 10:26:03 AM imported coordinates
+11/16/2017 10:28:07 AM imported pressure
+11/16/2017 10:29:07 AM saved temp
+11/16/2017 10:30:03 AM saved v_comp
+11/16/2017 10:30:58 AM saved u_comp
+11/16/2017 10:31:53 AM saved Z
+11/16/2017 10:32:45 AM saved q
+11/16/2017 10:33:21 AM saved EKE
+11/16/2017 10:33:25 AM calculated KE
+11/16/2017 10:33:32 AM calculated MSE fluxes
+11/16/2017 10:33:37 AM vertical integartion : MSE fluxes
+11/16/2017 10:33:44 AM vertical integration : sensible fluxes
+11/16/2017 10:33:50 AM vertical integration : latent fluxes
+11/16/2017 10:33:57 AM vertical integration : nc potential fluxes
+11/16/2017 10:34:03 AM vertical integration : kinetic energy fluxes
+11/16/2017 10:34:09 AM vertical integration : Enthalpy 
+11/16/2017 10:37:55 AM saved radiation
+11/16/2017 10:38:30 AM saved t_surf
+11/16/2017 10:39:09 AM saved flux_oceanq
+11/16/2017 10:39:11 AM radiation-- I think its right now !
+11/16/2017 10:39:12 AM calculated dh_by_dt
+11/16/2017 10:39:12 AM loaded coordinates dictionary
+11/16/2017 10:39:12 AM loaded MSE_flux dictionary
+11/16/2017 10:39:12 AM loaded rad_dic dictionary
+11/16/2017 10:39:17 AM successfully saved dictionaries in files
+11/16/2017 10:39:17 AM Begins calculating TE, SE and MM fluxes ....
+11/16/2017 10:39:19 AM calculated dh_by_dt dictionary
+11/16/2017 10:40:50 AM loaded zonal decomposed fluxes dictionary
+11/16/2017 10:40:50 AM loaded zonal radiation dictionary
+11/16/2017 10:40:55 AM ** INTERPOLATION **
+11/16/2017 10:41:04 AM Calculated interpolation
+11/16/2017 10:41:04 AM Calculated divergence
+11/16/2017 10:41:04 AM Saved flux interp dictionary
+11/16/2017 10:41:04 AM Saved flux divergence interp
+11/16/2017 10:41:04 AM Looks great !!
+11/16/2017 03:55:39 PM imported nc file
+11/16/2017 03:56:50 PM imported coordinates
+11/16/2017 03:58:48 PM imported pressure
+11/16/2017 03:59:43 PM saved temp
+11/16/2017 04:00:43 PM saved v_comp
+11/16/2017 04:01:53 PM saved u_comp
+11/16/2017 04:02:57 PM saved Z
+11/16/2017 04:03:57 PM saved q
+11/16/2017 04:04:38 PM saved EKE
+11/16/2017 04:04:42 PM calculated KE
+11/16/2017 04:04:49 PM calculated MSE fluxes
+11/16/2017 04:04:55 PM vertical integartion : MSE fluxes
+11/16/2017 04:05:01 PM vertical integration : sensible fluxes
+11/16/2017 04:05:08 PM vertical integration : latent fluxes
+11/16/2017 04:05:15 PM vertical integration : nc potential fluxes
+11/16/2017 04:05:21 PM vertical integration : kinetic energy fluxes
+11/16/2017 04:05:28 PM vertical integration : Enthalpy 
+11/16/2017 04:09:45 PM saved radiation
+11/16/2017 04:10:29 PM saved t_surf
+11/16/2017 04:11:13 PM saved flux_oceanq
+11/16/2017 04:11:14 PM radiation-- I think its right now !
+11/16/2017 04:11:15 PM calculated dh_by_dt
+11/16/2017 04:11:15 PM loaded coordinates dictionary
+11/16/2017 04:11:15 PM loaded MSE_flux dictionary
+11/16/2017 04:11:15 PM loaded rad_dic dictionary
+11/16/2017 04:11:22 PM successfully saved dictionaries in files
+11/16/2017 04:11:22 PM Begins calculating TE, SE and MM fluxes ....
+11/16/2017 04:11:24 PM calculated dh_by_dt dictionary
+11/16/2017 04:12:53 PM loaded zonal decomposed fluxes dictionary
+11/16/2017 04:12:53 PM loaded zonal radiation dictionary
+11/16/2017 04:13:04 PM ** INTERPOLATION **
+11/16/2017 04:13:18 PM Calculated interpolation
+11/16/2017 04:13:18 PM Calculated divergence
+11/16/2017 04:13:18 PM Saved flux interp dictionary
+11/16/2017 04:13:18 PM Saved flux divergence interp
+11/16/2017 04:13:18 PM Looks great !!
+12/05/2017 05:30:32 PM imported nc file
+12/05/2017 05:30:32 PM imported coordinates
+12/05/2017 05:31:24 PM opened v_comp again
+12/05/2017 05:32:03 PM opened u_comp again
+12/05/2017 05:32:06 PM Trying `CDLL(libgeos_c.so.1)`
+12/05/2017 05:32:06 PM Library path: 'libgeos_c.so.1'
+12/05/2017 05:32:06 PM DLL: <CDLL 'libgeos_c.so.1', handle 3959c50 at 7fa918be1a50>
+12/05/2017 05:32:06 PM Trying `CDLL(libc.so.6)`
+12/05/2017 05:32:06 PM Library path: 'libc.so.6'
+12/05/2017 05:32:06 PM DLL: <CDLL 'libc.so.6', handle 7fa93a843990 at 7fa918be1110>
+12/05/2017 05:36:59 PM imported nc file
+12/05/2017 05:36:59 PM imported coordinates
+12/05/2017 05:37:42 PM opened v_comp again
+12/05/2017 05:37:57 PM opened u_comp again
+12/05/2017 05:37:58 PM Trying `CDLL(libgeos_c.so.1)`
+12/05/2017 05:37:58 PM Library path: 'libgeos_c.so.1'
+12/05/2017 05:37:58 PM DLL: <CDLL 'libgeos_c.so.1', handle 2df7c10 at 7f903bdc8a50>
+12/05/2017 05:37:59 PM Trying `CDLL(libc.so.6)`
+12/05/2017 05:37:59 PM Library path: 'libc.so.6'
+12/05/2017 05:37:59 PM DLL: <CDLL 'libc.so.6', handle 7f905da2a990 at 7f903bdc8110>
+12/05/2017 05:38:04 PM reordering uwind and vwind
+12/05/2017 05:38:09 PM Create a VectorWind instance
+12/05/2017 05:39:43 PM Create a recover data
+12/05/2017 06:04:55 PM imported nc file
+12/05/2017 06:04:55 PM imported coordinates
+12/05/2017 06:05:35 PM opened v_comp again
+12/05/2017 06:05:50 PM opened u_comp again
+12/05/2017 06:05:51 PM Trying `CDLL(libgeos_c.so.1)`
+12/05/2017 06:05:51 PM Library path: 'libgeos_c.so.1'
+12/05/2017 06:05:51 PM DLL: <CDLL 'libgeos_c.so.1', handle 3c295e0 at 7fdbeea34a50>
+12/05/2017 06:05:51 PM Trying `CDLL(libc.so.6)`
+12/05/2017 06:05:51 PM Library path: 'libc.so.6'
+12/05/2017 06:05:51 PM DLL: <CDLL 'libc.so.6', handle 7fdc10696990 at 7fdbeea34110>
+12/05/2017 06:05:56 PM reordering uwind and vwind
+12/05/2017 06:06:01 PM Create a VectorWind instance
+12/05/2017 06:07:36 PM Create a recover data
+12/05/2017 06:07:44 PM saved stream function dictionary

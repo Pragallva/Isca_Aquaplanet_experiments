@@ -1,0 +1,1510 @@
+09/23/2019 12:50:20 AM destination folder created !
+09/23/2019 12:50:20 AM ...........calculate synoptic variability.............0
+09/23/2019 12:50:20 AM imported nc file
+09/23/2019 12:50:44 AM 0imported u
+09/23/2019 12:50:48 AM 0imported v
+09/23/2019 12:50:52 AM 0imported Z
+09/23/2019 12:51:18 AM 0imported q
+09/23/2019 12:52:00 AM 0imported temp
+09/23/2019 12:52:01 AM 0imported surface pressure
+09/23/2019 12:52:02 AM 0imported coordinates
+09/23/2019 12:52:22 AM 0phalf calculated
+09/23/2019 12:52:41 AM 0pfull calculated
+09/23/2019 12:52:41 AM imported coordinates
+09/23/2019 12:52:41 AM imported pressure
+09/23/2019 12:52:48 AM destination folder created !
+09/23/2019 12:52:48 AM ...........calculate synoptic variability.............1
+09/23/2019 12:52:48 AM imported nc file
+09/23/2019 12:53:12 AM 1imported u
+09/23/2019 12:53:17 AM 1imported v
+09/23/2019 12:53:25 AM 1imported Z
+09/23/2019 12:57:16 AM ...........calculate synoptic variability.............0
+09/23/2019 12:57:16 AM imported nc file
+09/23/2019 12:57:40 AM 0imported u
+09/23/2019 12:57:44 AM 0imported v
+09/23/2019 12:57:50 AM 0imported Z
+09/23/2019 12:58:13 AM 0imported q
+09/23/2019 12:58:17 AM 0imported temp
+09/23/2019 12:58:18 AM 0imported surface pressure
+09/23/2019 12:58:19 AM 0imported coordinates
+09/23/2019 12:58:39 AM 0phalf calculated
+09/23/2019 12:58:58 AM 0pfull calculated
+09/23/2019 12:58:58 AM imported coordinates
+09/23/2019 12:58:58 AM imported pressure
+09/23/2019 12:59:02 AM Filtering signal now
+09/23/2019 12:59:02 AM Filtering U
+09/23/2019 12:59:07 AM ...........calculate synoptic variability.............1
+09/23/2019 12:59:07 AM imported nc file
+09/23/2019 01:03:59 AM ...........calculate synoptic variability.............0
+09/23/2019 01:03:59 AM imported nc file
+09/23/2019 01:04:26 AM 0imported u
+09/23/2019 01:04:30 AM 0imported v
+09/23/2019 01:04:33 AM 0imported Z
+09/23/2019 01:04:59 AM 0imported q
+09/23/2019 01:05:02 AM 0imported temp
+09/23/2019 01:05:03 AM 0imported surface pressure
+09/23/2019 01:05:05 AM 0imported coordinates
+09/23/2019 01:05:24 AM 0phalf calculated
+09/23/2019 01:05:43 AM 0pfull calculated
+09/23/2019 01:05:43 AM imported coordinates
+09/23/2019 01:05:43 AM imported pressure
+09/23/2019 01:05:47 AM Filtering signal now
+09/23/2019 01:05:47 AM Filtering U
+09/23/2019 01:05:51 AM ...........calculate synoptic variability.............1
+09/23/2019 01:05:51 AM imported nc file
+09/23/2019 01:09:14 AM ...........calculate synoptic variability.............0
+09/23/2019 01:09:14 AM imported nc file
+09/23/2019 01:09:38 AM 0imported u
+09/23/2019 01:09:42 AM 0imported v
+09/23/2019 01:09:46 AM 0imported Z
+09/23/2019 01:10:12 AM 0imported q
+09/23/2019 01:10:15 AM 0imported temp
+09/23/2019 01:10:16 AM 0imported surface pressure
+09/23/2019 01:10:17 AM 0imported coordinates
+09/23/2019 01:10:36 AM 0phalf calculated
+09/23/2019 01:10:55 AM 0pfull calculated
+09/23/2019 01:10:55 AM imported coordinates
+09/23/2019 01:10:55 AM imported pressure
+09/23/2019 01:10:59 AM Filtering signal now
+09/23/2019 01:10:59 AM Filtering U
+09/23/2019 01:11:03 AM ...........calculate synoptic variability.............1
+09/23/2019 01:11:03 AM imported nc file
+09/23/2019 01:11:35 AM 1imported u
+09/23/2019 01:13:20 AM ...........calculate synoptic variability.............0
+09/23/2019 01:13:20 AM imported nc file
+09/23/2019 01:13:54 AM 0imported u
+09/23/2019 01:14:10 AM 0imported v
+09/23/2019 01:14:15 AM 0imported Z
+09/23/2019 01:14:38 AM 0imported q
+09/23/2019 01:14:42 AM 0imported temp
+09/23/2019 01:14:43 AM 0imported surface pressure
+09/23/2019 01:14:44 AM 0imported coordinates
+09/23/2019 01:15:04 AM 0phalf calculated
+09/23/2019 01:15:23 AM 0pfull calculated
+09/23/2019 01:15:23 AM imported coordinates
+09/23/2019 01:15:23 AM imported pressure
+09/23/2019 01:15:27 AM Filtering signal now
+09/23/2019 01:15:27 AM Filtering U
+09/23/2019 01:15:33 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:15:37 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:15:42 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:15:47 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:15:51 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:15:56 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:16:01 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:16:06 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:16:10 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:16:15 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:16:20 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:16:24 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:16:29 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:16:34 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:16:38 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:16:43 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:16:48 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:16:52 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:16:57 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:17:02 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:17:07 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:17:11 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:17:16 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:17:21 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:17:21 AM Filtering V
+09/23/2019 01:17:26 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:17:31 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:17:36 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:17:41 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:17:45 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:17:50 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:17:55 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:17:59 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:18:04 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:18:09 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:18:14 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:18:18 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:18:23 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:18:28 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:18:32 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:18:37 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:18:42 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:18:46 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:18:51 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:18:56 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:19:01 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:19:05 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:19:10 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:19:15 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:19:15 AM Filtering CpT
+09/23/2019 01:19:21 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:19:26 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:19:31 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:19:35 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:19:40 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:19:45 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:19:49 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:19:54 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:19:59 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:20:03 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:20:08 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:20:13 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:20:18 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:20:22 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:20:27 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:20:32 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:20:36 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:20:41 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:20:46 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:20:51 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:20:55 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:21:00 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:21:05 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:21:09 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:21:09 AM Filtering gZ
+09/23/2019 01:21:16 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:21:21 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:21:25 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:21:30 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:21:35 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:21:39 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:21:44 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:21:49 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:21:53 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:21:58 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:22:03 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:22:07 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:22:12 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:22:17 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:22:22 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:22:26 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:22:31 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:22:36 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:22:40 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:22:45 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:22:50 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:22:54 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:22:59 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:23:04 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:23:04 AM Filtering Lq
+09/23/2019 01:23:10 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:23:15 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:23:20 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:23:24 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:23:29 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:23:34 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:23:38 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:23:43 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:23:48 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:23:52 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:23:57 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:24:02 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:24:07 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:24:11 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:24:16 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:24:21 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:24:25 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:24:30 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:24:35 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:24:39 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:24:44 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:24:49 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:24:53 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:24:58 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:25:06 AM calculated all transient fluxes
+09/23/2019 01:25:33 AM saved eddies data
+09/23/2019 01:25:34 AM Eddies calculated !! Great !!
+09/23/2019 01:25:34 AM Time taken = 1569219934.41
+09/23/2019 01:25:43 AM ...........calculate synoptic variability.............1
+09/23/2019 01:25:43 AM imported nc file
+09/23/2019 01:26:06 AM 1imported u
+09/23/2019 01:26:13 AM 1imported v
+09/23/2019 01:26:20 AM 1imported Z
+09/23/2019 01:26:43 AM 1imported q
+09/23/2019 01:26:50 AM 1imported temp
+09/23/2019 01:26:51 AM 1imported surface pressure
+09/23/2019 01:26:52 AM 1imported coordinates
+09/23/2019 01:27:11 AM 1phalf calculated
+09/23/2019 01:27:30 AM 1pfull calculated
+09/23/2019 01:27:30 AM imported coordinates
+09/23/2019 01:27:30 AM imported pressure
+09/23/2019 01:27:33 AM Filtering signal now
+09/23/2019 01:27:33 AM Filtering U
+09/23/2019 01:27:39 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:27:43 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:27:48 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:27:52 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:27:57 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:28:01 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:28:06 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:28:10 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:28:15 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:28:19 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:28:24 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:28:28 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:28:33 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:28:37 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:28:42 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:28:46 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:28:51 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:28:55 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:29:00 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:29:04 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:29:09 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:29:13 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:29:18 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:29:22 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:29:22 AM Filtering V
+09/23/2019 01:29:28 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:29:32 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:29:37 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:29:41 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:29:46 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:29:50 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:29:55 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:29:59 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:30:04 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:30:08 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:30:13 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:30:17 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:30:22 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:30:26 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:30:31 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:30:35 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:30:40 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:30:44 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:30:49 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:30:53 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:30:58 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:31:02 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:31:07 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:31:11 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:31:11 AM Filtering CpT
+09/23/2019 01:31:17 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:31:22 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:31:26 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:31:31 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:31:35 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:31:40 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:31:44 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:31:49 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:31:53 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:31:58 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:32:02 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:32:07 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:32:11 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:32:16 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:32:20 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:32:25 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:32:29 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:32:34 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:32:38 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:32:43 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:32:47 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:32:52 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:32:56 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:33:01 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:33:01 AM Filtering gZ
+09/23/2019 01:33:07 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:33:12 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:33:16 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:33:21 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:33:25 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:33:30 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:33:34 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:33:39 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:33:43 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:33:48 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:33:52 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:33:57 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:34:01 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:34:06 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:34:10 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:34:15 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:34:19 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:34:24 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:34:28 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:34:33 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:34:37 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:34:42 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:34:46 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:34:51 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:34:51 AM Filtering Lq
+09/23/2019 01:34:57 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:35:02 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:35:06 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:35:11 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:35:15 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:35:20 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:35:24 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:35:29 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:35:33 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:35:38 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:35:42 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:35:46 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:35:51 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:35:55 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:36:00 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:36:04 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:36:09 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:36:13 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:36:18 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:36:22 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:36:27 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:36:31 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:36:36 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:36:40 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:36:48 AM calculated all transient fluxes
+09/23/2019 01:37:15 AM saved eddies data
+09/23/2019 01:37:15 AM Eddies calculated !! Great !!
+09/23/2019 01:37:15 AM Time taken = 1569220635.94
+09/23/2019 01:37:21 AM destination folder created !
+09/23/2019 01:37:21 AM ...........calculate synoptic variability.............2
+09/23/2019 01:37:21 AM imported nc file
+09/23/2019 01:37:42 AM 2imported u
+09/23/2019 01:37:48 AM 2imported v
+09/23/2019 01:37:54 AM 2imported Z
+09/23/2019 01:38:17 AM 2imported q
+09/23/2019 01:38:21 AM 2imported temp
+09/23/2019 01:38:23 AM 2imported surface pressure
+09/23/2019 01:38:26 AM 2imported coordinates
+09/23/2019 01:38:45 AM 2phalf calculated
+09/23/2019 01:39:04 AM 2pfull calculated
+09/23/2019 01:39:04 AM imported coordinates
+09/23/2019 01:39:04 AM imported pressure
+09/23/2019 01:39:07 AM Filtering signal now
+09/23/2019 01:39:07 AM Filtering U
+09/23/2019 01:39:13 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:39:17 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:39:22 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:39:26 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:39:31 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:39:35 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:39:40 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:39:44 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:39:49 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:39:53 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:39:58 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:40:02 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:40:07 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:40:11 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:40:16 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:40:20 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:40:25 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:40:29 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:40:34 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:40:38 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:40:43 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:40:47 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:40:52 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:40:56 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:40:56 AM Filtering V
+09/23/2019 01:41:02 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:41:06 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:41:11 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:41:15 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:41:20 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:41:24 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:41:29 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:41:33 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:41:38 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:41:42 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:41:47 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:41:51 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:41:56 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:42:00 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:42:05 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:42:09 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:42:14 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:42:18 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:42:23 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:42:27 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:42:31 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:42:36 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:42:40 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:42:45 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:42:45 AM Filtering CpT
+09/23/2019 01:42:51 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:42:56 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:43:00 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:43:05 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:43:09 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:43:14 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:43:18 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:43:23 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:43:27 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:43:32 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:43:36 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:43:41 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:43:45 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:43:50 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:43:54 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:43:59 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:44:03 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:44:08 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:44:12 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:44:17 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:44:21 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:44:26 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:44:30 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:44:35 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:44:35 AM Filtering gZ
+09/23/2019 01:44:41 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:44:45 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:44:50 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:44:54 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:44:59 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:45:03 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:45:08 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:45:12 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:45:17 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:45:21 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:45:26 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:45:30 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:45:35 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:45:39 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:45:44 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:45:48 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:45:53 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:45:57 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:46:02 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:46:06 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:46:11 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:46:15 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:46:20 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:46:24 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:46:24 AM Filtering Lq
+09/23/2019 01:46:31 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:46:35 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:46:40 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:46:44 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:46:49 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:46:53 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:46:58 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:47:02 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:47:07 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:47:11 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:47:15 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:47:20 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:47:24 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:47:29 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:47:33 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:47:38 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:47:42 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:47:47 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:47:51 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:47:56 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:48:00 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:48:05 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:48:09 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:48:14 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:48:21 AM calculated all transient fluxes
+09/23/2019 01:48:49 AM saved eddies data
+09/23/2019 01:48:49 AM Eddies calculated !! Great !!
+09/23/2019 01:48:49 AM Time taken = 1569221329.23
+09/23/2019 01:48:55 AM destination folder created !
+09/23/2019 01:48:55 AM ...........calculate synoptic variability.............3
+09/23/2019 01:48:55 AM imported nc file
+09/23/2019 01:49:18 AM 3imported u
+09/23/2019 01:49:25 AM 3imported v
+09/23/2019 01:49:32 AM 3imported Z
+09/23/2019 01:50:01 AM 3imported q
+09/23/2019 01:50:28 AM 3imported temp
+09/23/2019 01:50:33 AM 3imported surface pressure
+09/23/2019 01:50:37 AM 3imported coordinates
+09/23/2019 01:50:56 AM 3phalf calculated
+09/23/2019 01:51:15 AM 3pfull calculated
+09/23/2019 01:51:15 AM imported coordinates
+09/23/2019 01:51:15 AM imported pressure
+09/23/2019 01:51:18 AM Filtering signal now
+09/23/2019 01:51:18 AM Filtering U
+09/23/2019 01:51:24 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:51:28 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:51:33 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:51:37 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:51:42 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:51:47 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:51:51 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:51:56 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:52:01 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:52:05 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:52:10 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:52:14 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:52:19 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:52:24 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:52:28 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:52:33 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:52:37 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:52:42 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:52:47 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:52:51 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:52:56 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:53:00 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:53:05 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:53:10 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:53:10 AM Filtering V
+09/23/2019 01:53:15 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:53:20 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:53:24 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:53:29 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:53:34 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:53:38 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:53:43 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:53:47 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:53:52 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:53:57 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:54:01 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:54:06 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:54:10 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:54:15 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:54:20 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:54:24 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:54:29 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:54:33 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:54:38 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:54:43 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:54:47 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:54:52 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:54:56 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:55:01 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:55:01 AM Filtering CpT
+09/23/2019 01:55:07 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:55:12 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:55:16 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:55:21 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:55:26 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:55:30 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:55:35 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:55:39 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:55:44 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:55:49 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:55:53 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:55:58 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:56:03 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:56:07 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:56:12 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:56:17 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:56:22 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:56:26 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:56:31 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:56:36 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:56:40 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:56:45 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:56:49 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:56:54 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:56:54 AM Filtering gZ
+09/23/2019 01:57:01 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:57:05 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:57:10 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:57:15 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:57:19 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:57:24 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:57:28 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:57:33 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:57:38 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:57:42 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:57:47 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:57:52 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:57:56 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:58:01 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:58:05 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 01:58:10 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 01:58:15 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 01:58:19 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 01:58:24 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 01:58:29 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 01:58:33 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 01:58:38 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 01:58:42 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 01:58:47 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 01:58:47 AM Filtering Lq
+09/23/2019 01:58:54 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 01:58:58 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 01:59:03 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 01:59:08 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 01:59:12 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 01:59:17 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 01:59:21 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 01:59:26 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 01:59:31 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 01:59:35 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 01:59:40 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 01:59:45 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 01:59:49 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 01:59:54 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 01:59:58 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:00:03 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:00:08 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:00:12 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:00:17 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:00:22 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:00:26 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:00:31 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:00:35 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:00:40 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:00:48 AM calculated all transient fluxes
+09/23/2019 02:01:17 AM saved eddies data
+09/23/2019 02:01:17 AM Eddies calculated !! Great !!
+09/23/2019 02:01:17 AM Time taken = 1569222077.37
+09/23/2019 02:01:23 AM destination folder created !
+09/23/2019 02:01:23 AM ...........calculate synoptic variability.............4
+09/23/2019 02:01:23 AM imported nc file
+09/23/2019 02:01:48 AM 4imported u
+09/23/2019 02:01:51 AM 4imported v
+09/23/2019 02:01:55 AM 4imported Z
+09/23/2019 02:02:28 AM 4imported q
+09/23/2019 02:02:40 AM 4imported temp
+09/23/2019 02:02:41 AM 4imported surface pressure
+09/23/2019 02:02:42 AM 4imported coordinates
+09/23/2019 02:03:02 AM 4phalf calculated
+09/23/2019 02:03:21 AM 4pfull calculated
+09/23/2019 02:03:21 AM imported coordinates
+09/23/2019 02:03:21 AM imported pressure
+09/23/2019 02:03:25 AM Filtering signal now
+09/23/2019 02:03:25 AM Filtering U
+09/23/2019 02:03:30 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:03:35 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:03:39 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:03:43 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:03:48 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:03:52 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:03:57 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:04:01 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:04:06 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:04:10 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:04:14 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:04:19 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:04:23 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:04:28 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:04:32 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:04:36 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:04:41 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:04:45 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:04:50 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:04:54 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:04:58 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:05:03 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:05:07 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:05:12 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:05:12 AM Filtering V
+09/23/2019 02:05:17 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:05:22 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:05:26 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:05:30 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:05:35 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:05:39 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:05:44 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:05:48 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:05:52 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:05:57 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:06:01 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:06:06 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:06:10 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:06:14 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:06:19 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:06:23 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:06:28 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:06:32 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:06:36 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:06:41 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:06:45 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:06:50 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:06:54 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:06:59 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:06:59 AM Filtering CpT
+09/23/2019 02:07:05 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:07:09 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:07:14 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:07:18 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:07:22 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:07:27 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:07:31 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:07:36 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:07:40 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:07:44 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:07:49 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:07:53 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:07:58 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:08:02 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:08:06 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:08:11 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:08:15 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:08:20 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:08:24 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:08:28 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:08:33 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:08:37 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:08:42 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:08:46 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:08:46 AM Filtering gZ
+09/23/2019 02:08:53 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:08:57 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:09:01 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:09:06 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:09:10 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:09:15 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:09:19 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:09:23 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:09:28 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:09:32 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:09:37 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:09:41 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:09:45 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:09:50 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:09:54 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:09:59 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:10:03 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:10:07 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:10:12 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:10:16 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:10:21 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:10:25 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:10:29 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:10:34 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:10:34 AM Filtering Lq
+09/23/2019 02:10:40 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:10:45 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:10:49 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:10:53 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:10:58 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:11:02 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:11:07 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:11:11 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:11:15 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:11:20 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:11:24 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:11:29 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:11:33 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:11:37 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:11:42 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:11:46 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:11:51 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:11:55 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:11:59 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:12:04 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:12:08 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:12:13 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:12:17 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:12:21 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:12:30 AM calculated all transient fluxes
+09/23/2019 02:12:59 AM saved eddies data
+09/23/2019 02:12:59 AM Eddies calculated !! Great !!
+09/23/2019 02:12:59 AM Time taken = 1569222779.67
+09/23/2019 02:13:04 AM destination folder created !
+09/23/2019 02:13:04 AM ...........calculate synoptic variability.............5
+09/23/2019 02:13:04 AM imported nc file
+09/23/2019 02:13:27 AM 5imported u
+09/23/2019 02:13:30 AM 5imported v
+09/23/2019 02:13:34 AM 5imported Z
+09/23/2019 02:14:14 AM 5imported q
+09/23/2019 02:14:33 AM 5imported temp
+09/23/2019 02:14:34 AM 5imported surface pressure
+09/23/2019 02:14:35 AM 5imported coordinates
+09/23/2019 02:14:54 AM 5phalf calculated
+09/23/2019 02:15:14 AM 5pfull calculated
+09/23/2019 02:15:14 AM imported coordinates
+09/23/2019 02:15:14 AM imported pressure
+09/23/2019 02:15:17 AM Filtering signal now
+09/23/2019 02:15:17 AM Filtering U
+09/23/2019 02:15:23 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:15:28 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:15:33 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:15:38 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:15:43 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:15:48 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:15:53 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:15:58 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:16:02 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:16:07 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:16:12 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:16:17 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:16:22 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:16:27 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:16:32 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:16:37 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:16:42 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:16:46 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:16:51 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:16:56 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:17:01 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:17:06 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:17:11 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:17:16 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:17:16 AM Filtering V
+09/23/2019 02:17:22 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:17:27 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:17:31 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:17:36 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:17:41 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:17:46 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:17:51 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:17:56 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:18:01 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:18:06 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:18:11 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:18:15 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:18:20 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:18:25 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:18:30 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:18:35 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:18:40 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:18:45 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:18:50 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:18:55 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:18:59 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:19:04 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:19:09 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:19:14 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:19:14 AM Filtering CpT
+09/23/2019 02:19:21 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:19:26 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:19:31 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:19:35 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:19:40 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:19:45 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:19:50 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:19:55 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:20:00 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:20:05 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:20:09 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:20:14 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:20:19 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:20:24 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:20:29 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:20:34 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:20:39 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:20:44 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:20:48 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:20:53 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:20:58 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:21:03 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:21:08 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:21:13 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:21:13 AM Filtering gZ
+09/23/2019 02:21:20 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:21:25 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:21:29 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:21:34 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:21:39 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:21:44 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:21:49 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:21:54 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:21:59 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:22:03 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:22:08 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:22:13 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:22:18 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:22:23 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:22:28 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:22:33 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:22:38 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:22:42 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:22:47 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:22:52 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:22:57 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:23:02 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:23:07 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:23:12 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:23:12 AM Filtering Lq
+09/23/2019 02:23:19 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:23:23 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:23:28 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:23:33 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:23:38 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:23:43 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:23:48 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:23:53 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:23:58 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:24:02 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:24:07 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:24:12 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:24:17 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:24:22 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:24:27 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:24:32 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:24:37 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:24:41 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:24:46 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:24:51 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:24:56 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:25:01 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:25:06 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:25:11 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:25:19 AM calculated all transient fluxes
+09/23/2019 02:25:48 AM saved eddies data
+09/23/2019 02:25:48 AM Eddies calculated !! Great !!
+09/23/2019 02:25:48 AM Time taken = 1569223548.87
+09/23/2019 02:25:53 AM destination folder created !
+09/23/2019 02:25:54 AM ...........calculate synoptic variability.............6
+09/23/2019 02:25:54 AM imported nc file
+09/23/2019 02:26:19 AM 6imported u
+09/23/2019 02:26:22 AM 6imported v
+09/23/2019 02:26:26 AM 6imported Z
+09/23/2019 02:26:49 AM 6imported q
+09/23/2019 02:26:52 AM 6imported temp
+09/23/2019 02:26:53 AM 6imported surface pressure
+09/23/2019 02:26:54 AM 6imported coordinates
+09/23/2019 02:27:14 AM 6phalf calculated
+09/23/2019 02:27:33 AM 6pfull calculated
+09/23/2019 02:27:33 AM imported coordinates
+09/23/2019 02:27:33 AM imported pressure
+09/23/2019 02:27:37 AM Filtering signal now
+09/23/2019 02:27:37 AM Filtering U
+09/23/2019 02:27:42 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:27:47 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:27:51 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:27:56 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:28:00 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:28:05 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:28:09 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:28:13 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:28:18 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:28:22 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:28:27 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:28:31 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:28:36 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:28:40 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:28:45 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:28:49 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:28:54 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:28:58 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:29:02 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:29:07 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:29:11 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:29:16 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:29:20 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:29:25 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:29:25 AM Filtering V
+09/23/2019 02:29:30 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:29:35 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:29:39 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:29:44 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:29:48 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:29:52 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:29:57 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:30:01 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:30:06 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:30:10 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:30:15 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:30:19 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:30:24 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:30:28 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:30:33 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:30:37 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:30:42 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:30:46 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:30:50 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:30:55 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:30:59 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:31:04 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:31:08 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:31:13 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:31:13 AM Filtering CpT
+09/23/2019 02:31:19 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:31:23 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:31:28 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:31:32 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:31:37 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:31:41 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:31:46 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:31:50 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:31:55 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:31:59 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:32:04 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:32:08 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:32:13 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:32:17 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:32:21 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:32:26 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:32:30 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:32:35 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:32:39 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:32:44 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:32:48 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:32:53 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:32:57 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:33:02 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:33:02 AM Filtering gZ
+09/23/2019 02:33:08 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:33:13 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:33:17 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:33:21 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:33:26 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:33:30 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:33:35 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:33:39 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:33:44 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:33:48 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:33:53 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:33:57 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:34:02 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:34:06 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:34:11 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:34:15 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:34:19 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:34:24 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:34:28 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:34:33 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:34:37 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:34:42 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:34:46 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:34:51 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:34:51 AM Filtering Lq
+09/23/2019 02:34:57 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:35:02 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:35:06 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:35:10 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:35:15 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:35:19 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:35:24 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:35:28 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:35:33 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:35:37 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:35:42 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:35:46 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:35:51 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:35:55 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:36:00 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:36:04 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:36:08 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:36:13 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:36:17 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:36:22 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:36:26 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:36:31 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:36:35 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:36:40 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:36:48 AM calculated all transient fluxes
+09/23/2019 02:37:17 AM saved eddies data
+09/23/2019 02:37:17 AM Eddies calculated !! Great !!
+09/23/2019 02:37:17 AM Time taken = 1569224237.9
+09/23/2019 02:37:21 AM destination folder created !
+09/23/2019 02:37:21 AM ...........calculate synoptic variability.............7
+09/23/2019 02:37:21 AM imported nc file
+09/23/2019 02:37:45 AM 7imported u
+09/23/2019 02:37:49 AM 7imported v
+09/23/2019 02:37:54 AM 7imported Z
+09/23/2019 02:38:23 AM 7imported q
+09/23/2019 02:38:28 AM 7imported temp
+09/23/2019 02:38:31 AM 7imported surface pressure
+09/23/2019 02:38:35 AM 7imported coordinates
+09/23/2019 02:38:54 AM 7phalf calculated
+09/23/2019 02:39:13 AM 7pfull calculated
+09/23/2019 02:39:13 AM imported coordinates
+09/23/2019 02:39:13 AM imported pressure
+09/23/2019 02:39:17 AM Filtering signal now
+09/23/2019 02:39:17 AM Filtering U
+09/23/2019 02:39:23 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:39:28 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:39:32 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:39:37 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:39:42 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:39:47 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:39:52 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:39:57 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:40:02 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:40:06 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:40:11 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:40:16 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:40:21 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:40:26 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:40:31 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:40:36 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:40:40 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:40:45 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:40:50 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:40:55 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:41:00 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:41:05 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:41:10 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:41:14 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:41:14 AM Filtering V
+09/23/2019 02:41:20 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:41:25 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:41:30 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:41:35 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:41:40 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:41:44 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:41:49 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:41:54 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:41:59 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:42:04 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:42:09 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:42:14 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:42:18 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:42:23 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:42:28 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:42:33 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:42:38 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:42:43 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:42:48 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:42:52 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:42:57 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:43:02 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:43:07 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:43:12 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:43:12 AM Filtering CpT
+09/23/2019 02:43:19 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:43:23 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:43:28 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:43:33 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:43:38 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:43:43 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:43:48 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:43:53 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:43:57 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:44:02 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:44:07 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:44:12 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:44:17 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:44:22 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:44:27 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:44:31 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:44:36 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:44:41 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:44:46 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:44:51 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:44:56 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:45:01 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:45:05 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:45:10 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:45:10 AM Filtering gZ
+09/23/2019 02:45:17 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:45:22 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:45:27 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:45:32 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:45:36 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:45:41 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:45:46 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:45:51 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:45:56 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:46:01 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:46:06 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:46:10 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:46:15 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:46:20 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:46:25 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:46:30 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:46:35 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:46:40 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:46:44 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:46:49 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:46:54 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:46:59 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:47:04 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:47:09 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:47:09 AM Filtering Lq
+09/23/2019 02:47:15 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:47:20 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:47:25 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:47:30 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:47:35 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:47:40 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:47:45 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:47:49 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:47:54 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:47:59 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:48:04 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:48:09 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:48:14 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:48:19 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:48:23 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:48:28 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:48:33 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:48:38 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:48:43 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:48:48 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:48:53 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:48:57 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:49:02 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:49:07 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:49:15 AM calculated all transient fluxes
+09/23/2019 02:49:44 AM saved eddies data
+09/23/2019 02:49:45 AM Eddies calculated !! Great !!
+09/23/2019 02:49:45 AM Time taken = 1569224985.03
+09/23/2019 02:49:49 AM destination folder created !
+09/23/2019 02:49:49 AM ...........calculate synoptic variability.............8
+09/23/2019 02:49:49 AM imported nc file
+09/23/2019 02:50:20 AM 8imported u
+09/23/2019 02:50:33 AM 8imported v
+09/23/2019 02:50:37 AM 8imported Z
+09/23/2019 02:51:01 AM 8imported q
+09/23/2019 02:51:04 AM 8imported temp
+09/23/2019 02:51:05 AM 8imported surface pressure
+09/23/2019 02:51:06 AM 8imported coordinates
+09/23/2019 02:51:26 AM 8phalf calculated
+09/23/2019 02:51:45 AM 8pfull calculated
+09/23/2019 02:51:45 AM imported coordinates
+09/23/2019 02:51:45 AM imported pressure
+09/23/2019 02:51:49 AM Filtering signal now
+09/23/2019 02:51:49 AM Filtering U
+09/23/2019 02:51:55 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:52:00 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:52:05 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:52:10 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:52:15 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:52:20 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:52:24 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:52:29 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:52:34 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:52:39 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:52:44 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:52:49 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:52:54 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:52:59 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:53:04 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:53:09 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:53:14 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:53:19 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:53:24 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:53:29 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:53:34 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:53:39 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:53:44 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:53:49 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:53:49 AM Filtering V
+09/23/2019 02:53:55 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:54:00 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:54:05 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:54:10 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:54:15 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:54:20 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:54:25 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:54:30 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:54:34 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:54:39 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:54:44 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:54:49 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:54:54 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:54:59 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:55:04 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:55:09 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:55:14 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:55:19 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:55:24 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:55:29 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:55:34 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:55:39 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:55:44 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:55:49 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:55:49 AM Filtering CpT
+09/23/2019 02:55:56 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:56:01 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:56:06 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:56:11 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:56:16 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:56:21 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:56:26 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:56:31 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:56:36 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:56:41 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:56:46 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:56:50 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:56:55 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:57:00 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:57:05 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:57:10 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:57:15 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:57:20 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:57:25 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:57:30 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:57:35 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:57:40 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:57:45 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:57:50 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:57:50 AM Filtering gZ
+09/23/2019 02:57:57 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 02:58:02 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 02:58:07 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 02:58:12 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 02:58:17 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 02:58:22 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 02:58:27 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 02:58:32 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 02:58:37 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 02:58:42 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 02:58:47 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 02:58:52 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 02:58:57 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 02:59:01 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 02:59:06 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 02:59:11 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 02:59:16 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 02:59:21 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 02:59:26 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 02:59:31 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 02:59:36 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 02:59:41 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 02:59:46 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 02:59:51 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 02:59:51 AM Filtering Lq
+09/23/2019 02:59:58 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:00:03 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:00:08 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:00:13 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:00:18 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:00:23 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:00:28 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:00:33 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:00:38 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:00:43 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:00:48 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:00:53 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:00:58 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:01:03 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:01:08 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:01:13 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:01:18 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:01:23 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:01:27 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:01:32 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:01:37 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:01:42 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:01:47 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:01:52 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:02:01 AM calculated all transient fluxes
+09/23/2019 03:02:30 AM saved eddies data
+09/23/2019 03:02:30 AM Eddies calculated !! Great !!
+09/23/2019 03:02:30 AM Time taken = 1569225750.28
+09/23/2019 03:02:34 AM destination folder created !
+09/23/2019 03:02:35 AM ...........calculate synoptic variability.............9
+09/23/2019 03:02:35 AM imported nc file
+09/23/2019 03:02:59 AM 9imported u
+09/23/2019 03:03:03 AM 9imported v
+09/23/2019 03:03:07 AM 9imported Z
+09/23/2019 03:03:32 AM 9imported q
+09/23/2019 03:03:35 AM 9imported temp
+09/23/2019 03:03:36 AM 9imported surface pressure
+09/23/2019 03:03:37 AM 9imported coordinates
+09/23/2019 03:03:57 AM 9phalf calculated
+09/23/2019 03:04:16 AM 9pfull calculated
+09/23/2019 03:04:16 AM imported coordinates
+09/23/2019 03:04:16 AM imported pressure
+09/23/2019 03:04:19 AM Filtering signal now
+09/23/2019 03:04:19 AM Filtering U
+09/23/2019 03:04:25 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:04:29 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:04:33 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:04:38 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:04:42 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:04:46 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:04:51 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:04:55 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:04:59 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:05:04 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:05:08 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:05:12 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:05:17 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:05:21 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:05:25 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:05:30 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:05:34 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:05:38 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:05:43 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:05:47 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:05:51 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:05:56 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:06:00 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:06:04 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:06:04 AM Filtering V
+09/23/2019 03:06:10 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:06:14 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:06:18 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:06:22 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:06:27 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:06:31 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:06:35 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:06:40 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:06:44 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:06:48 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:06:53 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:06:57 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:07:01 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:07:06 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:07:10 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:07:14 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:07:19 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:07:23 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:07:27 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:07:32 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:07:36 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:07:40 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:07:45 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:07:49 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:07:49 AM Filtering CpT
+09/23/2019 03:07:55 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:07:59 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:08:04 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:08:08 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:08:12 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:08:17 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:08:21 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:08:25 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:08:30 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:08:34 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:08:38 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:08:43 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:08:47 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:08:51 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:08:55 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:09:00 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:09:04 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:09:08 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:09:13 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:09:17 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:09:21 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:09:26 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:09:30 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:09:34 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:09:34 AM Filtering gZ
+09/23/2019 03:09:41 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:09:45 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:09:49 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:09:54 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:09:58 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:10:02 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:10:07 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:10:11 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:10:15 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:10:20 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:10:24 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:10:28 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:10:33 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:10:37 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:10:41 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:10:46 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:10:50 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:10:54 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:10:58 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:11:03 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:11:07 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:11:11 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:11:16 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:11:20 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:11:20 AM Filtering Lq
+09/23/2019 03:11:26 AM Filtering at0.9961084 sigma level for high_pass frequency
+09/23/2019 03:11:31 AM Filtering at0.9873693 sigma level for high_pass frequency
+09/23/2019 03:11:35 AM Filtering at0.9765034 sigma level for high_pass frequency
+09/23/2019 03:11:39 AM Filtering at0.96311134 sigma level for high_pass frequency
+09/23/2019 03:11:44 AM Filtering at0.94679344 sigma level for high_pass frequency
+09/23/2019 03:11:48 AM Filtering at0.92714953 sigma level for high_pass frequency
+09/23/2019 03:11:52 AM Filtering at0.90377825 sigma level for high_pass frequency
+09/23/2019 03:11:57 AM Filtering at0.8762772 sigma level for high_pass frequency
+09/23/2019 03:12:01 AM Filtering at0.8442424 sigma level for high_pass frequency
+09/23/2019 03:12:05 AM Filtering at0.8072677 sigma level for high_pass frequency
+09/23/2019 03:12:10 AM Filtering at0.7649444 sigma level for high_pass frequency
+09/23/2019 03:12:14 AM Filtering at0.71685934 sigma level for high_pass frequency
+09/23/2019 03:12:18 AM Filtering at0.6625931 sigma level for high_pass frequency
+09/23/2019 03:12:23 AM Filtering at0.60171723 sigma level for high_pass frequency
+09/23/2019 03:12:27 AM Filtering at0.53378636 sigma level for high_pass frequency
+09/23/2019 03:12:31 AM Filtering at0.45832515 sigma level for high_pass frequency
+09/23/2019 03:12:36 AM Filtering at0.37808657 sigma level for high_pass frequency
+09/23/2019 03:12:40 AM Filtering at0.29894438 sigma level for high_pass frequency
+09/23/2019 03:12:44 AM Filtering at0.22474922 sigma level for high_pass frequency
+09/23/2019 03:12:48 AM Filtering at0.15738101 sigma level for high_pass frequency
+09/23/2019 03:12:53 AM Filtering at0.09912992 sigma level for high_pass frequency
+09/23/2019 03:12:57 AM Filtering at0.052340195 sigma level for high_pass frequency
+09/23/2019 03:13:01 AM Filtering at0.019088399 sigma level for high_pass frequency
+09/23/2019 03:13:06 AM Filtering at0.003650293 sigma level for high_pass frequency
+09/23/2019 03:13:14 AM calculated all transient fluxes
+09/23/2019 03:13:43 AM saved eddies data
+09/23/2019 03:13:43 AM Eddies calculated !! Great !!
+09/23/2019 03:13:43 AM Time taken = 1569226423.9

@@ -1,0 +1,128 @@
+12/06/2017 02:25:46 AM imported nc file
+12/06/2017 02:25:56 AM imported coordinates
+12/06/2017 02:26:16 AM imported pressure
+12/06/2017 02:26:43 AM saved temp
+12/06/2017 02:27:05 AM saved v_comp
+12/06/2017 02:27:13 AM saved u_comp
+12/06/2017 02:27:36 AM saved Z
+12/06/2017 02:27:48 AM saved q
+12/06/2017 02:27:58 AM saved EKE
+12/06/2017 02:28:02 AM calculated KE
+12/06/2017 02:28:09 AM calculated MSE fluxes
+12/06/2017 02:28:14 AM vertical integartion : MSE fluxes
+12/06/2017 02:28:20 AM vertical integration : sensible fluxes
+12/06/2017 02:28:27 AM vertical integration : latent fluxes
+12/06/2017 02:28:33 AM vertical integration : nc potential fluxes
+12/06/2017 02:28:40 AM vertical integration : kinetic energy fluxes
+12/06/2017 02:28:46 AM vertical integration : Enthalpy 
+12/06/2017 02:28:47 AM calculated dh_by_dt
+12/06/2017 02:28:47 AM loaded coordinates dictionary
+12/06/2017 02:28:47 AM loaded MSE_flux dictionary
+12/06/2017 02:28:47 AM loaded rad_dic dictionary
+12/06/2017 02:28:51 AM successfully saved dictionaries in files
+12/06/2017 02:28:51 AM Begins calculating TE, SE and MM fluxes ....
+12/06/2017 02:28:53 AM calculated dh_by_dt dictionary
+12/06/2017 02:30:23 AM loaded zonal decomposed fluxes dictionary
+12/06/2017 02:30:23 AM loaded zonal radiation dictionary
+12/06/2017 02:30:26 AM ** INTERPOLATION **
+12/06/2017 02:30:30 AM Calculated interpolation
+12/06/2017 02:30:30 AM Calculated divergence
+12/06/2017 02:30:30 AM Saved flux interp dictionary
+12/06/2017 02:30:30 AM Saved flux divergence interp
+12/06/2017 02:30:30 AM Looks great !!
+12/06/2017 02:30:42 AM imported nc file
+12/06/2017 02:30:42 AM imported coordinates
+12/06/2017 02:30:48 AM opened v_comp again
+12/06/2017 02:30:54 AM opened u_comp again
+12/06/2017 02:30:55 AM Trying `CDLL(libgeos_c.so.1)`
+12/06/2017 02:30:55 AM Library path: 'libgeos_c.so.1'
+12/06/2017 02:30:55 AM DLL: <CDLL 'libgeos_c.so.1', handle 25e9150 at 7fc7c4b1ba50>
+12/06/2017 02:30:56 AM Trying `CDLL(libc.so.6)`
+12/06/2017 02:30:56 AM Library path: 'libc.so.6'
+12/06/2017 02:30:56 AM DLL: <CDLL 'libc.so.6', handle 7fc7e677d990 at 7fc7c4b1b110>
+12/06/2017 02:31:03 AM reordering uwind and vwind
+12/06/2017 02:31:08 AM Create a VectorWind instance
+12/06/2017 02:32:43 AM Create a recover data
+12/06/2017 02:32:51 AM saved stream function dictionary
+01/12/2018 01:56:18 PM imported nc file
+01/12/2018 01:56:43 PM imported coordinates, height
+01/12/2018 01:57:07 PM imported u
+01/12/2018 01:57:23 PM imported v
+01/12/2018 01:57:33 PM imported ht
+01/12/2018 02:04:03 PM imported nc file
+01/12/2018 02:04:28 PM imported coordinates, height
+01/12/2018 02:04:57 PM imported u
+01/12/2018 02:05:11 PM imported v
+01/12/2018 02:05:39 PM imported ht
+01/12/2018 02:05:52 PM imported temp
+01/12/2018 02:06:06 PM imported sphum
+01/12/2018 02:06:34 PM imported pressure
+01/12/2018 02:10:10 PM interpolation done
+01/12/2018 02:10:10 PM internal extraction after interpolation
+01/12/2018 02:10:20 PM saved raw coordinates dictionary
+01/12/2018 02:10:25 PM Trying `CDLL(libgeos_c.so.1)`
+01/12/2018 02:10:25 PM Library path: 'libgeos_c.so.1'
+01/12/2018 02:10:25 PM DLL: <CDLL 'libgeos_c.so.1', handle 2bf5810 at 7fa206bfb450>
+01/12/2018 02:10:26 PM Trying `CDLL(libc.so.6)`
+01/12/2018 02:10:26 PM Library path: 'libc.so.6'
+01/12/2018 02:10:26 PM DLL: <CDLL 'libc.so.6', handle 7fa3ec927990 at 7fa206bfb510>
+01/12/2018 02:10:36 PM reordering uwind and vwind
+01/12/2018 02:27:55 PM imported nc file
+01/12/2018 02:28:21 PM imported coordinates, height
+01/12/2018 02:28:50 PM imported u
+01/12/2018 02:29:04 PM imported v
+01/12/2018 02:29:34 PM imported ht
+01/12/2018 02:29:48 PM imported temp
+01/12/2018 02:30:03 PM imported sphum
+01/12/2018 02:30:31 PM imported pressure
+01/12/2018 02:34:08 PM interpolation done
+01/12/2018 02:34:15 PM internal extraction after interpolation
+01/12/2018 02:34:26 PM saved raw coordinates dictionary
+01/12/2018 02:34:30 PM Trying `CDLL(libgeos_c.so.1)`
+01/12/2018 02:34:30 PM Library path: 'libgeos_c.so.1'
+01/12/2018 02:34:30 PM DLL: <CDLL 'libgeos_c.so.1', handle 24144a0 at 7f7a50e71450>
+01/12/2018 02:34:30 PM Trying `CDLL(libc.so.6)`
+01/12/2018 02:34:30 PM Library path: 'libc.so.6'
+01/12/2018 02:34:30 PM DLL: <CDLL 'libc.so.6', handle 7f7df8c1d990 at 7f7a50e71510>
+01/12/2018 02:34:42 PM reordering uwind and vwind
+01/29/2018 05:14:27 PM imported nc file
+01/29/2018 05:14:50 PM imported coordinates, height
+01/29/2018 05:15:18 PM imported u
+01/29/2018 05:15:31 PM imported v
+01/29/2018 05:15:37 PM imported ht
+01/29/2018 05:15:49 PM imported temp
+01/29/2018 05:16:01 PM imported sphum
+01/29/2018 05:16:26 PM imported pressure
+01/29/2018 05:19:59 PM interpolation done
+01/29/2018 05:20:06 PM internal extraction after interpolation
+01/29/2018 05:20:18 PM saved raw coordinates dictionary
+01/29/2018 05:20:25 PM Trying `CDLL(libgeos_c.so.1)`
+01/29/2018 05:20:25 PM Library path: 'libgeos_c.so.1'
+01/29/2018 05:20:25 PM DLL: <CDLL 'libgeos_c.so.1', handle 3d331c0 at 7f87f8796450>
+01/29/2018 05:20:25 PM Trying `CDLL(libc.so.6)`
+01/29/2018 05:20:25 PM Library path: 'libc.so.6'
+01/29/2018 05:20:25 PM DLL: <CDLL 'libc.so.6', handle 7f8ba053d990 at 7f87f8796510>
+01/29/2018 05:20:38 PM reordering uwind and vwind
+01/29/2018 05:20:43 PM Create a VectorWind instance
+01/29/2018 05:24:16 PM imported nc file
+01/29/2018 05:24:39 PM imported coordinates, height
+01/29/2018 05:25:05 PM imported u
+01/29/2018 05:25:18 PM imported v
+01/29/2018 05:25:24 PM imported ht
+01/29/2018 05:25:36 PM imported temp
+01/29/2018 05:25:49 PM imported sphum
+01/29/2018 05:26:14 PM imported pressure
+01/29/2018 05:29:44 PM interpolation done
+01/29/2018 05:29:52 PM internal extraction after interpolation
+01/29/2018 05:30:03 PM saved raw coordinates dictionary
+01/29/2018 05:30:07 PM Trying `CDLL(libgeos_c.so.1)`
+01/29/2018 05:30:07 PM Library path: 'libgeos_c.so.1'
+01/29/2018 05:30:07 PM DLL: <CDLL 'libgeos_c.so.1', handle 37d9d40 at 7f3eab460450>
+01/29/2018 05:30:08 PM Trying `CDLL(libc.so.6)`
+01/29/2018 05:30:08 PM Library path: 'libc.so.6'
+01/29/2018 05:30:08 PM DLL: <CDLL 'libc.so.6', handle 7f425320d990 at 7f3eab460510>
+01/29/2018 05:30:15 PM reordering uwind and vwind
+01/29/2018 05:30:19 PM Create a VectorWind instance
+01/29/2018 05:30:48 PM VectorWind recovered
+01/29/2018 05:30:48 PM Masked the data
+01/29/2018 05:30:54 PM saved stream function dictionary

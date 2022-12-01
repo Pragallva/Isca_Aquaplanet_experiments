@@ -1,0 +1,8 @@
+/project2/tas1/pragallva/Fall_quarter_2017/figures/MSE_fluxes/land  myzonalqflux_div.pdf
+/project2/tas1/pragallva/Fall_quarter_2017/figures/MSE_fluxes/land  myzonalqflux_flux.pdf
+[ 122866.02194198  124866.02194198  126866.02194198  128866.02194198
+  130866.02194198  132866.02194198  134866.02194198  136866.02194198
+  138866.02194198]
+np.min(co_L), np.max(co_L) 122866.021942 140338.354312
+np.min(co_H),np.max(co_H) 9830.16634351 15531.8003368
+/project2/tas1/pragallva/Fall_quarter_2017/figures/stream_wind_ht/land_myzonalqflux_Ruth.pdf

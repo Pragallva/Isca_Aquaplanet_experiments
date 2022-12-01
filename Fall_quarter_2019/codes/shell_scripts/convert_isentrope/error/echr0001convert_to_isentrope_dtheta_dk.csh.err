@@ -1,0 +1,23 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:723: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/convert_to_isentropic_dtheta_dk.py", line 236, in <module>
+    VAR1s   = dataset.createVariable(var1,   np.float32, ('time','level','lat','lon'))
+  File "netCDF4/_netCDF4.pyx", line 2768, in netCDF4._netCDF4.Dataset.createVariable
+  File "netCDF4/_netCDF4.pyx", line 3807, in netCDF4._netCDF4.Variable.__init__
+  File "netCDF4/_netCDF4.pyx", line 1887, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: String match to name in use
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:723: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:723: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:723: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')

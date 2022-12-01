@@ -1,0 +1,14 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:692: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+Trying `CDLL(libgeos_c.so.1)`
+Library path: 'libgeos_c.so.1'
+DLL: <CDLL 'libgeos_c.so.1', handle 24144a0 at 7f7a50e71450>
+Trying `CDLL(libc.so.6)`
+Library path: 'libc.so.6'
+DLL: <CDLL 'libc.so.6', handle 7f7df8c1d990 at 7f7a50e71510>
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/interpolation_from_sigma_to_pres_coord.py", line 147, in <module>
+    w = VectorWind(uwnd, vwnd)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/windspharm-1.5.1-py2.7.egg/windspharm/standard.py", line 93, in __init__
+    raise ValueError('u and v cannot contain missing values')
+ValueError: u and v cannot contain missing values

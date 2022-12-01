@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 100, in <module>
+    u   = aoy(u_v['u'])
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 82, in aoy
+    x=x.reshape(5,1440,x.shape[1],x.shape[2],x.shape[3])
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/numpy/ma/core.py", line 4474, in reshape
+    result = self._data.reshape(*s, **kwargs).view(type(self))
+ValueError: total size of new array must be unchanged
+slurmstepd-midway802: error: Detected 1 oom-kill event(s) in step 44395336.batch cgroup.

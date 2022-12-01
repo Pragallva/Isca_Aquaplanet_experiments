@@ -1,0 +1,41 @@
+10/01/2019 10:24:54 AM ** INTERPOLATION ** 
+10/01/2019 10:24:54 AM destination folder created !
+10/01/2019 06:19:14 PM ** INTERPOLATION ** 
+10/01/2019 06:19:14 PM destination folder created !
+10/01/2019 06:19:14 PM ----0----
+10/01/2019 06:19:14 PM ----1----
+10/01/2019 06:19:14 PM ----2----
+10/01/2019 06:19:15 PM ----3----
+10/01/2019 06:19:15 PM ----4----
+10/01/2019 06:19:15 PM ----5----
+10/01/2019 06:19:15 PM ----6----
+10/01/2019 06:19:15 PM ----7----
+10/01/2019 06:19:15 PM ----8----
+10/01/2019 06:19:15 PM ----9----
+10/01/2019 06:19:16 PM Calculated interpolation
+10/01/2019 06:19:16 PM Calculated divergence
+10/01/2019 06:19:17 PM Saved raw data interp dictionary
+10/01/2019 06:19:17 PM Saved flux interp dictionary
+10/01/2019 06:19:17 PM Saved flux divergence interp
+10/01/2019 06:19:17 PM Saved flux vert dictionary
+10/01/2019 06:19:17 PM Saved flux divergence vert interp
+10/01/2019 06:19:17 PM Looks great !! Time taken --> 6.33106207848
+10/01/2019 09:57:44 PM ** INTERPOLATION ** 
+10/01/2019 09:57:44 PM ----0----
+10/01/2019 09:57:45 PM ----1----
+10/01/2019 09:57:45 PM ----2----
+10/01/2019 09:57:45 PM ----3----
+10/01/2019 09:57:45 PM ----4----
+10/01/2019 09:57:46 PM ----5----
+10/01/2019 09:57:46 PM ----6----
+10/01/2019 09:57:46 PM ----7----
+10/01/2019 09:57:46 PM ----8----
+10/01/2019 09:57:47 PM ----9----
+10/01/2019 09:57:48 PM Calculated interpolation
+10/01/2019 09:57:48 PM Calculated divergence
+10/01/2019 09:57:49 PM Saved raw data interp dictionary
+10/01/2019 09:57:49 PM Saved flux interp dictionary
+10/01/2019 09:57:49 PM Saved flux divergence interp
+10/01/2019 09:57:49 PM Saved flux vert dictionary
+10/01/2019 09:57:49 PM Saved flux divergence vert interp
+10/01/2019 09:57:49 PM Looks great !! Time taken --> 6.0327808857

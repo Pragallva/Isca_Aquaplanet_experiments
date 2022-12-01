@@ -1,0 +1,395 @@
+11/06/2018 05:24:09 PM destination folder created !
+11/06/2018 05:24:09 PM ...........Extract_ncfile_save_fluxes_radiation.py.............0
+11/06/2018 05:24:09 PM imported nc file
+11/06/2018 05:25:31 PM imported coordinates
+11/06/2018 05:27:24 PM imported pressure
+11/06/2018 05:28:32 PM saved temp
+11/06/2018 05:29:21 PM saved v_comp
+11/06/2018 05:30:23 PM saved u_comp
+11/06/2018 05:31:32 PM saved Z
+11/06/2018 05:32:37 PM saved q
+11/06/2018 05:33:18 PM saved EKE
+11/06/2018 05:33:22 PM calculated KE
+11/06/2018 05:33:27 PM calculated MSE fluxes
+11/06/2018 05:33:39 PM saved raw data
+11/06/2018 05:33:41 PM vertical integartion : MSE fluxes
+11/06/2018 05:33:45 PM vertical integration : sensible fluxes
+11/06/2018 05:33:48 PM vertical integration : latent fluxes
+11/06/2018 05:33:52 PM vertical integration : nc potential fluxes
+11/06/2018 05:33:55 PM vertical integration : kinetic energy fluxes
+11/06/2018 05:33:59 PM vertical integration : Enthalpy 
+11/06/2018 05:38:39 PM saved radiation
+11/06/2018 05:39:23 PM saved t_surf
+11/06/2018 05:40:09 PM saved flux_oceanq
+11/06/2018 05:40:57 PM precipitation
+11/06/2018 05:40:58 PM radiation-- I think its right now !
+11/06/2018 05:40:59 PM calculated dh_by_dt
+11/06/2018 05:40:59 PM loaded coordinates dictionary
+11/06/2018 05:40:59 PM loaded MSE_flux dictionary
+11/06/2018 05:40:59 PM loaded rad_dic dictionary
+11/06/2018 05:41:01 PM successfully saved dictionaries in files
+11/06/2018 05:41:01 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 05:41:03 PM calculated dh_by_dt dictionary
+11/06/2018 05:43:18 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 05:43:18 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 05:43:19 PM loaded zonal radiation dictionary
+11/06/2018 05:43:57 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 05:43:57 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 05:44:01 PM ...........Extract_ncfile_save_fluxes_radiation.py.............1
+11/06/2018 05:44:01 PM imported nc file
+11/06/2018 05:45:28 PM imported coordinates
+11/06/2018 05:47:51 PM imported pressure
+11/06/2018 05:48:55 PM saved temp
+11/06/2018 05:50:02 PM saved v_comp
+11/06/2018 05:51:09 PM saved u_comp
+11/06/2018 05:52:18 PM saved Z
+11/06/2018 05:53:23 PM saved q
+11/06/2018 05:54:04 PM saved EKE
+11/06/2018 05:54:07 PM calculated KE
+11/06/2018 05:54:13 PM calculated MSE fluxes
+11/06/2018 05:54:25 PM saved raw data
+11/06/2018 05:54:27 PM vertical integartion : MSE fluxes
+11/06/2018 05:54:31 PM vertical integration : sensible fluxes
+11/06/2018 05:54:34 PM vertical integration : latent fluxes
+11/06/2018 05:54:38 PM vertical integration : nc potential fluxes
+11/06/2018 05:54:42 PM vertical integration : kinetic energy fluxes
+11/06/2018 05:54:45 PM vertical integration : Enthalpy 
+11/06/2018 05:59:27 PM saved radiation
+11/06/2018 06:00:13 PM saved t_surf
+11/06/2018 06:01:00 PM saved flux_oceanq
+11/06/2018 06:01:51 PM precipitation
+11/06/2018 06:01:52 PM radiation-- I think its right now !
+11/06/2018 06:01:52 PM calculated dh_by_dt
+11/06/2018 06:01:52 PM loaded coordinates dictionary
+11/06/2018 06:01:52 PM loaded MSE_flux dictionary
+11/06/2018 06:01:52 PM loaded rad_dic dictionary
+11/06/2018 06:01:54 PM successfully saved dictionaries in files
+11/06/2018 06:01:54 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 06:01:55 PM calculated dh_by_dt dictionary
+11/06/2018 06:04:16 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 06:04:16 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 06:04:17 PM loaded zonal radiation dictionary
+11/06/2018 06:04:56 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 06:04:56 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 06:05:01 PM ...........Extract_ncfile_save_fluxes_radiation.py.............2
+11/06/2018 06:05:01 PM imported nc file
+11/06/2018 06:06:28 PM imported coordinates
+11/06/2018 06:08:47 PM imported pressure
+11/06/2018 06:09:46 PM saved temp
+11/06/2018 06:10:52 PM saved v_comp
+11/06/2018 06:11:56 PM saved u_comp
+11/06/2018 06:13:04 PM saved Z
+11/06/2018 06:14:16 PM saved q
+11/06/2018 06:15:04 PM saved EKE
+11/06/2018 06:15:07 PM calculated KE
+11/06/2018 06:15:13 PM calculated MSE fluxes
+11/06/2018 06:15:25 PM saved raw data
+11/06/2018 06:15:27 PM vertical integartion : MSE fluxes
+11/06/2018 06:15:31 PM vertical integration : sensible fluxes
+11/06/2018 06:15:35 PM vertical integration : latent fluxes
+11/06/2018 06:15:38 PM vertical integration : nc potential fluxes
+11/06/2018 06:15:42 PM vertical integration : kinetic energy fluxes
+11/06/2018 06:15:46 PM vertical integration : Enthalpy 
+11/06/2018 06:20:26 PM saved radiation
+11/06/2018 06:21:12 PM saved t_surf
+11/06/2018 06:21:57 PM saved flux_oceanq
+11/06/2018 06:22:50 PM precipitation
+11/06/2018 06:22:51 PM radiation-- I think its right now !
+11/06/2018 06:22:52 PM calculated dh_by_dt
+11/06/2018 06:22:52 PM loaded coordinates dictionary
+11/06/2018 06:22:52 PM loaded MSE_flux dictionary
+11/06/2018 06:22:52 PM loaded rad_dic dictionary
+11/06/2018 06:22:53 PM successfully saved dictionaries in files
+11/06/2018 06:22:53 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 06:22:55 PM calculated dh_by_dt dictionary
+11/06/2018 06:25:12 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 06:25:12 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 06:25:12 PM loaded zonal radiation dictionary
+11/06/2018 06:25:49 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 06:25:49 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 06:25:54 PM ...........Extract_ncfile_save_fluxes_radiation.py.............3
+11/06/2018 06:25:54 PM imported nc file
+11/06/2018 06:27:20 PM imported coordinates
+11/06/2018 06:29:33 PM imported pressure
+11/06/2018 06:30:40 PM saved temp
+11/06/2018 06:31:47 PM saved v_comp
+11/06/2018 06:32:51 PM saved u_comp
+11/06/2018 06:33:53 PM saved Z
+11/06/2018 06:35:02 PM saved q
+11/06/2018 06:35:45 PM saved EKE
+11/06/2018 06:35:48 PM calculated KE
+11/06/2018 06:35:54 PM calculated MSE fluxes
+11/06/2018 06:36:06 PM saved raw data
+11/06/2018 06:36:09 PM vertical integartion : MSE fluxes
+11/06/2018 06:36:13 PM vertical integration : sensible fluxes
+11/06/2018 06:36:16 PM vertical integration : latent fluxes
+11/06/2018 06:36:20 PM vertical integration : nc potential fluxes
+11/06/2018 06:36:24 PM vertical integration : kinetic energy fluxes
+11/06/2018 06:36:27 PM vertical integration : Enthalpy 
+11/06/2018 06:40:52 PM saved radiation
+11/06/2018 06:41:35 PM saved t_surf
+11/06/2018 06:42:17 PM saved flux_oceanq
+11/06/2018 06:43:00 PM precipitation
+11/06/2018 06:43:01 PM radiation-- I think its right now !
+11/06/2018 06:43:02 PM calculated dh_by_dt
+11/06/2018 06:43:02 PM loaded coordinates dictionary
+11/06/2018 06:43:02 PM loaded MSE_flux dictionary
+11/06/2018 06:43:02 PM loaded rad_dic dictionary
+11/06/2018 06:43:02 PM successfully saved dictionaries in files
+11/06/2018 06:43:02 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 06:43:04 PM calculated dh_by_dt dictionary
+11/06/2018 06:45:19 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 06:45:19 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 06:45:19 PM loaded zonal radiation dictionary
+11/06/2018 06:45:56 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 06:45:56 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 06:46:02 PM ...........Extract_ncfile_save_fluxes_radiation.py.............4
+11/06/2018 06:46:02 PM imported nc file
+11/06/2018 06:47:31 PM imported coordinates
+11/06/2018 06:49:39 PM imported pressure
+11/06/2018 06:50:42 PM saved temp
+11/06/2018 06:51:45 PM saved v_comp
+11/06/2018 06:52:50 PM saved u_comp
+11/06/2018 06:53:53 PM saved Z
+11/06/2018 06:54:55 PM saved q
+11/06/2018 06:55:39 PM saved EKE
+11/06/2018 06:55:42 PM calculated KE
+11/06/2018 06:55:48 PM calculated MSE fluxes
+11/06/2018 06:56:00 PM saved raw data
+11/06/2018 06:56:02 PM vertical integartion : MSE fluxes
+11/06/2018 06:56:06 PM vertical integration : sensible fluxes
+11/06/2018 06:56:10 PM vertical integration : latent fluxes
+11/06/2018 06:56:14 PM vertical integration : nc potential fluxes
+11/06/2018 06:56:17 PM vertical integration : kinetic energy fluxes
+11/06/2018 06:56:21 PM vertical integration : Enthalpy 
+11/06/2018 07:00:33 PM saved radiation
+11/06/2018 07:01:16 PM saved t_surf
+11/06/2018 07:02:05 PM saved flux_oceanq
+11/06/2018 07:02:47 PM precipitation
+11/06/2018 07:02:49 PM radiation-- I think its right now !
+11/06/2018 07:02:49 PM calculated dh_by_dt
+11/06/2018 07:02:49 PM loaded coordinates dictionary
+11/06/2018 07:02:49 PM loaded MSE_flux dictionary
+11/06/2018 07:02:49 PM loaded rad_dic dictionary
+11/06/2018 07:02:50 PM successfully saved dictionaries in files
+11/06/2018 07:02:50 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 07:02:52 PM calculated dh_by_dt dictionary
+11/06/2018 07:05:15 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 07:05:15 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 07:05:15 PM loaded zonal radiation dictionary
+11/06/2018 07:05:52 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 07:05:52 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 07:05:59 PM ...........Extract_ncfile_save_fluxes_radiation.py.............5
+11/06/2018 07:05:59 PM imported nc file
+11/06/2018 07:07:26 PM imported coordinates
+11/06/2018 07:09:36 PM imported pressure
+11/06/2018 07:10:38 PM saved temp
+11/06/2018 07:11:41 PM saved v_comp
+11/06/2018 07:12:46 PM saved u_comp
+11/06/2018 07:13:49 PM saved Z
+11/06/2018 07:14:53 PM saved q
+11/06/2018 07:15:32 PM saved EKE
+11/06/2018 07:15:35 PM calculated KE
+11/06/2018 07:15:40 PM calculated MSE fluxes
+11/06/2018 07:15:51 PM saved raw data
+11/06/2018 07:15:54 PM vertical integartion : MSE fluxes
+11/06/2018 07:15:57 PM vertical integration : sensible fluxes
+11/06/2018 07:16:00 PM vertical integration : latent fluxes
+11/06/2018 07:16:04 PM vertical integration : nc potential fluxes
+11/06/2018 07:16:07 PM vertical integration : kinetic energy fluxes
+11/06/2018 07:16:10 PM vertical integration : Enthalpy 
+11/06/2018 07:20:30 PM saved radiation
+11/06/2018 07:21:13 PM saved t_surf
+11/06/2018 07:21:56 PM saved flux_oceanq
+11/06/2018 07:22:41 PM precipitation
+11/06/2018 07:22:42 PM radiation-- I think its right now !
+11/06/2018 07:22:43 PM calculated dh_by_dt
+11/06/2018 07:22:43 PM loaded coordinates dictionary
+11/06/2018 07:22:43 PM loaded MSE_flux dictionary
+11/06/2018 07:22:43 PM loaded rad_dic dictionary
+11/06/2018 07:22:44 PM successfully saved dictionaries in files
+11/06/2018 07:22:44 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 07:22:45 PM calculated dh_by_dt dictionary
+11/06/2018 07:25:03 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 07:25:03 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 07:25:04 PM loaded zonal radiation dictionary
+11/06/2018 07:25:40 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 07:25:40 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 07:25:46 PM ...........Extract_ncfile_save_fluxes_radiation.py.............6
+11/06/2018 07:25:46 PM imported nc file
+11/06/2018 07:27:14 PM imported coordinates
+11/06/2018 07:29:21 PM imported pressure
+11/06/2018 07:30:24 PM saved temp
+11/06/2018 07:31:29 PM saved v_comp
+11/06/2018 07:32:41 PM saved u_comp
+11/06/2018 07:33:46 PM saved Z
+11/06/2018 07:34:51 PM saved q
+11/06/2018 07:35:33 PM saved EKE
+11/06/2018 07:35:37 PM calculated KE
+11/06/2018 07:35:42 PM calculated MSE fluxes
+11/06/2018 07:35:54 PM saved raw data
+11/06/2018 07:35:56 PM vertical integartion : MSE fluxes
+11/06/2018 07:36:00 PM vertical integration : sensible fluxes
+11/06/2018 07:36:04 PM vertical integration : latent fluxes
+11/06/2018 07:36:08 PM vertical integration : nc potential fluxes
+11/06/2018 07:36:12 PM vertical integration : kinetic energy fluxes
+11/06/2018 07:36:15 PM vertical integration : Enthalpy 
+11/06/2018 07:41:41 PM saved radiation
+11/06/2018 07:42:39 PM saved t_surf
+11/06/2018 07:43:40 PM saved flux_oceanq
+11/06/2018 07:44:34 PM precipitation
+11/06/2018 07:44:35 PM radiation-- I think its right now !
+11/06/2018 07:44:36 PM calculated dh_by_dt
+11/06/2018 07:44:36 PM loaded coordinates dictionary
+11/06/2018 07:44:36 PM loaded MSE_flux dictionary
+11/06/2018 07:44:36 PM loaded rad_dic dictionary
+11/06/2018 07:44:38 PM successfully saved dictionaries in files
+11/06/2018 07:44:38 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 07:44:39 PM calculated dh_by_dt dictionary
+11/06/2018 07:46:53 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 07:46:53 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 07:46:53 PM loaded zonal radiation dictionary
+11/06/2018 07:47:29 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 07:47:29 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 07:47:37 PM ...........Extract_ncfile_save_fluxes_radiation.py.............7
+11/06/2018 07:47:37 PM imported nc file
+11/06/2018 07:49:30 PM imported coordinates
+11/06/2018 07:51:58 PM imported pressure
+11/06/2018 07:53:05 PM saved temp
+11/06/2018 07:54:15 PM saved v_comp
+11/06/2018 07:55:24 PM saved u_comp
+11/06/2018 07:56:37 PM saved Z
+11/06/2018 07:57:42 PM saved q
+11/06/2018 07:58:27 PM saved EKE
+11/06/2018 07:58:30 PM calculated KE
+11/06/2018 07:58:36 PM calculated MSE fluxes
+11/06/2018 07:58:48 PM saved raw data
+11/06/2018 07:58:50 PM vertical integartion : MSE fluxes
+11/06/2018 07:58:54 PM vertical integration : sensible fluxes
+11/06/2018 07:58:58 PM vertical integration : latent fluxes
+11/06/2018 07:59:01 PM vertical integration : nc potential fluxes
+11/06/2018 07:59:05 PM vertical integration : kinetic energy fluxes
+11/06/2018 07:59:09 PM vertical integration : Enthalpy 
+11/06/2018 08:03:46 PM saved radiation
+11/06/2018 08:04:29 PM saved t_surf
+11/06/2018 08:05:17 PM saved flux_oceanq
+11/06/2018 08:06:10 PM precipitation
+11/06/2018 08:06:11 PM radiation-- I think its right now !
+11/06/2018 08:06:11 PM calculated dh_by_dt
+11/06/2018 08:06:11 PM loaded coordinates dictionary
+11/06/2018 08:06:11 PM loaded MSE_flux dictionary
+11/06/2018 08:06:11 PM loaded rad_dic dictionary
+11/06/2018 08:06:13 PM successfully saved dictionaries in files
+11/06/2018 08:06:13 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 08:06:14 PM calculated dh_by_dt dictionary
+11/06/2018 08:08:35 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 08:08:35 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 08:08:36 PM loaded zonal radiation dictionary
+11/06/2018 08:09:15 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 08:09:15 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 08:09:22 PM ...........Extract_ncfile_save_fluxes_radiation.py.............8
+11/06/2018 08:09:22 PM imported nc file
+11/06/2018 08:10:49 PM imported coordinates
+11/06/2018 08:13:10 PM imported pressure
+11/06/2018 08:14:16 PM saved temp
+11/06/2018 08:15:21 PM saved v_comp
+11/06/2018 08:16:19 PM saved u_comp
+11/06/2018 08:17:22 PM saved Z
+11/06/2018 08:18:26 PM saved q
+11/06/2018 08:19:07 PM saved EKE
+11/06/2018 08:19:11 PM calculated KE
+11/06/2018 08:19:16 PM calculated MSE fluxes
+11/06/2018 08:19:27 PM saved raw data
+11/06/2018 08:19:29 PM vertical integartion : MSE fluxes
+11/06/2018 08:19:32 PM vertical integration : sensible fluxes
+11/06/2018 08:19:36 PM vertical integration : latent fluxes
+11/06/2018 08:19:39 PM vertical integration : nc potential fluxes
+11/06/2018 08:19:42 PM vertical integration : kinetic energy fluxes
+11/06/2018 08:19:45 PM vertical integration : Enthalpy 
+11/06/2018 08:24:07 PM saved radiation
+11/06/2018 08:24:49 PM saved t_surf
+11/06/2018 08:25:35 PM saved flux_oceanq
+11/06/2018 08:26:29 PM precipitation
+11/06/2018 08:26:30 PM radiation-- I think its right now !
+11/06/2018 08:26:31 PM calculated dh_by_dt
+11/06/2018 08:26:31 PM loaded coordinates dictionary
+11/06/2018 08:26:31 PM loaded MSE_flux dictionary
+11/06/2018 08:26:31 PM loaded rad_dic dictionary
+11/06/2018 08:26:32 PM successfully saved dictionaries in files
+11/06/2018 08:26:32 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 08:26:38 PM calculated dh_by_dt dictionary
+11/06/2018 08:28:46 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 08:28:46 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 08:28:46 PM loaded zonal radiation dictionary
+11/06/2018 08:29:20 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 08:29:20 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 08:29:53 PM ...........Extract_ncfile_save_fluxes_radiation.py.............9
+11/06/2018 08:29:53 PM imported nc file
+11/06/2018 08:31:15 PM imported coordinates
+11/06/2018 08:33:31 PM imported pressure
+11/06/2018 08:34:36 PM saved temp
+11/06/2018 08:35:42 PM saved v_comp
+11/06/2018 08:36:40 PM saved u_comp
+11/06/2018 08:37:39 PM saved Z
+11/06/2018 08:38:43 PM saved q
+11/06/2018 08:39:24 PM saved EKE
+11/06/2018 08:39:27 PM calculated KE
+11/06/2018 08:39:32 PM calculated MSE fluxes
+11/06/2018 08:39:43 PM saved raw data
+11/06/2018 08:39:45 PM vertical integartion : MSE fluxes
+11/06/2018 08:39:49 PM vertical integration : sensible fluxes
+11/06/2018 08:39:52 PM vertical integration : latent fluxes
+11/06/2018 08:39:56 PM vertical integration : nc potential fluxes
+11/06/2018 08:39:59 PM vertical integration : kinetic energy fluxes
+11/06/2018 08:40:03 PM vertical integration : Enthalpy 
+11/06/2018 08:44:27 PM saved radiation
+11/06/2018 08:45:12 PM saved t_surf
+11/06/2018 08:45:58 PM saved flux_oceanq
+11/06/2018 08:46:45 PM precipitation
+11/06/2018 08:46:46 PM radiation-- I think its right now !
+11/06/2018 08:46:47 PM calculated dh_by_dt
+11/06/2018 08:46:47 PM loaded coordinates dictionary
+11/06/2018 08:46:47 PM loaded MSE_flux dictionary
+11/06/2018 08:46:47 PM loaded rad_dic dictionary
+11/06/2018 08:46:49 PM successfully saved dictionaries in files
+11/06/2018 08:46:49 PM Begins calculating TE, SE and MM fluxes ....
+11/06/2018 08:46:50 PM calculated dh_by_dt dictionary
+11/06/2018 08:48:56 PM loaded zonal decomposed fluxes dictionary
+11/06/2018 08:48:56 PM loaded zonal decomposed fluxes without vertical avg dictionary
+11/06/2018 08:48:56 PM loaded zonal radiation dictionary
+11/06/2018 08:49:29 PM loaded MMC_thermo_dynamic dictionary
+11/06/2018 08:49:29 PM loaded MMC_thermo_dynamic_vert dictionary
+11/06/2018 08:49:34 PM ** INTERPOLATION ** 
+11/06/2018 08:49:38 PM ----0----
+11/06/2018 08:49:38 PM ----1----
+11/06/2018 08:49:38 PM ----2----
+11/06/2018 08:49:39 PM ----3----
+11/06/2018 08:49:39 PM ----4----
+11/06/2018 08:49:39 PM ----5----
+11/06/2018 08:49:39 PM ----6----
+11/06/2018 08:49:40 PM ----7----
+11/06/2018 08:49:40 PM ----8----
+11/06/2018 08:49:40 PM ----9----
+11/06/2018 08:49:41 PM Calculated interpolation
+11/06/2018 08:49:41 PM Calculated divergence
+11/06/2018 08:49:42 PM Saved raw data interp dictionary
+11/06/2018 08:49:42 PM Saved flux interp dictionary
+11/06/2018 08:49:42 PM Saved flux divergence interp
+11/06/2018 08:49:42 PM Saved flux vert dictionary
+11/06/2018 08:49:42 PM Saved flux divergence vert interp
+11/06/2018 08:49:42 PM Looks great !!
+11/06/2018 08:49:43 PM ** INTERPOLATION ** 
+11/06/2018 08:49:45 PM ----0----
+11/06/2018 08:49:45 PM ----1----
+11/06/2018 08:49:45 PM ----2----
+11/06/2018 08:49:45 PM ----3----
+11/06/2018 08:49:45 PM ----4----
+11/06/2018 08:49:45 PM ----5----
+11/06/2018 08:49:45 PM ----6----
+11/06/2018 08:49:46 PM ----7----
+11/06/2018 08:49:46 PM ----8----
+11/06/2018 08:49:46 PM ----9----
+11/06/2018 08:49:47 PM Calculated interpolation
+11/06/2018 08:49:47 PM Saved decompose mmc dictionary
+11/06/2018 08:49:47 PM Saved decompose mmc dictionary
+11/06/2018 08:49:47 PM Looks great !!

@@ -1,0 +1,6 @@
+Trying `CDLL(libgeos_c.so.1)`
+Library path: 'libgeos_c.so.1'
+DLL: <CDLL 'libgeos_c.so.1', handle 25e9150 at 7fc7c4b1ba50>
+Trying `CDLL(libc.so.6)`
+Library path: 'libc.so.6'
+DLL: <CDLL 'libc.so.6', handle 7fc7e677d990 at 7fc7c4b1b110>

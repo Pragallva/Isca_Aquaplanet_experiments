@@ -1,0 +1,146 @@
+2019-03-06 13:16:58,159 - gfdl - WARNING - Working directory for exp '50m' already exists
+2019-03-06 13:17:00,047 - gfdl - INFO - Writing path_names to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/path_names'
+2019-03-06 13:17:00,170 - gfdl - INFO - Running compiler
+2019-03-06 13:17:00,201 - gfdl - DEBUG - loadmodules
+2019-03-06 13:17:00,946 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: pine: not found
+2019-03-06 13:17:00,946 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: quota: not found
+2019-03-06 13:17:00,946 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: chsh: not found
+2019-03-06 13:17:00,946 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: grpe: not found
+2019-03-06 13:17:00,947 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: vi: not found
+2019-03-06 13:17:00,947 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: alloc: not found
+2019-03-06 13:17:00,947 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/compile.sh: line 0: unalias: chfn: not found
+2019-03-06 13:17:01,938 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-03-06 13:17:01,941 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-03-06 13:17:01,941 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-03-06 13:17:01,941 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-03-06 13:17:01,941 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-03-06 13:17:01,941 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-03-06 13:17:02,156 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-03-06 13:17:02,157 - gfdl - DEBUG - loadmodules
+2019-03-06 13:17:02,333 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: pine: not found
+2019-03-06 13:17:02,333 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: quota: not found
+2019-03-06 13:17:02,333 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chsh: not found
+2019-03-06 13:17:02,333 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: grpe: not found
+2019-03-06 13:17:02,333 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: alloc: not found
+2019-03-06 13:17:02,334 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: vi: not found
+2019-03-06 13:17:02,334 - gfdl - DEBUG - ./compile_mppn.sh: line 0: unalias: chfn: not found
+2019-03-06 13:17:02,968 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-03-06 13:17:02,971 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-03-06 13:17:02,971 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-03-06 13:17:02,971 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-03-06 13:17:02,971 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-03-06 13:17:02,971 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-03-06 13:17:03,836 - gfdl - DEBUG - ln: creating symbolic link `/project2/tas1/pragallva/isca_sim/gfdl_work/50m/exec/mppnccombine.x': File exists
+2019-03-06 13:17:08,806 - gfdl - DEBUG - Makefile is ready.
+2019-03-06 13:17:08,968 - gfdl - DEBUG - make: Nothing to be done for `all'.
+2019-03-06 13:17:09,047 - gfdl - DEBUG - make: `fms_moist.x' is up to date.
+2019-03-06 13:17:09,048 - gfdl - DEBUG - ..................................................................................................................................................................................................
+2019-03-06 13:17:09,099 - gfdl - DEBUG - Compilation complete.
+2019-03-06 13:17:09,664 - gfdl - INFO - Emptied run directory '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run'
+2019-03-06 13:17:09,671 - gfdl - ERROR - Data for month 1 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,672 - gfdl - ERROR - Data for month 2 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,673 - gfdl - ERROR - Data for month 3 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,676 - gfdl - ERROR - Data for month 4 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,678 - gfdl - ERROR - Data for month 5 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,680 - gfdl - ERROR - Data for month 6 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,681 - gfdl - ERROR - Data for month 7 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,683 - gfdl - ERROR - Data for month 8 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,684 - gfdl - ERROR - Data for month 9 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,687 - gfdl - ERROR - Data for month 10 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,688 - gfdl - ERROR - Data for month 11 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,689 - gfdl - ERROR - Data for month 12 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,691 - gfdl - ERROR - Data for month 13 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,692 - gfdl - ERROR - Data for month 14 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,694 - gfdl - ERROR - Data for month 15 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,697 - gfdl - ERROR - Data for month 16 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,699 - gfdl - ERROR - Data for month 17 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,700 - gfdl - ERROR - Data for month 18 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,702 - gfdl - ERROR - Data for month 19 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,705 - gfdl - ERROR - Data for month 20 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,707 - gfdl - ERROR - Data for month 21 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,709 - gfdl - ERROR - Data for month 22 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,710 - gfdl - ERROR - Data for month 23 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,713 - gfdl - ERROR - Data for month 24 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,716 - gfdl - ERROR - Data for month 25 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,718 - gfdl - ERROR - Data for month 26 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,720 - gfdl - ERROR - Data for month 27 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,721 - gfdl - ERROR - Data for month 28 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,723 - gfdl - ERROR - Data for month 29 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,724 - gfdl - ERROR - Data for month 30 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,726 - gfdl - ERROR - Data for month 31 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,727 - gfdl - ERROR - Data for month 32 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,730 - gfdl - ERROR - Data for month 33 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,730 - gfdl - ERROR - Data for month 34 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,731 - gfdl - ERROR - Data for month 35 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,732 - gfdl - ERROR - Data for month 36 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,733 - gfdl - ERROR - Data for month 37 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,735 - gfdl - ERROR - Data for month 38 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,737 - gfdl - ERROR - Data for month 39 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,740 - gfdl - ERROR - Data for month 40 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,741 - gfdl - ERROR - Data for month 41 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,743 - gfdl - ERROR - Data for month 42 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,745 - gfdl - ERROR - Data for month 43 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,748 - gfdl - ERROR - Data for month 44 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,750 - gfdl - ERROR - Data for month 45 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,751 - gfdl - ERROR - Data for month 46 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,752 - gfdl - ERROR - Data for month 47 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,753 - gfdl - ERROR - Data for month 48 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,754 - gfdl - ERROR - Data for month 49 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,755 - gfdl - ERROR - Data for month 50 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,757 - gfdl - ERROR - Data for month 51 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,760 - gfdl - ERROR - Data for month 52 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,762 - gfdl - ERROR - Data for month 53 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,764 - gfdl - ERROR - Data for month 54 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,766 - gfdl - ERROR - Data for month 55 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,767 - gfdl - ERROR - Data for month 56 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,770 - gfdl - ERROR - Data for month 57 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,772 - gfdl - ERROR - Data for month 58 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,774 - gfdl - ERROR - Data for month 59 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,775 - gfdl - ERROR - Data for month 60 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,778 - gfdl - ERROR - Data for month 61 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,780 - gfdl - ERROR - Data for month 62 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,781 - gfdl - ERROR - Data for month 63 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,783 - gfdl - ERROR - Data for month 64 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,785 - gfdl - ERROR - Data for month 65 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,787 - gfdl - ERROR - Data for month 66 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,788 - gfdl - ERROR - Data for month 67 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,789 - gfdl - ERROR - Data for month 68 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,791 - gfdl - ERROR - Data for month 69 already exists but overwrite_data is False. Stopping.
+2019-03-06 13:17:09,827 - gfdl - INFO - Writing namelist to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/input.nml'
+2019-03-06 13:17:09,835 - gfdl - INFO - Writing field_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/field_table'
+2019-03-06 13:17:09,877 - gfdl - INFO - Writing diag_table to '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/diag_table'
+2019-03-06 13:17:09,950 - gfdl - INFO - Using restart file '/project2/tas1/pragallva/isca_sim/gfdl_work/50m/restarts/res_69.cpio'
+2019-03-06 13:17:09,973 - gfdl - INFO - Running GFDL for month 70
+2019-03-06 13:17:10,308 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-03-06 13:17:10,308 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-03-06 13:17:10,309 - gfdl - DEBUG - loadmodules
+2019-03-06 13:17:10,492 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: pine: not found
+2019-03-06 13:17:10,492 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: quota: not found
+2019-03-06 13:17:10,492 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: chsh: not found
+2019-03-06 13:17:10,493 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: grpe: not found
+2019-03-06 13:17:10,493 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: alloc: not found
+2019-03-06 13:17:10,493 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: vi: not found
+2019-03-06 13:17:10,493 - gfdl - DEBUG - /project2/tas1/pragallva/isca_sim/gfdl_work/50m/run/runmonth.sh: line 0: unalias: chfn: not found
+2019-03-06 13:17:11,119 - gfdl - DEBUG - Currently Loaded Modulefiles:
+2019-03-06 13:17:11,122 - gfdl - DEBUG - 1) vim/7.4                 6) intel/12.1
+2019-03-06 13:17:11,122 - gfdl - DEBUG - 2) subversion/1.8          7) openmpi/1.6+intel-12.1
+2019-03-06 13:17:11,122 - gfdl - DEBUG - 3) emacs/24                8) hdf5/1.8
+2019-03-06 13:17:11,122 - gfdl - DEBUG - 4) git/2.7                 9) netcdf/4.2+intel-12.1
+2019-03-06 13:17:11,123 - gfdl - DEBUG - 5) env/rcc                10) slurm/current
+2019-03-06 13:17:12,974 - gfdl - DEBUG - atmos_model.res
+2019-03-06 13:17:14,172 - gfdl - DEBUG - spectral_dynamics.res.nc
+2019-03-06 13:17:14,176 - gfdl - DEBUG - mixed_layer.res.nc
+2019-03-06 13:17:14,982 - gfdl - DEBUG - atmosphere.res.nc
+2019-03-06 13:17:14,983 - gfdl - DEBUG - 510862 blocks
+slurmstepd-midway793: error: *** JOB 58349717 ON midway793 CANCELLED AT 2019-03-06T13:17:16 ***

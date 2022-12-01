@@ -1,0 +1,231 @@
+01/28/2019 03:21:09 AM ...........Extract_ncfile_save_fluxes_radiation.py.............0
+01/28/2019 03:21:09 AM imported nc file
+01/28/2019 03:21:12 AM imported coordinates
+01/28/2019 03:22:31 AM imported pressure
+01/28/2019 03:23:52 AM saved temp
+01/28/2019 03:25:09 AM saved v_comp
+01/28/2019 03:26:38 AM saved u_comp
+01/28/2019 03:28:04 AM saved Z
+01/28/2019 03:29:29 AM saved q
+01/28/2019 03:29:33 AM saved EKE
+01/28/2019 03:29:39 AM calculated KE
+01/28/2019 03:29:51 AM calculated MSE fluxes
+01/28/2019 03:30:14 AM saved raw data
+01/28/2019 03:30:21 AM vertical integartion : MSE fluxes
+01/28/2019 03:30:30 AM vertical integration : sensible fluxes
+01/28/2019 03:30:39 AM vertical integration : latent fluxes
+01/28/2019 03:30:48 AM vertical integration : nc potential fluxes
+01/28/2019 03:30:58 AM vertical integration : kinetic energy fluxes
+01/28/2019 03:31:07 AM vertical integration : Enthalpy 
+01/28/2019 03:33:16 AM saved radiation
+01/28/2019 03:33:17 AM saved flux_oceanq
+01/28/2019 03:33:17 AM precipitation
+01/28/2019 03:33:25 AM ...........Extract_ncfile_save_fluxes_radiation.py.............1
+01/28/2019 03:33:25 AM imported nc file
+01/28/2019 03:33:28 AM imported coordinates
+01/28/2019 03:34:51 AM imported pressure
+01/28/2019 03:36:10 AM saved temp
+01/28/2019 03:37:09 AM saved v_comp
+01/28/2019 03:37:24 AM saved u_comp
+01/28/2019 03:38:41 AM saved Z
+01/28/2019 03:39:24 AM saved q
+01/28/2019 03:39:24 AM saved EKE
+01/28/2019 03:39:31 AM calculated KE
+01/28/2019 03:39:42 AM calculated MSE fluxes
+01/28/2019 03:40:05 AM saved raw data
+01/28/2019 03:40:12 AM vertical integartion : MSE fluxes
+01/28/2019 03:40:21 AM vertical integration : sensible fluxes
+01/28/2019 03:40:30 AM vertical integration : latent fluxes
+01/28/2019 03:40:40 AM vertical integration : nc potential fluxes
+01/28/2019 03:40:49 AM vertical integration : kinetic energy fluxes
+01/28/2019 03:40:58 AM vertical integration : Enthalpy 
+01/28/2019 03:43:11 AM saved radiation
+01/28/2019 03:43:12 AM saved flux_oceanq
+01/28/2019 03:43:12 AM precipitation
+01/28/2019 03:43:18 AM ...........Extract_ncfile_save_fluxes_radiation.py.............2
+01/28/2019 03:43:18 AM imported nc file
+01/28/2019 03:43:21 AM imported coordinates
+01/28/2019 03:44:44 AM imported pressure
+01/28/2019 03:46:06 AM saved temp
+01/28/2019 03:47:18 AM saved v_comp
+01/28/2019 03:48:44 AM saved u_comp
+01/28/2019 03:50:02 AM saved Z
+01/28/2019 03:51:20 AM saved q
+01/28/2019 03:51:20 AM saved EKE
+01/28/2019 03:51:27 AM calculated KE
+01/28/2019 03:51:38 AM calculated MSE fluxes
+01/28/2019 03:52:02 AM saved raw data
+01/28/2019 03:52:08 AM vertical integartion : MSE fluxes
+01/28/2019 03:52:17 AM vertical integration : sensible fluxes
+01/28/2019 03:52:27 AM vertical integration : latent fluxes
+01/28/2019 03:52:36 AM vertical integration : nc potential fluxes
+01/28/2019 03:52:45 AM vertical integration : kinetic energy fluxes
+01/28/2019 03:52:54 AM vertical integration : Enthalpy 
+01/28/2019 03:55:47 AM saved radiation
+01/28/2019 03:55:53 AM saved flux_oceanq
+01/28/2019 03:55:56 AM precipitation
+01/28/2019 03:56:03 AM destination folder created !
+01/28/2019 03:56:03 AM ...........Extract_ncfile_save_fluxes_radiation.py.............3
+01/28/2019 03:56:03 AM imported nc file
+01/28/2019 03:56:06 AM imported coordinates
+01/28/2019 03:58:41 AM imported pressure
+01/28/2019 03:59:58 AM saved temp
+01/28/2019 04:01:02 AM saved v_comp
+01/28/2019 04:01:35 AM saved u_comp
+01/28/2019 04:02:57 AM saved Z
+01/28/2019 04:04:03 AM saved q
+01/28/2019 04:04:03 AM saved EKE
+01/28/2019 04:04:10 AM calculated KE
+01/28/2019 04:04:22 AM calculated MSE fluxes
+01/28/2019 04:04:45 AM saved raw data
+01/28/2019 04:04:51 AM vertical integartion : MSE fluxes
+01/28/2019 04:05:00 AM vertical integration : sensible fluxes
+01/28/2019 04:05:10 AM vertical integration : latent fluxes
+01/28/2019 04:05:19 AM vertical integration : nc potential fluxes
+01/28/2019 04:05:28 AM vertical integration : kinetic energy fluxes
+01/28/2019 04:05:38 AM vertical integration : Enthalpy 
+01/28/2019 04:07:52 AM saved radiation
+01/28/2019 04:07:53 AM saved flux_oceanq
+01/28/2019 04:07:53 AM precipitation
+01/28/2019 04:08:00 AM destination folder created !
+01/28/2019 04:08:00 AM ...........Extract_ncfile_save_fluxes_radiation.py.............4
+01/28/2019 04:08:00 AM imported nc file
+01/28/2019 04:08:03 AM imported coordinates
+01/28/2019 04:09:32 AM imported pressure
+01/28/2019 04:10:53 AM saved temp
+01/28/2019 04:12:10 AM saved v_comp
+01/28/2019 04:13:28 AM saved u_comp
+01/28/2019 04:14:56 AM saved Z
+01/28/2019 04:16:32 AM saved q
+01/28/2019 04:16:35 AM saved EKE
+01/28/2019 04:16:42 AM calculated KE
+01/28/2019 04:16:53 AM calculated MSE fluxes
+01/28/2019 04:17:17 AM saved raw data
+01/28/2019 04:17:23 AM vertical integartion : MSE fluxes
+01/28/2019 04:17:33 AM vertical integration : sensible fluxes
+01/28/2019 04:17:42 AM vertical integration : latent fluxes
+01/28/2019 04:17:51 AM vertical integration : nc potential fluxes
+01/28/2019 04:18:01 AM vertical integration : kinetic energy fluxes
+01/28/2019 04:18:10 AM vertical integration : Enthalpy 
+01/28/2019 04:21:07 AM saved radiation
+01/28/2019 04:21:12 AM saved flux_oceanq
+01/28/2019 04:21:14 AM precipitation
+01/28/2019 04:21:21 AM destination folder created !
+01/28/2019 04:21:21 AM ...........Extract_ncfile_save_fluxes_radiation.py.............5
+01/28/2019 04:21:21 AM imported nc file
+01/28/2019 04:21:24 AM imported coordinates
+01/28/2019 04:24:23 AM imported pressure
+01/28/2019 04:25:58 AM saved temp
+01/28/2019 04:27:30 AM saved v_comp
+01/28/2019 04:28:58 AM saved u_comp
+01/28/2019 04:30:21 AM saved Z
+01/28/2019 04:31:48 AM saved q
+01/28/2019 04:31:51 AM saved EKE
+01/28/2019 04:31:58 AM calculated KE
+01/28/2019 04:32:09 AM calculated MSE fluxes
+01/28/2019 04:32:32 AM saved raw data
+01/28/2019 04:32:39 AM vertical integartion : MSE fluxes
+01/28/2019 04:32:48 AM vertical integration : sensible fluxes
+01/28/2019 04:32:57 AM vertical integration : latent fluxes
+01/28/2019 04:33:07 AM vertical integration : nc potential fluxes
+01/28/2019 04:33:16 AM vertical integration : kinetic energy fluxes
+01/28/2019 04:33:25 AM vertical integration : Enthalpy 
+01/28/2019 04:35:41 AM saved radiation
+01/28/2019 04:35:43 AM saved flux_oceanq
+01/28/2019 04:35:43 AM precipitation
+01/28/2019 04:35:49 AM destination folder created !
+01/28/2019 04:35:49 AM ...........Extract_ncfile_save_fluxes_radiation.py.............6
+01/28/2019 04:35:49 AM imported nc file
+01/28/2019 04:35:52 AM imported coordinates
+01/28/2019 04:37:17 AM imported pressure
+01/28/2019 04:38:46 AM saved temp
+01/28/2019 04:39:53 AM saved v_comp
+01/28/2019 04:41:17 AM saved u_comp
+01/28/2019 04:42:36 AM saved Z
+01/28/2019 04:44:01 AM saved q
+01/28/2019 04:44:01 AM saved EKE
+01/28/2019 04:44:07 AM calculated KE
+01/28/2019 04:44:19 AM calculated MSE fluxes
+01/28/2019 04:44:42 AM saved raw data
+01/28/2019 04:44:49 AM vertical integartion : MSE fluxes
+01/28/2019 04:44:58 AM vertical integration : sensible fluxes
+01/28/2019 04:45:07 AM vertical integration : latent fluxes
+01/28/2019 04:45:17 AM vertical integration : nc potential fluxes
+01/28/2019 04:45:26 AM vertical integration : kinetic energy fluxes
+01/28/2019 04:45:35 AM vertical integration : Enthalpy 
+01/28/2019 04:48:10 AM saved radiation
+01/28/2019 04:48:15 AM saved flux_oceanq
+01/28/2019 04:48:17 AM precipitation
+01/28/2019 04:48:24 AM destination folder created !
+01/28/2019 04:48:25 AM ...........Extract_ncfile_save_fluxes_radiation.py.............7
+01/28/2019 04:48:25 AM imported nc file
+01/28/2019 04:48:27 AM imported coordinates
+01/28/2019 04:51:12 AM imported pressure
+01/28/2019 04:52:42 AM saved temp
+01/28/2019 04:54:11 AM saved v_comp
+01/28/2019 04:55:40 AM saved u_comp
+01/28/2019 04:57:03 AM saved Z
+01/28/2019 04:58:22 AM saved q
+01/28/2019 04:58:23 AM saved EKE
+01/28/2019 04:58:30 AM calculated KE
+01/28/2019 04:58:41 AM calculated MSE fluxes
+01/28/2019 04:59:04 AM saved raw data
+01/28/2019 04:59:11 AM vertical integartion : MSE fluxes
+01/28/2019 04:59:20 AM vertical integration : sensible fluxes
+01/28/2019 04:59:30 AM vertical integration : latent fluxes
+01/28/2019 04:59:39 AM vertical integration : nc potential fluxes
+01/28/2019 04:59:48 AM vertical integration : kinetic energy fluxes
+01/28/2019 04:59:58 AM vertical integration : Enthalpy 
+01/28/2019 05:02:14 AM saved radiation
+01/28/2019 05:02:15 AM saved flux_oceanq
+01/28/2019 05:02:16 AM precipitation
+01/28/2019 05:02:22 AM destination folder created !
+01/28/2019 05:02:22 AM ...........Extract_ncfile_save_fluxes_radiation.py.............8
+01/28/2019 05:02:22 AM imported nc file
+01/28/2019 05:02:24 AM imported coordinates
+01/28/2019 05:03:45 AM imported pressure
+01/28/2019 05:05:07 AM saved temp
+01/28/2019 05:06:14 AM saved v_comp
+01/28/2019 05:07:18 AM saved u_comp
+01/28/2019 05:08:44 AM saved Z
+01/28/2019 05:10:12 AM saved q
+01/28/2019 05:10:14 AM saved EKE
+01/28/2019 05:10:20 AM calculated KE
+01/28/2019 05:10:32 AM calculated MSE fluxes
+01/28/2019 05:10:55 AM saved raw data
+01/28/2019 05:11:02 AM vertical integartion : MSE fluxes
+01/28/2019 05:11:11 AM vertical integration : sensible fluxes
+01/28/2019 05:11:21 AM vertical integration : latent fluxes
+01/28/2019 05:11:30 AM vertical integration : nc potential fluxes
+01/28/2019 05:11:39 AM vertical integration : kinetic energy fluxes
+01/28/2019 05:11:49 AM vertical integration : Enthalpy 
+01/28/2019 05:14:06 AM saved radiation
+01/28/2019 05:14:07 AM saved flux_oceanq
+01/28/2019 05:14:07 AM precipitation
+01/28/2019 05:14:13 AM destination folder created !
+01/28/2019 05:14:13 AM ...........Extract_ncfile_save_fluxes_radiation.py.............9
+01/28/2019 05:14:13 AM imported nc file
+01/28/2019 05:14:16 AM imported coordinates
+01/28/2019 05:15:39 AM imported pressure
+01/28/2019 05:17:05 AM saved temp
+01/28/2019 05:18:37 AM saved v_comp
+01/28/2019 05:20:08 AM saved u_comp
+01/28/2019 05:21:38 AM saved Z
+01/28/2019 05:23:13 AM saved q
+01/28/2019 05:23:16 AM saved EKE
+01/28/2019 05:23:22 AM calculated KE
+01/28/2019 05:23:34 AM calculated MSE fluxes
+01/28/2019 05:23:57 AM saved raw data
+01/28/2019 05:24:04 AM vertical integartion : MSE fluxes
+01/28/2019 05:24:13 AM vertical integration : sensible fluxes
+01/28/2019 05:24:23 AM vertical integration : latent fluxes
+01/28/2019 05:24:32 AM vertical integration : nc potential fluxes
+01/28/2019 05:24:41 AM vertical integration : kinetic energy fluxes
+01/28/2019 05:24:51 AM vertical integration : Enthalpy 
+01/28/2019 05:27:15 AM saved radiation
+01/28/2019 05:27:20 AM saved flux_oceanq
+01/28/2019 05:27:22 AM precipitation
+01/28/2019 02:41:49 PM destination folder created !
+01/28/2019 02:41:50 PM ...........Extract_ncfile_save_fluxes_radiation.py.............0
+01/28/2019 02:41:50 PM imported nc file
+01/28/2019 02:41:54 PM imported coordinates

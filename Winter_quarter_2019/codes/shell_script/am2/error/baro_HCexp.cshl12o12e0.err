@@ -1,0 +1,91 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/convert_to_pressure_coord.py", line 108, in <module>
+    isobaric_levels = mcalc.log_interp(plevs, pres, ht, temp, u , axis=1)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 909, in log_interp
+    return interp(log_x, log_xp, *args, axis=axis, fill_value=fill_value)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 694, in interp
+    variables = [arr[sorter] for arr in args]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 1281, in __getitem__
+    value = self._magnitude[key]
+IndexError: index 90 is out of bounds for axis 2 with size 90
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/convert_to_pressure_coord.py", line 108, in <module>
+    isobaric_levels = mcalc.log_interp(plevs, pres, ht, temp, u , axis=1)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 909, in log_interp
+    return interp(log_x, log_xp, *args, axis=axis, fill_value=fill_value)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 694, in interp
+    variables = [arr[sorter] for arr in args]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 1281, in __getitem__
+    value = self._magnitude[key]
+IndexError: index 90 is out of bounds for axis 2 with size 90
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/convert_to_pressure_coord.py", line 108, in <module>
+    isobaric_levels = mcalc.log_interp(plevs, pres, ht, temp, u , axis=1)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 909, in log_interp
+    return interp(log_x, log_xp, *args, axis=axis, fill_value=fill_value)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 694, in interp
+    variables = [arr[sorter] for arr in args]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 1281, in __getitem__
+    value = self._magnitude[key]
+IndexError: index 90 is out of bounds for axis 2 with size 90
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/convert_to_pressure_coord.py", line 108, in <module>
+    isobaric_levels = mcalc.log_interp(plevs, pres, ht, temp, u , axis=1)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 909, in log_interp
+    return interp(log_x, log_xp, *args, axis=axis, fill_value=fill_value)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 694, in interp
+    variables = [arr[sorter] for arr in args]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 1281, in __getitem__
+    value = self._magnitude[key]
+IndexError: index 90 is out of bounds for axis 2 with size 90
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/convert_to_pressure_coord.py", line 108, in <module>
+    isobaric_levels = mcalc.log_interp(plevs, pres, ht, temp, u , axis=1)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 909, in log_interp
+    return interp(log_x, log_xp, *args, axis=axis, fill_value=fill_value)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/xarray.py", line 138, in wrapper
+    return func(*args, **kwargs)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/registry_helpers.py", line 172, in wrapper
+    result = func(*new_values, **kw)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py", line 694, in interp
+    variables = [arr[sorter] for arr in args]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 1281, in __getitem__
+    value = self._magnitude[key]
+IndexError: index 90 is out of bounds for axis 2 with size 90
+slurmstepd-midway795: error: *** JOB 54733360 ON midway795 CANCELLED AT 2018-12-03T23:36:44 ***

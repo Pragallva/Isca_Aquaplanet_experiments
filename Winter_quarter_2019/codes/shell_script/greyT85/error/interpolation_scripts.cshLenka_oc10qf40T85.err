@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/greyT85/Calculate_baroclinicity.py", line 58, in <module>
+    lat=nc.Dataset(ncfile,'r').variables['lat'][:]
+  File "netCDF4/_netCDF4.pyx", line 1811, in netCDF4._netCDF4.Dataset.__init__ (netCDF4/_netCDF4.c:13227)
+IOError: No such file or directory

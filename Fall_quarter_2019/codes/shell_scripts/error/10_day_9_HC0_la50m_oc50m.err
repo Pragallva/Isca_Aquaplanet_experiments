@@ -1,0 +1,53 @@
+/tmp/slurmd/job62495013/slurm_script: line 11: 18816 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+/tmp/slurmd/job62495013/slurm_script: line 11: 19534 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/tmp/slurmd/job62495013/slurm_script: line 11: 19833 Bus error               python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+/tmp/slurmd/job62495013/slurm_script: line 11: 20774 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+/tmp/slurmd/job62495013/slurm_script: line 11: 21156 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:219: RuntimeWarning: overflow encountered in square
+  u_sq      = u_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:220: RuntimeWarning: overflow encountered in square
+  v_sq      = v_prime**2
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:222: RuntimeWarning: overflow encountered in add
+  EKE  = (u_sq+v_sq)/2.0
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:223: RuntimeWarning: overflow encountered in multiply
+  EMF  = u_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:225: RuntimeWarning: overflow encountered in multiply
+  sensible_flux_prime  = CpT_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:226: RuntimeWarning: overflow encountered in multiply
+  latent_flux_prime    = Lq_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:227: RuntimeWarning: overflow encountered in multiply
+  potential_flux_prime = gZ_prime*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:228: RuntimeWarning: overflow encountered in multiply
+  EKE_flux_prime       = EKE*v_prime
+/project2/tas1/pragallva/Winter_quarter_2019//codes/python_scripts/isca/calculate_synoptic_variability.py:244: RuntimeWarning: overflow encountered in multiply
+  w = arg*weights
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/core/_methods.py:70: RuntimeWarning: invalid value encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims)
+/tmp/slurmd/job62495013/slurm_script: line 11: 21712 Killed                  python $win19/codes/python_scripts/isca/calculate_synoptic_variability.py $1 $i 'high_pass' 30 $2
+slurmstepd-midway787: error: *** JOB 62495013 ON midway787 CANCELLED AT 2019-09-17T00:28:09 ***
+slurmstepd-midway787: error: Detected 5 oom-kill event(s) in step 62495013.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+slurmstepd-midway792: error: *** JOB 62495219 ON midway792 CANCELLED AT 2019-09-17T00:28:40 ***

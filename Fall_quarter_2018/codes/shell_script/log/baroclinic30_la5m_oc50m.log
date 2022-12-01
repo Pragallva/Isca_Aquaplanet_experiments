@@ -1,0 +1,22 @@
+11/01/2018 12:04:44 AM ** INTERPOLATION ** 
+11/01/2018 12:04:46 AM ----0----T, U, Z 
+11/01/2018 12:04:46 AM ----1----T, U, Z 
+11/01/2018 12:04:46 AM ----2----T, U, Z 
+11/01/2018 12:04:46 AM ----3----T, U, Z 
+11/01/2018 12:04:46 AM ----4----T, U, Z 
+11/01/2018 12:04:46 AM  Loaded T U Z P
+11/01/2018 12:04:46 AM Defined constants
+11/01/2018 12:04:46 AM Interpolate T
+11/01/2018 12:04:46 AM Interpolate U
+11/01/2018 12:04:46 AM Interpolate Z
+11/01/2018 12:04:46 AM Calculated theta
+11/01/2018 12:04:46 AM Calculated N_sq_sfc
+11/01/2018 12:04:47 AM Calculated dtheta_dy_sfc
+11/01/2018 12:04:47 AM Calculated fo_dUdz_sfc
+11/01/2018 12:04:47 AM Dictionary surface baroclinicity
+11/01/2018 12:04:50 AM Calculated dUdz
+11/01/2018 12:04:51 AM Calculated N_sq
+11/01/2018 12:04:51 AM Dictionary baroclinicity
+11/01/2018 12:04:51 AM destination folder created !
+11/01/2018 12:04:51 AM Saved baroclinicity
+11/01/2018 12:04:51 AM Looks great !!

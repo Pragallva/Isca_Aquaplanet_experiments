@@ -1,0 +1,515 @@
+01/04/2019 01:56:33 AM ** INTERPOLATION ** 
+01/04/2019 03:30:10 AM ...........Calculate EKE.............0
+01/04/2019 03:30:10 AM imported nc file
+01/04/2019 03:30:36 AM imported coordinates
+01/04/2019 03:31:50 AM imported pressure
+01/04/2019 03:32:27 AM saved v_comp
+01/04/2019 03:32:35 AM saved u_comp
+01/04/2019 03:33:13 AM Filtering signal now
+01/04/2019 03:33:23 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 03:33:30 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 03:33:37 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 03:33:44 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 03:33:50 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 03:33:57 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 03:34:04 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 03:34:11 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 03:34:17 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 03:34:24 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 03:34:31 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 03:34:37 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 03:34:44 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 03:34:51 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 03:34:58 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 03:35:04 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 03:35:11 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 03:35:18 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 03:35:25 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 03:35:31 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 03:35:38 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 03:35:45 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 03:35:52 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 03:35:58 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 03:36:05 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 03:36:12 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 03:36:19 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 03:36:25 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 03:36:32 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 03:36:39 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 03:36:45 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 03:36:52 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 03:36:59 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 03:37:06 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 03:37:12 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 03:37:19 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 03:37:26 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 03:37:33 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 03:37:39 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 03:37:46 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 03:37:51 AM calculated EKE
+01/04/2019 03:38:03 AM saved EKE data
+01/04/2019 03:38:03 AM EKE calculated !! Great !!
+01/04/2019 03:38:07 AM ...........Calculate EKE.............1
+01/04/2019 03:38:07 AM imported nc file
+01/04/2019 03:38:34 AM imported coordinates
+01/04/2019 03:39:48 AM imported pressure
+01/04/2019 03:40:26 AM saved v_comp
+01/04/2019 03:40:42 AM saved u_comp
+01/04/2019 03:41:24 AM Filtering signal now
+01/04/2019 03:41:35 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 03:41:42 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 03:41:50 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 03:41:57 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 03:42:05 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 03:42:13 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 03:42:20 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 03:42:28 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 03:42:36 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 03:42:43 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 03:42:51 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 03:42:59 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 03:43:06 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 03:43:14 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 03:43:21 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 03:43:29 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 03:43:37 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 03:43:44 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 03:43:52 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 03:44:00 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 03:44:07 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 03:44:15 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 03:44:23 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 03:44:30 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 03:44:38 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 03:44:46 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 03:44:53 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 03:45:01 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 03:45:09 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 03:45:16 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 03:45:24 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 03:45:32 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 03:45:39 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 03:45:47 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 03:45:55 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 03:46:03 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 03:46:10 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 03:46:18 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 03:46:25 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 03:46:33 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 03:46:39 AM calculated EKE
+01/04/2019 03:46:50 AM saved EKE data
+01/04/2019 03:46:50 AM EKE calculated !! Great !!
+01/04/2019 03:46:54 AM ...........Calculate EKE.............2
+01/04/2019 03:46:54 AM imported nc file
+01/04/2019 03:47:22 AM imported coordinates
+01/04/2019 03:48:37 AM imported pressure
+01/04/2019 03:49:14 AM saved v_comp
+01/04/2019 03:49:24 AM saved u_comp
+01/04/2019 03:50:02 AM Filtering signal now
+01/04/2019 03:50:12 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 03:50:18 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 03:50:25 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 03:50:32 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 03:50:39 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 03:50:45 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 03:50:52 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 03:50:59 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 03:51:06 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 03:51:12 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 03:51:19 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 03:51:26 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 03:51:33 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 03:51:39 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 03:51:46 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 03:51:53 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 03:51:59 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 03:52:06 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 03:52:13 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 03:52:20 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 03:52:26 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 03:52:33 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 03:52:40 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 03:52:47 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 03:52:53 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 03:53:00 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 03:53:07 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 03:53:13 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 03:53:20 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 03:53:27 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 03:53:34 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 03:53:40 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 03:53:47 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 03:53:54 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 03:54:00 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 03:54:07 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 03:54:14 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 03:54:20 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 03:54:27 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 03:54:34 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 03:54:39 AM calculated EKE
+01/04/2019 03:54:51 AM saved EKE data
+01/04/2019 03:54:51 AM EKE calculated !! Great !!
+01/04/2019 03:54:55 AM ...........Calculate EKE.............3
+01/04/2019 03:54:55 AM imported nc file
+01/04/2019 03:55:23 AM imported coordinates
+01/04/2019 03:56:37 AM imported pressure
+01/04/2019 03:57:17 AM saved v_comp
+01/04/2019 03:57:31 AM saved u_comp
+01/04/2019 03:58:12 AM Filtering signal now
+01/04/2019 03:58:22 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 03:58:29 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 03:58:35 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 03:58:42 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 03:58:49 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 03:58:56 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 03:59:02 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 03:59:09 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 03:59:16 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 03:59:23 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 03:59:29 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 03:59:36 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 03:59:43 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 03:59:50 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 03:59:56 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:00:03 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:00:10 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:00:17 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:00:24 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:00:30 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:00:37 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:00:44 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:00:51 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:00:57 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:01:04 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:01:11 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:01:18 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:01:24 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:01:31 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:01:38 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:01:45 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:01:51 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:01:58 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:02:05 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:02:12 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:02:18 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:02:25 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:02:32 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:02:39 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:02:46 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:02:51 AM calculated EKE
+01/04/2019 04:03:03 AM saved EKE data
+01/04/2019 04:03:03 AM EKE calculated !! Great !!
+01/04/2019 04:03:07 AM ...........Calculate EKE.............4
+01/04/2019 04:03:07 AM imported nc file
+01/04/2019 04:03:12 AM imported coordinates
+01/04/2019 04:03:51 AM imported pressure
+01/04/2019 04:04:25 AM saved v_comp
+01/04/2019 04:04:33 AM saved u_comp
+01/04/2019 04:04:41 AM Filtering signal now
+01/04/2019 04:04:51 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:04:58 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:05:05 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:05:13 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:05:20 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:05:27 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:05:34 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:05:41 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:05:48 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:05:55 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:06:02 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:06:09 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:06:16 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:06:24 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:06:31 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:06:38 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:06:45 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:06:52 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:06:59 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:07:06 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:07:13 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:07:20 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:07:27 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:07:34 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:07:42 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:07:49 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:07:56 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:08:03 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:08:10 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:08:17 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:08:24 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:08:31 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:08:38 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:08:46 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:08:53 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:09:00 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:09:07 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:09:14 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:09:21 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:09:28 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:09:34 AM calculated EKE
+01/04/2019 04:09:45 AM saved EKE data
+01/04/2019 04:09:45 AM EKE calculated !! Great !!
+01/04/2019 04:09:49 AM ...........Calculate EKE.............5
+01/04/2019 04:09:49 AM imported nc file
+01/04/2019 04:10:18 AM imported coordinates
+01/04/2019 04:11:35 AM imported pressure
+01/04/2019 04:12:14 AM saved v_comp
+01/04/2019 04:12:27 AM saved u_comp
+01/04/2019 04:13:09 AM Filtering signal now
+01/04/2019 04:13:19 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:13:26 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:13:33 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:13:41 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:13:48 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:13:55 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:14:02 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:14:10 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:14:17 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:14:24 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:14:32 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:14:39 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:14:46 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:14:54 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:15:01 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:15:08 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:15:15 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:15:23 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:15:30 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:15:37 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:15:44 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:15:52 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:15:59 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:16:06 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:16:13 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:16:21 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:16:28 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:16:35 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:16:42 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:16:50 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:16:57 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:17:04 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:17:11 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:17:18 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:17:26 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:17:33 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:17:40 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:17:47 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:17:55 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:18:02 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:18:07 AM calculated EKE
+01/04/2019 04:18:19 AM saved EKE data
+01/04/2019 04:18:19 AM EKE calculated !! Great !!
+01/04/2019 04:18:24 AM ...........Calculate EKE.............6
+01/04/2019 04:18:24 AM imported nc file
+01/04/2019 04:18:44 AM imported coordinates
+01/04/2019 04:19:58 AM imported pressure
+01/04/2019 04:20:35 AM saved v_comp
+01/04/2019 04:20:43 AM saved u_comp
+01/04/2019 04:21:24 AM Filtering signal now
+01/04/2019 04:21:34 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:21:42 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:21:49 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:21:57 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:22:04 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:22:12 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:22:19 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:22:27 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:22:34 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:22:42 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:22:49 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:22:57 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:23:04 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:23:12 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:23:19 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:23:27 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:23:34 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:23:42 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:23:49 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:23:57 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:24:04 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:24:12 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:24:19 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:24:27 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:24:34 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:24:42 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:24:49 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:24:57 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:25:04 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:25:12 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:25:19 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:25:27 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:25:34 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:25:42 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:25:49 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:25:57 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:26:04 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:26:12 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:26:19 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:26:28 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:26:33 AM calculated EKE
+01/04/2019 04:26:45 AM saved EKE data
+01/04/2019 04:26:46 AM EKE calculated !! Great !!
+01/04/2019 04:26:53 AM ...........Calculate EKE.............7
+01/04/2019 04:26:53 AM imported nc file
+01/04/2019 04:27:23 AM imported coordinates
+01/04/2019 04:28:43 AM imported pressure
+01/04/2019 04:29:22 AM saved v_comp
+01/04/2019 04:29:39 AM saved u_comp
+01/04/2019 04:30:21 AM Filtering signal now
+01/04/2019 04:30:31 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:30:38 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:30:45 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:30:52 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:30:58 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:31:05 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:31:12 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:31:19 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:31:26 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:31:32 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:31:39 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:31:46 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:31:53 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:32:00 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:32:06 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:32:13 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:32:20 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:32:27 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:32:34 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:32:41 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:32:47 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:32:54 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:33:01 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:33:08 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:33:15 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:33:22 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:33:28 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:33:35 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:33:42 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:33:49 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:33:56 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:34:03 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:34:10 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:34:17 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:34:24 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:34:31 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:34:38 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:34:44 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:34:51 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:34:58 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:35:03 AM calculated EKE
+01/04/2019 04:35:15 AM saved EKE data
+01/04/2019 04:35:15 AM EKE calculated !! Great !!
+01/04/2019 04:35:22 AM ...........Calculate EKE.............8
+01/04/2019 04:35:22 AM imported nc file
+01/04/2019 04:35:51 AM imported coordinates
+01/04/2019 04:37:08 AM imported pressure
+01/04/2019 04:37:45 AM saved v_comp
+01/04/2019 04:37:52 AM saved u_comp
+01/04/2019 04:38:31 AM Filtering signal now
+01/04/2019 04:38:41 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:38:49 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:38:56 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:39:03 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:39:11 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:39:18 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:39:25 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:39:33 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:39:40 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:39:47 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:39:55 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:40:02 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:40:09 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:40:17 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:40:24 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:40:31 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:40:39 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:40:46 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:40:53 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:41:01 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:41:08 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:41:15 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:41:23 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:41:30 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:41:37 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:41:45 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:41:52 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:41:59 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:42:07 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:42:14 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:42:21 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:42:28 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:42:36 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:42:43 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:42:50 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:42:58 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:43:05 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:43:12 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:43:20 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:43:27 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:43:33 AM calculated EKE
+01/04/2019 04:43:44 AM saved EKE data
+01/04/2019 04:43:44 AM EKE calculated !! Great !!
+01/04/2019 04:43:49 AM ...........Calculate EKE.............9
+01/04/2019 04:43:49 AM imported nc file
+01/04/2019 04:44:16 AM imported coordinates
+01/04/2019 04:45:30 AM imported pressure
+01/04/2019 04:46:10 AM saved v_comp
+01/04/2019 04:46:25 AM saved u_comp
+01/04/2019 04:47:06 AM Filtering signal now
+01/04/2019 04:47:17 AM Filtering u and v at plevel 0.9731199465677635
+01/04/2019 04:47:24 AM Filtering u and v at plevel 0.9210435734946946
+01/04/2019 04:47:31 AM Filtering u and v at plevel 0.8717540125826787
+01/04/2019 04:47:38 AM Filtering u and v at plevel 0.8251018703001956
+01/04/2019 04:47:46 AM Filtering u and v at plevel 0.7809450914447958
+01/04/2019 04:47:53 AM Filtering u and v at plevel 0.7391477498279747
+01/04/2019 04:48:00 AM Filtering u and v at plevel 0.6995784804292889
+01/04/2019 04:48:07 AM Filtering u and v at plevel 0.6621085665908767
+01/04/2019 04:48:14 AM Filtering u and v at plevel 0.6266097287784145
+01/04/2019 04:48:22 AM Filtering u and v at plevel 0.592951685476526
+01/04/2019 04:48:29 AM Filtering u and v at plevel 0.5609995761404118
+01/04/2019 04:48:36 AM Filtering u and v at plevel 0.5306113557418541
+01/04/2019 04:48:43 AM Filtering u and v at plevel 0.5016352961682442
+01/04/2019 04:48:50 AM Filtering u and v at plevel 0.4739077683307861
+01/04/2019 04:48:58 AM Filtering u and v at plevel 0.44725153763167325
+01/04/2019 04:49:05 AM Filtering u and v at plevel 0.4214748913644697
+01/04/2019 04:49:12 AM Filtering u and v at plevel 0.3963720342166585
+01/04/2019 04:49:19 AM Filtering u and v at plevel 0.371725335892926
+01/04/2019 04:49:26 AM Filtering u and v at plevel 0.34731017971440126
+01/04/2019 04:49:34 AM Filtering u and v at plevel 0.32290330906438663
+01/04/2019 04:49:41 AM Filtering u and v at plevel 0.29829563412593546
+01/04/2019 04:49:48 AM Filtering u and v at plevel 0.27331033560806184
+01/04/2019 04:49:55 AM Filtering u and v at plevel 0.2478266277557821
+01/04/2019 04:50:03 AM Filtering u and v at plevel 0.22180852820217098
+01/04/2019 04:50:10 AM Filtering u and v at plevel 0.19533625519570888
+01/04/2019 04:50:17 AM Filtering u and v at plevel 0.1686353994868007
+01/04/2019 04:50:24 AM Filtering u and v at plevel 0.1420960968927281
+01/04/2019 04:50:31 AM Filtering u and v at plevel 0.1162719225588613
+01/04/2019 04:50:39 AM Filtering u and v at plevel 0.0918477093601027
+01/04/2019 04:50:46 AM Filtering u and v at plevel 0.06956901941712679
+01/04/2019 04:50:53 AM Filtering u and v at plevel 0.050135221379808886
+01/04/2019 04:51:00 AM Filtering u and v at plevel 0.03407262549982947
+01/04/2019 04:51:07 AM Filtering u and v at plevel 0.021619597882391442
+01/04/2019 04:51:15 AM Filtering u and v at plevel 0.012663559404899662
+01/04/2019 04:51:22 AM Filtering u and v at plevel 0.006761046642395754
+01/04/2019 04:51:29 AM Filtering u and v at plevel 0.003243806249843405
+01/04/2019 04:51:36 AM Filtering u and v at plevel 0.0013766083204391473
+01/04/2019 04:51:43 AM Filtering u and v at plevel 0.0005077583032093046
+01/04/2019 04:51:51 AM Filtering u and v at plevel 0.00015964567384570998
+01/04/2019 04:51:58 AM Filtering u and v at plevel 2.710462927265426e-05
+01/04/2019 04:52:03 AM calculated EKE
+01/04/2019 04:52:15 AM saved EKE data
+01/04/2019 04:52:15 AM EKE calculated !! Great !!
+01/04/2019 04:52:17 AM ** INTERPOLATION ** 
+01/04/2019 04:52:19 AM ----0----
+01/04/2019 04:52:19 AM ----1----
+01/04/2019 04:52:19 AM ----2----
+01/04/2019 04:52:19 AM ----3----
+01/04/2019 04:52:19 AM ----4----
+01/04/2019 04:52:19 AM ----5----
+01/04/2019 04:52:19 AM ----6----
+01/04/2019 04:52:19 AM ----7----
+01/04/2019 04:52:19 AM ----8----
+01/04/2019 04:52:19 AM ----9----
+01/04/2019 04:52:21 AM Calculated interpolation
+01/04/2019 04:52:21 AM Saved raw data interp dictionary
+01/04/2019 04:52:21 AM Looks great !!

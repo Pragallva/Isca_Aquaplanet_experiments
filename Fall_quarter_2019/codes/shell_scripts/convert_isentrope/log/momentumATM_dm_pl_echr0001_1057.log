@@ -1,0 +1,42 @@
+10/14/2019 04:55:12 AM destination folder created !
+10/14/2019 04:55:13 AM ....Extract ncfile save MSE and momentum fluxes and radiation....57 averaged over 30
+10/14/2019 04:55:13 AM imported nc file
+10/14/2019 04:55:13 AM imported coordinates
+10/14/2019 04:55:15 AM imported pressure
+10/14/2019 04:55:18 AM saved temp
+10/14/2019 04:55:20 AM saved v_comp
+10/14/2019 04:55:23 AM saved u_comp
+10/14/2019 04:55:25 AM saved omega
+10/14/2019 04:55:28 AM saved Z
+10/14/2019 04:55:30 AM saved q
+10/14/2019 04:55:33 AM saved theta_dot
+10/14/2019 04:55:35 AM saved dtheta_dp
+10/14/2019 04:55:38 AM saved deltheta_delt
+10/14/2019 04:55:51 AM calculated KE
+10/14/2019 04:55:53 AM calculated MSE fluxes
+10/14/2019 04:55:53 AM loaded coordinates dictionary
+10/14/2019 04:55:54 AM defined functions
+10/14/2019 04:56:18 AM calculated tendency dictionary
+10/14/2019 04:56:22 AM defined divergence functions
+10/14/2019 04:56:42 AM Total fluxes v
+10/14/2019 04:57:11 AM TE fluxes v
+10/14/2019 04:57:28 AM SE fluxes v
+10/14/2019 04:57:43 AM MM fluxes v
+10/14/2019 04:57:43 AM v flux dictionary
+10/14/2019 04:58:04 AM Total fluxes w
+10/14/2019 04:58:33 AM TE fluxes w
+10/14/2019 04:58:50 AM SE fluxes w
+10/14/2019 04:59:06 AM MM fluxes w
+10/14/2019 04:59:06 AM w flux dictionary
+10/14/2019 04:59:06 AM Div v
+10/14/2019 04:59:06 AM Div v dictionary
+10/14/2019 04:59:06 AM Div w
+10/14/2019 04:59:06 AM Div w dictionary
+10/14/2019 04:59:06 AM calculated tendencies
+10/14/2019 04:59:18 AM loaded fluxes_PW dictionary
+10/14/2019 04:59:18 AM loaded fluxes_Wm2 dictionary
+10/14/2019 04:59:18 AM loaded tendency terms dictionary
+10/14/2019 04:59:18 AM loaded raw data dictionary
+10/14/2019 04:59:18 AM Time taken --> 249.099174023
+10/14/2019 04:59:18 AM Awesome! complete!
+10/14/2019 04:59:18 AM -------------------------------

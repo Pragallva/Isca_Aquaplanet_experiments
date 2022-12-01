@@ -1,0 +1,37 @@
+11/23/2017 06:26:15 PM destination folder created !
+11/23/2017 06:26:15 PM imported nc file
+11/23/2017 06:26:42 PM imported coordinates
+11/23/2017 06:27:57 PM imported pressure
+11/23/2017 06:28:34 PM saved temp
+11/23/2017 06:28:47 PM saved v_comp
+11/23/2017 06:28:58 PM saved u_comp
+11/23/2017 06:29:35 PM saved Z
+11/23/2017 06:29:59 PM saved q
+11/23/2017 06:30:20 PM saved EKE
+11/23/2017 06:30:24 PM calculated KE
+11/23/2017 06:30:31 PM calculated MSE fluxes
+11/23/2017 06:30:37 PM vertical integartion : MSE fluxes
+11/23/2017 06:30:43 PM vertical integration : sensible fluxes
+11/23/2017 06:30:50 PM vertical integration : latent fluxes
+11/23/2017 06:30:56 PM vertical integration : nc potential fluxes
+11/23/2017 06:31:03 PM vertical integration : kinetic energy fluxes
+11/23/2017 06:31:09 PM vertical integration : Enthalpy 
+11/23/2017 06:31:51 PM saved radiation
+11/23/2017 06:31:53 PM saved t_surf
+11/23/2017 06:31:55 PM saved flux_oceanq
+11/23/2017 06:31:56 PM radiation-- I think its right now !
+11/23/2017 06:31:57 PM calculated dh_by_dt
+11/23/2017 06:31:57 PM loaded coordinates dictionary
+11/23/2017 06:31:57 PM loaded MSE_flux dictionary
+11/23/2017 06:31:57 PM loaded rad_dic dictionary
+11/23/2017 06:32:02 PM successfully saved dictionaries in files
+11/23/2017 06:32:02 PM Begins calculating TE, SE and MM fluxes ....
+11/23/2017 06:32:04 PM calculated dh_by_dt dictionary
+11/23/2017 06:33:35 PM loaded zonal decomposed fluxes dictionary
+11/23/2017 06:33:35 PM loaded zonal radiation dictionary
+11/23/2017 06:33:40 PM ** INTERPOLATION **
+11/23/2017 06:33:44 PM Calculated interpolation
+11/23/2017 06:33:44 PM Calculated divergence
+11/23/2017 06:33:44 PM Saved flux interp dictionary
+11/23/2017 06:33:44 PM Saved flux divergence interp
+11/23/2017 06:33:44 PM Looks great !!

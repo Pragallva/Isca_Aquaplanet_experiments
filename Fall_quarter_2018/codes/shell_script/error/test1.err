@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/convert_to_pressure_coord.py", line 84, in <module>
+    ok= u[:,:,0,1]+ht[0,1,:,:]
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 669, in __add__
+    return self._add_sub(other, operator.add)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/pint/quantity.py", line 586, in _add_sub
+    other.dimensionality)
+pint.errors.DimensionalityError: Cannot convert from 'meter / second' ([length] / [time]) to 'meter' ([length])

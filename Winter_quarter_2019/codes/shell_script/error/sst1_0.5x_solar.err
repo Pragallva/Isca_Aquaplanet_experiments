@@ -1,0 +1,44 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Calculate_EKE_depths.py", line 25, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Reload_EKE_save_interpolated_depths.py", line 18, in <module>
+    num=str(dirc[4]) ## represents an annual year of data
+IndexError: list index out of range

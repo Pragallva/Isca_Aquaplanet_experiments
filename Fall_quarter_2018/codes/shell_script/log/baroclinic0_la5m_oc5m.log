@@ -1,0 +1,29 @@
+11/01/2018 10:46:40 PM ** INTERPOLATION ** 
+11/01/2018 10:46:43 PM ----0----T, U, Z 
+11/01/2018 10:46:43 PM ----1----T, U, Z 
+11/01/2018 10:46:43 PM ----2----T, U, Z 
+11/01/2018 10:46:43 PM ----3----T, U, Z 
+11/01/2018 10:46:43 PM ----4----T, U, Z 
+11/01/2018 10:46:43 PM  Loaded T U Z P
+11/01/2018 10:46:43 PM Defined constants
+11/01/2018 10:46:43 PM Interpolate T
+11/01/2018 10:46:43 PM Interpolate U
+11/01/2018 10:46:43 PM Interpolate Z
+11/01/2018 10:46:43 PM Calculated theta
+11/01/2018 10:46:43 PM Calculated N_sq_sfc
+11/01/2018 10:46:43 PM Calculated dtheta_dy_sfc
+11/01/2018 10:46:43 PM Calculated fo_dUdz_sfc
+11/01/2018 10:46:43 PM Dictionary surface baroclinicity
+11/01/2018 10:46:46 PM Calculated dUdz
+11/01/2018 10:46:47 PM Calculated N_sq
+11/01/2018 10:46:47 PM Dictionary baroclinicity
+11/01/2018 10:46:47 PM destination folder created !
+11/01/2018 10:46:47 PM Saved baroclinicity
+11/01/2018 10:46:47 PM Looks great !!
+05/18/2019 05:49:04 PM 0...........interpolation_from_sigma_to_pres_coord.py.............
+05/18/2019 05:49:04 PM 0imported nc file
+05/18/2019 05:49:35 PM 0imported coordinates, height
+05/18/2019 05:50:28 PM 0imported u, 1440,40,64,128
+05/18/2019 05:51:20 PM 0imported ht, 1440,40,64,128
+05/18/2019 05:52:13 PM 0imported temp, 1440,40,64,128
+05/18/2019 05:53:00 PM 0imported pres, 1440,40,64,128

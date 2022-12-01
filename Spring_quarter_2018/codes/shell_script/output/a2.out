@@ -1,0 +1,8 @@
+/project2/tas1/pragallva/Fall_quarter_2017/figures/MSE_fluxes/land  realqflux2_div.pdf
+/project2/tas1/pragallva/Fall_quarter_2017/figures/MSE_fluxes/land  realqflux2_flux.pdf
+[ 121797.08835401  123797.08835401  125797.08835401  127797.08835401
+  129797.08835401  131797.08835401  133797.08835401  135797.08835401
+  137797.08835401  139797.08835401]
+np.min(co_L), np.max(co_L) 121797.088354 141370.222859
+np.min(co_H),np.max(co_H) 10203.7815757 15203.382524
+/project2/tas1/pragallva/Fall_quarter_2017/figures/stream_wind_ht/land_realqflux2_Ruth.pdf

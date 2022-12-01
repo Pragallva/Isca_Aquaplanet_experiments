@@ -1,0 +1,37 @@
+03/21/2018 03:05:01 AM destination folder created !
+03/21/2018 03:05:01 AM ...........Extract_ncfile_save_fluxes_radiation.py.............
+03/21/2018 03:05:01 AM imported nc file
+03/21/2018 03:11:01 AM imported coordinates
+03/21/2018 03:23:21 AM imported pressure
+03/21/2018 03:36:47 AM saved temp
+03/21/2018 03:51:42 AM saved v_comp
+03/21/2018 04:04:30 AM saved u_comp
+03/21/2018 04:10:14 AM saved Z
+03/21/2018 04:21:50 AM saved q
+03/21/2018 04:30:36 AM saved EKE
+03/21/2018 04:30:56 AM calculated KE
+03/21/2018 04:31:55 AM ** INTERPOLATION **
+03/21/2018 04:31:59 AM ...........plot_and_save_div_MSE.py.............
+03/21/2018 04:32:01 AM ...........plot_stream_wind_etc.py.............
+03/21/2018 07:14:20 AM ...........Extract_ncfile_save_fluxes_radiation.py.............
+03/21/2018 07:14:20 AM imported nc file
+03/21/2018 07:19:22 AM imported coordinates
+03/21/2018 07:26:41 AM imported pressure
+03/21/2018 07:30:23 AM saved temp
+03/21/2018 07:34:04 AM saved v_comp
+03/21/2018 07:37:47 AM saved u_comp
+03/21/2018 07:41:36 AM saved Z
+03/21/2018 07:45:45 AM saved q
+03/21/2018 07:47:54 AM saved EKE
+03/21/2018 07:48:15 AM calculated KE
+03/21/2018 07:48:50 AM ** INTERPOLATION **
+03/21/2018 07:48:57 AM ...........plot_and_save_div_MSE.py.............
+03/21/2018 08:01:59 AM ...........Extract_ncfile_save_fluxes_radiation.py.............
+03/21/2018 08:01:59 AM imported nc file
+03/21/2018 08:05:32 AM imported coordinates
+03/21/2018 08:12:46 AM imported pressure
+03/21/2018 08:16:24 AM saved temp
+03/21/2018 08:20:07 AM saved v_comp
+03/21/2018 08:23:33 AM saved u_comp
+03/21/2018 08:27:14 AM ** INTERPOLATION **
+03/21/2018 08:27:17 AM ...........plot_and_save_div_MSE.py.............

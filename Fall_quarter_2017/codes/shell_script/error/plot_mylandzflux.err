@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_and_save_div_MSE.py", line 18, in <module>
+    log_directory='/project2/tas1/pragallva/Fall_quarter_2017/codes/shell_script/log/'+dirc[1]+'_'+dirc[2]
+NameError: name 'dirc' is not defined
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:692: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+Trying `CDLL(libgeos_c.so.1)`
+Library path: 'libgeos_c.so.1'
+DLL: <CDLL 'libgeos_c.so.1', handle 41beda0 at 7f406203b510>
+Trying `CDLL(libc.so.6)`
+Library path: 'libc.so.6'
+DLL: <CDLL 'libc.so.6', handle 7f440a143990 at 7f406203b5d0>
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 18, in <module>
+    log_directory='/project2/tas1/pragallva/Fall_quarter_2017/codes/shell_script/log/'+dirc[1]+'_'+dirc[2]
+NameError: name 'dirc' is not defined

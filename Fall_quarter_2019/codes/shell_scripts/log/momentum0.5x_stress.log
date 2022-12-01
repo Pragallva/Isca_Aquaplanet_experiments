@@ -1,0 +1,460 @@
+10/01/2019 08:37:53 AM ....Extract ncfile save MSE and momentum fluxes and radiation....0 averaged over 30
+10/01/2019 08:37:53 AM imported nc file
+10/01/2019 08:38:37 AM imported coordinates
+10/01/2019 08:40:00 AM imported pressure
+10/01/2019 08:40:47 AM saved temp
+10/01/2019 08:41:35 AM saved v_comp
+10/01/2019 08:42:22 AM saved u_comp
+10/01/2019 08:43:03 AM saved omega
+10/01/2019 08:43:36 AM saved Z
+10/01/2019 08:44:23 AM saved q
+10/01/2019 08:44:30 AM calculated KE
+10/01/2019 08:44:41 AM calculated MSE fluxes
+10/01/2019 08:44:41 AM loaded coordinates dictionary
+10/01/2019 08:45:37 AM 0calculated zeta
+10/01/2019 08:45:53 AM 0calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:46:15 AM 0calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:47:10 AM 0calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:47:51 AM 0calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:48:46 AM 0calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:49:36 AM 0calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:50:35 AM 0calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 08:50:46 AM 0calculated all vs
+10/01/2019 08:50:46 AM 0Saved momentum budget dictionary
+10/01/2019 08:50:57 AM 0calculated all v1 s
+10/01/2019 08:51:07 AM 0Saved v dictionary
+10/01/2019 08:52:35 AM 0Calulated MMC flux
+10/01/2019 08:53:38 AM 0Calulated MMC sens flux
+10/01/2019 08:54:40 AM 0Calulated MMC potential flux
+10/01/2019 08:55:43 AM 0Calulated MMC moist flux
+10/01/2019 08:57:11 AM 0Calulated MMC del m mmc flux
+10/01/2019 08:58:39 AM 0Calulated MMC del v mmc flux
+10/01/2019 08:58:39 AM 0Saved v_MM_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_MM1_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_TE_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_TE1_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_SE_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_SE1_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_net_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_net1_MMC dictionary
+10/01/2019 08:58:39 AM 0Saved v_MMC dictionary
+10/01/2019 08:58:40 AM loaded MMC decomposed dictionary
+10/01/2019 08:58:40 AM loaded vs decomposed dictionary
+10/01/2019 08:58:40 AM loaded momentum budget dictionary
+10/01/2019 08:58:40 AM Time taken --> 1250.8553741
+10/01/2019 08:58:40 AM Awesome! complete!
+10/01/2019 08:58:40 AM -------------------------------
+10/01/2019 08:58:49 AM ....Extract ncfile save MSE and momentum fluxes and radiation....1 averaged over 30
+10/01/2019 08:58:49 AM imported nc file
+10/01/2019 08:58:55 AM imported coordinates
+10/01/2019 09:00:29 AM imported pressure
+10/01/2019 09:01:14 AM saved temp
+10/01/2019 09:01:57 AM saved v_comp
+10/01/2019 09:02:28 AM saved u_comp
+10/01/2019 09:03:16 AM saved omega
+10/01/2019 09:04:03 AM saved Z
+10/01/2019 09:04:50 AM saved q
+10/01/2019 09:04:57 AM calculated KE
+10/01/2019 09:05:08 AM calculated MSE fluxes
+10/01/2019 09:05:08 AM loaded coordinates dictionary
+10/01/2019 09:06:04 AM 1calculated zeta
+10/01/2019 09:06:20 AM 1calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:06:43 AM 1calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:07:38 AM 1calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:08:19 AM 1calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:09:14 AM 1calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:10:04 AM 1calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:11:04 AM 1calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:11:15 AM 1calculated all vs
+10/01/2019 09:11:15 AM 1Saved momentum budget dictionary
+10/01/2019 09:11:25 AM 1calculated all v1 s
+10/01/2019 09:11:36 AM 1Saved v dictionary
+10/01/2019 09:13:04 AM 1Calulated MMC flux
+10/01/2019 09:14:07 AM 1Calulated MMC sens flux
+10/01/2019 09:15:10 AM 1Calulated MMC potential flux
+10/01/2019 09:16:13 AM 1Calulated MMC moist flux
+10/01/2019 09:17:42 AM 1Calulated MMC del m mmc flux
+10/01/2019 09:19:11 AM 1Calulated MMC del v mmc flux
+10/01/2019 09:19:11 AM 1Saved v_MM_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_MM1_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_TE_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_TE1_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_SE_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_SE1_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_net_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_net1_MMC dictionary
+10/01/2019 09:19:11 AM 1Saved v_MMC dictionary
+10/01/2019 09:19:11 AM loaded MMC decomposed dictionary
+10/01/2019 09:19:11 AM loaded vs decomposed dictionary
+10/01/2019 09:19:11 AM loaded momentum budget dictionary
+10/01/2019 09:19:11 AM Time taken --> 1225.16090584
+10/01/2019 09:19:11 AM Awesome! complete!
+10/01/2019 09:19:11 AM -------------------------------
+10/01/2019 09:19:20 AM ....Extract ncfile save MSE and momentum fluxes and radiation....2 averaged over 30
+10/01/2019 09:19:20 AM imported nc file
+10/01/2019 09:20:13 AM imported coordinates
+10/01/2019 09:21:47 AM imported pressure
+10/01/2019 09:22:35 AM saved temp
+10/01/2019 09:23:19 AM saved v_comp
+10/01/2019 09:23:53 AM saved u_comp
+10/01/2019 09:24:37 AM saved omega
+10/01/2019 09:25:21 AM saved Z
+10/01/2019 09:26:06 AM saved q
+10/01/2019 09:26:14 AM calculated KE
+10/01/2019 09:26:24 AM calculated MSE fluxes
+10/01/2019 09:26:24 AM loaded coordinates dictionary
+10/01/2019 09:27:21 AM 2calculated zeta
+10/01/2019 09:27:37 AM 2calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:27:59 AM 2calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:28:53 AM 2calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:29:32 AM 2calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:30:31 AM 2calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:31:17 AM 2calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:32:17 AM 2calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:32:28 AM 2calculated all vs
+10/01/2019 09:32:28 AM 2Saved momentum budget dictionary
+10/01/2019 09:32:38 AM 2calculated all v1 s
+10/01/2019 09:32:49 AM 2Saved v dictionary
+10/01/2019 09:34:18 AM 2Calulated MMC flux
+10/01/2019 09:35:21 AM 2Calulated MMC sens flux
+10/01/2019 09:36:23 AM 2Calulated MMC potential flux
+10/01/2019 09:37:26 AM 2Calulated MMC moist flux
+10/01/2019 09:38:55 AM 2Calulated MMC del m mmc flux
+10/01/2019 09:40:23 AM 2Calulated MMC del v mmc flux
+10/01/2019 09:40:23 AM 2Saved v_MM_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_MM1_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_TE_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_TE1_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_SE_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_SE1_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_net_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_net1_MMC dictionary
+10/01/2019 09:40:23 AM 2Saved v_MMC dictionary
+10/01/2019 09:40:23 AM loaded MMC decomposed dictionary
+10/01/2019 09:40:23 AM loaded vs decomposed dictionary
+10/01/2019 09:40:23 AM loaded momentum budget dictionary
+10/01/2019 09:40:23 AM Time taken --> 1266.48965597
+10/01/2019 09:40:23 AM Awesome! complete!
+10/01/2019 09:40:23 AM -------------------------------
+10/01/2019 09:40:32 AM ....Extract ncfile save MSE and momentum fluxes and radiation....3 averaged over 30
+10/01/2019 09:40:32 AM imported nc file
+10/01/2019 09:41:19 AM imported coordinates
+10/01/2019 09:42:54 AM imported pressure
+10/01/2019 09:43:41 AM saved temp
+10/01/2019 09:44:30 AM saved v_comp
+10/01/2019 09:45:19 AM saved u_comp
+10/01/2019 09:46:07 AM saved omega
+10/01/2019 09:46:57 AM saved Z
+10/01/2019 09:47:46 AM saved q
+10/01/2019 09:47:53 AM calculated KE
+10/01/2019 09:48:03 AM calculated MSE fluxes
+10/01/2019 09:48:03 AM loaded coordinates dictionary
+10/01/2019 09:49:00 AM 3calculated zeta
+10/01/2019 09:49:16 AM 3calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:49:38 AM 3calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:50:32 AM 3calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:51:13 AM 3calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:52:08 AM 3calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:52:57 AM 3calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:53:56 AM 3calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 09:54:07 AM 3calculated all vs
+10/01/2019 09:54:07 AM 3Saved momentum budget dictionary
+10/01/2019 09:54:18 AM 3calculated all v1 s
+10/01/2019 09:54:28 AM 3Saved v dictionary
+10/01/2019 09:55:56 AM 3Calulated MMC flux
+10/01/2019 09:56:58 AM 3Calulated MMC sens flux
+10/01/2019 09:58:00 AM 3Calulated MMC potential flux
+10/01/2019 09:59:03 AM 3Calulated MMC moist flux
+10/01/2019 10:00:31 AM 3Calulated MMC del m mmc flux
+10/01/2019 10:01:58 AM 3Calulated MMC del v mmc flux
+10/01/2019 10:01:58 AM 3Saved v_MM_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_MM1_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_TE_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_TE1_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_SE_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_SE1_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_net_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_net1_MMC dictionary
+10/01/2019 10:01:58 AM 3Saved v_MMC dictionary
+10/01/2019 10:01:58 AM loaded MMC decomposed dictionary
+10/01/2019 10:01:59 AM loaded vs decomposed dictionary
+10/01/2019 10:01:59 AM loaded momentum budget dictionary
+10/01/2019 10:01:59 AM Time taken --> 1289.85798788
+10/01/2019 10:01:59 AM Awesome! complete!
+10/01/2019 10:01:59 AM -------------------------------
+10/01/2019 10:02:07 AM ....Extract ncfile save MSE and momentum fluxes and radiation....4 averaged over 30
+10/01/2019 10:02:07 AM imported nc file
+10/01/2019 10:03:16 AM imported coordinates
+10/01/2019 10:04:55 AM imported pressure
+10/01/2019 10:05:45 AM saved temp
+10/01/2019 10:06:33 AM saved v_comp
+10/01/2019 10:07:22 AM saved u_comp
+10/01/2019 10:08:10 AM saved omega
+10/01/2019 10:08:57 AM saved Z
+10/01/2019 10:09:43 AM saved q
+10/01/2019 10:09:50 AM calculated KE
+10/01/2019 10:10:01 AM calculated MSE fluxes
+10/01/2019 10:10:01 AM loaded coordinates dictionary
+10/01/2019 10:11:00 AM 4calculated zeta
+10/01/2019 10:11:16 AM 4calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:11:38 AM 4calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:12:31 AM 4calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:13:11 AM 4calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:14:06 AM 4calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:14:55 AM 4calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:15:53 AM 4calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:16:04 AM 4calculated all vs
+10/01/2019 10:16:04 AM 4Saved momentum budget dictionary
+10/01/2019 10:16:14 AM 4calculated all v1 s
+10/01/2019 10:16:24 AM 4Saved v dictionary
+10/01/2019 10:17:51 AM 4Calulated MMC flux
+10/01/2019 10:18:52 AM 4Calulated MMC sens flux
+10/01/2019 10:19:54 AM 4Calulated MMC potential flux
+10/01/2019 10:20:55 AM 4Calulated MMC moist flux
+10/01/2019 10:22:22 AM 4Calulated MMC del m mmc flux
+10/01/2019 10:23:49 AM 4Calulated MMC del v mmc flux
+10/01/2019 10:23:49 AM 4Saved v_MM_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_MM1_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_TE_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_TE1_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_SE_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_SE1_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_net_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_net1_MMC dictionary
+10/01/2019 10:23:49 AM 4Saved v_MMC dictionary
+10/01/2019 10:23:50 AM loaded MMC decomposed dictionary
+10/01/2019 10:23:50 AM loaded vs decomposed dictionary
+10/01/2019 10:23:50 AM loaded momentum budget dictionary
+10/01/2019 10:23:50 AM Time taken --> 1305.83141899
+10/01/2019 10:23:50 AM Awesome! complete!
+10/01/2019 10:23:50 AM -------------------------------
+10/01/2019 10:23:58 AM ....Extract ncfile save MSE and momentum fluxes and radiation....5 averaged over 30
+10/01/2019 10:23:58 AM imported nc file
+10/01/2019 10:24:33 AM imported coordinates
+10/01/2019 10:26:04 AM imported pressure
+10/01/2019 10:26:50 AM saved temp
+10/01/2019 10:27:35 AM saved v_comp
+10/01/2019 10:28:20 AM saved u_comp
+10/01/2019 10:29:08 AM saved omega
+10/01/2019 10:29:53 AM saved Z
+10/01/2019 10:30:38 AM saved q
+10/01/2019 10:30:46 AM calculated KE
+10/01/2019 10:30:56 AM calculated MSE fluxes
+10/01/2019 10:30:56 AM loaded coordinates dictionary
+10/01/2019 10:31:53 AM 5calculated zeta
+10/01/2019 10:32:09 AM 5calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:32:32 AM 5calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:33:27 AM 5calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:34:08 AM 5calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:35:04 AM 5calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:35:54 AM 5calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:36:54 AM 5calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:37:05 AM 5calculated all vs
+10/01/2019 10:37:05 AM 5Saved momentum budget dictionary
+10/01/2019 10:37:15 AM 5calculated all v1 s
+10/01/2019 10:37:26 AM 5Saved v dictionary
+10/01/2019 10:38:55 AM 5Calulated MMC flux
+10/01/2019 10:39:58 AM 5Calulated MMC sens flux
+10/01/2019 10:41:00 AM 5Calulated MMC potential flux
+10/01/2019 10:42:03 AM 5Calulated MMC moist flux
+10/01/2019 10:43:32 AM 5Calulated MMC del m mmc flux
+10/01/2019 10:45:01 AM 5Calulated MMC del v mmc flux
+10/01/2019 10:45:01 AM 5Saved v_MM_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_MM1_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_TE_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_TE1_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_SE_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_SE1_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_net_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_net1_MMC dictionary
+10/01/2019 10:45:01 AM 5Saved v_MMC dictionary
+10/01/2019 10:45:01 AM loaded MMC decomposed dictionary
+10/01/2019 10:45:01 AM loaded vs decomposed dictionary
+10/01/2019 10:45:01 AM loaded momentum budget dictionary
+10/01/2019 10:45:01 AM Time taken --> 1266.00293803
+10/01/2019 10:45:01 AM Awesome! complete!
+10/01/2019 10:45:01 AM -------------------------------
+10/01/2019 10:45:10 AM ....Extract ncfile save MSE and momentum fluxes and radiation....6 averaged over 30
+10/01/2019 10:45:10 AM imported nc file
+10/01/2019 10:45:48 AM imported coordinates
+10/01/2019 10:47:23 AM imported pressure
+10/01/2019 10:48:08 AM saved temp
+10/01/2019 10:48:55 AM saved v_comp
+10/01/2019 10:49:41 AM saved u_comp
+10/01/2019 10:50:27 AM saved omega
+10/01/2019 10:51:12 AM saved Z
+10/01/2019 10:51:58 AM saved q
+10/01/2019 10:52:06 AM calculated KE
+10/01/2019 10:52:16 AM calculated MSE fluxes
+10/01/2019 10:52:16 AM loaded coordinates dictionary
+10/01/2019 10:53:12 AM 6calculated zeta
+10/01/2019 10:53:28 AM 6calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:53:50 AM 6calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:54:44 AM 6calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:55:23 AM 6calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:56:19 AM 6calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:57:06 AM 6calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:58:05 AM 6calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 10:58:16 AM 6calculated all vs
+10/01/2019 10:58:16 AM 6Saved momentum budget dictionary
+10/01/2019 10:58:26 AM 6calculated all v1 s
+10/01/2019 10:58:36 AM 6Saved v dictionary
+10/01/2019 11:00:05 AM 6Calulated MMC flux
+10/01/2019 11:01:08 AM 6Calulated MMC sens flux
+10/01/2019 11:02:10 AM 6Calulated MMC potential flux
+10/01/2019 11:03:13 AM 6Calulated MMC moist flux
+10/01/2019 11:04:41 AM 6Calulated MMC del m mmc flux
+10/01/2019 11:06:10 AM 6Calulated MMC del v mmc flux
+10/01/2019 11:06:10 AM 6Saved v_MM_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_MM1_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_TE_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_TE1_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_SE_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_SE1_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_net_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_net1_MMC dictionary
+10/01/2019 11:06:10 AM 6Saved v_MMC dictionary
+10/01/2019 11:06:10 AM loaded MMC decomposed dictionary
+10/01/2019 11:06:10 AM loaded vs decomposed dictionary
+10/01/2019 11:06:10 AM loaded momentum budget dictionary
+10/01/2019 11:06:10 AM Time taken --> 1262.95258188
+10/01/2019 11:06:10 AM Awesome! complete!
+10/01/2019 11:06:10 AM -------------------------------
+10/01/2019 11:06:18 AM ....Extract ncfile save MSE and momentum fluxes and radiation....7 averaged over 30
+10/01/2019 11:06:18 AM imported nc file
+10/01/2019 11:06:52 AM imported coordinates
+10/01/2019 11:08:24 AM imported pressure
+10/01/2019 11:09:10 AM saved temp
+10/01/2019 11:09:57 AM saved v_comp
+10/01/2019 11:10:44 AM saved u_comp
+10/01/2019 11:11:32 AM saved omega
+10/01/2019 11:12:18 AM saved Z
+10/01/2019 11:13:04 AM saved q
+10/01/2019 11:13:11 AM calculated KE
+10/01/2019 11:13:22 AM calculated MSE fluxes
+10/01/2019 11:13:22 AM loaded coordinates dictionary
+10/01/2019 11:14:19 AM 7calculated zeta
+10/01/2019 11:14:35 AM 7calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:14:57 AM 7calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:15:51 AM 7calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:16:29 AM 7calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:17:26 AM 7calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:18:12 AM 7calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:19:13 AM 7calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:19:24 AM 7calculated all vs
+10/01/2019 11:19:24 AM 7Saved momentum budget dictionary
+10/01/2019 11:19:35 AM 7calculated all v1 s
+10/01/2019 11:19:46 AM 7Saved v dictionary
+10/01/2019 11:21:14 AM 7Calulated MMC flux
+10/01/2019 11:22:17 AM 7Calulated MMC sens flux
+10/01/2019 11:23:19 AM 7Calulated MMC potential flux
+10/01/2019 11:24:22 AM 7Calulated MMC moist flux
+10/01/2019 11:25:50 AM 7Calulated MMC del m mmc flux
+10/01/2019 11:27:18 AM 7Calulated MMC del v mmc flux
+10/01/2019 11:27:18 AM 7Saved v_MM_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_MM1_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_TE_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_TE1_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_SE_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_SE1_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_net_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_net1_MMC dictionary
+10/01/2019 11:27:18 AM 7Saved v_MMC dictionary
+10/01/2019 11:27:19 AM loaded MMC decomposed dictionary
+10/01/2019 11:27:19 AM loaded vs decomposed dictionary
+10/01/2019 11:27:19 AM loaded momentum budget dictionary
+10/01/2019 11:27:19 AM Time taken --> 1263.21533704
+10/01/2019 11:27:19 AM Awesome! complete!
+10/01/2019 11:27:19 AM -------------------------------
+10/01/2019 11:27:28 AM ....Extract ncfile save MSE and momentum fluxes and radiation....8 averaged over 30
+10/01/2019 11:27:28 AM imported nc file
+10/01/2019 11:28:04 AM imported coordinates
+10/01/2019 11:29:38 AM imported pressure
+10/01/2019 11:30:26 AM saved temp
+10/01/2019 11:31:15 AM saved v_comp
+10/01/2019 11:32:05 AM saved u_comp
+10/01/2019 11:32:53 AM saved omega
+10/01/2019 11:33:41 AM saved Z
+10/01/2019 11:34:28 AM saved q
+10/01/2019 11:34:35 AM calculated KE
+10/01/2019 11:34:45 AM calculated MSE fluxes
+10/01/2019 11:34:45 AM loaded coordinates dictionary
+10/01/2019 11:35:41 AM 8calculated zeta
+10/01/2019 11:35:57 AM 8calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:36:19 AM 8calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:37:12 AM 8calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:37:49 AM 8calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:38:44 AM 8calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:39:28 AM 8calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:40:28 AM 8calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:40:38 AM 8calculated all vs
+10/01/2019 11:40:38 AM 8Saved momentum budget dictionary
+10/01/2019 11:40:49 AM 8calculated all v1 s
+10/01/2019 11:41:00 AM 8Saved v dictionary
+10/01/2019 11:42:27 AM 8Calulated MMC flux
+10/01/2019 11:43:29 AM 8Calulated MMC sens flux
+10/01/2019 11:44:31 AM 8Calulated MMC potential flux
+10/01/2019 11:45:34 AM 8Calulated MMC moist flux
+10/01/2019 11:47:01 AM 8Calulated MMC del m mmc flux
+10/01/2019 11:48:29 AM 8Calulated MMC del v mmc flux
+10/01/2019 11:48:29 AM 8Saved v_MM_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_MM1_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_TE_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_TE1_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_SE_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_SE1_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_net_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_net1_MMC dictionary
+10/01/2019 11:48:29 AM 8Saved v_MMC dictionary
+10/01/2019 11:48:29 AM loaded MMC decomposed dictionary
+10/01/2019 11:48:29 AM loaded vs decomposed dictionary
+10/01/2019 11:48:29 AM loaded momentum budget dictionary
+10/01/2019 11:48:29 AM Time taken --> 1264.6199019
+10/01/2019 11:48:29 AM Awesome! complete!
+10/01/2019 11:48:29 AM -------------------------------
+10/01/2019 11:48:38 AM ....Extract ncfile save MSE and momentum fluxes and radiation....9 averaged over 30
+10/01/2019 11:48:38 AM imported nc file
+10/01/2019 11:49:30 AM imported coordinates
+10/01/2019 11:51:05 AM imported pressure
+10/01/2019 11:51:53 AM saved temp
+10/01/2019 11:52:39 AM saved v_comp
+10/01/2019 11:53:27 AM saved u_comp
+10/01/2019 11:54:14 AM saved omega
+10/01/2019 11:54:59 AM saved Z
+10/01/2019 11:55:48 AM saved q
+10/01/2019 11:55:55 AM calculated KE
+10/01/2019 11:56:05 AM calculated MSE fluxes
+10/01/2019 11:56:05 AM loaded coordinates dictionary
+10/01/2019 11:57:02 AM 9calculated zeta
+10/01/2019 11:57:19 AM 9calculated dudt, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:57:41 AM 9calculated w_dudp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:58:34 AM 9calculated zeta_v, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 11:59:12 AM 9calculated div TE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 12:00:09 PM 9calculated TE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 12:00:55 PM 9calculated div SE EMF, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 12:01:56 PM 9calculated SE d_u'w'_dp, shape = (1, 12, 1, 1, 40, 64, 1)
+10/01/2019 12:02:07 PM 9calculated all vs
+10/01/2019 12:02:07 PM 9Saved momentum budget dictionary
+10/01/2019 12:02:18 PM 9calculated all v1 s
+10/01/2019 12:02:29 PM 9Saved v dictionary
+10/01/2019 12:03:56 PM 9Calulated MMC flux
+10/01/2019 12:04:59 PM 9Calulated MMC sens flux
+10/01/2019 12:06:02 PM 9Calulated MMC potential flux
+10/01/2019 12:07:04 PM 9Calulated MMC moist flux
+10/01/2019 12:08:32 PM 9Calulated MMC del m mmc flux
+10/01/2019 12:10:00 PM 9Calulated MMC del v mmc flux
+10/01/2019 12:10:00 PM 9Saved v_MM_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_MM1_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_TE_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_TE1_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_SE_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_SE1_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_net_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_net1_MMC dictionary
+10/01/2019 12:10:00 PM 9Saved v_MMC dictionary
+10/01/2019 12:10:00 PM loaded MMC decomposed dictionary
+10/01/2019 12:10:00 PM loaded vs decomposed dictionary
+10/01/2019 12:10:01 PM loaded momentum budget dictionary
+10/01/2019 12:10:01 PM Time taken --> 1285.69985008
+10/01/2019 12:10:01 PM Awesome! complete!
+10/01/2019 12:10:01 PM -------------------------------

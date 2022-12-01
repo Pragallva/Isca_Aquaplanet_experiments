@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 193, in <module>
+    plot_Ruth()
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 179, in plot_Ruth
+    plot_monsoon(ht, h=1)
+  File "/project2/tas1/pragallva/Fall_quarter_2017//codes/python_scripts/plot_stream_wind_etc.py", line 134, in plot_monsoon
+    d           = py.contour(coord['lon'], coord['lat'], land_mask, colors='lightgrey')
+NameError: global name 'land_mask' is not defined

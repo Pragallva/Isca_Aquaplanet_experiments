@@ -1,0 +1,10 @@
+2018-11-23 01:57:37,737 - gfdl - WARNING - Working directory for exp '4m' already exists
+2018-11-23 01:57:38,087 - gfdl - INFO - Writing path_names to '/scratch/midway2/pragallva/model/gfdl_work/4m/path_names'
+Traceback (most recent call last):
+  File "aqua_const_depth.py", line 51, in <module>
+    baseexp.compile()
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 392, in compile
+    self.write_path_names(self.workdir)
+  File "/project/tas1/pragallva/Fall_quarter_2017/Isca/src/extra/python/gfdl/experiment.py", line 311, in write_path_names
+    pn.writelines('\n'.join(self.path_names))
+IOError: [Errno 122] Disk quota exceeded

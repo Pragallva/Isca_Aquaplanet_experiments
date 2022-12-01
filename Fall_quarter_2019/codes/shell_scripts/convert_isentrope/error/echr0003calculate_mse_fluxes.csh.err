@@ -1,0 +1,76 @@
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:161: RuntimeWarning: Mean of empty slice
+  return np.nanmean( np.nanmean( np.nanmean( np.nanmean(reshape(y1), axis=2), axis=2), axis=-1), axis=0)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/ma/core.py:1017: RuntimeWarning: overflow encountered in multiply
+  result = self.f(da, db, *args, **kwargs)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:161: RuntimeWarning: Mean of empty slice
+  return np.nanmean( np.nanmean( np.nanmean( np.nanmean(reshape(y1), axis=2), axis=2), axis=-1), axis=0)
+/home/pragallva/Project1/lib/python2.7/site-packages/numpy/ma/core.py:1017: RuntimeWarning: overflow encountered in multiply
+  result = self.f(da, db, *args, **kwargs)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:172: RuntimeWarning: Mean of empty slice
+  monthly_f = np.nanmean(np.nanmean(flux,axis=2),axis=2) # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:173: RuntimeWarning: Mean of empty slice
+  zonal_f   = np.nanmean(monthly_f,axis=-1)        # (year, month, plev, lat)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:174: RuntimeWarning: Mean of empty slice
+  return np.nanmean(zonal_f,axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:172: RuntimeWarning: Mean of empty slice
+  monthly_f = np.nanmean(np.nanmean(flux,axis=2),axis=2) # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:173: RuntimeWarning: Mean of empty slice
+  zonal_f   = np.nanmean(monthly_f,axis=-1)        # (year, month, plev, lat)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:174: RuntimeWarning: Mean of empty slice
+  return np.nanmean(zonal_f,axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:182: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)  # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:184: RuntimeWarning: Mean of empty slice
+  zonal_v   = np.nanmean(monthly_v,axis=-1)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:185: RuntimeWarning: Mean of empty slice
+  return np.nanmean(zonal_m*zonal_v, axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:182: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)  # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:184: RuntimeWarning: Mean of empty slice
+  zonal_v   = np.nanmean(monthly_v,axis=-1)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:185: RuntimeWarning: Mean of empty slice
+  return np.nanmean(zonal_m*zonal_v, axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:193: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)                        # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:195: RuntimeWarning: Mean of empty slice
+  v_star    = monthly_v-np.nanmean(monthly_v,axis=-1)[...,None]
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:197: RuntimeWarning: Mean of empty slice
+  return np.nanmean(np.nanmean(np.nanmean(np.nanmean(flux_weighted,axis=2),axis=2),axis=-1),axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:193: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)                        # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:195: RuntimeWarning: Mean of empty slice
+  v_star    = monthly_v-np.nanmean(monthly_v,axis=-1)[...,None]
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:197: RuntimeWarning: Mean of empty slice
+  return np.nanmean(np.nanmean(np.nanmean(np.nanmean(flux_weighted,axis=2),axis=2),axis=-1),axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:205: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)           # (month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:205: RuntimeWarning: Mean of empty slice
+  monthly_v = np.nanmean(np.nanmean(weighted(V),axis=2),axis=2)           # (month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:208: RuntimeWarning: Mean of empty slice
+  flux      = np.nanmean(np.nanmean(np.nanmean(m_prime*v_prime,axis=2),axis=2),axis=-1) # (year,month,plev,lat)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:209: RuntimeWarning: Mean of empty slice
+  return np.nanmean(flux,axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:204: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)           # average over days
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:208: RuntimeWarning: Mean of empty slice
+  flux      = np.nanmean(np.nanmean(np.nanmean(m_prime*v_prime,axis=2),axis=2),axis=-1) # (year,month,plev,lat)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:209: RuntimeWarning: Mean of empty slice
+  return np.nanmean(flux,axis=0)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:204: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)           # average over days
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:192: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)           # (year, month,days, hour, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:192: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)           # (year, month,days, hour, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:194: RuntimeWarning: Mean of empty slice
+  m_star    = monthly_m-np.nanmean(monthly_m,axis=-1)[...,None]          # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:194: RuntimeWarning: Mean of empty slice
+  m_star    = monthly_m-np.nanmean(monthly_m,axis=-1)[...,None]          # (year, month, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:181: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)  # (year, month, days, hour, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:181: RuntimeWarning: Mean of empty slice
+  monthly_m = np.nanmean(np.nanmean(M,axis=2),axis=2)  # (year, month, days, hour, plev, lat, lon)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:183: RuntimeWarning: Mean of empty slice
+  zonal_m   = np.nanmean(monthly_m,axis=-1)        # (year, month, plev, lat)
+/project2/tas1/pragallva/Fall_quarter_2019//codes/python_scripts/echam/convert_to_isentropic_coord/Extract_ncfile_save_mse_fluxes.py:183: RuntimeWarning: Mean of empty slice
+  zonal_m   = np.nanmean(monthly_m,axis=-1)        # (year, month, plev, lat)

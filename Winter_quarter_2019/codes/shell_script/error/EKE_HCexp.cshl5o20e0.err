@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Reload_EKE_save_interpolated_depths.py", line 135, in <module>
+    Zsq_interp      =interpolate(Z_sq)
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Reload_EKE_save_interpolated_depths.py", line 128, in interpolate
+    interp[:,m]=interpolation_function(latn)
+ValueError: could not broadcast input array from shape (40,1741) into shape (1741)

@@ -1,0 +1,19 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 45663 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 45854 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 46366 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 46813 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 47004 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:806: RuntimeWarning: invalid value encountered in less_equal
+  switches = np.abs(np.diff((arr <= value).astype(np.int), axis=axis))
+/tmp/slurmd/job63011344/slurm_script: line 11: 47193 Killed                  python $sum19/codes/python_scripts/isca/convert_to_isentropic_coord/convert_to_isentropic_coord.py $1 0 'vcomp' 'sphum'
+slurmstepd-midway791: error: Detected 6 oom-kill event(s) in step 63011344.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

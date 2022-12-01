@@ -1,0 +1,24 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/reverse/Calculate_baroclinicity.py", line 61
+    source1='/project2/tas1/pragallva/Spring_quarter_2018/exp_data/aqua_isca100m/''
+                                                                                  ^
+SyntaxError: EOL while scanning string literal

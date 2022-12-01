@@ -1,0 +1,2260 @@
+10/01/2019 06:00:22 PM ...........calculate synoptic variability.............0
+10/01/2019 06:00:22 PM imported nc file
+10/01/2019 06:01:23 PM imported coordinates
+10/01/2019 06:02:53 PM imported pressure
+10/01/2019 06:03:39 PM saved v_comp
+10/01/2019 06:04:24 PM saved u_comp
+10/01/2019 06:05:10 PM saved temp
+10/01/2019 06:05:15 PM ...........calculate synoptic variability.............1
+10/01/2019 06:05:15 PM imported nc file
+10/01/2019 06:06:19 PM imported coordinates
+10/01/2019 06:07:49 PM imported pressure
+10/01/2019 06:08:34 PM saved v_comp
+10/01/2019 06:09:19 PM saved u_comp
+10/01/2019 06:10:04 PM saved temp
+10/01/2019 06:10:08 PM ...........calculate synoptic variability.............2
+10/01/2019 06:10:08 PM imported nc file
+10/01/2019 06:11:11 PM imported coordinates
+10/01/2019 06:12:43 PM imported pressure
+10/01/2019 06:13:27 PM saved v_comp
+10/01/2019 06:14:12 PM saved u_comp
+10/01/2019 06:14:55 PM saved temp
+10/01/2019 06:15:00 PM ...........calculate synoptic variability.............3
+10/01/2019 06:15:00 PM imported nc file
+10/01/2019 06:16:10 PM imported coordinates
+10/01/2019 06:17:47 PM imported pressure
+10/01/2019 06:18:34 PM saved v_comp
+10/01/2019 06:19:22 PM saved u_comp
+10/01/2019 06:20:10 PM saved temp
+10/01/2019 06:20:17 PM ...........calculate synoptic variability.............4
+10/01/2019 06:20:17 PM imported nc file
+10/01/2019 06:21:25 PM imported coordinates
+10/01/2019 06:23:01 PM imported pressure
+10/01/2019 06:23:49 PM saved v_comp
+10/01/2019 06:24:37 PM saved u_comp
+10/01/2019 06:25:24 PM saved temp
+10/01/2019 06:25:30 PM ...........calculate synoptic variability.............5
+10/01/2019 06:25:30 PM imported nc file
+10/01/2019 06:26:39 PM imported coordinates
+10/01/2019 06:28:15 PM imported pressure
+10/01/2019 06:29:02 PM saved v_comp
+10/01/2019 06:29:47 PM saved u_comp
+10/01/2019 06:30:32 PM saved temp
+10/01/2019 06:30:39 PM ...........calculate synoptic variability.............6
+10/01/2019 06:30:39 PM imported nc file
+10/01/2019 06:31:14 PM imported coordinates
+10/01/2019 06:32:44 PM imported pressure
+10/01/2019 06:33:28 PM saved v_comp
+10/01/2019 06:34:13 PM saved u_comp
+10/01/2019 06:34:58 PM saved temp
+10/01/2019 06:35:02 PM ...........calculate synoptic variability.............7
+10/01/2019 06:35:02 PM imported nc file
+10/01/2019 06:36:06 PM imported coordinates
+10/01/2019 06:37:37 PM imported pressure
+10/01/2019 06:38:22 PM saved v_comp
+10/01/2019 06:39:06 PM saved u_comp
+10/01/2019 06:39:52 PM saved temp
+10/01/2019 06:39:56 PM ...........calculate synoptic variability.............8
+10/01/2019 06:39:56 PM imported nc file
+10/01/2019 06:41:01 PM imported coordinates
+10/01/2019 06:42:34 PM imported pressure
+10/01/2019 06:43:18 PM saved v_comp
+10/01/2019 06:44:04 PM saved u_comp
+10/01/2019 06:44:47 PM saved temp
+10/01/2019 06:44:51 PM ...........calculate synoptic variability.............9
+10/01/2019 06:44:51 PM imported nc file
+10/01/2019 06:45:53 PM imported coordinates
+10/01/2019 06:47:23 PM imported pressure
+10/01/2019 06:48:08 PM saved v_comp
+10/01/2019 06:48:53 PM saved u_comp
+10/01/2019 06:49:37 PM saved temp
+10/01/2019 10:38:27 PM ...........calculate synoptic variability.............0
+10/01/2019 10:38:27 PM imported nc file
+10/01/2019 10:39:42 PM imported coordinates
+10/01/2019 10:41:26 PM imported pressure
+10/01/2019 10:42:17 PM saved v_comp
+10/01/2019 10:43:08 PM saved u_comp
+10/01/2019 10:43:59 PM saved temp
+10/01/2019 10:44:51 PM saved Z
+10/01/2019 10:45:41 PM saved q
+10/01/2019 10:45:45 PM Filtering signal now
+10/01/2019 10:45:45 PM Filtering U
+10/01/2019 10:45:49 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 10:45:53 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 10:45:56 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 10:46:00 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 10:46:03 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 10:46:06 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 10:46:10 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 10:46:13 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 10:46:17 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 10:46:20 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 10:46:23 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 10:46:27 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 10:46:30 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 10:46:33 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 10:46:37 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 10:46:40 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 10:46:44 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 10:46:47 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 10:46:50 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 10:46:54 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 10:46:57 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 10:47:00 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 10:47:04 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 10:47:07 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 10:47:11 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 10:47:14 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 10:47:17 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 10:47:21 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 10:47:24 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 10:47:27 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 10:47:31 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 10:47:34 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 10:47:38 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 10:47:41 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 10:47:44 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 10:47:48 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 10:47:51 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 10:47:54 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 10:47:58 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 10:48:01 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 10:48:01 PM Filtering V
+10/01/2019 10:48:06 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 10:48:09 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 10:48:12 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 10:48:16 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 10:48:19 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 10:48:23 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 10:48:26 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 10:48:29 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 10:48:33 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 10:48:36 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 10:48:39 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 10:48:43 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 10:48:46 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 10:48:50 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 10:48:53 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 10:48:56 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 10:49:00 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 10:49:03 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 10:49:06 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 10:49:10 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 10:49:13 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 10:49:17 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 10:49:20 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 10:49:23 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 10:49:27 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 10:49:30 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 10:49:33 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 10:49:37 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 10:49:40 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 10:49:44 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 10:49:47 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 10:49:50 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 10:49:54 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 10:49:57 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 10:50:00 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 10:50:04 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 10:50:07 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 10:50:11 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 10:50:14 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 10:50:17 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 10:50:17 PM Filtering CpT
+10/01/2019 10:50:23 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 10:50:26 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 10:50:29 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 10:50:33 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 10:50:36 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 10:50:39 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 10:50:43 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 10:50:46 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 10:50:50 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 10:50:53 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 10:50:56 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 10:51:00 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 10:51:03 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 10:51:06 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 10:51:10 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 10:51:13 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 10:51:16 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 10:51:20 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 10:51:23 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 10:51:27 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 10:51:30 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 10:51:33 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 10:51:37 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 10:51:40 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 10:51:43 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 10:51:47 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 10:51:50 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 10:51:53 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 10:51:57 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 10:52:00 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 10:52:04 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 10:52:07 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 10:52:10 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 10:52:14 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 10:52:17 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 10:52:20 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 10:52:24 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 10:52:27 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 10:52:30 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 10:52:34 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 10:52:34 PM Filtering gZ
+10/01/2019 10:52:39 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 10:52:43 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 10:52:46 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 10:52:49 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 10:52:53 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 10:52:56 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 10:52:59 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 10:53:03 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 10:53:06 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 10:53:10 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 10:53:13 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 10:53:16 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 10:53:20 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 10:53:23 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 10:53:26 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 10:53:30 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 10:53:33 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 10:53:37 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 10:53:40 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 10:53:43 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 10:53:47 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 10:53:50 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 10:53:53 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 10:53:57 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 10:54:00 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 10:54:04 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 10:54:07 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 10:54:10 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 10:54:14 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 10:54:17 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 10:54:20 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 10:54:24 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 10:54:27 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 10:54:30 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 10:54:34 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 10:54:37 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 10:54:41 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 10:54:44 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 10:54:47 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 10:54:51 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 10:54:51 PM Filtering Lq
+10/01/2019 10:54:56 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 10:55:00 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 10:55:03 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 10:55:06 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 10:55:10 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 10:55:13 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 10:55:16 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 10:55:20 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 10:55:23 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 10:55:27 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 10:55:30 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 10:55:33 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 10:55:37 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 10:55:40 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 10:55:43 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 10:55:47 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 10:55:50 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 10:55:54 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 10:55:57 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 10:56:00 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 10:56:04 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 10:56:07 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 10:56:10 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 10:56:14 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 10:56:17 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 10:56:21 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 10:56:24 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 10:56:27 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 10:56:31 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 10:56:34 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 10:56:37 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 10:56:41 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 10:56:44 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 10:56:48 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 10:56:51 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 10:56:54 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 10:56:58 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 10:57:01 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 10:57:04 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 10:57:08 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 10:57:17 PM calculated all transient fluxes
+10/01/2019 10:57:45 PM saved eddies data
+10/01/2019 10:57:45 PM Eddies calculated !! Great !!
+10/01/2019 10:57:45 PM Time taken = 1569988665.8
+10/01/2019 10:57:50 PM ...........calculate synoptic variability.............1
+10/01/2019 10:57:50 PM imported nc file
+10/01/2019 10:58:44 PM imported coordinates
+10/01/2019 11:00:13 PM imported pressure
+10/01/2019 11:00:57 PM saved v_comp
+10/01/2019 11:01:43 PM saved u_comp
+10/01/2019 11:02:26 PM saved temp
+10/01/2019 11:03:13 PM saved Z
+10/01/2019 11:03:57 PM saved q
+10/01/2019 11:04:00 PM Filtering signal now
+10/01/2019 11:04:00 PM Filtering U
+10/01/2019 11:04:05 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:04:08 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:04:12 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:04:15 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:04:19 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:04:22 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:04:25 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:04:29 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:04:32 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:04:36 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:04:39 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:04:43 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:04:46 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:04:49 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:04:53 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:04:56 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:05:00 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:05:03 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:05:06 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:05:10 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:05:13 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:05:17 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:05:20 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:05:24 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:05:27 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:05:30 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:05:34 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:05:37 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:05:41 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:05:44 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:05:47 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:05:51 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:05:54 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:05:58 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:06:01 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:06:05 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:06:08 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:06:11 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:06:15 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:06:18 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:06:18 PM Filtering V
+10/01/2019 11:06:23 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:06:26 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:06:29 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:06:33 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:06:36 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:06:40 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:06:43 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:06:46 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:06:50 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:06:53 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:06:57 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:07:00 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:07:03 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:07:07 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:07:10 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:07:14 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:07:17 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:07:20 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:07:24 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:07:27 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:07:31 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:07:34 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:07:37 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:07:41 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:07:44 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:07:48 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:07:51 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:07:55 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:07:58 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:08:01 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:08:05 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:08:08 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:08:12 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:08:15 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:08:18 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:08:22 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:08:25 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:08:29 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:08:32 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:08:35 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:08:35 PM Filtering CpT
+10/01/2019 11:08:41 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:08:44 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:08:48 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:08:51 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:08:54 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:08:58 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:09:01 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:09:05 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:09:08 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:09:11 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:09:15 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:09:18 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:09:22 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:09:25 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:09:28 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:09:32 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:09:35 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:09:39 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:09:42 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:09:45 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:09:49 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:09:52 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:09:56 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:09:59 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:10:02 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:10:06 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:10:09 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:10:13 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:10:16 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:10:20 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:10:23 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:10:26 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:10:30 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:10:33 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:10:37 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:10:40 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:10:43 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:10:47 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:10:50 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:10:54 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:10:54 PM Filtering gZ
+10/01/2019 11:10:59 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:11:03 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:11:06 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:11:09 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:11:13 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:11:16 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:11:20 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:11:23 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:11:26 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:11:30 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:11:33 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:11:37 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:11:40 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:11:43 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:11:47 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:11:50 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:11:54 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:11:57 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:12:01 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:12:04 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:12:07 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:12:11 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:12:14 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:12:18 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:12:21 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:12:24 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:12:28 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:12:31 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:12:35 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:12:38 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:12:41 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:12:45 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:12:48 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:12:52 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:12:55 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:12:58 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:13:02 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:13:05 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:13:09 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:13:12 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:13:12 PM Filtering Lq
+10/01/2019 11:13:18 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:13:21 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:13:24 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:13:28 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:13:31 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:13:35 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:13:38 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:13:41 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:13:45 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:13:48 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:13:52 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:13:55 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:13:58 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:14:02 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:14:05 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:14:09 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:14:12 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:14:15 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:14:19 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:14:22 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:14:26 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:14:29 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:14:32 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:14:36 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:14:39 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:14:43 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:14:46 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:14:50 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:14:53 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:14:56 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:15:00 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:15:03 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:15:07 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:15:10 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:15:13 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:15:17 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:15:20 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:15:24 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:15:27 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:15:30 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:15:39 PM calculated all transient fluxes
+10/01/2019 11:16:08 PM saved eddies data
+10/01/2019 11:16:08 PM Eddies calculated !! Great !!
+10/01/2019 11:16:08 PM Time taken = 1569989768.4
+10/01/2019 11:16:14 PM ...........calculate synoptic variability.............2
+10/01/2019 11:16:14 PM imported nc file
+10/01/2019 11:16:56 PM imported coordinates
+10/01/2019 11:18:20 PM imported pressure
+10/01/2019 11:19:03 PM saved v_comp
+10/01/2019 11:19:46 PM saved u_comp
+10/01/2019 11:20:28 PM saved temp
+10/01/2019 11:21:11 PM saved Z
+10/01/2019 11:21:54 PM saved q
+10/01/2019 11:21:58 PM Filtering signal now
+10/01/2019 11:21:58 PM Filtering U
+10/01/2019 11:22:03 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:22:06 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:22:09 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:22:13 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:22:16 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:22:19 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:22:23 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:22:26 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:22:29 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:22:33 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:22:36 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:22:39 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:22:43 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:22:46 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:22:49 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:22:53 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:22:56 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:22:59 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:23:03 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:23:06 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:23:10 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:23:13 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:23:16 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:23:20 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:23:23 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:23:26 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:23:29 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:23:33 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:23:36 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:23:39 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:23:42 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:23:46 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:23:49 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:23:52 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:23:56 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:23:59 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:24:02 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:24:05 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:24:09 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:24:12 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:24:12 PM Filtering V
+10/01/2019 11:24:16 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:24:20 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:24:23 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:24:26 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:24:30 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:24:33 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:24:36 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:24:39 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:24:43 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:24:46 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:24:49 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:24:53 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:24:56 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:24:59 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:25:03 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:25:06 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:25:09 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:25:13 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:25:16 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:25:19 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:25:22 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:25:26 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:25:29 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:25:32 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:25:36 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:25:39 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:25:42 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:25:46 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:25:49 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:25:52 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:25:56 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:25:59 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:26:02 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:26:05 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:26:09 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:26:12 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:26:15 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:26:19 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:26:22 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:26:25 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:26:25 PM Filtering CpT
+10/01/2019 11:26:31 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:26:34 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:26:37 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:26:40 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:26:44 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:26:47 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:26:50 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:26:53 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:26:57 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:27:00 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:27:03 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:27:06 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:27:10 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:27:13 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:27:16 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:27:19 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:27:23 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:27:26 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:27:29 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:27:32 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:27:36 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:27:39 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:27:42 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:27:46 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:27:49 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:27:52 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:27:55 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:27:59 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:28:02 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:28:05 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:28:08 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:28:12 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:28:15 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:28:18 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:28:21 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:28:25 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:28:28 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:28:31 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:28:34 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:28:38 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:28:38 PM Filtering gZ
+10/01/2019 11:28:43 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:28:46 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:28:50 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:28:53 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:28:56 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:28:59 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:29:03 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:29:06 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:29:09 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:29:12 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:29:16 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:29:19 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:29:22 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:29:25 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:29:29 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:29:32 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:29:35 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:29:38 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:29:42 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:29:45 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:29:48 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:29:51 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:29:55 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:29:58 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:30:01 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:30:04 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:30:08 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:30:11 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:30:14 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:30:17 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:30:21 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:30:24 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:30:27 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:30:30 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:30:34 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:30:37 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:30:40 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:30:44 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:30:47 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:30:50 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:30:50 PM Filtering Lq
+10/01/2019 11:30:55 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:30:59 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:31:02 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:31:05 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:31:08 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:31:12 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:31:15 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:31:18 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:31:21 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:31:25 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:31:28 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:31:31 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:31:34 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:31:38 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:31:41 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:31:44 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:31:47 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:31:51 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:31:54 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:31:57 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:32:00 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:32:04 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:32:07 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:32:10 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:32:13 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:32:17 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:32:20 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:32:23 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:32:26 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:32:30 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:32:33 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:32:36 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:32:39 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:32:43 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:32:46 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:32:49 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:32:52 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:32:56 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:32:59 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:33:02 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:33:11 PM calculated all transient fluxes
+10/01/2019 11:33:39 PM saved eddies data
+10/01/2019 11:33:39 PM Eddies calculated !! Great !!
+10/01/2019 11:33:39 PM Time taken = 1569990819.83
+10/01/2019 11:33:45 PM ...........calculate synoptic variability.............3
+10/01/2019 11:33:45 PM imported nc file
+10/01/2019 11:34:19 PM imported coordinates
+10/01/2019 11:35:46 PM imported pressure
+10/01/2019 11:36:29 PM saved v_comp
+10/01/2019 11:37:13 PM saved u_comp
+10/01/2019 11:37:57 PM saved temp
+10/01/2019 11:38:40 PM saved Z
+10/01/2019 11:39:24 PM saved q
+10/01/2019 11:39:28 PM Filtering signal now
+10/01/2019 11:39:28 PM Filtering U
+10/01/2019 11:39:32 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:39:36 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:39:39 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:39:43 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:39:46 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:39:49 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:39:53 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:39:56 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:40:00 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:40:03 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:40:07 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:40:10 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:40:13 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:40:17 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:40:20 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:40:24 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:40:27 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:40:31 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:40:34 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:40:37 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:40:41 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:40:44 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:40:48 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:40:51 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:40:54 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:40:58 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:41:01 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:41:05 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:41:08 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:41:12 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:41:15 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:41:18 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:41:22 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:41:25 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:41:29 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:41:32 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:41:36 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:41:39 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:41:42 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:41:46 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:41:46 PM Filtering V
+10/01/2019 11:41:50 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:41:54 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:41:57 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:42:00 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:42:04 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:42:07 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:42:11 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:42:14 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:42:18 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:42:21 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:42:24 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:42:28 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:42:31 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:42:34 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:42:38 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:42:41 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:42:45 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:42:48 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:42:51 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:42:55 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:42:58 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:43:01 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:43:05 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:43:08 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:43:12 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:43:15 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:43:18 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:43:22 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:43:25 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:43:28 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:43:32 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:43:35 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:43:39 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:43:42 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:43:45 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:43:49 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:43:52 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:43:55 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:43:59 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:44:02 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:44:02 PM Filtering CpT
+10/01/2019 11:44:08 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:44:11 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:44:14 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:44:18 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:44:21 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:44:24 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:44:28 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:44:31 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:44:35 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:44:38 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:44:41 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:44:45 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:44:48 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:44:52 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:44:55 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:44:58 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:45:02 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:45:05 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:45:08 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:45:12 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:45:15 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:45:19 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:45:22 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:45:25 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:45:29 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:45:32 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:45:36 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:45:39 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:45:42 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:45:46 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:45:49 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:45:52 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:45:56 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:45:59 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:46:03 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:46:06 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:46:09 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:46:13 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:46:16 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:46:20 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:46:20 PM Filtering gZ
+10/01/2019 11:46:25 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:46:28 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:46:32 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:46:35 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:46:39 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:46:42 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:46:45 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:46:49 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:46:52 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:46:55 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:46:59 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:47:02 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:47:06 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:47:09 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:47:12 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:47:16 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:47:19 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:47:22 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:47:26 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:47:29 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:47:33 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:47:36 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:47:39 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:47:43 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:47:46 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:47:50 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:47:53 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:47:56 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:48:00 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:48:03 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:48:06 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:48:10 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:48:13 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:48:17 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:48:20 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:48:23 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:48:27 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:48:30 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:48:34 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:48:37 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:48:37 PM Filtering Lq
+10/01/2019 11:48:42 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:48:46 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:48:49 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:48:53 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:48:56 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:48:59 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:49:03 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:49:06 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:49:09 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:49:13 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:49:16 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:49:20 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:49:23 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:49:26 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:49:30 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:49:33 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:49:37 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:49:40 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:49:43 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:49:47 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:49:50 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:49:53 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:49:57 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:50:00 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:50:04 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:50:07 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:50:10 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:50:14 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:50:17 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:50:20 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:50:24 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:50:27 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:50:31 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:50:34 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:50:37 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:50:41 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:50:44 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:50:48 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:50:51 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:50:54 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:51:03 PM calculated all transient fluxes
+10/01/2019 11:51:31 PM saved eddies data
+10/01/2019 11:51:31 PM Eddies calculated !! Great !!
+10/01/2019 11:51:31 PM Time taken = 1569991891.9
+10/01/2019 11:51:36 PM ...........calculate synoptic variability.............4
+10/01/2019 11:51:36 PM imported nc file
+10/01/2019 11:52:10 PM imported coordinates
+10/01/2019 11:53:38 PM imported pressure
+10/01/2019 11:54:22 PM saved v_comp
+10/01/2019 11:55:06 PM saved u_comp
+10/01/2019 11:55:51 PM saved temp
+10/01/2019 11:56:34 PM saved Z
+10/01/2019 11:57:18 PM saved q
+10/01/2019 11:57:22 PM Filtering signal now
+10/01/2019 11:57:22 PM Filtering U
+10/01/2019 11:57:27 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:57:30 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:57:33 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:57:37 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:57:40 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:57:43 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/01/2019 11:57:46 PM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/01/2019 11:57:50 PM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/01/2019 11:57:53 PM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/01/2019 11:57:56 PM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/01/2019 11:58:00 PM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/01/2019 11:58:03 PM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/01/2019 11:58:06 PM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/01/2019 11:58:10 PM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/01/2019 11:58:13 PM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/01/2019 11:58:16 PM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/01/2019 11:58:20 PM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/01/2019 11:58:23 PM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/01/2019 11:58:26 PM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/01/2019 11:58:30 PM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/01/2019 11:58:33 PM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/01/2019 11:58:36 PM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/01/2019 11:58:40 PM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/01/2019 11:58:43 PM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/01/2019 11:58:46 PM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/01/2019 11:58:50 PM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/01/2019 11:58:53 PM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/01/2019 11:58:56 PM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/01/2019 11:59:00 PM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/01/2019 11:59:03 PM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/01/2019 11:59:06 PM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/01/2019 11:59:10 PM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/01/2019 11:59:13 PM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/01/2019 11:59:16 PM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/01/2019 11:59:20 PM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/01/2019 11:59:23 PM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/01/2019 11:59:26 PM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/01/2019 11:59:30 PM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/01/2019 11:59:33 PM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/01/2019 11:59:36 PM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/01/2019 11:59:36 PM Filtering V
+10/01/2019 11:59:41 PM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/01/2019 11:59:44 PM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/01/2019 11:59:47 PM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/01/2019 11:59:51 PM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/01/2019 11:59:54 PM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/01/2019 11:59:57 PM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:00:01 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:00:04 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:00:07 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:00:11 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:00:14 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:00:17 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:00:20 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:00:24 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:00:27 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:00:30 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:00:34 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:00:37 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:00:40 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:00:44 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:00:47 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:00:50 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:00:54 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:00:57 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:01:00 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:01:04 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:01:07 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:01:10 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:01:14 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:01:17 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:01:20 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:01:24 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:01:27 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:01:30 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:01:33 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:01:37 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:01:40 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:01:43 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:01:47 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:01:50 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:01:50 AM Filtering CpT
+10/02/2019 12:01:55 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:01:59 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:02:02 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:02:05 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:02:09 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:02:12 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:02:15 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:02:19 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:02:22 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:02:25 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:02:29 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:02:32 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:02:35 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:02:39 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:02:42 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:02:45 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:02:49 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:02:52 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:02:55 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:02:59 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:03:02 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:03:05 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:03:09 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:03:12 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:03:15 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:03:19 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:03:22 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:03:25 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:03:29 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:03:32 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:03:35 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:03:39 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:03:42 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:03:45 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:03:49 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:03:52 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:03:55 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:03:59 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:04:02 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:04:05 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:04:05 AM Filtering gZ
+10/02/2019 12:04:11 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:04:14 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:04:18 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:04:21 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:04:24 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:04:28 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:04:31 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:04:34 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:04:37 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:04:41 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:04:44 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:04:47 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:04:51 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:04:54 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:04:57 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:05:01 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:05:04 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:05:07 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:05:11 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:05:14 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:05:17 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:05:21 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:05:24 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:05:27 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:05:31 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:05:34 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:05:37 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:05:41 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:05:44 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:05:47 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:05:51 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:05:54 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:05:57 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:06:01 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:06:04 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:06:07 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:06:11 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:06:14 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:06:17 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:06:21 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:06:21 AM Filtering Lq
+10/02/2019 12:06:26 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:06:30 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:06:33 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:06:36 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:06:40 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:06:43 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:06:46 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:06:49 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:06:53 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:06:56 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:06:59 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:07:03 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:07:06 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:07:09 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:07:13 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:07:16 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:07:19 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:07:23 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:07:26 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:07:29 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:07:33 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:07:36 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:07:39 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:07:43 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:07:46 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:07:49 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:07:53 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:07:56 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:07:59 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:08:03 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:08:06 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:08:09 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:08:13 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:08:16 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:08:20 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:08:23 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:08:26 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:08:29 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:08:33 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:08:36 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:08:45 AM calculated all transient fluxes
+10/02/2019 12:09:14 AM saved eddies data
+10/02/2019 12:09:14 AM Eddies calculated !! Great !!
+10/02/2019 12:09:14 AM Time taken = 1569992954.13
+10/02/2019 12:09:21 AM ...........calculate synoptic variability.............5
+10/02/2019 12:09:21 AM imported nc file
+10/02/2019 12:10:26 AM imported coordinates
+10/02/2019 12:11:58 AM imported pressure
+10/02/2019 12:12:43 AM saved v_comp
+10/02/2019 12:13:28 AM saved u_comp
+10/02/2019 12:14:13 AM saved temp
+10/02/2019 12:14:57 AM saved Z
+10/02/2019 12:15:41 AM saved q
+10/02/2019 12:15:45 AM Filtering signal now
+10/02/2019 12:15:45 AM Filtering U
+10/02/2019 12:15:49 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:15:52 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:15:56 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:15:59 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:16:02 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:16:06 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:16:09 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:16:12 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:16:16 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:16:19 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:16:22 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:16:26 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:16:29 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:16:32 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:16:36 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:16:39 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:16:42 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:16:46 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:16:49 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:16:53 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:16:56 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:16:59 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:17:03 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:17:06 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:17:09 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:17:12 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:17:16 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:17:19 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:17:22 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:17:26 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:17:29 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:17:32 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:17:36 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:17:39 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:17:42 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:17:46 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:17:49 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:17:52 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:17:56 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:17:59 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:17:59 AM Filtering V
+10/02/2019 12:18:03 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:18:06 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:18:10 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:18:13 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:18:16 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:18:20 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:18:23 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:18:26 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:18:30 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:18:33 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:18:36 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:18:40 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:18:43 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:18:46 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:18:50 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:18:53 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:18:56 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:19:00 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:19:03 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:19:06 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:19:10 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:19:13 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:19:16 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:19:20 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:19:23 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:19:26 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:19:30 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:19:33 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:19:36 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:19:40 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:19:43 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:19:46 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:19:50 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:19:53 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:19:56 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:20:00 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:20:03 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:20:06 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:20:10 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:20:13 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:20:13 AM Filtering CpT
+10/02/2019 12:20:18 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:20:22 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:20:25 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:20:28 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:20:32 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:20:35 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:20:38 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:20:42 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:20:45 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:20:48 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:20:52 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:20:55 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:20:58 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:21:01 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:21:05 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:21:08 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:21:11 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:21:15 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:21:18 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:21:21 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:21:25 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:21:28 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:21:31 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:21:35 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:21:38 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:21:41 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:21:44 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:21:48 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:21:51 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:21:55 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:21:58 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:22:01 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:22:05 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:22:08 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:22:11 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:22:15 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:22:18 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:22:21 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:22:25 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:22:28 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:22:28 AM Filtering gZ
+10/02/2019 12:22:33 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:22:37 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:22:40 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:22:43 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:22:47 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:22:50 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:22:53 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:22:57 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:23:00 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:23:03 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:23:07 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:23:10 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:23:13 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:23:17 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:23:20 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:23:23 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:23:27 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:23:30 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:23:33 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:23:37 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:23:40 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:23:43 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:23:47 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:23:50 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:23:53 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:23:57 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:24:00 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:24:03 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:24:07 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:24:10 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:24:13 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:24:17 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:24:20 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:24:23 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:24:27 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:24:30 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:24:33 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:24:37 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:24:40 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:24:43 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:24:43 AM Filtering Lq
+10/02/2019 12:24:49 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:24:52 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:24:55 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:24:59 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:25:02 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:25:05 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:25:09 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:25:12 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:25:15 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:25:19 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:25:22 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:25:25 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:25:29 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:25:32 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:25:35 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:25:39 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:25:42 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:25:45 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:25:49 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:25:52 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:25:55 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:25:59 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:26:02 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:26:05 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:26:09 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:26:12 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:26:15 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:26:19 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:26:22 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:26:25 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:26:29 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:26:32 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:26:35 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:26:39 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:26:42 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:26:45 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:26:49 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:26:52 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:26:55 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:26:59 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:27:08 AM calculated all transient fluxes
+10/02/2019 12:27:37 AM saved eddies data
+10/02/2019 12:27:37 AM Eddies calculated !! Great !!
+10/02/2019 12:27:37 AM Time taken = 1569994057.26
+10/02/2019 12:27:44 AM ...........calculate synoptic variability.............6
+10/02/2019 12:27:44 AM imported nc file
+10/02/2019 12:28:48 AM imported coordinates
+10/02/2019 12:30:19 AM imported pressure
+10/02/2019 12:31:06 AM saved v_comp
+10/02/2019 12:31:54 AM saved u_comp
+10/02/2019 12:32:42 AM saved temp
+10/02/2019 12:33:28 AM saved Z
+10/02/2019 12:34:15 AM saved q
+10/02/2019 12:34:19 AM Filtering signal now
+10/02/2019 12:34:19 AM Filtering U
+10/02/2019 12:34:24 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:34:27 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:34:30 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:34:34 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:34:37 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:34:41 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:34:44 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:34:47 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:34:51 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:34:54 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:34:57 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:35:01 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:35:04 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:35:08 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:35:11 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:35:14 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:35:18 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:35:21 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:35:24 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:35:28 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:35:31 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:35:35 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:35:38 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:35:41 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:35:45 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:35:48 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:35:51 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:35:55 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:35:58 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:36:02 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:36:05 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:36:08 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:36:12 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:36:15 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:36:18 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:36:22 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:36:25 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:36:29 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:36:32 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:36:35 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:36:35 AM Filtering V
+10/02/2019 12:36:40 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:36:43 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:36:47 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:36:50 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:36:54 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:36:57 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:37:00 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:37:04 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:37:07 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:37:11 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:37:14 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:37:17 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:37:21 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:37:24 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:37:28 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:37:31 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:37:34 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:37:38 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:37:41 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:37:45 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:37:48 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:37:52 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:37:55 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:37:58 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:38:02 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:38:05 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:38:09 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:38:12 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:38:15 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:38:19 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:38:22 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:38:26 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:38:29 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:38:32 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:38:36 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:38:39 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:38:43 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:38:46 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:38:50 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:38:53 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:38:53 AM Filtering CpT
+10/02/2019 12:38:58 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:39:02 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:39:05 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:39:09 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:39:12 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:39:15 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:39:19 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:39:22 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:39:25 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:39:29 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:39:32 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:39:35 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:39:39 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:39:42 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:39:46 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:39:49 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:39:52 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:39:56 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:39:59 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:40:02 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:40:06 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:40:09 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:40:13 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:40:16 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:40:19 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:40:23 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:40:26 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:40:29 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:40:33 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:40:36 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:40:40 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:40:43 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:40:46 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:40:50 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:40:53 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:40:56 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:41:00 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:41:03 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:41:06 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:41:10 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:41:10 AM Filtering gZ
+10/02/2019 12:41:15 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:41:19 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:41:22 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:41:25 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:41:29 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:41:32 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:41:35 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:41:39 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:41:42 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:41:46 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:41:49 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:41:53 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:41:56 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:41:59 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:42:03 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:42:06 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:42:09 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:42:13 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:42:16 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:42:20 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:42:23 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:42:26 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:42:30 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:42:33 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:42:36 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:42:40 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:42:43 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:42:46 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:42:50 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:42:53 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:42:57 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:43:00 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:43:03 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:43:07 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:43:10 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:43:13 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:43:17 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:43:20 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:43:24 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:43:27 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:43:27 AM Filtering Lq
+10/02/2019 12:43:32 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:43:36 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:43:39 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:43:43 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:43:46 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:43:49 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:43:53 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:43:56 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:43:59 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:44:03 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:44:06 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:44:09 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:44:13 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:44:16 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:44:20 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:44:23 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:44:26 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:44:30 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:44:33 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:44:36 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:44:40 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:44:43 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:44:47 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:44:50 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:44:53 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:44:57 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:45:00 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:45:03 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:45:07 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:45:10 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:45:14 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:45:17 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:45:20 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:45:24 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:45:27 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:45:30 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:45:34 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:45:37 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:45:41 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:45:44 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:45:53 AM calculated all transient fluxes
+10/02/2019 12:46:21 AM saved eddies data
+10/02/2019 12:46:21 AM Eddies calculated !! Great !!
+10/02/2019 12:46:21 AM Time taken = 1569995181.39
+10/02/2019 12:46:27 AM ...........calculate synoptic variability.............7
+10/02/2019 12:46:27 AM imported nc file
+10/02/2019 12:47:29 AM imported coordinates
+10/02/2019 12:49:00 AM imported pressure
+10/02/2019 12:49:45 AM saved v_comp
+10/02/2019 12:50:30 AM saved u_comp
+10/02/2019 12:51:14 AM saved temp
+10/02/2019 12:51:59 AM saved Z
+10/02/2019 12:52:43 AM saved q
+10/02/2019 12:52:47 AM Filtering signal now
+10/02/2019 12:52:47 AM Filtering U
+10/02/2019 12:52:52 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:52:55 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:52:59 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:53:03 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:53:06 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:53:10 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:53:14 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:53:17 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:53:21 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:53:25 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:53:29 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:53:32 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:53:36 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:53:40 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:53:43 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:53:47 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:53:51 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:53:54 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:53:58 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:54:02 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:54:06 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:54:09 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:54:13 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:54:17 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:54:20 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:54:24 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:54:28 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:54:31 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:54:35 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:54:39 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:54:42 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:54:46 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:54:50 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:54:54 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:54:57 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:55:01 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:55:05 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:55:08 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:55:12 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:55:16 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:55:16 AM Filtering V
+10/02/2019 12:55:20 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:55:24 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:55:28 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:55:32 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:55:35 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:55:39 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:55:43 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:55:46 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:55:50 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:55:54 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:55:57 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:56:01 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:56:05 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:56:08 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:56:12 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:56:16 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:56:20 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:56:23 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:56:27 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:56:31 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:56:34 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:56:38 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:56:42 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:56:45 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:56:49 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:56:53 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:56:57 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:57:00 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:57:04 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:57:08 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:57:11 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:57:15 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:57:19 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:57:22 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:57:26 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 12:57:30 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 12:57:33 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 12:57:37 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 12:57:41 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 12:57:45 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 12:57:45 AM Filtering CpT
+10/02/2019 12:57:50 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 12:57:54 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 12:57:58 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 12:58:01 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 12:58:05 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 12:58:09 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 12:58:13 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 12:58:16 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 12:58:20 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 12:58:24 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 12:58:27 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 12:58:31 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 12:58:35 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 12:58:38 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 12:58:42 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 12:58:46 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 12:58:50 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 12:58:53 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 12:58:57 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 12:59:01 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 12:59:04 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 12:59:08 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 12:59:12 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 12:59:16 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 12:59:19 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 12:59:23 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 12:59:27 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 12:59:30 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 12:59:34 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 12:59:38 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 12:59:41 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 12:59:45 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 12:59:49 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 12:59:53 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 12:59:56 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:00:00 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:00:04 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:00:07 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:00:11 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:00:15 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:00:15 AM Filtering gZ
+10/02/2019 01:00:21 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:00:24 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:00:28 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:00:32 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:00:35 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:00:39 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:00:43 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:00:47 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:00:50 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:00:54 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:00:58 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:01:01 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:01:05 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:01:09 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:01:13 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:01:16 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:01:20 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:01:24 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:01:27 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:01:31 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:01:35 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:01:38 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:01:42 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:01:46 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:01:50 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:01:53 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:01:57 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:02:01 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:02:04 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:02:08 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:02:12 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:02:16 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:02:19 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:02:23 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:02:27 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:02:30 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:02:34 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:02:38 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:02:42 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:02:45 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:02:45 AM Filtering Lq
+10/02/2019 01:02:51 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:02:55 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:02:58 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:03:02 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:03:06 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:03:10 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:03:13 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:03:17 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:03:21 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:03:24 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:03:28 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:03:32 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:03:36 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:03:39 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:03:43 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:03:47 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:03:50 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:03:54 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:03:58 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:04:01 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:04:05 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:04:09 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:04:13 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:04:16 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:04:20 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:04:24 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:04:27 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:04:31 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:04:35 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:04:39 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:04:42 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:04:46 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:04:50 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:04:53 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:04:57 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:05:01 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:05:05 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:05:08 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:05:12 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:05:16 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:05:24 AM calculated all transient fluxes
+10/02/2019 01:05:53 AM saved eddies data
+10/02/2019 01:05:53 AM Eddies calculated !! Great !!
+10/02/2019 01:05:53 AM Time taken = 1569996353.38
+10/02/2019 01:05:58 AM ...........calculate synoptic variability.............8
+10/02/2019 01:05:58 AM imported nc file
+10/02/2019 01:06:31 AM imported coordinates
+10/02/2019 01:07:58 AM imported pressure
+10/02/2019 01:08:41 AM saved v_comp
+10/02/2019 01:09:26 AM saved u_comp
+10/02/2019 01:10:10 AM saved temp
+10/02/2019 01:10:54 AM saved Z
+10/02/2019 01:11:38 AM saved q
+10/02/2019 01:11:42 AM Filtering signal now
+10/02/2019 01:11:42 AM Filtering U
+10/02/2019 01:11:47 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:11:50 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:11:54 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:11:57 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:12:00 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:12:04 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:12:07 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:12:10 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:12:14 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:12:17 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:12:21 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:12:24 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:12:27 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:12:31 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:12:34 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:12:38 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:12:41 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:12:44 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:12:48 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:12:51 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:12:54 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:12:58 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:13:01 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:13:05 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:13:08 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:13:11 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:13:15 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:13:18 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:13:21 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:13:25 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:13:28 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:13:32 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:13:35 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:13:38 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:13:42 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:13:45 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:13:48 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:13:52 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:13:55 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:13:59 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:13:59 AM Filtering V
+10/02/2019 01:14:03 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:14:06 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:14:10 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:14:13 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:14:16 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:14:20 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:14:23 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:14:27 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:14:30 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:14:33 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:14:37 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:14:40 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:14:43 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:14:47 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:14:50 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:14:54 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:14:57 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:15:00 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:15:04 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:15:07 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:15:10 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:15:14 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:15:17 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:15:20 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:15:24 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:15:27 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:15:31 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:15:34 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:15:37 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:15:41 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:15:44 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:15:48 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:15:51 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:15:54 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:15:58 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:16:01 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:16:04 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:16:08 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:16:11 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:16:15 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:16:15 AM Filtering CpT
+10/02/2019 01:16:20 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:16:23 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:16:27 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:16:30 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:16:34 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:16:37 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:16:40 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:16:44 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:16:47 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:16:50 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:16:54 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:16:57 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:17:01 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:17:04 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:17:07 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:17:11 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:17:14 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:17:17 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:17:21 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:17:24 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:17:27 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:17:31 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:17:34 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:17:38 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:17:41 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:17:44 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:17:48 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:17:51 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:17:54 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:17:58 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:18:01 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:18:05 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:18:08 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:18:11 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:18:15 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:18:18 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:18:21 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:18:25 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:18:28 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:18:31 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:18:32 AM Filtering gZ
+10/02/2019 01:18:37 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:18:40 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:18:44 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:18:47 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:18:50 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:18:54 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:18:57 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:19:01 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:19:04 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:19:07 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:19:11 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:19:14 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:19:17 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:19:21 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:19:24 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:19:27 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:19:31 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:19:34 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:19:38 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:19:41 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:19:44 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:19:48 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:19:51 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:19:54 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:19:58 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:20:01 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:20:05 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:20:08 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:20:11 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:20:15 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:20:18 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:20:21 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:20:25 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:20:28 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:20:31 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:20:35 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:20:38 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:20:42 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:20:45 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:20:48 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:20:48 AM Filtering Lq
+10/02/2019 01:20:54 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:20:57 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:21:00 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:21:04 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:21:07 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:21:11 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:21:14 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:21:17 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:21:21 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:21:24 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:21:27 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:21:31 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:21:34 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:21:37 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:21:41 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:21:44 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:21:48 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:21:51 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:21:54 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:21:58 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:22:01 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:22:04 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:22:08 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:22:11 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:22:15 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:22:18 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:22:21 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:22:25 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:22:28 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:22:31 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:22:35 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:22:38 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:22:42 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:22:45 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:22:48 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:22:52 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:22:55 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:22:58 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:23:02 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:23:05 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:23:14 AM calculated all transient fluxes
+10/02/2019 01:23:42 AM saved eddies data
+10/02/2019 01:23:42 AM Eddies calculated !! Great !!
+10/02/2019 01:23:42 AM Time taken = 1569997422.97
+10/02/2019 01:23:49 AM ...........calculate synoptic variability.............9
+10/02/2019 01:23:49 AM imported nc file
+10/02/2019 01:24:52 AM imported coordinates
+10/02/2019 01:26:26 AM imported pressure
+10/02/2019 01:27:12 AM saved v_comp
+10/02/2019 01:27:57 AM saved u_comp
+10/02/2019 01:28:40 AM saved temp
+10/02/2019 01:29:24 AM saved Z
+10/02/2019 01:30:08 AM saved q
+10/02/2019 01:30:12 AM Filtering signal now
+10/02/2019 01:30:12 AM Filtering U
+10/02/2019 01:30:16 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:30:20 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:30:23 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:30:26 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:30:30 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:30:33 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:30:36 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:30:40 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:30:43 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:30:46 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:30:50 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:30:53 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:30:56 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:31:00 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:31:03 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:31:07 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:31:10 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:31:14 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:31:18 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:31:21 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:31:25 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:31:29 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:31:32 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:31:36 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:31:39 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:31:43 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:31:47 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:31:50 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:31:54 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:31:58 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:32:01 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:32:05 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:32:08 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:32:12 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:32:16 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:32:19 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:32:23 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:32:27 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:32:30 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:32:34 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:32:34 AM Filtering V
+10/02/2019 01:32:38 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:32:42 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:32:45 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:32:49 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:32:53 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:32:56 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:33:00 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:33:03 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:33:07 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:33:10 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:33:14 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:33:17 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:33:21 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:33:24 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:33:28 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:33:32 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:33:35 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:33:39 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:33:42 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:33:46 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:33:49 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:33:53 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:33:56 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:34:00 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:34:03 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:34:07 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:34:11 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:34:14 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:34:18 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:34:21 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:34:25 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:34:28 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:34:32 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:34:35 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:34:39 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:34:42 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:34:46 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:34:50 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:34:53 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:34:57 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:34:57 AM Filtering CpT
+10/02/2019 01:35:02 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:35:06 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:35:09 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:35:13 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:35:16 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:35:20 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:35:23 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:35:27 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:35:30 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:35:34 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:35:37 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:35:41 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:35:45 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:35:48 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:35:52 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:35:55 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:35:59 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:36:02 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:36:06 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:36:09 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:36:13 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:36:16 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:36:20 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:36:23 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:36:27 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:36:30 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:36:34 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:36:37 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:36:41 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:36:45 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:36:48 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:36:52 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:36:55 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:36:59 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:37:02 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:37:06 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:37:09 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:37:13 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:37:16 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:37:20 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:37:20 AM Filtering gZ
+10/02/2019 01:37:25 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:37:29 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:37:33 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:37:36 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:37:40 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:37:43 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:37:47 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:37:50 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:37:54 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:37:57 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:38:01 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:38:04 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:38:08 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:38:11 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:38:15 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:38:18 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:38:22 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:38:26 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:38:29 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:38:33 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:38:36 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:38:40 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:38:43 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:38:47 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:38:50 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:38:54 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:38:57 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:39:01 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:39:04 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:39:08 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:39:12 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:39:15 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:39:19 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:39:22 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:39:26 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:39:29 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:39:33 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:39:36 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:39:40 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:39:43 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:39:43 AM Filtering Lq
+10/02/2019 01:39:49 AM Filtering at973.1199465677635 sigma level for monthly_pass frequency
+10/02/2019 01:39:53 AM Filtering at921.0435734946946 sigma level for monthly_pass frequency
+10/02/2019 01:39:56 AM Filtering at871.7540125826787 sigma level for monthly_pass frequency
+10/02/2019 01:40:00 AM Filtering at825.1018703001955 sigma level for monthly_pass frequency
+10/02/2019 01:40:03 AM Filtering at780.9450914447958 sigma level for monthly_pass frequency
+10/02/2019 01:40:07 AM Filtering at739.1477498279747 sigma level for monthly_pass frequency
+10/02/2019 01:40:10 AM Filtering at699.5784804292889 sigma level for monthly_pass frequency
+10/02/2019 01:40:14 AM Filtering at662.1085665908766 sigma level for monthly_pass frequency
+10/02/2019 01:40:17 AM Filtering at626.6097287784145 sigma level for monthly_pass frequency
+10/02/2019 01:40:21 AM Filtering at592.951685476526 sigma level for monthly_pass frequency
+10/02/2019 01:40:24 AM Filtering at560.9995761404118 sigma level for monthly_pass frequency
+10/02/2019 01:40:28 AM Filtering at530.6113557418541 sigma level for monthly_pass frequency
+10/02/2019 01:40:31 AM Filtering at501.63529616824417 sigma level for monthly_pass frequency
+10/02/2019 01:40:35 AM Filtering at473.90776833078615 sigma level for monthly_pass frequency
+10/02/2019 01:40:38 AM Filtering at447.2515376316733 sigma level for monthly_pass frequency
+10/02/2019 01:40:42 AM Filtering at421.47489136446967 sigma level for monthly_pass frequency
+10/02/2019 01:40:45 AM Filtering at396.3720342166585 sigma level for monthly_pass frequency
+10/02/2019 01:40:49 AM Filtering at371.725335892926 sigma level for monthly_pass frequency
+10/02/2019 01:40:53 AM Filtering at347.3101797144013 sigma level for monthly_pass frequency
+10/02/2019 01:40:56 AM Filtering at322.90330906438663 sigma level for monthly_pass frequency
+10/02/2019 01:41:00 AM Filtering at298.29563412593546 sigma level for monthly_pass frequency
+10/02/2019 01:41:03 AM Filtering at273.31033560806185 sigma level for monthly_pass frequency
+10/02/2019 01:41:07 AM Filtering at247.82662775578208 sigma level for monthly_pass frequency
+10/02/2019 01:41:10 AM Filtering at221.80852820217098 sigma level for monthly_pass frequency
+10/02/2019 01:41:14 AM Filtering at195.33625519570887 sigma level for monthly_pass frequency
+10/02/2019 01:41:17 AM Filtering at168.6353994868007 sigma level for monthly_pass frequency
+10/02/2019 01:41:21 AM Filtering at142.0960968927281 sigma level for monthly_pass frequency
+10/02/2019 01:41:24 AM Filtering at116.2719225588613 sigma level for monthly_pass frequency
+10/02/2019 01:41:28 AM Filtering at91.8477093601027 sigma level for monthly_pass frequency
+10/02/2019 01:41:31 AM Filtering at69.56901941712678 sigma level for monthly_pass frequency
+10/02/2019 01:41:35 AM Filtering at50.13522137980889 sigma level for monthly_pass frequency
+10/02/2019 01:41:38 AM Filtering at34.07262549982947 sigma level for monthly_pass frequency
+10/02/2019 01:41:42 AM Filtering at21.619597882391442 sigma level for monthly_pass frequency
+10/02/2019 01:41:46 AM Filtering at12.663559404899662 sigma level for monthly_pass frequency
+10/02/2019 01:41:49 AM Filtering at6.761046642395755 sigma level for monthly_pass frequency
+10/02/2019 01:41:53 AM Filtering at3.2438062498434053 sigma level for monthly_pass frequency
+10/02/2019 01:41:56 AM Filtering at1.3766083204391473 sigma level for monthly_pass frequency
+10/02/2019 01:42:00 AM Filtering at0.5077583032093046 sigma level for monthly_pass frequency
+10/02/2019 01:42:03 AM Filtering at0.15964567384571 sigma level for monthly_pass frequency
+10/02/2019 01:42:07 AM Filtering at0.02710462927265426 sigma level for monthly_pass frequency
+10/02/2019 01:42:15 AM calculated all transient fluxes
+10/02/2019 01:42:44 AM saved eddies data
+10/02/2019 01:42:44 AM Eddies calculated !! Great !!
+10/02/2019 01:42:44 AM Time taken = 1569998564.11

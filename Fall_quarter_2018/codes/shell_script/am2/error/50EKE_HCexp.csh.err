@@ -1,0 +1,28 @@
+/tmp/slurmd/job55843977/slurm_script: line 11: 24321 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 24489 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 25094 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 25235 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 25586 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 25736 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 26089 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 26232 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 26607 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+/tmp/slurmd/job55843977/slurm_script: line 11: 26970 Killed                  python $fall18/codes/python_scripts/am2/Calculate_EKE_depths.py $1 $2 $3 $i
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_EKE_save_interpolated_depths.py", line 78, in <module>
+    raw_data.append(load(source+"EKE.hkl"))    
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/am2/Reload_EKE_save_interpolated_depths.py", line 38, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018/post_process_data/am2/HC0_la50m_oc50m0/EKE.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+slurmstepd-midway787: error: Detected 10 oom-kill event(s) in step 55843977.batch cgroup.

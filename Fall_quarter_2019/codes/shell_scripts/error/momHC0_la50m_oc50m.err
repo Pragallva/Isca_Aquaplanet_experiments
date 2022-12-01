@@ -1,0 +1,60 @@
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:149: RuntimeWarning: Mean of empty slice
+  return np.nanmean(X, axis=-1)[..., None]
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:153: RuntimeWarning: Mean of empty slice
+  daily_mean   = np.nanmean(X, axis=3)[:,:,:,None,:,:,:]          ## Averaged across all hours
+/project2/tas1/pragallva/Summer_quarter_2019//codes/python_scripts/am2/calc_eddy_fluxes/momentum_equation_terms.py:154: RuntimeWarning: Mean of empty slice
+  monthly_mean = np.nanmean(daily_mean, axis=2)[:,:,None,:,:,:,:] ## Averaged across all months

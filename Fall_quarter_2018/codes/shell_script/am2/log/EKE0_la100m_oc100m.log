@@ -1,0 +1,446 @@
+12/27/2018 05:11:35 PM ...........Calculate EKE.............0
+12/27/2018 05:11:35 PM imported nc file
+12/27/2018 05:12:27 PM imported coordinates
+12/27/2018 05:12:32 PM calculated pressure from sigma levels
+12/27/2018 05:13:52 PM saved v_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:14:50 PM saved u_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:15:26 PM saved z regrid:(1464, 24, 90, 144)
+12/27/2018 05:15:26 PM Filtering signal now
+12/27/2018 05:15:32 PM ...........Calculate EKE.............1
+12/27/2018 05:15:32 PM imported nc file
+12/27/2018 05:16:28 PM imported coordinates
+12/27/2018 05:16:34 PM calculated pressure from sigma levels
+12/27/2018 05:18:00 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:18:33 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:19:11 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:19:11 PM Filtering signal now
+12/27/2018 05:19:17 PM ...........Calculate EKE.............2
+12/27/2018 05:19:17 PM imported nc file
+12/27/2018 05:20:14 PM imported coordinates
+12/27/2018 05:20:19 PM calculated pressure from sigma levels
+12/27/2018 05:21:49 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:22:51 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:23:27 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:23:27 PM Filtering signal now
+12/27/2018 05:23:34 PM ...........Calculate EKE.............3
+12/27/2018 05:23:34 PM imported nc file
+12/27/2018 05:24:27 PM imported coordinates
+12/27/2018 05:24:32 PM calculated pressure from sigma levels
+12/27/2018 05:26:01 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:27:07 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:27:43 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:27:43 PM Filtering signal now
+12/27/2018 05:27:49 PM ...........Calculate EKE.............4
+12/27/2018 05:27:49 PM imported nc file
+12/27/2018 05:28:43 PM imported coordinates
+12/27/2018 05:28:48 PM calculated pressure from sigma levels
+12/27/2018 05:30:16 PM saved v_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:31:21 PM saved u_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:32:01 PM saved z regrid:(1464, 24, 90, 144)
+12/27/2018 05:32:01 PM Filtering signal now
+12/27/2018 05:32:08 PM ...........Calculate EKE.............5
+12/27/2018 05:32:08 PM imported nc file
+12/27/2018 05:33:01 PM imported coordinates
+12/27/2018 05:33:07 PM calculated pressure from sigma levels
+12/27/2018 05:34:39 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:36:05 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:37:24 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:37:24 PM Filtering signal now
+12/27/2018 05:37:30 PM ...........Calculate EKE.............6
+12/27/2018 05:37:30 PM imported nc file
+12/27/2018 05:38:25 PM imported coordinates
+12/27/2018 05:38:30 PM calculated pressure from sigma levels
+12/27/2018 05:39:54 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:41:21 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:42:49 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:42:49 PM Filtering signal now
+12/27/2018 05:42:55 PM ...........Calculate EKE.............7
+12/27/2018 05:42:55 PM imported nc file
+12/27/2018 05:43:51 PM imported coordinates
+12/27/2018 05:43:57 PM calculated pressure from sigma levels
+12/27/2018 05:45:20 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:46:46 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:48:11 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:48:11 PM Filtering signal now
+12/27/2018 05:48:17 PM ...........Calculate EKE.............8
+12/27/2018 05:48:17 PM imported nc file
+12/27/2018 05:49:12 PM imported coordinates
+12/27/2018 05:49:17 PM calculated pressure from sigma levels
+12/27/2018 05:50:45 PM saved v_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:52:16 PM saved u_comp regrid:(1464, 24, 90, 144)
+12/27/2018 05:53:41 PM saved z regrid:(1464, 24, 90, 144)
+12/27/2018 05:53:41 PM Filtering signal now
+12/27/2018 05:53:48 PM ...........Calculate EKE.............9
+12/27/2018 05:53:48 PM imported nc file
+12/27/2018 05:54:42 PM imported coordinates
+12/27/2018 05:54:48 PM calculated pressure from sigma levels
+12/27/2018 05:56:16 PM saved v_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:57:53 PM saved u_comp regrid:(1460, 24, 90, 144)
+12/27/2018 05:59:21 PM saved z regrid:(1460, 24, 90, 144)
+12/27/2018 05:59:21 PM Filtering signal now
+12/27/2018 05:59:26 PM ** INTERPOLATION ** 
+12/27/2018 10:50:16 PM ** INTERPOLATION ** 
+12/28/2018 04:02:44 AM ...........Calculate EKE.............0
+12/28/2018 04:02:44 AM imported nc file
+12/28/2018 04:03:36 AM imported coordinates
+12/28/2018 04:03:40 AM calculated pressure from sigma levels
+12/28/2018 04:05:02 AM saved v_comp regrid:(1464, 24, 90, 144)
+12/28/2018 04:05:52 AM saved u_comp regrid:(1464, 24, 90, 144)
+12/28/2018 04:06:28 AM saved z regrid:(1464, 24, 90, 144)
+12/28/2018 04:06:28 AM Filtering signal now
+12/28/2018 04:06:42 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:06:54 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:07:05 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:07:16 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:07:27 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:07:38 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:07:49 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:08:00 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:08:12 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:08:23 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:08:34 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:08:45 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:08:56 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:09:07 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:09:18 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:09:30 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:09:41 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:09:52 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:10:03 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:10:14 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:10:25 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:10:36 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:10:47 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:10:59 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:11:04 AM calculated EKE
+12/28/2018 04:11:15 AM saved EKE data
+12/28/2018 04:11:15 AM EKE calculated !! Great !!
+12/28/2018 04:11:20 AM ...........Calculate EKE.............1
+12/28/2018 04:11:20 AM imported nc file
+12/28/2018 04:12:12 AM imported coordinates
+12/28/2018 04:12:17 AM calculated pressure from sigma levels
+12/28/2018 04:13:41 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:14:31 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:15:07 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 04:15:07 AM Filtering signal now
+12/28/2018 04:15:22 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:15:34 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:15:45 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:15:57 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:16:08 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:16:20 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:16:32 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:16:43 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:16:55 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:17:06 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:17:18 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:17:30 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:17:41 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:17:53 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:18:04 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:18:16 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:18:28 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:18:39 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:18:51 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:19:02 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:19:14 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:19:26 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:19:37 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:19:49 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:19:54 AM calculated EKE
+12/28/2018 04:20:05 AM saved EKE data
+12/28/2018 04:20:05 AM EKE calculated !! Great !!
+12/28/2018 04:20:08 AM ...........Calculate EKE.............2
+12/28/2018 04:20:08 AM imported nc file
+12/28/2018 04:21:02 AM imported coordinates
+12/28/2018 04:21:06 AM calculated pressure from sigma levels
+12/28/2018 04:22:29 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:23:20 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:23:55 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 04:23:55 AM Filtering signal now
+12/28/2018 04:24:09 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:24:19 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:24:30 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:24:41 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:24:52 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:25:02 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:25:13 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:25:24 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:25:35 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:25:45 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:25:56 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:26:07 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:26:18 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:26:28 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:26:39 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:26:50 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:27:00 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:27:11 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:27:22 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:27:33 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:27:43 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:27:54 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:28:05 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:28:16 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:28:21 AM calculated EKE
+12/28/2018 04:28:32 AM saved EKE data
+12/28/2018 04:28:32 AM EKE calculated !! Great !!
+12/28/2018 04:28:36 AM ...........Calculate EKE.............3
+12/28/2018 04:28:36 AM imported nc file
+12/28/2018 04:29:27 AM imported coordinates
+12/28/2018 04:29:31 AM calculated pressure from sigma levels
+12/28/2018 04:30:55 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:31:44 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:32:20 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 04:32:20 AM Filtering signal now
+12/28/2018 04:32:34 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:32:45 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:32:56 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:33:07 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:33:17 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:33:28 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:33:39 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:33:50 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:34:01 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:34:12 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:34:23 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:34:34 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:34:44 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:34:55 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:35:06 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:35:17 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:35:28 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:35:39 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:35:50 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:36:01 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:36:12 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:36:22 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:36:33 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:36:44 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:36:49 AM calculated EKE
+12/28/2018 04:37:00 AM saved EKE data
+12/28/2018 04:37:00 AM EKE calculated !! Great !!
+12/28/2018 04:37:04 AM ...........Calculate EKE.............4
+12/28/2018 04:37:04 AM imported nc file
+12/28/2018 04:37:56 AM imported coordinates
+12/28/2018 04:38:01 AM calculated pressure from sigma levels
+12/28/2018 04:39:25 AM saved v_comp regrid:(1464, 24, 90, 144)
+12/28/2018 04:40:15 AM saved u_comp regrid:(1464, 24, 90, 144)
+12/28/2018 04:40:52 AM saved z regrid:(1464, 24, 90, 144)
+12/28/2018 04:40:52 AM Filtering signal now
+12/28/2018 04:41:06 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:41:17 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:41:29 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:41:40 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:41:51 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:42:02 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:42:14 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:42:25 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:42:36 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:42:47 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:42:59 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:43:10 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:43:21 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:43:32 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:43:44 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:43:55 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:44:06 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:44:17 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:44:29 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:44:40 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:44:51 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:45:02 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:45:14 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:45:25 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:45:30 AM calculated EKE
+12/28/2018 04:45:41 AM saved EKE data
+12/28/2018 04:45:41 AM EKE calculated !! Great !!
+12/28/2018 04:45:45 AM ...........Calculate EKE.............5
+12/28/2018 04:45:45 AM imported nc file
+12/28/2018 04:46:37 AM imported coordinates
+12/28/2018 04:46:41 AM calculated pressure from sigma levels
+12/28/2018 04:48:04 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:48:53 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:49:30 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 04:49:30 AM Filtering signal now
+12/28/2018 04:49:44 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:49:55 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:50:07 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:50:18 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:50:30 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:50:41 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:50:53 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:51:04 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:51:15 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 04:51:27 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 04:51:38 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 04:51:50 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 04:52:01 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 04:52:13 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 04:52:24 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 04:52:36 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 04:52:47 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 04:52:58 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 04:53:10 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 04:53:21 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 04:53:33 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 04:53:44 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 04:53:56 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 04:54:07 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 04:54:12 AM calculated EKE
+12/28/2018 04:54:23 AM saved EKE data
+12/28/2018 04:54:23 AM EKE calculated !! Great !!
+12/28/2018 04:54:27 AM ...........Calculate EKE.............6
+12/28/2018 04:54:27 AM imported nc file
+12/28/2018 04:55:19 AM imported coordinates
+12/28/2018 04:55:23 AM calculated pressure from sigma levels
+12/28/2018 04:56:46 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:57:36 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 04:58:12 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 04:58:12 AM Filtering signal now
+12/28/2018 04:58:26 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 04:58:37 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 04:58:48 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 04:58:59 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 04:59:10 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 04:59:21 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 04:59:32 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 04:59:43 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 04:59:54 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 05:00:05 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 05:00:16 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 05:00:27 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 05:00:38 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 05:00:49 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 05:01:00 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 05:01:11 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 05:01:22 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 05:01:33 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 05:01:44 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 05:01:55 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 05:02:06 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 05:02:17 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 05:02:28 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 05:02:39 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 05:02:44 AM calculated EKE
+12/28/2018 05:02:55 AM saved EKE data
+12/28/2018 05:02:55 AM EKE calculated !! Great !!
+12/28/2018 05:02:59 AM ...........Calculate EKE.............7
+12/28/2018 05:02:59 AM imported nc file
+12/28/2018 05:03:51 AM imported coordinates
+12/28/2018 05:03:55 AM calculated pressure from sigma levels
+12/28/2018 05:05:19 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 05:06:10 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 05:06:47 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 05:06:47 AM Filtering signal now
+12/28/2018 05:07:01 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 05:07:12 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 05:07:23 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 05:07:34 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 05:07:45 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 05:07:56 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 05:08:07 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 05:08:18 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 05:08:29 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 05:08:40 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 05:08:51 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 05:09:02 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 05:09:13 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 05:09:24 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 05:09:35 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 05:09:45 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 05:09:56 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 05:10:07 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 05:10:18 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 05:10:29 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 05:10:40 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 05:10:51 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 05:11:02 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 05:11:13 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 05:11:18 AM calculated EKE
+12/28/2018 05:11:29 AM saved EKE data
+12/28/2018 05:11:29 AM EKE calculated !! Great !!
+12/28/2018 05:11:33 AM ...........Calculate EKE.............8
+12/28/2018 05:11:33 AM imported nc file
+12/28/2018 05:12:28 AM imported coordinates
+12/28/2018 05:12:32 AM calculated pressure from sigma levels
+12/28/2018 05:13:58 AM saved v_comp regrid:(1464, 24, 90, 144)
+12/28/2018 05:14:51 AM saved u_comp regrid:(1464, 24, 90, 144)
+12/28/2018 05:15:27 AM saved z regrid:(1464, 24, 90, 144)
+12/28/2018 05:15:27 AM Filtering signal now
+12/28/2018 05:15:41 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 05:15:51 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 05:16:02 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 05:16:12 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 05:16:23 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 05:16:34 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 05:16:44 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 05:16:55 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 05:17:06 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 05:17:16 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 05:17:27 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 05:17:37 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 05:17:48 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 05:17:59 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 05:18:09 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 05:18:20 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 05:18:30 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 05:18:41 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 05:18:52 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 05:19:02 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 05:19:13 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 05:19:23 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 05:19:34 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 05:19:45 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 05:19:50 AM calculated EKE
+12/28/2018 05:20:00 AM saved EKE data
+12/28/2018 05:20:01 AM EKE calculated !! Great !!
+12/28/2018 05:20:12 AM ...........Calculate EKE.............9
+12/28/2018 05:20:12 AM imported nc file
+12/28/2018 05:21:07 AM imported coordinates
+12/28/2018 05:21:11 AM calculated pressure from sigma levels
+12/28/2018 05:22:38 AM saved v_comp regrid:(1460, 24, 90, 144)
+12/28/2018 05:23:30 AM saved u_comp regrid:(1460, 24, 90, 144)
+12/28/2018 05:24:08 AM saved z regrid:(1460, 24, 90, 144)
+12/28/2018 05:24:08 AM Filtering signal now
+12/28/2018 05:24:22 AM Filtering u and v at plevel 0.9961083984375
+12/28/2018 05:24:33 AM Filtering u and v at plevel 0.9873693237304687
+12/28/2018 05:24:44 AM Filtering u and v at plevel 0.9765033569335938
+12/28/2018 05:24:55 AM Filtering u and v at plevel 0.963111328125
+12/28/2018 05:25:06 AM Filtering u and v at plevel 0.94679345703125
+12/28/2018 05:25:17 AM Filtering u and v at plevel 0.9271495361328125
+12/28/2018 05:25:28 AM Filtering u and v at plevel 0.9037782592773438
+12/28/2018 05:25:39 AM Filtering u and v at plevel 0.8762772216796875
+12/28/2018 05:25:50 AM Filtering u and v at plevel 0.8442423706054687
+12/28/2018 05:26:01 AM Filtering u and v at plevel 0.8072677001953125
+12/28/2018 05:26:11 AM Filtering u and v at plevel 0.7649443969726563
+12/28/2018 05:26:22 AM Filtering u and v at plevel 0.7168593139648437
+12/28/2018 05:26:33 AM Filtering u and v at plevel 0.6625931396484375
+12/28/2018 05:26:44 AM Filtering u and v at plevel 0.6017172241210937
+12/28/2018 05:26:55 AM Filtering u and v at plevel 0.533786376953125
+12/28/2018 05:27:06 AM Filtering u and v at plevel 0.4583251342773437
+12/28/2018 05:27:17 AM Filtering u and v at plevel 0.3780865783691406
+12/28/2018 05:27:28 AM Filtering u and v at plevel 0.29894439697265623
+12/28/2018 05:27:39 AM Filtering u and v at plevel 0.22474922180175783
+12/28/2018 05:27:50 AM Filtering u and v at plevel 0.15738101196289062
+12/28/2018 05:28:01 AM Filtering u and v at plevel 0.09912992095947265
+12/28/2018 05:28:11 AM Filtering u and v at plevel 0.052340194702148436
+12/28/2018 05:28:22 AM Filtering u and v at plevel 0.019088397979736327
+12/28/2018 05:28:33 AM Filtering u and v at plevel 0.0036502928733825684
+12/28/2018 05:28:39 AM calculated EKE
+12/28/2018 05:28:49 AM saved EKE data
+12/28/2018 05:28:49 AM EKE calculated !! Great !!
+12/28/2018 05:28:52 AM ** INTERPOLATION ** 
+12/28/2018 05:28:54 AM ----0----
+12/28/2018 05:28:54 AM ----1----
+12/28/2018 05:28:54 AM ----2----
+12/28/2018 05:28:54 AM ----3----
+12/28/2018 05:28:54 AM ----4----
+12/28/2018 05:28:54 AM ----5----
+12/28/2018 05:28:54 AM ----6----
+12/28/2018 05:28:54 AM ----7----
+12/28/2018 05:28:54 AM ----8----
+12/28/2018 05:28:54 AM ----9----
+12/28/2018 05:28:56 AM Calculated interpolation
+12/28/2018 05:28:56 AM Saved raw data interp dictionary
+12/28/2018 05:28:56 AM Looks great !!

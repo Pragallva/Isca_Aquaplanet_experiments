@@ -1,0 +1,219 @@
+05/19/2019 02:16:51 PM destination folder created !
+05/19/2019 02:16:51 PM ...........Extract_ncfile_save_fluxes_radiation.py.............0
+05/19/2019 02:16:51 PM imported nc file
+05/19/2019 02:17:44 PM imported coordinates
+05/19/2019 02:17:44 PM imported pressure
+05/19/2019 02:19:02 PM saved temp
+05/19/2019 02:20:16 PM saved v_comp
+05/19/2019 02:20:34 PM saved u_comp
+05/19/2019 02:21:12 PM saved Z
+05/19/2019 02:22:22 PM saved q
+05/19/2019 02:22:27 PM calculated pressure from sigma levels
+05/19/2019 02:22:29 PM calculated MSE fluxes
+05/19/2019 02:22:29 PM saved raw data
+05/19/2019 02:22:29 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 02:22:34 PM destination folder created !
+05/19/2019 02:22:34 PM ...........Extract_ncfile_save_fluxes_radiation.py.............1
+05/19/2019 02:22:34 PM imported nc file
+05/19/2019 02:23:29 PM imported coordinates
+05/19/2019 02:23:29 PM imported pressure
+05/19/2019 02:24:46 PM saved temp
+05/19/2019 02:25:57 PM saved v_comp
+05/19/2019 02:26:13 PM saved u_comp
+05/19/2019 02:27:05 PM saved Z
+05/19/2019 02:33:33 PM ...........Extract_ncfile_save_fluxes_radiation.py.............0
+05/19/2019 02:33:33 PM imported nc file
+05/19/2019 02:34:26 PM imported coordinates
+05/19/2019 02:34:26 PM imported pressure
+05/19/2019 02:35:45 PM saved temp
+05/19/2019 02:37:30 PM saved v_comp
+05/19/2019 02:39:06 PM saved u_comp
+05/19/2019 02:40:15 PM saved Z
+05/19/2019 02:41:30 PM saved q
+05/19/2019 02:41:34 PM calculated pressure from sigma levels
+05/19/2019 02:41:37 PM calculated MSE fluxes
+05/19/2019 02:41:37 PM saved raw data
+05/19/2019 02:41:37 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 02:43:25 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 02:43:25 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 02:43:29 PM ...........Extract_ncfile_save_fluxes_radiation.py.............1
+05/19/2019 02:43:29 PM imported nc file
+05/19/2019 02:44:20 PM imported coordinates
+05/19/2019 02:44:20 PM imported pressure
+05/19/2019 02:45:38 PM saved temp
+05/19/2019 02:46:48 PM saved v_comp
+05/19/2019 02:47:04 PM saved u_comp
+05/19/2019 02:47:42 PM saved Z
+05/19/2019 02:49:02 PM saved q
+05/19/2019 02:49:06 PM calculated pressure from sigma levels
+05/19/2019 02:49:09 PM calculated MSE fluxes
+05/19/2019 02:49:09 PM saved raw data
+05/19/2019 02:49:09 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 02:50:55 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 02:50:55 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 02:51:20 PM destination folder created !
+05/19/2019 02:51:20 PM ...........Extract_ncfile_save_fluxes_radiation.py.............2
+05/19/2019 02:51:20 PM imported nc file
+05/19/2019 02:52:12 PM imported coordinates
+05/19/2019 02:52:12 PM imported pressure
+05/19/2019 02:53:30 PM saved temp
+05/19/2019 02:54:41 PM saved v_comp
+05/19/2019 02:54:57 PM saved u_comp
+05/19/2019 02:55:34 PM saved Z
+05/19/2019 02:56:42 PM saved q
+05/19/2019 02:56:46 PM calculated pressure from sigma levels
+05/19/2019 02:56:49 PM calculated MSE fluxes
+05/19/2019 02:56:49 PM saved raw data
+05/19/2019 02:56:49 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 02:58:36 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 02:58:36 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 02:58:41 PM destination folder created !
+05/19/2019 02:58:41 PM ...........Extract_ncfile_save_fluxes_radiation.py.............3
+05/19/2019 02:58:41 PM imported nc file
+05/19/2019 02:59:33 PM imported coordinates
+05/19/2019 02:59:33 PM imported pressure
+05/19/2019 03:00:51 PM saved temp
+05/19/2019 03:02:02 PM saved v_comp
+05/19/2019 03:02:49 PM saved u_comp
+05/19/2019 03:03:25 PM saved Z
+05/19/2019 03:04:33 PM saved q
+05/19/2019 03:04:38 PM calculated pressure from sigma levels
+05/19/2019 03:04:40 PM calculated MSE fluxes
+05/19/2019 03:04:40 PM saved raw data
+05/19/2019 03:04:40 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:06:29 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:06:29 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:06:34 PM destination folder created !
+05/19/2019 03:06:34 PM ...........Extract_ncfile_save_fluxes_radiation.py.............4
+05/19/2019 03:06:34 PM imported nc file
+05/19/2019 03:07:27 PM imported coordinates
+05/19/2019 03:07:27 PM imported pressure
+05/19/2019 03:08:44 PM saved temp
+05/19/2019 03:09:54 PM saved v_comp
+05/19/2019 03:10:10 PM saved u_comp
+05/19/2019 03:10:48 PM saved Z
+05/19/2019 03:11:59 PM saved q
+05/19/2019 03:12:03 PM calculated pressure from sigma levels
+05/19/2019 03:12:06 PM calculated MSE fluxes
+05/19/2019 03:12:06 PM saved raw data
+05/19/2019 03:12:06 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:13:52 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:13:52 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:13:55 PM destination folder created !
+05/19/2019 03:13:55 PM ...........Extract_ncfile_save_fluxes_radiation.py.............5
+05/19/2019 03:13:55 PM imported nc file
+05/19/2019 03:14:48 PM imported coordinates
+05/19/2019 03:14:48 PM imported pressure
+05/19/2019 03:16:03 PM saved temp
+05/19/2019 03:17:29 PM saved v_comp
+05/19/2019 03:19:16 PM saved u_comp
+05/19/2019 03:20:38 PM saved Z
+05/19/2019 03:21:49 PM saved q
+05/19/2019 03:21:54 PM calculated pressure from sigma levels
+05/19/2019 03:21:56 PM calculated MSE fluxes
+05/19/2019 03:21:56 PM saved raw data
+05/19/2019 03:21:56 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:23:43 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:23:43 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:23:47 PM destination folder created !
+05/19/2019 03:23:47 PM ...........Extract_ncfile_save_fluxes_radiation.py.............6
+05/19/2019 03:23:47 PM imported nc file
+05/19/2019 03:24:38 PM imported coordinates
+05/19/2019 03:24:38 PM imported pressure
+05/19/2019 03:25:57 PM saved temp
+05/19/2019 03:27:20 PM saved v_comp
+05/19/2019 03:28:34 PM saved u_comp
+05/19/2019 03:29:46 PM saved Z
+05/19/2019 03:31:33 PM saved q
+05/19/2019 03:31:37 PM calculated pressure from sigma levels
+05/19/2019 03:31:40 PM calculated MSE fluxes
+05/19/2019 03:31:40 PM saved raw data
+05/19/2019 03:31:40 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:33:25 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:33:25 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:33:28 PM destination folder created !
+05/19/2019 03:33:28 PM ...........Extract_ncfile_save_fluxes_radiation.py.............7
+05/19/2019 03:33:28 PM imported nc file
+05/19/2019 03:34:20 PM imported coordinates
+05/19/2019 03:34:20 PM imported pressure
+05/19/2019 03:35:39 PM saved temp
+05/19/2019 03:37:16 PM saved v_comp
+05/19/2019 03:38:59 PM saved u_comp
+05/19/2019 03:40:15 PM saved Z
+05/19/2019 03:41:27 PM saved q
+05/19/2019 03:41:31 PM calculated pressure from sigma levels
+05/19/2019 03:41:34 PM calculated MSE fluxes
+05/19/2019 03:41:34 PM saved raw data
+05/19/2019 03:41:34 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:43:21 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:43:21 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:43:26 PM destination folder created !
+05/19/2019 03:43:26 PM ...........Extract_ncfile_save_fluxes_radiation.py.............8
+05/19/2019 03:43:26 PM imported nc file
+05/19/2019 03:44:19 PM imported coordinates
+05/19/2019 03:44:19 PM imported pressure
+05/19/2019 03:45:39 PM saved temp
+05/19/2019 03:46:50 PM saved v_comp
+05/19/2019 03:47:37 PM saved u_comp
+05/19/2019 03:48:15 PM saved Z
+05/19/2019 03:49:26 PM saved q
+05/19/2019 03:49:30 PM calculated pressure from sigma levels
+05/19/2019 03:49:33 PM calculated MSE fluxes
+05/19/2019 03:49:33 PM saved raw data
+05/19/2019 03:49:33 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 03:51:21 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 03:51:21 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 03:51:24 PM destination folder created !
+05/19/2019 03:51:24 PM ...........Extract_ncfile_save_fluxes_radiation.py.............9
+05/19/2019 03:51:24 PM imported nc file
+05/19/2019 03:52:16 PM imported coordinates
+05/19/2019 03:52:16 PM imported pressure
+05/19/2019 03:53:37 PM saved temp
+05/19/2019 03:55:05 PM saved v_comp
+05/19/2019 03:56:43 PM saved u_comp
+05/19/2019 03:58:19 PM saved Z
+05/19/2019 03:59:52 PM saved q
+05/19/2019 03:59:56 PM calculated pressure from sigma levels
+05/19/2019 03:59:59 PM calculated MSE fluxes
+05/19/2019 03:59:59 PM saved raw data
+05/19/2019 03:59:59 PM Begins calculating TE, SE and MM fluxes ....
+05/19/2019 04:01:45 PM loaded MMC_thermo_dynamic dictionary
+05/19/2019 04:01:45 PM loaded MMC_thermo_dynamic_vert dictionary
+05/19/2019 04:01:48 PM ** INTERPOLATION ** 
+05/19/2019 04:01:49 PM destination folder created !
+05/19/2019 04:01:49 PM ----0----
+05/19/2019 04:01:50 PM ----1----
+05/19/2019 04:01:50 PM ----2----
+05/19/2019 04:01:50 PM ----3----
+05/19/2019 04:01:50 PM ----4----
+05/19/2019 04:01:50 PM ----5----
+05/19/2019 04:01:50 PM ----6----
+05/19/2019 04:01:50 PM ----7----
+05/19/2019 04:01:50 PM ----8----
+05/19/2019 04:01:50 PM ----9----
+05/20/2019 11:23:35 AM ** INTERPOLATION ** 
+05/20/2019 11:23:50 AM ----0----
+05/20/2019 11:23:50 AM ----1----
+05/20/2019 11:23:50 AM ----2----
+05/20/2019 11:23:50 AM ----3----
+05/20/2019 11:23:50 AM ----4----
+05/20/2019 11:23:50 AM ----5----
+05/20/2019 11:23:50 AM ----6----
+05/20/2019 11:23:50 AM ----7----
+05/20/2019 11:23:50 AM ----8----
+05/20/2019 11:23:50 AM ----9----
+05/20/2019 11:34:53 AM ** INTERPOLATION ** 
+05/20/2019 11:34:55 AM ----0----
+05/20/2019 11:34:55 AM ----1----
+05/20/2019 11:34:55 AM ----2----
+05/20/2019 11:34:55 AM ----3----
+05/20/2019 11:34:55 AM ----4----
+05/20/2019 11:34:56 AM ----5----
+05/20/2019 11:34:56 AM ----6----
+05/20/2019 11:34:56 AM ----7----
+05/20/2019 11:34:56 AM ----8----
+05/20/2019 11:34:56 AM ----9----
+05/20/2019 11:34:59 AM Calculated interpolation
+05/20/2019 11:34:59 AM Saved decompose mmc dictionary
+05/20/2019 11:34:59 AM Saved decompose mmc dictionary
+05/20/2019 11:34:59 AM Looks great !!

@@ -1,0 +1,28 @@
+/tmp/slurmd/job59608407/slurm_script: line 11: 14315 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 14432 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 14649 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 14876 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 15426 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 15648 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 15842 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 16066 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 16211 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+/tmp/slurmd/job59608407/slurm_script: line 11: 16433 Killed                  python $fall18/codes/python_scripts/Extract_extra_terms_for_dse_budget.py $1 $2 $3 $i
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Reload_extra_terms_dse.py", line 78, in <module>
+    tendency.append(load(source+"tendency_Wm2_dic.hkl"))
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/Reload_extra_terms_dse.py", line 38, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018/post_process_data/HC0_la80m_oc80m0/tendency_Wm2_dic.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+slurmstepd-midway789: error: Detected 10 oom-kill event(s) in step 59608407.batch cgroup.

@@ -1,0 +1,133 @@
+10/14/2019 06:12:57 PM destination folder created !
+10/14/2019 06:13:09 PM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/14/2019 06:13:09 PM imported nc file
+10/14/2019 06:13:18 PM imported coordinates
+10/14/2019 06:13:22 PM imported pressure
+10/14/2019 06:15:32 PM saved temp
+10/14/2019 06:15:46 PM saved v_comp
+10/14/2019 06:15:50 PM saved u_comp
+10/14/2019 06:16:03 PM saved omega
+10/14/2019 06:16:12 PM saved Z
+10/14/2019 06:16:18 PM saved q
+10/14/2019 06:16:24 PM saved theta_dot
+10/14/2019 06:16:29 PM saved dtheta_dp
+10/14/2019 06:16:35 PM saved deltheta_delt
+10/14/2019 06:19:42 PM calculated KE
+10/14/2019 06:19:45 PM calculated MSE fluxes
+10/14/2019 06:20:38 PM loaded coordinates dictionary
+10/14/2019 06:20:59 PM defined functions
+10/14/2019 06:22:14 PM Total fluxes v
+10/14/2019 06:22:45 PM TE fluxes v
+10/14/2019 06:23:04 PM SE fluxes v
+10/14/2019 06:23:21 PM MM fluxes v
+10/14/2019 07:33:30 PM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/14/2019 07:33:30 PM imported nc file
+10/14/2019 07:33:42 PM imported coordinates
+10/14/2019 07:33:44 PM imported pressure
+10/14/2019 07:34:01 PM saved temp
+10/14/2019 07:34:12 PM saved v_comp
+10/14/2019 07:34:19 PM saved u_comp
+10/14/2019 07:34:38 PM saved u_comp
+10/14/2019 07:34:52 PM saved omega
+10/14/2019 07:35:01 PM saved Z
+10/14/2019 07:35:16 PM saved q
+10/14/2019 07:35:25 PM saved theta_dot
+10/14/2019 07:35:40 PM saved dtheta_dp
+10/14/2019 07:35:53 PM saved deltheta_delt
+10/14/2019 07:36:51 PM calculated KE
+10/14/2019 07:36:54 PM calculated MSE fluxes
+10/14/2019 07:52:40 PM calculated KE
+10/14/2019 07:52:43 PM calculated MSE fluxes
+10/14/2019 11:23:48 PM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/14/2019 11:23:48 PM imported nc file
+10/14/2019 11:25:21 PM imported coordinates
+10/14/2019 11:25:31 PM imported pressure
+10/14/2019 11:26:52 PM saved v_comp
+10/14/2019 11:26:56 PM saved u_comp
+10/14/2019 11:26:59 PM saved omega
+10/14/2019 11:27:13 PM saved Z
+10/14/2019 11:27:22 PM saved q
+10/14/2019 11:27:35 PM saved dtheta_dp
+10/14/2019 11:27:51 PM saved deltheta_delt
+10/14/2019 11:33:58 PM calculated KE
+10/14/2019 11:34:18 PM saved temp
+10/14/2019 11:34:34 PM calculated KE
+10/14/2019 11:34:37 PM calculated MSE fluxes
+10/14/2019 11:36:31 PM loaded coordinates dictionary
+10/14/2019 11:36:56 PM loaded coordinates dictionary
+10/14/2019 11:37:38 PM defined functions
+10/14/2019 11:43:15 PM loaded coordinates dictionary
+10/14/2019 11:43:36 PM defined functions
+10/14/2019 11:44:14 PM loaded coordinates dictionary
+10/14/2019 11:45:51 PM loaded coordinates dictionary
+10/14/2019 11:46:30 PM Total fluxes v
+10/14/2019 11:46:58 PM TE fluxes v
+10/14/2019 11:47:17 PM SE fluxes v
+10/14/2019 11:47:56 PM MM fluxes v
+10/15/2019 01:02:30 PM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/15/2019 01:02:30 PM imported nc file
+10/15/2019 01:02:39 PM imported coordinates
+10/15/2019 01:02:42 PM imported pressure
+10/15/2019 01:02:47 PM saved temp
+10/15/2019 01:02:52 PM saved v_comp
+10/15/2019 01:02:58 PM saved u_comp
+10/15/2019 01:03:03 PM saved omega
+10/15/2019 01:03:09 PM saved Z
+10/15/2019 01:03:18 PM saved q
+10/15/2019 01:03:25 PM saved q
+10/15/2019 01:03:27 PM saved q
+10/15/2019 01:03:30 PM saved theta_dot
+10/15/2019 01:03:33 PM saved dtheta_dp
+10/15/2019 01:03:37 PM saved deltheta_delt
+10/15/2019 01:03:59 PM calculated KE
+10/15/2019 01:04:02 PM calculated MSE fluxes
+10/15/2019 01:04:40 PM calculated KE
+10/15/2019 01:04:43 PM calculated MSE fluxes
+10/15/2019 01:52:09 PM loaded coordinates dictionary
+10/15/2019 01:54:14 PM defined functions
+10/15/2019 01:54:41 PM loaded coordinates dictionary
+10/15/2019 01:54:52 PM defined functions
+10/15/2019 02:01:38 PM loaded coordinates dictionary
+10/15/2019 02:02:03 PM loaded coordinates dictionary
+10/15/2019 02:02:55 PM loaded coordinates dictionary
+10/15/2019 02:03:27 PM loaded coordinates dictionary
+10/15/2019 02:06:30 PM loaded coordinates dictionary
+10/15/2019 02:07:15 PM loaded coordinates dictionary
+10/15/2019 02:08:31 PM loaded coordinates dictionary
+10/15/2019 02:16:14 PM loaded coordinates dictionary
+10/15/2019 02:16:52 PM loaded coordinates dictionary
+10/15/2019 02:53:05 PM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/15/2019 02:53:05 PM imported nc file
+10/15/2019 02:53:05 PM imported coordinates
+10/15/2019 02:53:06 PM imported pressure
+10/15/2019 03:16:48 PM loaded coordinates dictionary
+10/15/2019 03:19:12 PM defined functions
+10/15/2019 03:19:38 PM Total fluxes v
+10/15/2019 03:20:13 PM TE fluxes v
+10/15/2019 03:20:34 PM SE fluxes v
+10/15/2019 03:20:53 PM MM fluxes v
+10/15/2019 03:24:41 PM Total fluxes v
+10/15/2019 03:25:15 PM TE fluxes v
+10/15/2019 03:25:36 PM SE fluxes v
+10/15/2019 03:25:55 PM MM fluxes v
+10/15/2019 04:10:50 PM loaded coordinates dictionary
+10/15/2019 04:22:17 PM loaded coordinates dictionary
+10/16/2019 11:38:34 AM ....Extract ncfile save MSE and momentum fluxes and radiation....58 averaged over 30
+10/16/2019 11:38:34 AM imported nc file
+10/16/2019 11:38:40 AM imported coordinates
+10/16/2019 11:39:02 AM imported coordinates
+10/16/2019 11:39:05 AM imported pressure
+10/16/2019 11:39:13 AM saved temp
+10/16/2019 11:45:01 AM saved v_comp
+10/16/2019 11:45:06 AM saved u_comp
+10/16/2019 11:45:14 AM saved omega
+10/16/2019 11:45:20 AM saved Z
+10/16/2019 11:45:24 AM saved q
+10/16/2019 11:45:28 AM saved theta_dot
+10/16/2019 11:45:34 AM saved deltheta_delt
+10/16/2019 11:45:54 AM calculated KE
+10/16/2019 11:45:56 AM calculated MSE fluxes
+10/16/2019 11:52:22 AM loaded coordinates dictionary
+10/16/2019 12:18:57 PM loaded coordinates dictionary
+10/16/2019 12:20:52 PM loaded coordinates dictionary
+10/16/2019 12:45:49 PM loaded coordinates dictionary

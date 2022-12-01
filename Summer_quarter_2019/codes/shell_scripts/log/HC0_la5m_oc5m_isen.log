@@ -1,0 +1,200 @@
+10/10/2019 02:16:53 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:16:53 AM 0imported nc file
+10/10/2019 02:17:01 AM 0imported omega
+10/10/2019 02:17:08 AM 0imported height
+10/10/2019 02:17:14 AM 0imported temp
+10/10/2019 02:17:14 AM 0imported coordinates
+10/10/2019 02:17:14 AM Interpolating omega and height to isentropic coordinates
+10/10/2019 02:17:16 AM 0interpolation done
+10/10/2019 02:17:16 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:17:16 AM 0Create variables
+10/10/2019 02:17:16 AM 0assigned dataset
+10/10/2019 02:17:16 AM 0Program ends
+10/10/2019 02:17:16 AM 0Total time taken - 25.8812129498
+10/10/2019 02:17:16 AM 0------------------------
+10/10/2019 02:17:24 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:17:24 AM 0imported nc file
+10/10/2019 02:17:31 AM 0imported vcomp
+10/10/2019 02:17:39 AM 0imported sphum
+10/10/2019 02:17:47 AM 0imported temp
+10/10/2019 02:17:47 AM 0imported coordinates
+10/10/2019 02:17:47 AM Interpolating vcomp and sphum to isentropic coordinates
+10/10/2019 02:17:48 AM 0interpolation done
+10/10/2019 02:17:48 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:17:54 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:17:54 AM 0imported nc file
+10/10/2019 02:18:01 AM 0imported ucomp
+10/10/2019 02:18:07 AM 0imported temp
+10/10/2019 02:18:10 AM 0imported temp
+10/10/2019 02:18:11 AM 0imported coordinates
+10/10/2019 02:18:11 AM Interpolating ucomp and temp to isentropic coordinates
+10/10/2019 02:18:12 AM 0interpolation done
+10/10/2019 02:18:12 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:24:52 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:24:52 AM 0imported nc file
+10/10/2019 02:25:01 AM 0imported omega
+10/10/2019 02:25:10 AM 0imported height
+10/10/2019 02:25:18 AM 0imported temp
+10/10/2019 02:25:18 AM 0imported coordinates
+10/10/2019 02:25:18 AM Interpolating omega and height to isentropic coordinates
+10/10/2019 02:25:20 AM 0interpolation done
+10/10/2019 02:25:20 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:25:20 AM 0Create dimension
+10/10/2019 02:25:20 AM 0Create coordinates
+10/10/2019 02:25:20 AM 0Create variables
+10/10/2019 02:25:20 AM 0assigned dataset
+10/10/2019 02:25:20 AM 0Program ends
+10/10/2019 02:25:20 AM 0Total time taken - 29.8434259892
+10/10/2019 02:25:20 AM 0------------------------
+10/10/2019 02:27:52 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:27:52 AM 0imported nc file
+10/10/2019 02:28:00 AM 0imported vcomp
+10/10/2019 02:28:08 AM 0imported sphum
+10/10/2019 02:28:16 AM 0imported temp
+10/10/2019 02:28:16 AM 0imported coordinates
+10/10/2019 02:28:16 AM Interpolating vcomp and sphum to isentropic coordinates
+10/10/2019 02:28:18 AM 0interpolation done
+10/10/2019 02:28:18 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:28:18 AM 0Create variables
+10/10/2019 02:28:18 AM 0assigned dataset
+10/10/2019 02:28:18 AM 0Program ends
+10/10/2019 02:28:18 AM 0Total time taken - 28.3122220039
+10/10/2019 02:28:18 AM 0------------------------
+10/10/2019 02:29:54 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:29:54 AM 0imported nc file
+10/10/2019 02:30:02 AM 0imported ucomp
+10/10/2019 02:30:10 AM 0imported temp
+10/10/2019 02:30:12 AM 0imported temp
+10/10/2019 02:30:12 AM 0imported coordinates
+10/10/2019 02:30:12 AM Interpolating ucomp and temp to isentropic coordinates
+10/10/2019 02:30:14 AM 0interpolation done
+10/10/2019 02:30:14 AM Calculation successful: shape (2, 30, 64, 128)
+10/10/2019 02:30:14 AM 0Create variables
+10/10/2019 02:30:14 AM 0assigned dataset
+10/10/2019 02:30:14 AM 0Program ends
+10/10/2019 02:30:14 AM 0Total time taken - 21.8760240078
+10/10/2019 02:30:14 AM 0------------------------
+10/10/2019 02:52:08 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:52:08 AM 0imported nc file
+10/10/2019 02:52:15 AM 0imported ucomp
+10/10/2019 02:52:22 AM 0imported temp
+10/10/2019 02:52:26 AM 0imported temp
+10/10/2019 02:52:26 AM 0imported coordinates
+10/10/2019 02:52:26 AM Interpolating ------>ucomp and temp<------ to isentropic coordinates
+10/10/2019 02:52:53 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:52:53 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 02:52:53 AM 0imported nc file
+10/10/2019 02:52:53 AM 0imported nc file
+10/10/2019 02:53:01 AM 0imported omega
+10/10/2019 02:53:04 AM 0imported vcomp
+10/10/2019 02:53:10 AM 0imported height
+10/10/2019 02:53:15 AM 0imported sphum
+10/10/2019 02:53:19 AM 0imported temp
+10/10/2019 02:53:19 AM 0imported coordinates
+10/10/2019 02:53:19 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 02:53:19 AM 0imported temp
+10/10/2019 02:53:19 AM 0imported coordinates
+10/10/2019 02:53:19 AM Interpolating ------>omega and height<------ to isentropic coordinates
+10/10/2019 03:02:01 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:02:01 AM 0imported nc file
+10/10/2019 03:02:11 AM 0imported vcomp
+10/10/2019 03:02:21 AM 0imported sphum
+10/10/2019 03:02:31 AM 0imported temp
+10/10/2019 03:02:32 AM 0imported coordinates
+10/10/2019 03:02:32 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 03:11:10 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:11:10 AM 0imported nc file
+10/10/2019 03:11:21 AM 0imported vcomp
+10/10/2019 03:11:31 AM 0imported sphum
+10/10/2019 03:11:41 AM 0imported temp
+10/10/2019 03:11:41 AM 0imported coordinates
+10/10/2019 03:11:41 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 03:20:26 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:20:26 AM 0imported nc file
+10/10/2019 03:20:36 AM 0imported vcomp
+10/10/2019 03:20:46 AM 0imported sphum
+10/10/2019 03:20:56 AM 0imported temp
+10/10/2019 03:20:56 AM 0imported coordinates
+10/10/2019 03:20:56 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 03:20:58 AM 0interpolation done
+10/10/2019 03:20:58 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 03:21:07 AM 1...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:21:07 AM 1imported nc file
+10/10/2019 03:21:15 AM 1imported ucomp
+10/10/2019 03:21:25 AM 1imported temp
+10/10/2019 03:21:35 AM 1imported temp
+10/10/2019 03:21:35 AM 1imported coordinates
+10/10/2019 03:21:35 AM Interpolating ------>ucomp and temp<------ to isentropic coordinates
+10/10/2019 03:21:53 AM 0interpolation done
+10/10/2019 03:21:53 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 03:22:01 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:22:01 AM 0imported nc file
+10/10/2019 03:22:08 AM 0imported omega
+10/10/2019 03:22:15 AM 0imported height
+10/10/2019 03:22:22 AM 0imported temp
+10/10/2019 03:22:22 AM 0imported coordinates
+10/10/2019 03:22:22 AM Interpolating ------>omega and height<------ to isentropic coordinates
+10/10/2019 03:29:35 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:29:35 AM 0imported nc file
+10/10/2019 03:29:43 AM 0imported vcomp
+10/10/2019 03:29:52 AM 0imported sphum
+10/10/2019 03:30:00 AM 0imported temp
+10/10/2019 03:30:00 AM 0imported coordinates
+10/10/2019 03:30:00 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 03:38:41 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:38:41 AM 0imported nc file
+10/10/2019 03:38:51 AM 0imported vcomp
+10/10/2019 03:39:01 AM 0imported sphum
+10/10/2019 03:39:09 AM 0imported temp
+10/10/2019 03:39:09 AM 0imported coordinates
+10/10/2019 03:39:09 AM Interpolating ------>vcomp and sphum<------ to isentropic coordinates
+10/10/2019 03:50:45 AM 0interpolation done
+10/10/2019 03:50:45 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 03:50:54 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:50:54 AM 0imported nc file
+10/10/2019 03:51:02 AM 0imported omega
+10/10/2019 03:51:11 AM 0imported height
+10/10/2019 03:51:18 AM 0imported temp
+10/10/2019 03:51:18 AM 0imported coordinates
+10/10/2019 03:51:18 AM Interpolating ------>omega and height<------ to isentropic coordinates
+10/10/2019 03:53:31 AM 1interpolation done
+10/10/2019 03:53:31 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 03:53:31 AM 1Create dimension
+10/10/2019 03:53:31 AM 1Create coordinates
+10/10/2019 03:53:31 AM 1Create variables
+10/10/2019 03:53:41 AM 1assigned dataset
+10/10/2019 03:53:41 AM 1Program ends
+10/10/2019 03:53:41 AM 1Total time taken - 1956.264431
+10/10/2019 03:53:41 AM 1------------------------
+10/10/2019 03:53:51 AM 2...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 03:53:51 AM 2imported nc file
+10/10/2019 03:53:58 AM 2imported ucomp
+10/10/2019 03:54:06 AM 2imported temp
+10/10/2019 03:54:09 AM 2imported temp
+10/10/2019 03:54:09 AM 2imported coordinates
+10/10/2019 03:54:09 AM Interpolating ------>ucomp and temp<------ to isentropic coordinates
+10/10/2019 04:19:28 AM 0interpolation done
+10/10/2019 04:19:28 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 04:19:48 AM 0...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 04:19:48 AM 0imported nc file
+10/10/2019 04:19:55 AM 0imported omega
+10/10/2019 04:20:02 AM 0imported height
+10/10/2019 04:20:09 AM 0imported temp
+10/10/2019 04:20:09 AM 0imported coordinates
+10/10/2019 04:20:09 AM Interpolating ------>omega and height<------ to isentropic coordinates
+10/10/2019 04:20:46 AM 2interpolation done
+10/10/2019 04:20:46 AM Calculation successful: shape (1440, 30, 64, 128)
+10/10/2019 04:20:46 AM 2Create dimension
+10/10/2019 04:20:46 AM 2Create coordinates
+10/10/2019 04:20:46 AM 2Create variables
+10/10/2019 04:20:56 AM 2assigned dataset
+10/10/2019 04:20:56 AM 2Program ends
+10/10/2019 04:20:56 AM 2Total time taken - 1626.94064784
+10/10/2019 04:20:56 AM 2------------------------
+10/10/2019 04:21:09 AM 3...........interpolation_from_pres_to_isentrope_coord.py.............
+10/10/2019 04:21:09 AM 3imported nc file
+10/10/2019 04:21:16 AM 3imported ucomp
+10/10/2019 04:21:24 AM 3imported temp
+10/10/2019 04:21:27 AM 3imported temp
+10/10/2019 04:21:28 AM 3imported coordinates
+10/10/2019 04:21:28 AM Interpolating ------>ucomp and temp<------ to isentropic coordinates

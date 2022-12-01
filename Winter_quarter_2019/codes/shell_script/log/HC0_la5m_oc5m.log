@@ -1,0 +1,117 @@
+03/12/2019 03:50:45 PM ......0.......interpolation_from_sigma_to_pres_coord.py........0.........
+03/12/2019 03:50:45 PM imported nc file
+03/12/2019 03:50:45 PM imported coordinates, height
+03/12/2019 03:52:23 PM loaded stream function and velocity potential 
+03/12/2019 03:54:05 PM ......1.......interpolation_from_sigma_to_pres_coord.py........1.........
+03/12/2019 03:54:05 PM imported nc file
+03/12/2019 03:54:05 PM imported coordinates, height
+03/12/2019 03:55:37 PM loaded stream function and velocity potential 
+03/12/2019 03:56:25 PM stream fuction rms
+03/12/2019 03:57:13 PM velocity potential fuction rms
+03/12/2019 03:57:13 PM saved stream rms dictionary
+03/12/2019 03:57:20 PM ......2.......interpolation_from_sigma_to_pres_coord.py........2.........
+03/12/2019 03:57:20 PM imported nc file
+03/12/2019 03:57:20 PM imported coordinates, height
+03/12/2019 03:58:52 PM loaded stream function and velocity potential 
+03/12/2019 03:59:40 PM stream fuction rms
+03/12/2019 04:00:27 PM velocity potential fuction rms
+03/12/2019 04:00:27 PM saved stream rms dictionary
+03/12/2019 04:00:35 PM ......3.......interpolation_from_sigma_to_pres_coord.py........3.........
+03/12/2019 04:00:35 PM imported nc file
+03/12/2019 04:00:35 PM imported coordinates, height
+03/12/2019 04:02:08 PM loaded stream function and velocity potential 
+03/12/2019 04:02:56 PM stream fuction rms
+03/12/2019 04:03:45 PM velocity potential fuction rms
+03/12/2019 04:03:45 PM saved stream rms dictionary
+03/12/2019 04:03:52 PM ......4.......interpolation_from_sigma_to_pres_coord.py........4.........
+03/12/2019 04:03:52 PM imported nc file
+03/12/2019 04:03:52 PM imported coordinates, height
+03/12/2019 04:05:25 PM loaded stream function and velocity potential 
+03/12/2019 04:06:12 PM stream fuction rms
+03/12/2019 04:07:00 PM velocity potential fuction rms
+03/12/2019 04:07:00 PM saved stream rms dictionary
+03/12/2019 04:07:08 PM ......5.......interpolation_from_sigma_to_pres_coord.py........5.........
+03/12/2019 04:07:08 PM imported nc file
+03/12/2019 04:07:08 PM imported coordinates, height
+03/12/2019 04:08:30 PM loaded stream function and velocity potential 
+03/12/2019 04:09:17 PM stream fuction rms
+03/12/2019 04:10:05 PM velocity potential fuction rms
+03/12/2019 04:10:05 PM saved stream rms dictionary
+03/12/2019 04:10:12 PM ......6.......interpolation_from_sigma_to_pres_coord.py........6.........
+03/12/2019 04:10:12 PM imported nc file
+03/12/2019 04:10:12 PM imported coordinates, height
+03/12/2019 04:11:31 PM loaded stream function and velocity potential 
+03/12/2019 04:12:18 PM stream fuction rms
+03/12/2019 04:13:05 PM velocity potential fuction rms
+03/12/2019 04:13:05 PM saved stream rms dictionary
+03/12/2019 04:13:13 PM ......7.......interpolation_from_sigma_to_pres_coord.py........7.........
+03/12/2019 04:13:13 PM imported nc file
+03/12/2019 04:13:13 PM imported coordinates, height
+03/12/2019 04:14:48 PM loaded stream function and velocity potential 
+03/12/2019 04:15:35 PM stream fuction rms
+03/12/2019 04:16:22 PM velocity potential fuction rms
+03/12/2019 04:16:22 PM saved stream rms dictionary
+03/12/2019 04:16:30 PM ......8.......interpolation_from_sigma_to_pres_coord.py........8.........
+03/12/2019 04:16:30 PM imported nc file
+03/12/2019 04:16:30 PM imported coordinates, height
+03/12/2019 04:18:05 PM loaded stream function and velocity potential 
+03/12/2019 04:18:53 PM stream fuction rms
+03/12/2019 04:19:41 PM velocity potential fuction rms
+03/12/2019 04:19:41 PM saved stream rms dictionary
+03/12/2019 04:19:49 PM ......9.......interpolation_from_sigma_to_pres_coord.py........9.........
+03/12/2019 04:19:49 PM imported nc file
+03/12/2019 04:19:49 PM imported coordinates, height
+03/12/2019 04:21:10 PM loaded stream function and velocity potential 
+03/12/2019 04:21:56 PM stream fuction rms
+03/12/2019 04:22:41 PM velocity potential fuction rms
+03/12/2019 04:22:41 PM saved stream rms dictionary
+03/12/2019 04:31:58 PM ** INTERPOLATION ** 
+03/12/2019 10:08:24 PM ** INTERPOLATION ** 
+03/12/2019 10:18:18 PM ** INTERPOLATION ** 
+03/12/2019 10:26:17 PM ** INTERPOLATION ** 
+03/12/2019 10:26:19 PM ----0----
+03/12/2019 10:26:19 PM ----1----
+03/12/2019 10:26:19 PM ----2----
+03/12/2019 10:26:19 PM ----3----
+03/12/2019 10:26:20 PM ----4----
+03/12/2019 10:26:20 PM ----5----
+03/12/2019 10:26:20 PM ----6----
+03/12/2019 10:26:20 PM ----7----
+03/12/2019 10:26:20 PM ----8----
+03/12/2019 10:26:20 PM ----9----
+03/12/2019 10:31:17 PM ** INTERPOLATION ** 
+03/12/2019 10:31:19 PM ----0----
+03/12/2019 10:31:19 PM ----1----
+03/12/2019 10:31:19 PM ----2----
+03/12/2019 10:31:19 PM ----3----
+03/12/2019 10:31:19 PM ----4----
+03/12/2019 10:31:19 PM ----5----
+03/12/2019 10:31:19 PM ----6----
+03/12/2019 10:31:19 PM ----7----
+03/12/2019 10:31:19 PM ----8----
+03/12/2019 10:31:19 PM ----9----
+03/12/2019 10:38:17 PM ** INTERPOLATION ** 
+03/12/2019 10:38:19 PM ----0----
+03/12/2019 10:38:19 PM ----1----
+03/12/2019 10:38:19 PM ----2----
+03/12/2019 10:38:19 PM ----3----
+03/12/2019 10:38:19 PM ----4----
+03/12/2019 10:38:19 PM ----5----
+03/12/2019 10:38:19 PM ----6----
+03/12/2019 10:38:19 PM ----7----
+03/12/2019 10:38:19 PM ----8----
+03/12/2019 10:38:19 PM ----9----
+03/12/2019 10:41:17 PM ** INTERPOLATION ** 
+03/12/2019 10:41:19 PM ----0----
+03/12/2019 10:41:19 PM ----1----
+03/12/2019 10:41:19 PM ----2----
+03/12/2019 10:41:19 PM ----3----
+03/12/2019 10:41:19 PM ----4----
+03/12/2019 10:41:19 PM ----5----
+03/12/2019 10:41:19 PM ----6----
+03/12/2019 10:41:19 PM ----7----
+03/12/2019 10:41:19 PM ----8----
+03/12/2019 10:41:19 PM ----9----
+03/12/2019 10:41:19 PM Calculated interpolation
+03/12/2019 10:41:19 PM Saved interp stream_rms dictionary
+03/12/2019 10:41:19 PM Looks great !!

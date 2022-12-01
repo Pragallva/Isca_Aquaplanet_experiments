@@ -1,0 +1,1430 @@
+09/23/2019 01:26:16 AM ...........calculate synoptic variability.............0
+09/23/2019 01:26:16 AM imported nc file
+09/23/2019 01:26:30 AM 0imported u
+09/23/2019 01:26:33 AM 0imported v
+09/23/2019 01:26:36 AM 0imported Z
+09/23/2019 01:26:39 AM 0imported q
+09/23/2019 01:26:42 AM 0imported temp
+09/23/2019 01:26:42 AM 0imported surface pressure
+09/23/2019 01:26:42 AM 0imported coordinates
+09/23/2019 01:27:02 AM 0phalf calculated
+09/23/2019 01:27:21 AM 0pfull calculated
+09/23/2019 01:27:21 AM imported coordinates
+09/23/2019 01:27:21 AM imported pressure
+09/23/2019 01:27:25 AM Filtering signal now
+09/23/2019 01:27:25 AM Filtering U
+09/23/2019 01:27:31 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:27:37 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:27:43 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:27:48 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:27:54 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:27:59 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:28:05 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:28:10 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:28:16 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:28:21 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:28:27 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:28:33 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:28:38 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:28:44 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:28:49 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:28:55 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:29:00 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:29:06 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:29:11 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:29:17 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:29:23 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:29:28 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:29:34 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:29:39 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:29:39 AM Filtering V
+09/23/2019 01:29:46 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:29:51 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:29:57 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:30:02 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:30:08 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:30:14 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:30:19 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:30:25 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:30:30 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:30:36 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:30:41 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:30:47 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:30:52 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:30:58 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:31:04 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:31:09 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:31:15 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:31:20 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:31:26 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:31:31 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:31:37 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:31:43 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:31:48 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:31:54 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:31:54 AM Filtering CpT
+09/23/2019 01:32:01 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:32:07 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:32:12 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:32:18 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:32:23 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:32:29 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:32:34 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:32:40 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:32:46 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:32:51 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:32:57 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:33:02 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:33:08 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:33:13 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:33:19 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:33:24 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:33:30 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:33:36 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:33:41 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:33:47 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:33:52 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:33:58 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:34:03 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:34:09 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:34:09 AM Filtering gZ
+09/23/2019 01:34:16 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:34:22 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:34:28 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:34:33 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:34:39 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:34:44 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:34:50 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:34:55 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:35:01 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:35:06 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:35:12 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:35:17 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:35:23 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:35:29 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:35:34 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:35:40 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:35:45 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:35:51 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:35:56 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:36:02 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:36:07 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:36:13 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:36:19 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:36:24 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:36:24 AM Filtering Lq
+09/23/2019 01:36:32 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:36:37 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:36:43 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:36:48 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:36:54 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:36:59 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:37:05 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:37:10 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:37:16 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:37:22 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:37:27 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:37:33 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:37:38 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:37:44 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:37:49 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:37:55 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:38:00 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:38:06 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:38:12 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:38:17 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:38:23 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:38:28 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:38:34 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:38:39 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:38:47 AM calculated all transient fluxes
+09/23/2019 01:39:16 AM saved eddies data
+09/23/2019 01:39:17 AM Eddies calculated !! Great !!
+09/23/2019 01:39:17 AM Time taken = 1569220757.17
+09/23/2019 01:39:23 AM ...........calculate synoptic variability.............1
+09/23/2019 01:39:23 AM imported nc file
+09/23/2019 01:39:48 AM 1imported u
+09/23/2019 01:39:59 AM 1imported v
+09/23/2019 01:40:03 AM 1imported Z
+09/23/2019 01:40:37 AM 1imported q
+09/23/2019 01:40:50 AM 1imported temp
+09/23/2019 01:40:51 AM 1imported surface pressure
+09/23/2019 01:40:53 AM 1imported coordinates
+09/23/2019 01:41:12 AM 1phalf calculated
+09/23/2019 01:41:31 AM 1pfull calculated
+09/23/2019 01:41:31 AM imported coordinates
+09/23/2019 01:41:31 AM imported pressure
+09/23/2019 01:41:35 AM Filtering signal now
+09/23/2019 01:41:35 AM Filtering U
+09/23/2019 01:41:42 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:41:48 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:41:55 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:42:01 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:42:07 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:42:13 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:42:19 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:42:26 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:42:32 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:42:38 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:42:44 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:42:51 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:42:57 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:43:03 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:43:09 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:43:15 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:43:22 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:43:28 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:43:34 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:43:40 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:43:46 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:43:53 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:43:59 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:44:05 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:44:05 AM Filtering V
+09/23/2019 01:44:12 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:44:18 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:44:25 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:44:31 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:44:37 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:44:43 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:44:49 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:44:56 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:45:02 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:45:08 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:45:14 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:45:20 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:45:27 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:45:33 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:45:39 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:45:45 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:45:51 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:45:58 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:46:04 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:46:10 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:46:16 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:46:22 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:46:29 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:46:35 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:46:35 AM Filtering CpT
+09/23/2019 01:46:43 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:46:49 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:46:55 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:47:02 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:47:08 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:47:14 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:47:20 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:47:26 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:47:33 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:47:39 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:47:45 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:47:51 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:47:57 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:48:04 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:48:10 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:48:16 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:48:22 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:48:28 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:48:34 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:48:41 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:48:47 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:48:53 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:48:59 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:49:05 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:49:06 AM Filtering gZ
+09/23/2019 01:49:14 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:49:20 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:49:26 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:49:32 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:49:38 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:49:45 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:49:51 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:49:57 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:50:03 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:50:09 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:50:16 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:50:22 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:50:28 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:50:34 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:50:40 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:50:47 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:50:53 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:50:59 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:51:05 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:51:11 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:51:18 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:51:24 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:51:30 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:51:36 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:51:36 AM Filtering Lq
+09/23/2019 01:51:44 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:51:51 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:51:57 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:52:03 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:52:09 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:52:15 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:52:21 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:52:28 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:52:34 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:52:40 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:52:46 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:52:52 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:52:59 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:53:05 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:53:11 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:53:17 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:53:23 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:53:30 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:53:36 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:53:42 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:53:48 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:53:54 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:54:01 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:54:07 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:54:15 AM calculated all transient fluxes
+09/23/2019 01:54:45 AM saved eddies data
+09/23/2019 01:54:45 AM Eddies calculated !! Great !!
+09/23/2019 01:54:45 AM Time taken = 1569221685.11
+09/23/2019 01:54:52 AM ...........calculate synoptic variability.............2
+09/23/2019 01:54:52 AM imported nc file
+09/23/2019 01:55:19 AM 2imported u
+09/23/2019 01:55:24 AM 2imported v
+09/23/2019 01:55:28 AM 2imported Z
+09/23/2019 01:55:51 AM 2imported q
+09/23/2019 01:55:54 AM 2imported temp
+09/23/2019 01:55:56 AM 2imported surface pressure
+09/23/2019 01:56:00 AM 2imported coordinates
+09/23/2019 01:56:19 AM 2phalf calculated
+09/23/2019 01:56:38 AM 2pfull calculated
+09/23/2019 01:56:38 AM imported coordinates
+09/23/2019 01:56:38 AM imported pressure
+09/23/2019 01:56:42 AM Filtering signal now
+09/23/2019 01:56:42 AM Filtering U
+09/23/2019 01:56:49 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:56:55 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:57:01 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:57:07 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:57:14 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:57:20 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:57:26 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 01:57:32 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 01:57:38 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 01:57:44 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 01:57:51 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 01:57:57 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 01:58:03 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 01:58:09 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 01:58:15 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 01:58:21 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 01:58:28 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 01:58:34 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 01:58:40 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 01:58:46 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 01:58:52 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 01:58:58 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 01:59:05 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 01:59:11 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 01:59:11 AM Filtering V
+09/23/2019 01:59:18 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 01:59:24 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 01:59:30 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 01:59:36 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 01:59:42 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 01:59:49 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 01:59:55 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:00:01 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:00:07 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:00:13 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:00:19 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:00:26 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:00:32 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:00:38 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:00:44 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:00:50 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:00:56 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:01:02 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:01:09 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:01:15 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:01:21 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:01:27 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:01:33 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:01:39 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:01:39 AM Filtering CpT
+09/23/2019 02:01:47 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:01:54 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:02:00 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:02:06 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:02:12 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:02:18 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:02:24 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:02:30 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:02:37 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:02:43 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:02:49 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:02:55 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:03:01 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:03:07 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:03:14 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:03:20 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:03:26 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:03:32 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:03:38 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:03:44 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:03:50 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:03:57 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:04:03 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:04:09 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:04:09 AM Filtering gZ
+09/23/2019 02:04:17 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:04:23 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:04:29 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:04:35 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:04:42 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:04:48 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:04:54 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:05:00 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:05:06 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:05:12 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:05:19 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:05:25 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:05:31 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:05:37 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:05:43 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:05:49 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:05:55 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:06:02 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:06:08 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:06:14 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:06:20 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:06:26 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:06:32 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:06:38 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:06:39 AM Filtering Lq
+09/23/2019 02:06:47 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:06:53 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:06:59 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:07:05 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:07:11 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:07:17 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:07:23 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:07:30 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:07:36 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:07:42 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:07:48 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:07:54 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:08:00 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:08:07 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:08:13 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:08:19 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:08:25 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:08:31 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:08:37 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:08:43 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:08:50 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:08:56 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:09:02 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:09:08 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:09:16 AM calculated all transient fluxes
+09/23/2019 02:09:46 AM saved eddies data
+09/23/2019 02:09:46 AM Eddies calculated !! Great !!
+09/23/2019 02:09:46 AM Time taken = 1569222586.2
+09/23/2019 02:09:50 AM ...........calculate synoptic variability.............3
+09/23/2019 02:09:50 AM imported nc file
+09/23/2019 02:10:13 AM 3imported u
+09/23/2019 02:10:17 AM 3imported v
+09/23/2019 02:10:21 AM 3imported Z
+09/23/2019 02:10:45 AM 3imported q
+09/23/2019 02:10:48 AM 3imported temp
+09/23/2019 02:10:51 AM 3imported surface pressure
+09/23/2019 02:10:54 AM 3imported coordinates
+09/23/2019 02:11:14 AM 3phalf calculated
+09/23/2019 02:11:33 AM 3pfull calculated
+09/23/2019 02:11:33 AM imported coordinates
+09/23/2019 02:11:33 AM imported pressure
+09/23/2019 02:11:37 AM Filtering signal now
+09/23/2019 02:11:37 AM Filtering U
+09/23/2019 02:11:43 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:11:48 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:11:54 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:11:59 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:12:05 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:12:10 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:12:15 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:12:21 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:12:26 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:12:31 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:12:37 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:12:42 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:12:47 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:12:53 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:12:58 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:13:03 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:13:09 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:13:14 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:13:19 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:13:25 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:13:30 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:13:35 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:13:41 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:13:46 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:13:46 AM Filtering V
+09/23/2019 02:13:52 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:13:58 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:14:03 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:14:08 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:14:14 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:14:19 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:14:24 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:14:30 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:14:35 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:14:40 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:14:46 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:14:51 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:14:56 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:15:02 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:15:07 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:15:12 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:15:18 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:15:23 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:15:28 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:15:34 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:15:39 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:15:44 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:15:50 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:15:55 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:15:55 AM Filtering CpT
+09/23/2019 02:16:02 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:16:08 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:16:13 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:16:18 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:16:24 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:16:29 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:16:34 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:16:40 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:16:45 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:16:50 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:16:56 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:17:01 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:17:06 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:17:12 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:17:17 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:17:22 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:17:28 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:17:33 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:17:38 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:17:44 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:17:49 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:17:54 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:18:00 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:18:05 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:18:05 AM Filtering gZ
+09/23/2019 02:18:12 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:18:18 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:18:23 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:18:28 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:18:34 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:18:39 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:18:44 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:18:50 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:18:55 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:19:00 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:19:06 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:19:11 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:19:16 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:19:22 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:19:27 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:19:32 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:19:38 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:19:43 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:19:48 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:19:54 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:19:59 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:20:04 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:20:10 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:20:15 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:20:15 AM Filtering Lq
+09/23/2019 02:20:22 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:20:28 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:20:33 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:20:38 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:20:44 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:20:49 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:20:54 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:21:00 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:21:05 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:21:10 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:21:16 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:21:21 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:21:26 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:21:32 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:21:37 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:21:42 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:21:48 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:21:53 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:21:58 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:22:04 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:22:09 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:22:14 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:22:20 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:22:25 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:22:33 AM calculated all transient fluxes
+09/23/2019 02:23:03 AM saved eddies data
+09/23/2019 02:23:03 AM Eddies calculated !! Great !!
+09/23/2019 02:23:03 AM Time taken = 1569223383.37
+09/23/2019 02:23:08 AM ...........calculate synoptic variability.............4
+09/23/2019 02:23:08 AM imported nc file
+09/23/2019 02:23:40 AM 4imported u
+09/23/2019 02:23:59 AM 4imported v
+09/23/2019 02:24:03 AM 4imported Z
+09/23/2019 02:24:27 AM 4imported q
+09/23/2019 02:24:31 AM 4imported temp
+09/23/2019 02:24:32 AM 4imported surface pressure
+09/23/2019 02:24:33 AM 4imported coordinates
+09/23/2019 02:24:52 AM 4phalf calculated
+09/23/2019 02:25:12 AM 4pfull calculated
+09/23/2019 02:25:12 AM imported coordinates
+09/23/2019 02:25:12 AM imported pressure
+09/23/2019 02:25:15 AM Filtering signal now
+09/23/2019 02:25:15 AM Filtering U
+09/23/2019 02:25:22 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:25:28 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:25:33 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:25:39 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:25:45 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:25:50 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:25:56 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:26:02 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:26:07 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:26:13 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:26:19 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:26:24 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:26:30 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:26:35 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:26:41 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:26:47 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:26:52 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:26:58 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:27:04 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:27:09 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:27:15 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:27:21 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:27:26 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:27:32 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:27:32 AM Filtering V
+09/23/2019 02:27:38 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:27:44 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:27:50 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:27:55 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:28:01 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:28:07 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:28:12 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:28:18 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:28:24 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:28:29 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:28:35 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:28:41 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:28:46 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:28:52 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:28:57 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:29:03 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:29:09 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:29:14 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:29:20 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:29:26 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:29:31 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:29:37 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:29:43 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:29:48 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:29:48 AM Filtering CpT
+09/23/2019 02:29:56 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:30:01 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:30:07 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:30:13 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:30:18 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:30:24 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:30:30 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:30:35 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:30:41 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:30:47 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:30:52 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:30:58 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:31:04 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:31:09 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:31:15 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:31:21 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:31:26 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:31:32 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:31:37 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:31:43 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:31:49 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:31:54 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:32:00 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:32:06 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:32:06 AM Filtering gZ
+09/23/2019 02:32:13 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:32:19 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:32:25 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:32:30 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:32:36 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:32:42 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:32:47 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:32:53 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:32:58 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:33:04 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:33:10 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:33:15 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:33:21 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:33:27 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:33:32 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:33:38 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:33:44 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:33:49 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:33:55 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:34:01 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:34:06 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:34:12 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:34:18 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:34:23 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:34:23 AM Filtering Lq
+09/23/2019 02:34:31 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:34:36 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:34:42 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:34:48 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:34:53 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:34:59 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:35:05 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:35:10 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:35:16 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:35:22 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:35:27 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:35:33 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:35:39 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:35:44 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:35:50 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:35:56 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:36:01 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:36:07 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:36:12 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:36:18 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:36:24 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:36:29 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:36:35 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:36:41 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:36:49 AM calculated all transient fluxes
+09/23/2019 02:37:19 AM saved eddies data
+09/23/2019 02:37:19 AM Eddies calculated !! Great !!
+09/23/2019 02:37:19 AM Time taken = 1569224239.2
+09/23/2019 02:37:23 AM ...........calculate synoptic variability.............5
+09/23/2019 02:37:23 AM imported nc file
+09/23/2019 02:37:47 AM 5imported u
+09/23/2019 02:37:51 AM 5imported v
+09/23/2019 02:37:57 AM 5imported Z
+09/23/2019 02:38:24 AM 5imported q
+09/23/2019 02:38:28 AM 5imported temp
+09/23/2019 02:38:29 AM 5imported surface pressure
+09/23/2019 02:38:30 AM 5imported coordinates
+09/23/2019 02:38:50 AM 5phalf calculated
+09/23/2019 02:39:09 AM 5pfull calculated
+09/23/2019 02:39:09 AM imported coordinates
+09/23/2019 02:39:09 AM imported pressure
+09/23/2019 02:39:13 AM Filtering signal now
+09/23/2019 02:39:13 AM Filtering U
+09/23/2019 02:39:20 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:39:25 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:39:31 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:39:36 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:39:42 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:39:47 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:39:53 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:39:58 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:40:04 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:40:09 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:40:15 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:40:20 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:40:26 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:40:31 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:40:37 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:40:43 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:40:48 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:40:54 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:40:59 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:41:05 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:41:10 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:41:16 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:41:21 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:41:27 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:41:27 AM Filtering V
+09/23/2019 02:41:33 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:41:39 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:41:44 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:41:50 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:41:55 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:42:01 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:42:06 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:42:12 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:42:17 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:42:23 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:42:28 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:42:34 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:42:40 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:42:45 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:42:51 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:42:56 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:43:02 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:43:07 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:43:13 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:43:18 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:43:24 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:43:29 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:43:35 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:43:40 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:43:40 AM Filtering CpT
+09/23/2019 02:43:48 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:43:53 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:43:59 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:44:04 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:44:10 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:44:15 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:44:21 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:44:26 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:44:32 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:44:37 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:44:43 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:44:48 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:44:54 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:44:59 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:45:05 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:45:10 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:45:16 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:45:22 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:45:27 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:45:33 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:45:38 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:45:44 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:45:49 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:45:55 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:45:55 AM Filtering gZ
+09/23/2019 02:46:02 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:46:08 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:46:13 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:46:19 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:46:24 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:46:30 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:46:35 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:46:41 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:46:46 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:46:52 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:46:57 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:47:03 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:47:09 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:47:14 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:47:20 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:47:25 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:47:31 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:47:36 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:47:42 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:47:47 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:47:53 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:47:58 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:48:04 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:48:09 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:48:09 AM Filtering Lq
+09/23/2019 02:48:17 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:48:22 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:48:28 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:48:33 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:48:39 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:48:44 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:48:50 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:48:55 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:49:01 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:49:06 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:49:12 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:49:17 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:49:23 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:49:29 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:49:34 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:49:40 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:49:45 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:49:51 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:49:56 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:50:02 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:50:07 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:50:13 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:50:18 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:50:24 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:50:32 AM calculated all transient fluxes
+09/23/2019 02:51:02 AM saved eddies data
+09/23/2019 02:51:02 AM Eddies calculated !! Great !!
+09/23/2019 02:51:02 AM Time taken = 1569225062.27
+09/23/2019 02:51:06 AM ...........calculate synoptic variability.............6
+09/23/2019 02:51:06 AM imported nc file
+09/23/2019 02:51:30 AM 6imported u
+09/23/2019 02:51:34 AM 6imported v
+09/23/2019 02:51:38 AM 6imported Z
+09/23/2019 02:52:01 AM 6imported q
+09/23/2019 02:52:04 AM 6imported temp
+09/23/2019 02:52:05 AM 6imported surface pressure
+09/23/2019 02:52:06 AM 6imported coordinates
+09/23/2019 02:52:25 AM 6phalf calculated
+09/23/2019 02:52:45 AM 6pfull calculated
+09/23/2019 02:52:45 AM imported coordinates
+09/23/2019 02:52:45 AM imported pressure
+09/23/2019 02:52:49 AM Filtering signal now
+09/23/2019 02:52:49 AM Filtering U
+09/23/2019 02:52:55 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:53:01 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:53:07 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:53:13 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:53:19 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:53:25 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:53:31 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:53:37 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:53:43 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:53:49 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:53:55 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:54:01 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:54:07 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:54:13 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:54:19 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:54:25 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:54:31 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:54:37 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:54:43 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:54:49 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:54:55 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:55:01 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:55:07 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:55:13 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:55:13 AM Filtering V
+09/23/2019 02:55:20 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:55:26 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:55:32 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:55:38 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:55:44 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:55:50 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:55:56 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:56:02 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:56:08 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:56:14 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:56:20 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:56:26 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:56:32 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:56:38 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:56:44 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:56:50 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:56:56 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:57:02 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:57:08 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:57:14 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:57:20 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:57:25 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:57:31 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 02:57:37 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 02:57:37 AM Filtering CpT
+09/23/2019 02:57:45 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 02:57:51 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 02:57:57 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 02:58:03 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 02:58:09 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 02:58:15 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 02:58:21 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 02:58:27 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 02:58:33 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 02:58:39 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 02:58:45 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 02:58:51 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 02:58:57 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 02:59:03 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 02:59:09 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 02:59:15 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 02:59:21 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 02:59:27 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 02:59:33 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 02:59:39 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 02:59:45 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 02:59:51 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 02:59:57 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:00:03 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:00:03 AM Filtering gZ
+09/23/2019 03:00:10 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:00:16 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:00:22 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:00:28 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:00:34 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:00:40 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:00:46 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:00:52 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:00:58 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:01:04 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:01:10 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:01:16 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:01:22 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:01:28 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:01:34 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:01:40 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:01:46 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:01:52 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:01:58 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:02:04 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:02:10 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:02:16 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:02:22 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:02:28 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:02:28 AM Filtering Lq
+09/23/2019 03:02:36 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:02:42 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:02:48 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:02:54 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:03:00 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:03:06 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:03:12 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:03:18 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:03:24 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:03:30 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:03:35 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:03:41 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:03:47 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:03:53 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:03:59 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:04:05 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:04:11 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:04:17 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:04:23 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:04:29 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:04:35 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:04:41 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:04:47 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:04:53 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:05:01 AM calculated all transient fluxes
+09/23/2019 03:05:31 AM saved eddies data
+09/23/2019 03:05:31 AM Eddies calculated !! Great !!
+09/23/2019 03:05:31 AM Time taken = 1569225931.21
+09/23/2019 03:05:35 AM ...........calculate synoptic variability.............7
+09/23/2019 03:05:35 AM imported nc file
+09/23/2019 03:05:59 AM 7imported u
+09/23/2019 03:06:03 AM 7imported v
+09/23/2019 03:06:07 AM 7imported Z
+09/23/2019 03:06:30 AM 7imported q
+09/23/2019 03:06:33 AM 7imported temp
+09/23/2019 03:06:36 AM 7imported surface pressure
+09/23/2019 03:06:39 AM 7imported coordinates
+09/23/2019 03:06:59 AM 7phalf calculated
+09/23/2019 03:07:18 AM 7pfull calculated
+09/23/2019 03:07:18 AM imported coordinates
+09/23/2019 03:07:18 AM imported pressure
+09/23/2019 03:07:22 AM Filtering signal now
+09/23/2019 03:07:22 AM Filtering U
+09/23/2019 03:07:28 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:07:34 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:07:40 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:07:45 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:07:51 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:07:56 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:08:02 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:08:07 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:08:13 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:08:19 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:08:24 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:08:30 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:08:35 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:08:41 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:08:46 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:08:52 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:08:58 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:09:03 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:09:09 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:09:14 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:09:20 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:09:25 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:09:31 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:09:37 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:09:37 AM Filtering V
+09/23/2019 03:09:43 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:09:49 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:09:54 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:10:00 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:10:05 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:10:11 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:10:17 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:10:22 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:10:28 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:10:33 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:10:39 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:10:44 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:10:50 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:10:56 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:11:01 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:11:07 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:11:12 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:11:18 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:11:23 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:11:29 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:11:35 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:11:40 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:11:46 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:11:51 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:11:51 AM Filtering CpT
+09/23/2019 03:11:59 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:12:04 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:12:10 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:12:15 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:12:21 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:12:27 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:12:32 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:12:38 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:12:43 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:12:49 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:12:54 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:13:00 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:13:05 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:13:11 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:13:17 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:13:22 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:13:28 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:13:33 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:13:39 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:13:44 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:13:50 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:13:56 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:14:01 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:14:07 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:14:07 AM Filtering gZ
+09/23/2019 03:14:14 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:14:20 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:14:25 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:14:31 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:14:37 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:14:42 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:14:48 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:14:53 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:14:59 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:15:04 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:15:10 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:15:16 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:15:21 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:15:27 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:15:32 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:15:38 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:15:43 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:15:49 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:15:55 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:16:00 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:16:06 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:16:11 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:16:17 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:16:22 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:16:22 AM Filtering Lq
+09/23/2019 03:16:30 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:16:35 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:16:41 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:16:47 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:16:52 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:16:58 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:17:03 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:17:09 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:17:14 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:17:20 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:17:26 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:17:31 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:17:37 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:17:42 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:17:48 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:17:53 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:17:59 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:18:05 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:18:10 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:18:16 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:18:21 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:18:27 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:18:32 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:18:38 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:18:46 AM calculated all transient fluxes
+09/23/2019 03:19:16 AM saved eddies data
+09/23/2019 03:19:16 AM Eddies calculated !! Great !!
+09/23/2019 03:19:16 AM Time taken = 1569226756.26
+09/23/2019 03:19:21 AM ...........calculate synoptic variability.............8
+09/23/2019 03:19:21 AM imported nc file
+09/23/2019 03:19:45 AM 8imported u
+09/23/2019 03:19:49 AM 8imported v
+09/23/2019 03:19:53 AM 8imported Z
+09/23/2019 03:20:16 AM 8imported q
+09/23/2019 03:20:19 AM 8imported temp
+09/23/2019 03:20:20 AM 8imported surface pressure
+09/23/2019 03:20:22 AM 8imported coordinates
+09/23/2019 03:20:41 AM 8phalf calculated
+09/23/2019 03:21:00 AM 8pfull calculated
+09/23/2019 03:21:00 AM imported coordinates
+09/23/2019 03:21:00 AM imported pressure
+09/23/2019 03:21:04 AM Filtering signal now
+09/23/2019 03:21:04 AM Filtering U
+09/23/2019 03:21:10 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:21:16 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:21:21 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:21:27 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:21:32 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:21:38 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:21:43 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:21:48 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:21:54 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:21:59 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:22:05 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:22:10 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:22:15 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:22:21 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:22:26 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:22:32 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:22:37 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:22:42 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:22:48 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:22:53 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:22:59 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:23:04 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:23:09 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:23:15 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:23:15 AM Filtering V
+09/23/2019 03:23:21 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:23:27 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:23:32 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:23:37 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:23:43 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:23:48 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:23:54 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:23:59 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:24:04 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:24:10 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:24:15 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:24:21 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:24:26 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:24:31 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:24:37 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:24:42 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:24:48 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:24:53 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:24:58 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:25:04 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:25:09 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:25:15 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:25:20 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:25:25 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:25:25 AM Filtering CpT
+09/23/2019 03:25:33 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:25:38 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:25:44 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:25:49 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:25:54 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:26:00 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:26:05 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:26:11 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:26:16 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:26:21 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:26:27 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:26:32 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:26:38 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:26:43 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:26:48 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:26:54 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:26:59 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:27:05 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:27:10 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:27:15 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:27:21 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:27:26 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:27:32 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:27:37 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:27:37 AM Filtering gZ
+09/23/2019 03:27:44 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:27:50 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:27:55 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:28:01 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:28:06 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:28:11 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:28:17 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:28:22 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:28:28 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:28:33 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:28:38 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:28:44 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:28:49 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:28:55 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:29:00 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:29:05 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:29:11 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:29:16 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:29:22 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:29:27 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:29:33 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:29:38 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:29:43 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:29:49 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:29:49 AM Filtering Lq
+09/23/2019 03:29:56 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:30:02 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:30:07 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:30:12 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:30:18 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:30:23 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:30:29 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:30:34 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:30:39 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:30:45 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:30:50 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:30:56 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:31:01 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:31:06 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:31:12 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:31:17 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:31:23 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:31:28 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:31:33 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:31:39 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:31:44 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:31:50 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:31:55 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:32:00 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:32:09 AM calculated all transient fluxes
+09/23/2019 03:32:38 AM saved eddies data
+09/23/2019 03:32:38 AM Eddies calculated !! Great !!
+09/23/2019 03:32:38 AM Time taken = 1569227558.79
+09/23/2019 03:32:43 AM ...........calculate synoptic variability.............9
+09/23/2019 03:32:43 AM imported nc file
+09/23/2019 03:33:06 AM 9imported u
+09/23/2019 03:33:09 AM 9imported v
+09/23/2019 03:33:13 AM 9imported Z
+09/23/2019 03:33:44 AM 9imported q
+09/23/2019 03:34:00 AM 9imported temp
+09/23/2019 03:34:01 AM 9imported surface pressure
+09/23/2019 03:34:02 AM 9imported coordinates
+09/23/2019 03:34:22 AM 9phalf calculated
+09/23/2019 03:34:41 AM 9pfull calculated
+09/23/2019 03:34:41 AM imported coordinates
+09/23/2019 03:34:41 AM imported pressure
+09/23/2019 03:34:44 AM Filtering signal now
+09/23/2019 03:34:44 AM Filtering U
+09/23/2019 03:34:51 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:34:58 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:35:04 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:35:10 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:35:16 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:35:22 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:35:28 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:35:34 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:35:40 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:35:46 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:35:52 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:35:58 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:36:04 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:36:10 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:36:16 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:36:22 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:36:29 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:36:35 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:36:41 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:36:47 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:36:53 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:36:59 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:37:05 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:37:11 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:37:11 AM Filtering V
+09/23/2019 03:37:18 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:37:24 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:37:30 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:37:36 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:37:42 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:37:48 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:37:54 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:38:00 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:38:07 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:38:13 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:38:19 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:38:25 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:38:31 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:38:37 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:38:43 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:38:49 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:38:55 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:39:01 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:39:07 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:39:13 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:39:19 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:39:25 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:39:31 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:39:37 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:39:38 AM Filtering CpT
+09/23/2019 03:39:46 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:39:52 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:39:58 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:40:04 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:40:10 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:40:16 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:40:22 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:40:28 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:40:34 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:40:40 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:40:46 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:40:52 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:40:58 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:41:04 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:41:10 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:41:16 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:41:22 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:41:28 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:41:34 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:41:40 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:41:46 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:41:53 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:41:59 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:42:05 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:42:05 AM Filtering gZ
+09/23/2019 03:42:13 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:42:19 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:42:25 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:42:31 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:42:37 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:42:43 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:42:49 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:42:55 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:43:01 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:43:07 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:43:13 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:43:19 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:43:25 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:43:31 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:43:37 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:43:43 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:43:49 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:43:55 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:44:01 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:44:08 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:44:14 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:44:20 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:44:26 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:44:32 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:44:32 AM Filtering Lq
+09/23/2019 03:44:40 AM Filtering at0.9961084 sigma level for inter1 frequency
+09/23/2019 03:44:46 AM Filtering at0.9873693 sigma level for inter1 frequency
+09/23/2019 03:44:52 AM Filtering at0.9765034 sigma level for inter1 frequency
+09/23/2019 03:44:58 AM Filtering at0.96311134 sigma level for inter1 frequency
+09/23/2019 03:45:04 AM Filtering at0.94679344 sigma level for inter1 frequency
+09/23/2019 03:45:10 AM Filtering at0.92714953 sigma level for inter1 frequency
+09/23/2019 03:45:16 AM Filtering at0.90377825 sigma level for inter1 frequency
+09/23/2019 03:45:22 AM Filtering at0.8762772 sigma level for inter1 frequency
+09/23/2019 03:45:28 AM Filtering at0.8442424 sigma level for inter1 frequency
+09/23/2019 03:45:34 AM Filtering at0.8072677 sigma level for inter1 frequency
+09/23/2019 03:45:40 AM Filtering at0.7649444 sigma level for inter1 frequency
+09/23/2019 03:45:46 AM Filtering at0.71685934 sigma level for inter1 frequency
+09/23/2019 03:45:52 AM Filtering at0.6625931 sigma level for inter1 frequency
+09/23/2019 03:45:58 AM Filtering at0.60171723 sigma level for inter1 frequency
+09/23/2019 03:46:04 AM Filtering at0.53378636 sigma level for inter1 frequency
+09/23/2019 03:46:10 AM Filtering at0.45832515 sigma level for inter1 frequency
+09/23/2019 03:46:16 AM Filtering at0.37808657 sigma level for inter1 frequency
+09/23/2019 03:46:23 AM Filtering at0.29894438 sigma level for inter1 frequency
+09/23/2019 03:46:29 AM Filtering at0.22474922 sigma level for inter1 frequency
+09/23/2019 03:46:35 AM Filtering at0.15738101 sigma level for inter1 frequency
+09/23/2019 03:46:41 AM Filtering at0.09912992 sigma level for inter1 frequency
+09/23/2019 03:46:47 AM Filtering at0.052340195 sigma level for inter1 frequency
+09/23/2019 03:46:53 AM Filtering at0.019088399 sigma level for inter1 frequency
+09/23/2019 03:46:59 AM Filtering at0.003650293 sigma level for inter1 frequency
+09/23/2019 03:47:07 AM calculated all transient fluxes
+09/23/2019 03:47:36 AM saved eddies data
+09/23/2019 03:47:36 AM Eddies calculated !! Great !!
+09/23/2019 03:47:36 AM Time taken = 1569228456.98

@@ -1,0 +1,26 @@
+03/12/2019 01:42:29 PM ......4.......interpolation_from_sigma_to_pres_coord.py........4.........
+03/12/2019 01:42:29 PM imported nc file
+03/12/2019 01:43:34 PM imported coordinates, height
+03/12/2019 01:44:41 PM imported u
+03/12/2019 01:45:53 PM imported v
+03/12/2019 01:47:02 PM imported ht
+03/12/2019 01:48:12 PM imported temp
+03/12/2019 01:49:19 PM imported sphum
+03/12/2019 01:50:29 PM imported pressure
+03/12/2019 01:54:21 PM interpolation done
+03/12/2019 01:55:50 PM internal extraction after interpolation
+03/12/2019 01:56:13 PM saved raw coordinates dictionary
+03/12/2019 01:56:17 PM Trying `CDLL(libgeos_c.so.1)`
+03/12/2019 01:56:17 PM Library path: 'libgeos_c.so.1'
+03/12/2019 01:56:17 PM DLL: <CDLL 'libgeos_c.so.1', handle 4bea6a0 at 7fb4b8d88610>
+03/12/2019 01:56:18 PM Trying `CDLL(libc.so.6)`
+03/12/2019 01:56:18 PM Library path: 'libc.so.6'
+03/12/2019 01:56:18 PM DLL: <CDLL 'libc.so.6', handle 7fb4c33e6990 at 7fb4676510d0>
+03/12/2019 01:56:26 PM reordering uwind and vwind
+03/12/2019 01:56:31 PM Create a VectorWind instance
+03/12/2019 01:57:30 PM VectorWind recovered
+03/12/2019 01:57:30 PM Masked the data
+03/12/2019 01:57:36 PM saved stream function dictionary
+03/12/2019 03:30:45 PM ......4.......interpolation_from_sigma_to_pres_coord.py........4.........
+03/12/2019 03:30:45 PM imported nc file
+03/12/2019 03:30:45 PM imported coordinates, height

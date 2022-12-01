@@ -1,0 +1,48 @@
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 27346 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 27484 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 27863 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 28119 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 28259 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 28370 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 28562 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 29042 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 29235 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+/home/pragallva/Project1/lib/python2.7/site-packages/metpy/calc/tools.py:713: UserWarning: Interpolation point out of data bounds encountered
+  warnings.warn('Interpolation point out of data bounds encountered')
+/tmp/slurmd/job51679455/slurm_script: line 11: 29350 Killed                  python $fall18/codes/python_scripts/qflux/convert_to_pressure_coord.py $1 $2 $3 $i
+Traceback (most recent call last):
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/qflux/Calculate_baroclinicity.py", line 76, in <module>
+    Z_T_Q_data.append(load(source+"ht_temp_sphum.hkl"))   
+  File "/project2/tas1/pragallva/Fall_quarter_2018//codes/python_scripts/qflux/Calculate_baroclinicity.py", line 38, in load
+    dictionary = hkl.load(filename)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 491, in load
+    with file_opener(fileobj) as h5f:
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/hickle/hickle.py", line 173, in file_opener
+    h5f = h5.File(filename, mode)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 312, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl, swmr=swmr)
+  File "/home/pragallva/Project1/lib/python2.7/site-packages/h5py/_hl/files.py", line 142, in make_fid
+    fid = h5f.open(name, flags, fapl=fapl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2846)
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper (/tmp/pip-install-6ALcG4/h5py/h5py/_objects.c:2804)
+  File "h5py/h5f.pyx", line 78, in h5py.h5f.open (/tmp/pip-install-6ALcG4/h5py/h5py/h5f.c:2120)
+IOError: Unable to open file (unable to open file: name = '/project2/tas1/pragallva/Fall_quarter_2018/post_process_data/qflux/data_in_pres_coord/HC0_la100m_oc100m0/ht_temp_sphum.hkl', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+slurmstepd-midway805: error: Detected 10 oom-kill event(s) in step 51679455.batch cgroup.
